@@ -1,6 +1,6 @@
 # Cloudflare Workers static-assets config: serves this folder as a static
 # site (the modern equivalent of a Pages project). No build step.
-name = "hypercs2hub"
+name = "cs2hub"
 compatibility_date = "2026-01-01"
 
 [assets]
