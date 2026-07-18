@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — how this CS2 prediction system is built</title>
+<meta name="description" content="A solo-built, end-to-end CS2 match prediction system: ingestion, leak-proof features, gated model promotion, and a forward-only paper ledger. Includes the case study of the backtest that lied by 3.5x.">
+<link rel="icon" href="data:,">
+<style>:root {
+  --bg: #0d1117; --card: #161c26; --line: #232c3b; --input: #0d1320;
+  --text: #dbe4f0; --muted: #8b98ab; --accent: #4d9fe8; --warn: #e8b750;
+  --good: #3fa06b; --bad: #e0563f;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text); line-height: 1.55;
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.wrap { max-width: 820px; margin: 0 auto; padding: 22px 14px 48px; }
+nav { display: flex; gap: 14px; flex-wrap: wrap; font-size: .85rem; margin-bottom: 18px; }
+nav a { color: var(--muted); text-decoration: none; }
+nav a:hover { color: var(--accent); }
+nav a.here { color: var(--text); font-weight: 600; }
+header h1 { font-size: 1.5rem; letter-spacing: .02em; }
+header .sub { color: var(--muted); font-size: .92rem; margin-top: 6px; max-width: 62ch; }
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 18px; margin-top: 16px;
+}
+h2 {
+  font-size: .92rem; text-transform: uppercase; letter-spacing: .08em;
+  color: var(--muted); margin-bottom: 10px;
+}
+h3 { font-size: 1.02rem; margin: 16px 0 6px; }
+p { margin: 8px 0; }
+p, li { font-size: .93rem; }
+.muted { color: var(--muted); }
+.tiles { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+.tile {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 10px 14px; flex: 1; min-width: 130px; text-align: center;
+}
+.tile .v {
+  font-size: 1.25rem; font-weight: 700; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.tile .l {
+  font-size: .68rem; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .05em; margin-top: 2px;
+}
+.notice {
+  background: #241d0e; border: 1px solid #5a4a1f; color: #e6d8a8;
+  border-radius: 10px; padding: 12px 14px; margin-top: 16px; font-size: .88rem;
+}
+.notice strong { color: var(--warn); }
+ul { padding-left: 20px; margin: 8px 0; }
+li { margin: 5px 0; }
+.pull {
+  border-left: 3px solid var(--accent); background: var(--input);
+  border-radius: 0 8px 8px 0; padding: 10px 14px; margin: 12px 0;
+  font-size: .92rem;
+}
+.pull .big { font-size: 1.05rem; font-weight: 700; }
+.kill { color: var(--bad); font-weight: 700; }
+.ship { color: var(--good); font-weight: 700; }
+.tag {
+  display: inline-block; font-size: .68rem; text-transform: uppercase;
+  letter-spacing: .05em; border: 1px solid var(--line); border-radius: 999px;
+  padding: 1px 8px; color: var(--muted); vertical-align: middle; margin-left: 6px;
+}
+table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: .88rem; }
+th, td { text-align: left; padding: 6px 8px; border-top: 1px solid var(--line); }
+th {
+  font-size: .7rem; text-transform: uppercase; letter-spacing: .05em;
+  color: var(--muted); border-top: none;
+}
+td.num { font-variant-numeric: tabular-nums; }
+.tablewrap { overflow-x: auto; }
+code {
+  background: var(--input); border: 1px solid var(--line); border-radius: 5px;
+  padding: 1px 5px; font-size: .85em;
+  font-family: ui-monospace, Consolas, Menlo, monospace;
+}
+footer { margin-top: 26px; color: var(--muted); font-size: .78rem; }
+footer p { margin-top: 6px; }
+@media (max-width: 560px) {
+  .tiles { gap: 8px; }
+  .tile { min-width: 44%; }
+}</style>
+</head>
+<body>
+<div class="wrap">
+  <nav>
+    <a href="../">Home</a>
+    <a href="../veto/">Veto predictor</a>
+    <a href="../bets/">Paper ledger</a>
+    <a class="here" href="./">About</a>
+  </nav>
+
+  <header>
+    <h1>How this system is built</h1>
+    <p class="sub">A solo-built, end-to-end CS2 match prediction system — and an
+    honest account of the time its backtest lied by 3.5x, what got torn down
+    because of it, and how ideas earn their way into the model now.
+    By <strong>hyper</strong>.</p>
+  </header>
+
+  <div class="notice">
+    <strong>Simulation only.</strong> Everything on this site is a paper record —
+    flat 1-unit stakes graded at recorded prices, no real money. Where sample
+    sizes are under the floors (100 settled bets for ROI, 150 pairs for CLV),
+    the pages say so instead of drawing conclusions.
+  </div>
+
+  <section class="card" id="what">
+    <h2>What this is</h2>
+    <p>One person, one pipeline, every layer: data ingestion, feature
+    engineering, model training, evaluation, and live serving — for predicting
+    Counter-Strike 2 match outcomes.</p>
+    <div class="tiles">
+      <div class="tile"><div class="v">11k+</div><div class="l">matches ingested</div></div>
+      <div class="tile"><div class="v">1.5M+</div><div class="l">demo kill events parsed</div></div>
+      <div class="tile"><div class="v">12</div><div class="l">model versions gated in</div></div>
+      <div class="tile"><div class="v">hourly</div><div class="l">odds tape (Pinnacle, Kalshi)</div></div>
+    </div>
+    <ul>
+      <li><strong>Ingestion:</strong> match pages, per-map results, round
+      histories, player scoreboards, and full demo files (a multi-terabyte
+      archive parsed down to per-kill positions and per-round economy), plus an
+      hourly odds snapshot tape and prediction-market quotes.</li>
+      <li><strong>Feature pipeline with strict leak prevention:</strong> every
+      feature is computed strictly before the match it describes
+      (<code>&lt; cutoff</code>, never <code>&lt;=</code>); rosters are
+      attributed from per-match lineups, not a player's current team; the model
+      is trained with team-swap augmentation so it has no side bias.</li>
+      <li><strong>Model lifecycle:</strong> a map-level gradient-boosting model
+      (the map is the atomic unit; series probability is composed analytically
+      by format). Twelve versions have been promoted, each through the same
+      evaluation gates: beat the incumbent out-of-sample, hold up on weak-slice
+      checks (missing-rank and deep-tier matches), stay monotone across
+      walk-forward folds — with a rollback snapshot kept every time. Candidates
+      that don't clear the gates don't ship, no exceptions.</li>
+      <li><strong>Live, self-graded output:</strong> predictions are stamped to
+      an append-only log before matches start, graded automatically against
+      results, and published here — pending picks visible before outcomes are
+      known.</li>
+    </ul>
+  </section>
+
+  <section class="card" id="case-study">
+    <h2>Case study — my backtest was lying to me by 3.5x</h2>
+
+    <p>Early versions of this project produced backtests with great ROI. The
+    numbers were exciting, repeatable, and wrong.</p>
+
+    <h3>The bugs</h3>
+    <p>An audit of every historical profitability harness found that none of
+    them could be trusted:</p>
+    <ul>
+      <li>The extended backtest joined predictions to a historical odds table
+      with <strong>no deduplication after the join</strong> — matches with
+      multiple odds rows became multiple "bets", inflating the bet count about
+      3.5x and compounding the winners. That one bug was the source of the
+      entire "profitable in 2025" narrative.</li>
+      <li>Two other harnesses evaluated the model against
+      <strong>synthetic odds derived from its own Elo ratings</strong> — so
+      their "ROI" measured disagreement between the model and Elo, not profit
+      against a market. One Monte Carlo layer sampled outcomes from the
+      model's own probabilities, which is circular by construction.</li>
+      <li>Retro-scraped historical odds carried scrape timestamps, not capture
+      timestamps — "closing line" semantics that could never be verified.</li>
+    </ul>
+
+    <div class="pull">
+      <span class="big">The fix was not patching the backtest. It was accepting
+      that the historical answer was unknowable with the data at hand, and
+      rebuilding on forward-only evidence.</span>
+    </div>
+
+    <h3>The rebuild</h3>
+    <ul>
+      <li><strong>Predictions stamped before matches.</strong> Every flag is
+      written to an append-only log with the odds at flag time, before the
+      match starts. No retroactive entries, ever.</li>
+      <li><strong>Automatic grading.</strong> Results are joined by pipeline,
+      not by hand; walkovers void; flat 1-unit stakes at the locked price.</li>
+      <li><strong>Only self-scraped closing odds are decision-grade.</strong>
+      The hourly snapshot tape (Pinnacle, bet365) is the only closing-line
+      source trusted for verdicts. Retro-scraped odds are labeled
+      <em>proxies</em> on every report that uses them and are never allowed to
+      drive a promotion or profitability claim.</li>
+      <li><strong>Per-bet CLV.</strong> Each flag is compared to the captured
+      closing line of the same book — closing-line value converges 5–10x
+      faster than ROI, so it is the first honest read on edge. Eras with
+      different close quality are never pooled.</li>
+      <li><strong>Sample-size floors before any verdict.</strong> No ROI
+      judgment under 100 settled bets; no CLV verdict under 150 valid pairs.
+      The report generator prints the gate status instead of a conclusion.</li>
+    </ul>
+
+    <h3>What the honest numbers say right now</h3>
+    <p>As of 2026-07-17, the forward ledger (simulation, flat 1u, flag-time
+    entry) reads:</p>
+    <div class="tablewrap">
+    <table>
+      <tr><th>Metric</th><th>Value</th><th>Verdict gate</th></tr>
+      <tr><td>Flagged candidates (all)</td><td class="num">213 (177 settled)</td><td class="muted">—</td></tr>
+      <tr><td>In-band [3–11% edge] settled</td><td class="num">77 &nbsp;(32W–45L, −8.1u, −10.6% ROI)</td><td class="muted">below the 100-settled floor — no ROI verdict</td></tr>
+      <tr><td>95% CI on in-band ROI</td><td class="num">−35.5% … +16.2%</td><td class="muted">spans zero</td></tr>
+      <tr><td>Median CLV, in-band (79 pairs)</td><td class="num">+0.00pp</td><td class="muted">below the 150-pair gate — pending</td></tr>
+    </table>
+    </div>
+    <p>A separate walk-forward historical backtest (per-fold models trained
+    strictly before their test windows, ~4,300 out-of-sample series, the ~280
+    joinable to usable historical odds) lands at roughly −5% ROI with a
+    confidence interval spanning zero — clearly labeled as resting on proxy
+    odds.</p>
+    <div class="pull">
+      <span class="big">The current scoreboard is negative and under-sampled,
+      and it is published anyway.</span><br>
+      <span class="muted">That is the whole point of the rebuild: a system
+      whose numbers I can no longer fool myself with. When it does show an
+      edge, that number will mean something.</span>
+    </div>
+  </section>
+
+  <section class="card" id="protocol">
+    <h2>How ideas earn their way in</h2>
+    <p>Every feature idea goes through a <strong>measure-before-build</strong>
+    protocol: before writing pipeline code, run a cheap diagnostic asking
+    whether the current model's out-of-sample <em>residuals</em> contain the
+    proposed signal at all. If the live model already prices it, the idea dies
+    in an afternoon instead of costing a feature cycle. Three real outcomes:</p>
+
+    <h3>Schedule strength <span class="ship">shipped</span><span class="tag">passed diagnostic</span></h3>
+    <p>Hypothesis: recent-form ratings don't ask <em>who</em> the form was
+    earned against. The diagnostic found the effect in the live model's
+    residuals at 4.6–5.4 standard errors, stable across all four chronological
+    folds, and it survived six adversarial refutation attempts (placebo
+    permutations, kitchen-sink controls, block bootstraps). Interestingly, the
+    original interaction hypothesis was <em>wrong</em> — the data said the fix
+    was a simple additive feature. Built, selected by the trainer on its own
+    merit, shipped in model v12.</p>
+
+    <h3>Editorial star ratings <span class="kill">killed before build</span><span class="tag">scrape never paid for</span></h3>
+    <p>Match-importance stars would have cost a scraping fight to collect. The
+    diagnostic went first: importance is a property of the match, identical for
+    both teams, so by symmetry it can't carry a winner signal directly — and
+    all twelve interaction probes plus the recalibration channel came back null
+    (≤0.0005 log-loss ceiling). The scrape was never built. Cost of the answer:
+    one afternoon, zero code in production.</p>
+
+    <h3>Lineup-continuity features <span class="kill">built, then killed with evidence</span></h3>
+    <p>Assumption: the model must be miscalibrated on teams with roster churn,
+    since their ratings were earned by a different five. Tested on 3,588
+    out-of-sample predictions: the <em>lowest</em>-continuity bucket was the
+    best calibrated, and the correlation between residuals and continuity was
+    ≈0. The modeling thread was closed with three independent nulls. The real
+    value lived at a different layer — a serve-time guardrail that flags when
+    tonight's announced lineup differs from the roster the ratings were earned
+    by — and that part stayed.</p>
+  </section>
+
+  <section class="card" id="stack">
+    <h2>Stack</h2>
+    <ul>
+      <li><strong>Core:</strong> Python, pandas, DuckDB (single-file analytical
+      DB), scikit-learn gradient-boosted trees with isotonic/sigmoid
+      calibration; feature store as Parquet.</li>
+      <li><strong>Data collection:</strong> Selenium with Cloudflare-aware
+      scraping (undetected-chromedriver, persistent profiles, rate limiting),
+      REST polling for odds and prediction markets, and bulk demo parsing
+      (demoparser2/awpy) tuned for CS2's 64-tick GOTV format.</li>
+      <li><strong>Serving:</strong> this site — plain static files, no build
+      step, everything inlined; pages are regenerated by the daily pipeline
+      run, and the veto predictor runs entirely in your browser.</li>
+      <li><strong>Automation:</strong> Windows Task Scheduler jobs — an hourly
+      odds/lineup capture cycle and a daily 15-step update (ingest, derived
+      tables, grading, page publishing) with lock files to keep the
+      single-writer database honest.</li>
+      <li><strong>Testing:</strong> ~1,000 pytest tests, including tests that
+      pin data conventions (units, sign conventions, era boundaries) so past
+      data bugs can't silently return.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Built and maintained by <strong>hyper</strong>. Simulation only — paper
+    record, no real money.</p>
+    <p>Numbers on this page are dated snapshots (2026-07-17) of the live
+    reports; the <a href="../bets/" style="color:var(--accent)">paper ledger</a>
+    is the always-current source.</p>
+    <!-- socials: add links here
+    <p><a href="">Twitter/X</a> · <a href="">YouTube</a></p>
+    -->
+  </footer>
+</div>
+</body>
+</html>

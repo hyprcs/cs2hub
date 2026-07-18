@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulated Bet Ledger</title>
+<link rel="icon" href="data:,">
+<style>:root {
+  --bg: #0d1117; --card: #161c26; --line: #232c3b; --input: #0d1320;
+  --text: #dbe4f0; --muted: #8b98ab; --accent: #4d9fe8; --warn: #e8b750;
+  --win: #3fa06b; --loss: #e0563f;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text); line-height: 1.45;
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 22px 14px 40px; }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+nav a {
+  color: var(--muted); text-decoration: none; font-size: .82rem;
+  border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px;
+}
+nav a:hover { color: var(--text); border-color: var(--accent); }
+nav a.active { background: var(--accent); border-color: var(--accent);
+  color: #0b1220; font-weight: 600; }
+header h1 { font-size: 1.5rem; letter-spacing: .02em; }
+header .sub { color: var(--muted); font-size: .9rem; margin-top: 4px; }
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 16px; margin-top: 14px;
+}
+h2 {
+  font-size: .92rem; text-transform: uppercase; letter-spacing: .08em;
+  color: var(--muted); margin-bottom: 10px;
+}
+h3 { font-size: .95rem; margin: 12px 0 6px; }
+p { margin: 6px 0; }
+.dim { color: var(--muted); }
+.small { font-size: .82rem; }
+.notice {
+  background: #241d0e; border: 1px solid #5a4a1f; color: #e6d8a8;
+  border-radius: 10px; padding: 12px 14px; margin-top: 14px;
+  font-size: .88rem;
+}
+.notice strong { color: var(--warn); }
+.tiles { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 8px; }
+.stattile {
+  background: var(--input); border: 1px solid var(--line);
+  border-radius: 8px; padding: 8px 12px; min-width: 96px;
+  text-align: center; flex: 1;
+}
+.statv {
+  font-size: 1.25rem; font-weight: 700; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.statl {
+  font-size: .68rem; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .05em; margin-top: 2px;
+}
+.statn { font-size: .7rem; color: #54627a; margin-top: 1px; }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 560px;
+  font-size: .84rem; }
+th {
+  text-align: left; color: #54627a; font-size: .7rem;
+  text-transform: uppercase; letter-spacing: .04em; padding: 6px 8px;
+  border-bottom: 1px solid var(--line);
+}
+td { padding: 6px 8px; border-bottom: 1px solid var(--line);
+  font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: none; }
+td.num, th.num { text-align: right; }
+.won { color: var(--win); font-weight: 700; }
+.lost { color: var(--loss); font-weight: 700; }
+.void { color: var(--muted); }
+.pending { color: var(--warn); }
+.chip {
+  display: inline-block; font-size: .7rem; border: 1px solid var(--line);
+  border-radius: 999px; padding: 1px 7px; color: var(--muted);
+}
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+  margin-top: 8px; }
+.splitcard {
+  background: var(--input); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; min-width: 0;
+}
+.splitcard h3 { margin: 0 0 6px; }
+.splitcard p { font-size: .86rem; color: var(--muted); margin: 2px 0; }
+.erastrip { width: 100%; height: auto; display: block; margin: 10px 0 2px; }
+.erabadge { display: inline-block; padding: 1px 8px; border-radius: 9px;
+  color: #fff; font-size: .74rem; font-weight: 600; white-space: nowrap; }
+.eradim { opacity: .55; }
+ul.notes { margin: 6px 0 0 18px; }
+ul.notes li { margin: 4px 0; font-size: .86rem; color: var(--muted); }
+footer { margin-top: 22px; color: var(--muted); font-size: .78rem; }
+footer p { margin-top: 6px; }
+@media (max-width: 560px) {
+  .split { grid-template-columns: 1fr; }
+  .stattile { min-width: 72px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav><a href="/">Home</a><a href="/veto/">Veto Predictor</a><a href="/bets/" class="active">Sim Bet Ledger</a><a href="/record/">Model Record</a></nav>
+  <header>
+    <h1>Simulated Bet Ledger</h1>
+    <p class="sub">Every value flag the model raises, logged before the match and graded in public. Paper record &mdash; no real money.</p>
+  </header>
+<div class="notice"><strong>SIMULATION &mdash; paper record, no real money.</strong> Flat 1-unit stakes graded at recorded prices; no real bets were placed, ever. This page is the model's automatically flagged ledger; it involves no human picks and no bankroll.</div>
+<section class="card">
+  <h2>How to read this</h2>
+  <p><b>Flag-time entry.</b> Each simulated bet is priced at the odds
+  available when the model first flagged the edge &mdash; not the
+  hindsight-friendly closing line. Stakes are a flat 1 unit, always.</p>
+  <p><b>Fair probabilities.</b> Bookmaker margin is removed with the Shin
+  method; an edge is the model's win probability minus that fair market
+  probability, and only edges inside the working band become flags.</p>
+  <p><b>Why CLV is the referee.</b> Closing line value asks: after we
+  flagged a side, did the market itself move toward it by close? It needs no
+  match result, so it converges 5&ndash;10x faster than ROI and is much
+  harder to get lucky on. Positive median CLV is the fastest honest evidence
+  of edge; ROI follows only at large samples.</p>
+  <p class="small dim">Flags appear in the pending table <i>before</i> their
+  matches start and are graded automatically after. Nothing is ever edited
+  or deleted.</p>
+</section>
+<section class="card"><h2>All-time record &mdash; flag-time entry, edge band 3&ndash;11pp</h2><div class="tiles"><div class="stattile"><div class="statv">77</div><div class="statl">settled flags</div><div class="statn">14 pending</div></div><div class="stattile"><div class="statv">32&ndash;45</div><div class="statl">won&ndash;lost</div></div><div class="stattile"><div class="statv">-8.14u</div><div class="statl">profit / loss</div><div class="statn">flat 1u stakes</div></div><div class="stattile"><div class="statv">-10.6%</div><div class="statl">roi</div><div class="statn">95% CI -35.5% .. +16.2%</div></div></div><p class="small dim">All flagged candidates regardless of band: 213 flags, 177 settled, P/L -22.21u, ROI -12.6%.</p><div class="notice"><strong>Small sample:</strong> 77 settled flags is under the 100-bet floor &mdash; too early to judge ROI &mdash; watch median CLV. ROI swings of &plusmn;20% are pure variance at this size.</div></section>
+<section class="card"><h2>Pending flags &mdash; on the record before they settle</h2><p class="dim">Ledger rows unavailable right now &mdash; refreshes after the next morning update.</p></section>
+<section class="card"><h2>Settled history</h2><p class="dim">Ledger rows unavailable right now &mdash; refreshes after the next morning update.</p></section>
+<section class="card"><h2>CLV &mdash; the market's own verdict</h2><p>In-band flags with a valid entry&rarr;close pair: <b>79</b>, median <b>+0.00pp</b>, mean -0.04pp. Beat the close on 29, tied 18, worse on 32 &mdash; beat-rate among movers 47.5%.</p><div class="split"><div class="splitcard"><h3>True-close referee</h3><p>n = <b>47</b> &middot; median CLV <b>-0.05pp</b></p><p class="small">Entry graded against a real captured closing line (close capture live since ~2026-06-22).</p></div><div class="splitcard"><h3>Hourly-line referee</h3><p>n = <b>32</b> &middot; median CLV <b>+0.00pp</b></p><p class="small">Older flags graded against the last hourly capture (~T-30min) &mdash; a stand-in, not a true close.</p></div></div><p class="small dim">The two referees are reported separately and never pooled &mdash; an hourly-era &ldquo;close&rdquo; is not a true close, and mixing them would flatter (or smear) the record silently.</p><h3>By entry book</h3><div class="tablewrap"><table style="min-width:0"><thead><tr><th>book</th><th class="num">pairs</th><th class="num">median clv</th></tr></thead><tbody><tr><td>bet365</td><td class='num'>29</td><td class='num'>+0.00pp</td></tr><tr><td>pinnacle</td><td class='num'>50</td><td class='num'>+0.00pp</td></tr></tbody></table></div><p class="small dim">Across all flagged candidates regardless of band: n = 188, median +0.00pp.</p></section>
+  <footer>
+    <p>Page data as of 2026-07-17 22:33 UTC &middot; regenerated by the morning update.</p>
+    <p>Predictions and simulated bets are for entertainment purposes only.
+    Nothing here is betting or financial advice.</p>
+    <p>A hobby project by hyper.</p>
+    <!-- socials: add links here -->
+  </footer>
+</div>
+</body>
+</html>
