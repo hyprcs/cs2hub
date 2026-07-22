@@ -1,0 +1,40 @@
+user,match_time_utc,event,match,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pct,clv_ref,close_quality,picked_at_utc
+hyper,2026-07-14T10:30:00.000+00:00,European Pro League,Honvéd vs GenOne,Honvéd,3,bet365,2.62,1.0,lost,-1.0,-1.0,0.0,b365,b365-hourly,2026-07-14T08:36:44.062386+00:00
+hyper,2026-07-14T11:00:00.000+00:00,NODWIN Clutch Series 10 Closed Qualifier,Inner Circle Academy vs DONSTU,Inner Circle Academy,3,pinnacle,1.758,1.0,won,0.758,-0.242,0.37,pin,close,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-14T11:00:00.000+00:00,ESL Challenger League Europe,HOTU vs QUAZAR,HOTU,3,bet365,1.44,1.0,won,0.44,0.198,0.56,pin,hourly,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-14T11:00:00.000+00:00,ESL Challenger League Europe,BRUTE vs fnatic,fnatic,3,bet365,1.22,1.0,won,0.22,0.418,-3.23,pin,hourly,2026-07-14T08:36:44.062386+00:00
+hyper,2026-07-14T16:00:00.000+00:00,CCT South America,paiN Academy vs ODDIK,ODDIK,3,bet365,1.28,1.0,won,0.28,0.698,-1.72,pin,close,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-15T10:00:00.000+00:00,Stake Ranked,Ninjas in Pyjamas vs K27,K27,3,bet365,2.5,1.0,lost,-1.0,-0.302,-2.55,pin,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T10:30:00.000+00:00,European Pro League,The Last Resort vs Enjoy,The Last Resort,3,bet365,2.75,1.0,won,1.75,1.448,7.37,b365,b365-hourly,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T12:30:00.000+00:00,Stake Ranked,3DMAX vs HEROIC,3DMAX,3,bet365,2.37,1.0,lost,-1.0,0.448,-0.34,pin,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T15:00:00.000+00:00,Stake Ranked,Wildcard vs Gentle Mates,Gentle Mates,3,bet365,2.25,1.0,won,1.25,1.698,-2.43,pin,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T17:30:00.000+00:00,Stake Ranked,paiN vs Phantom,paiN,3,bet365,1.36,1.0,lost,-1.0,0.698,-0.37,pin,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-16T08:00:00.000+00:00,European Pro League,WW vs Just Players,Just Players,3,bet365,2.37,1.0,won,1.37,2.068,-2.38,pin,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T10:30:00.000+00:00,European Pro League,Walczaki vs SPARTA,Walczaki,3,bet365,1.44,1.0,won,0.44,2.508,0.0,b365,b365-hourly,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T12:30:00.000+00:00,Stake Ranked,paiN vs 3DMAX,paiN,3,bet365,1.53,1.0,lost,-1.0,1.508,-0.76,pin,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T16:00:00.000+00:00,RUSH B Summit,ShindeN vs Bounty Hunters,ShindeN,3,pinnacle,1.662,1.0,lost,-1.0,0.508,0.74,pin,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-17T00:00:00.000+00:00,DFRAG HyperX Nationals,Abyssal vs Rooster,Abyssal,1,bet365,2.37,1.0,lost,-1.0,-0.492,-0.77,pin,hourly,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-17T13:00:00.000+00:00,CCT South America,GameHunters vs ALKA,GameHunters,3,bet365,1.72,1.0,won,0.72,0.228,4.66,pin,close,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-17T14:00:00.000+00:00,,ex-MANA vs benched gods,benched gods,3,bet365,2.5,1.0,won,1.5,1.728,0.0,b365,b365-hourly,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-17T22:00:00.000+00:00,CCT South America,BESTIA Academy vs MAGICOS,BESTIA Academy,3,bet365,1.16,1.0,won,0.16,1.888,-0.38,pin,close,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-18T08:00:00.000+00:00,European Pro League,Eternal Fire vs BRUTE,BRUTE,3,bet365,3.0,1.0,lost,-1.0,0.888,-1.21,pin,close,2026-07-18T01:30:17.499477+00:00
+hyper,2026-07-18T08:00:00.000+00:00,CCT Europe Series Closed Qualifier,Bebop vs DONSTU,DONSTU,3,pinnacle,2.39,0.5,lost,-1.0,-0.112,-0.47,pin,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T10:30:00.000+00:00,European Pro League,Nuclear TigeRES vs Atreides,Nuclear TigeRES,3,bet365,1.14,1.0,lost,-1.0,-1.112,0.0,b365,b365-hourly,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T16:00:00.000+00:00,,Imperial vs ShindeN,ShindeN,3,pinnacle,2.49,0.5,lost,-1.0,-2.112,0.0,pin,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T17:00:00.000+00:00,,benched gods vs Misa,Misa,3,pinnacle,1.893,1.0,lost,-1.0,-3.112,2.33,pin,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-19T13:00:00.000+00:00,CCT South America,Grêmio vs ALKA,ALKA,3,bet365,1.4,1.0,won,0.4,-2.712,-0.74,pin,close,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T17:00:00.000+00:00,,ex-MANA vs Misa,ex-MANA,3,bet365,2.1,1.0,lost,-1.0,-3.712,0.0,b365,b365-hourly,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T19:00:00.000+00:00,CCT South America,BESTIA Academy vs GameHunters,BESTIA Academy,3,bet365,2.1,1.0,pending,,,-1.08,pin,close,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T23:00:00.000+00:00,RUSH B Summit,Fluxo vs Imperial,Fluxo,5,pinnacle,2.92,1.0,won,1.92,-1.792,0.0,pin,close,2026-07-19T22:54:42.002640+00:00
+hyper,2026-07-20T08:00:00.000+00:00,European Pro League,Just Players vs Walczaki,Walczaki,3,bet365,1.3,1.0,lost,-1.0,-2.792,0.0,b365,b365-hourly,2026-07-19T22:54:42.002640+00:00
+hyper,2026-07-21T10:00:00.000+00:00,BLAST Bounty Qualifier,M80 vs Ninjas in Pyjamas,M80,3,bet365,2.0,1.0,lost,-1.0,-3.792,0.95,pin,close,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-21T12:30:00.000+00:00,BLAST Bounty Qualifier,Nemesis vs Astralis,Astralis,3,bet365,1.53,1.0,won,0.53,-3.262,0.36,pin,hourly,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-21T17:30:00.000+00:00,BLAST Bounty Qualifier,Alliance vs Wildcard,Wildcard,3,bet365,2.25,1.0,won,1.25,-2.012,-1.15,pin,close,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-22T10:00:00.000+00:00,BLAST Bounty Qualifier,EYEBALLERS vs FaZe,FaZe,3,bet365,1.33,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T10:00:00.000+00:00,,HOTU vs Astralis,Astralis,3,bet365,1.57,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T11:00:00.000+00:00,CCT Europe Series,SPARTA vs SAW Youngsters,SAW Youngsters,3,bet365,3.4,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T13:00:00.000+00:00,StarLadder StarSeries Fall Europe Qualifier,Ninjas in Pyjamas vs 100 Thieves,Ninjas in Pyjamas,3,bet365,1.53,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T14:00:00.000+00:00,,INOX Division vs Endless Journey,INOX Division,3,bet365,1.53,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T15:00:00.000+00:00,BLAST Bounty Qualifier,HOTU vs GamerLegion,GamerLegion,3,bet365,1.5,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T16:00:00.000+00:00,,Nuclear TigeRES vs Echo,Echo,3,bet365,2.5,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-22T17:00:00.000+00:00,,QUAZAR vs SAW Youngsters,SAW Youngsters,3,bet365,2.5,1.0,pending,,,,,,2026-07-21T23:59:24.278494+00:00
