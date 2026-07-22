@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Picks Tracker</title>
+<link rel="icon" href="data:,">
+<style>:root {
+  --bg: #0d1117; --card: #161c26; --line: #232c3b; --input: #0d1320;
+  --text: #dbe4f0; --muted: #8b98ab; --accent: #4d9fe8; --warn: #e8b750;
+  --win: #3fa06b; --loss: #e0563f;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text); line-height: 1.45;
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 22px 14px 40px; }
+nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+nav a {
+  color: var(--muted); text-decoration: none; font-size: .82rem;
+  border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px;
+}
+nav a:hover { color: var(--text); border-color: var(--accent); }
+nav a.active { background: var(--accent); border-color: var(--accent);
+  color: #0b1220; font-weight: 600; }
+header h1 { font-size: 1.5rem; letter-spacing: .02em; }
+header .sub { color: var(--muted); font-size: .9rem; margin-top: 4px; }
+.card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 16px; margin-top: 14px;
+}
+h2 {
+  font-size: .92rem; text-transform: uppercase; letter-spacing: .08em;
+  color: var(--muted); margin-bottom: 10px;
+}
+h3 { font-size: .95rem; margin: 12px 0 6px; }
+p { margin: 6px 0; }
+.dim { color: var(--muted); }
+.small { font-size: .82rem; }
+.notice {
+  background: #241d0e; border: 1px solid #5a4a1f; color: #e6d8a8;
+  border-radius: 10px; padding: 12px 14px; margin-top: 14px;
+  font-size: .88rem;
+}
+.notice strong { color: var(--warn); }
+.tiles { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 8px; }
+.stattile {
+  background: var(--input); border: 1px solid var(--line);
+  border-radius: 8px; padding: 8px 12px; min-width: 96px;
+  text-align: center; flex: 1;
+}
+.statv {
+  font-size: 1.25rem; font-weight: 700; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.statl {
+  font-size: .68rem; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .05em; margin-top: 2px;
+}
+.statn { font-size: .7rem; color: #54627a; margin-top: 1px; }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 560px;
+  font-size: .84rem; }
+th {
+  text-align: left; color: #54627a; font-size: .7rem;
+  text-transform: uppercase; letter-spacing: .04em; padding: 6px 8px;
+  border-bottom: 1px solid var(--line);
+}
+td { padding: 6px 8px; border-bottom: 1px solid var(--line);
+  font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: none; }
+td.num, th.num { text-align: right; }
+.won { color: var(--win); font-weight: 700; }
+.lost { color: var(--loss); font-weight: 700; }
+.void { color: var(--muted); }
+.pending { color: var(--warn); }
+.chip {
+  display: inline-block; font-size: .7rem; border: 1px solid var(--line);
+  border-radius: 999px; padding: 1px 7px; color: var(--muted);
+}
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+  margin-top: 8px; }
+.splitcard {
+  background: var(--input); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; min-width: 0;
+}
+.splitcard h3 { margin: 0 0 6px; }
+.splitcard p { font-size: .86rem; color: var(--muted); margin: 2px 0; }
+.erastrip { width: 100%; height: auto; display: block; margin: 10px 0 2px; }
+.erabadge { display: inline-block; padding: 1px 8px; border-radius: 9px;
+  color: #fff; font-size: .74rem; font-weight: 600; white-space: nowrap; }
+.eradim { opacity: .55; }
+ul.notes { margin: 6px 0 0 18px; }
+ul.notes li { margin: 4px 0; font-size: .86rem; color: var(--muted); }
+footer { margin-top: 22px; color: var(--muted); font-size: .78rem; }
+footer p { margin-top: 6px; }
+@media (max-width: 560px) {
+  .split { grid-template-columns: 1fr; }
+  .stattile { min-width: 72px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav><a href="/">Home</a><a href="/veto/">Veto Predictor</a><a href="/bets/">Sim Bet Ledger</a><a href="/record/">Model Record</a></nav>
+  <header>
+    <h1>My Picks Tracker</h1>
+    <p class="sub">Self-tracked picks, graded in public.</p>
+  </header>
+<div class="notice"><strong>SIMULATION &mdash; paper record, no real money.</strong> Flat 1-unit stakes graded at recorded prices; no real bets were placed, ever. Self-tracked picks at locked odds -- a personal record, not betting advice.</div>
+<section class="card">
+  <h2>The live tracker</h2>
+  <p>Every pick is locked at post time (odds and stake frozen), graded
+  automatically against results, and published here &mdash; currently
+  <b>39</b> picks for <b>hyper</b>.</p>
+  <p><a class="btn" href="https://docs.google.com/spreadsheets/d/1z5gfJ1GTmTdPCSjdNy-jdJINPDBhpg31zzpm0nSAggE/edit?usp=sharing">Open the tracker
+  (Google&nbsp;Sheets) &rarr;</a></p>
+  <p class="small dim">Conventions: flat 1U unless a stake is shown; CLV is
+  graded against self-captured Pinnacle and bet365 closes and the two
+  referees are never pooled; walkovers void. Model prices are not
+  published &mdash; the record is public, the signal is not.</p>
+  <p class="small dim">Raw data (refreshed with every deploy):
+  <a href="/picks/data/bets.csv">bets.csv</a> &middot;
+  <a href="/picks/data/summary.csv">summary.csv</a> &middot; graded 2026-07-22T00:18Z</p>
+  <style>
+    .btn { display:inline-block; padding:10px 18px; border:1px solid
+            var(--accent, #4d9fe8); border-radius:10px;
+            text-decoration:none; font-weight:600; }
+  </style>
+</section>
+  <footer>
+    <p>Page data as of 2026-07-22T00:18:08.975358+00:00 &middot; regenerated by the morning update.</p>
+    <p>Predictions and simulated bets are for entertainment purposes only.
+    Nothing here is betting or financial advice.</p>
+    <p>A hobby project by hyper.</p>
+    <!-- socials: add links here -->
+  </footer>
+</div>
+</body>
+</html>

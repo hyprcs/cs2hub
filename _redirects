@@ -1,0 +1,6 @@
+# Human-facing aliases (2026-07-22): the flat CSV URLs now send people to
+# the Google Sheets tracker; machines read /picks/data/*.csv instead.
+# NOTE: Cloudflare Pages serves a real static file OVER a redirect rule --
+# scripts/export_hub_picks.py deletes the legacy flat CSVs so these fire.
+/picks/bets.csv https://docs.google.com/spreadsheets/d/1z5gfJ1GTmTdPCSjdNy-jdJINPDBhpg31zzpm0nSAggE/edit?usp=sharing 302
+/picks/summary.csv https://docs.google.com/spreadsheets/d/1z5gfJ1GTmTdPCSjdNy-jdJINPDBhpg31zzpm0nSAggE/edit?usp=sharing 302
