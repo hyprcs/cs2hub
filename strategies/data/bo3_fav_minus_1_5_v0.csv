@@ -1,23 +1,21 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,pinnacle,2.11,1,won,1.11,1.11,4.25,pinnacle,,selected,2026-07-22 03:09
-bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,2.86,1,lost,-1.0,,-3.76,pinnacle,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,pinnacle,1.794,1,lost,-1.0,,1.87,pinnacle,,ineligible,2026-07-23 06:07
 bo3_fav_minus_1_5_v0,2026-07-23 11:00,,NEW VISION vs benched gods,-1.5 maps,benched gods,3,pinnacle,3.05,1,lost,-1.0,,11.16,pinnacle,,quarantined,2026-07-23 02:08
-bo3_fav_minus_1_5_v0,2026-07-23 15:00,,Gentle Mates vs paiN,-1.5 maps,paiN,3,pinnacle,2.89,1,won,1.89,3.0,-1.61,pinnacle,,selected,2026-07-23 02:08
+bo3_fav_minus_1_5_v0,2026-07-23 15:00,,Gentle Mates vs paiN,-1.5 maps,paiN,3,pinnacle,2.89,1,won,1.89,1.89,-1.61,pinnacle,,selected,2026-07-23 02:08
 bo3_fav_minus_1_5_v0,2026-07-23 16:00,,HEROIC vs FOKUS,-1.5 maps,HEROIC,3,pinnacle,2.63,1,won,1.63,,0.45,pinnacle,,ineligible,2026-07-23 14:10
-bo3_fav_minus_1_5_v0,2026-07-23 17:00,,CYBERSHOKE Prospects vs benched gods,-1.5 maps,CYBERSHOKE Prospects,3,pinnacle,2.74,1,lost,-1.0,2.0,2.42,pinnacle,,selected,2026-07-23 05:15
-bo3_fav_minus_1_5_v0,2026-07-24 09:00,,Magic vs 3DMAX,-1.5 maps,Magic,3,pinnacle,2.64,1,lost,-1.0,1.0,-1.49,pinnacle,,selected,2026-07-24 06:06
-bo3_fav_minus_1_5_v0,2026-07-24 16:00,,Astralis vs HEROIC,-1.5 maps,Astralis,3,pinnacle,3.16,1,lost,-1.0,0.0,0.0,pinnacle,,selected,2026-07-24 01:04
+bo3_fav_minus_1_5_v0,2026-07-23 17:00,,CYBERSHOKE Prospects vs benched gods,-1.5 maps,CYBERSHOKE Prospects,3,pinnacle,2.74,1,lost,-1.0,0.89,2.42,pinnacle,,selected,2026-07-23 05:15
+bo3_fav_minus_1_5_v0,2026-07-24 09:00,,Magic vs 3DMAX,-1.5 maps,Magic,3,pinnacle,2.64,1,lost,-1.0,-0.11,-1.49,pinnacle,,selected,2026-07-24 06:06
+bo3_fav_minus_1_5_v0,2026-07-24 16:00,,Astralis vs HEROIC,-1.5 maps,Astralis,3,pinnacle,3.16,1,lost,-1.0,-1.11,0.0,pinnacle,,selected,2026-07-24 01:04
 bo3_fav_minus_1_5_v0,2026-07-25 12:30,,Liquid vs G2,-1.5 maps,G2,3,pinnacle,2.76,1,lost,-1.0,,4.04,pinnacle,,quarantined,2026-07-25 04:06
 bo3_fav_minus_1_5_v0,2026-07-25 14:00,,Black Phoenix vs Just Players,-1.5 maps,Just Players,3,pinnacle,2.68,1,won,1.68,,-3.2,pinnacle,,ineligible,2026-07-25 10:05
-bo3_fav_minus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,3.03,1,lost,-1.0,-1.0,-1.92,pinnacle,,selected,2026-07-25 09:07
-bo3_fav_minus_1_5_v0,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,-1.5 maps,Rune Eaters,3,pinnacle,2.86,1,lost,-1.0,-2.0,-3.35,pinnacle,,selected,2026-07-25 02:05
+bo3_fav_minus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,3.03,1,lost,-1.0,-2.11,-1.92,pinnacle,,selected,2026-07-25 09:07
+bo3_fav_minus_1_5_v0,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,-1.5 maps,Rune Eaters,3,pinnacle,2.86,1,lost,-1.0,-3.11,-3.35,pinnacle,,selected,2026-07-25 02:05
 bo3_fav_minus_1_5_v0,2026-07-25 17:30,,FOKUS vs MOUZ,-1.5 maps,MOUZ,3,pinnacle,1.813,1,won,0.813,,0.94,pinnacle,,ineligible,2026-07-25 04:06
 bo3_fav_minus_1_5_v0,2026-07-25 19:00,,Fluxo vs Keyd Stars,-1.5 maps,Fluxo,3,pinnacle,2.14,1,won,1.14,,-4.61,pinnacle,,ineligible,2026-07-25 10:05
-bo3_fav_minus_1_5_v0,2026-07-26 13:00,,HOTU vs Aurora,-1.5 maps,Aurora,3,pinnacle,2.11,1,lost,-1.0,-3.0,-1.31,pinnacle,,selected,2026-07-25 22:05
+bo3_fav_minus_1_5_v0,2026-07-26 13:00,,HOTU vs Aurora,-1.5 maps,Aurora,3,pinnacle,2.11,1,lost,-1.0,-4.11,-1.31,pinnacle,,selected,2026-07-25 22:05
 bo3_fav_minus_1_5_v0,2026-07-26 15:00,,Wildcard vs The MongolZ,-1.5 maps,The MongolZ,3,pinnacle,2.48,1,won,1.48,,-2.45,pinnacle,,ineligible,2026-07-26 05:04
 bo3_fav_minus_1_5_v0,2026-07-26 17:30,,100 Thieves vs Spirit,-1.5 maps,Spirit,3,pinnacle,1.629,1,lost,-1.0,,-0.34,pinnacle,,ineligible,2026-07-25 22:05
-bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,-1.13,3.92,pinnacle,,selected,2026-07-27 03:05
-bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,0.41,6.3,pinnacle,,selected,2026-07-28 07:06
-bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,-0.59,-1.75,pinnacle,,selected,2026-07-27 22:05
+bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,-2.24,3.92,pinnacle,,selected,2026-07-27 03:05
+bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,-0.7,6.3,pinnacle,,selected,2026-07-28 07:06
+bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,-1.7,-1.75,pinnacle,,selected,2026-07-27 22:05
 bo3_fav_minus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,-1.5 maps,LP,3,pinnacle,3.0,1,lost,-1.0,,0.47,pinnacle,,quarantined,2026-07-27 22:05
