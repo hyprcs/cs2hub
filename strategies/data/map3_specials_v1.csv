@@ -1,0 +1,31 @@
+strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+map3_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.57,1,lost,-1.0,,0.58,specials_hourly,specials_hourly,quarantined,2026-07-22 00:04
+map3_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map3_moneyline,Fortress,3,pinnacle,4.03,1,lost,-1.0,,-0.79,specials_hourly,specials_hourly,quarantined,2026-07-22 02:05
+map3_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map3_moneyline,Echo,3,pinnacle,2.16,1,void,0.0,,-0.27,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map3_specials_v1,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.57,1,lost,-1.0,-1.0,1.79,specials_hourly,specials_hourly,selected,2026-07-22 03:04
+map3_specials_v1,2026-07-23 11:00,,NEW VISION vs benched gods,map3_moneyline,benched gods,3,pinnacle,1.82,1,void,0.0,,10.68,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,map3_moneyline,Echo,3,pinnacle,2.69,1,void,0.0,,1.84,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 14:00,,megoshort vs Privateer,map3_moneyline,Privateer,3,pinnacle,1.741,1,won,0.741,-0.259,-0.83,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 16:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map3_moneyline,FOKUS,3,pinnacle,2.59,1,void,0.0,,2.67,specials_hourly,specials_hourly,selected,2026-07-22 19:03
+map3_specials_v1,2026-07-23 16:00,,Fluxo vs paiN Academy,map3_moneyline,paiN Academy,3,pinnacle,3.84,1,void,0.0,,0.65,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 17:00,CCT Europe Series Closed Qualifier,Misa vs Rounds,map3_moneyline,Rounds,3,pinnacle,2.79,1,void,0.0,,-4.54,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 19:00,,Imperial vs BESTIA Academy,map3_moneyline,BESTIA Academy,3,pinnacle,4.69,1,won,3.69,,2.16,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-24 11:00,,megoshort vs Rounds,map3_moneyline,Rounds,3,pinnacle,1.98,1,won,0.98,0.721,-1.35,specials_hourly,specials_hourly,selected,2026-07-24 05:05
+map3_specials_v1,2026-07-24 13:00,,Fake do Biru vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,pinnacle,2.68,1,void,0.0,,5.46,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-24 16:00,,Bounty Hunters vs ODDIK,map3_moneyline,ODDIK,3,pinnacle,2.19,1,won,1.19,1.911,0.26,specials_hourly,specials_hourly,selected,2026-07-23 19:05
+map3_specials_v1,2026-07-24 17:00,,Privateer vs Misa,map3_moneyline,Privateer,3,pinnacle,2.23,1,void,0.0,,-0.4,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map3_specials_v1,2026-07-24 19:00,CCT South America,Keyd Stars vs ALKA,map3_moneyline,ALKA,3,pinnacle,2.04,1,void,0.0,,-7.56,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map3_specials_v1,2026-07-24 22:00,,LP vs MAGICOS,map3_moneyline,MAGICOS,3,pinnacle,4.69,1,void,0.0,,3.22,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-25 11:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.07,1,lost,-1.0,0.911,3.42,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 13:00,,BORRACHEIROS vs ODDIK,map3_moneyline,BORRACHEIROS,3,pinnacle,3.02,1,lost,-1.0,-0.089,3.17,specials_hourly,specials_hourly,selected,2026-07-25 08:04
+map3_specials_v1,2026-07-25 14:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.07,1,lost,-1.0,-1.089,3.42,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 14:00,CCT Europe Series 5,Black Phoenix vs Just Players,map3_moneyline,Black Phoenix,3,pinnacle,2.08,1,void,0.0,,3.06,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map3_specials_v1,2026-07-25 16:00,,BESTIA Academy vs Isurus,map3_moneyline,BESTIA Academy,3,pinnacle,2.22,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,pinnacle,3.02,1,lost,-1.0,-2.089,0.98,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,map3_moneyline,Rune Eaters,3,pinnacle,1.806,1,lost,-1.0,-3.089,-2.76,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 19:00,CCT South America,Fluxo vs Keyd Stars,map3_moneyline,Keyd Stars,3,pinnacle,2.78,1,void,0.0,,0.69,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 22:00,CCT South America,BESTIA Academy vs Isurus,map3_moneyline,BESTIA Academy,3,pinnacle,2.22,1,void,0.0,,-2.71,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-26 18:00,,Fluxo vs Isurus,map3_moneyline,Isurus,3,pinnacle,2.76,1,won,1.76,-1.329,-1.94,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map3_specials_v1,2026-07-27 14:00,TP World Championship Europe,Black Phoenix vs Misa,map3_moneyline,Misa,3,pinnacle,2.45,1,won,1.45,,-0.01,specials_hourly,specials_hourly,quarantined,2026-07-26 20:03
+map3_specials_v1,2026-07-27 14:00,CCT Europe Series,ex-RUSTEC vs Inner Circle Academy,map3_moneyline,Inner Circle Academy,3,pinnacle,2.15,1,void,0.0,,0.27,specials_hourly,specials_hourly,selected,2026-07-27 03:05
+map3_specials_v1,2026-07-27 17:00,NODWIN Clutch Series,Just Players vs Inner Circle Academy,map3_moneyline,Inner Circle Academy,3,pinnacle,2.36,1,void,0.0,,1.9,specials_hourly,specials_hourly,selected,2026-07-27 13:05

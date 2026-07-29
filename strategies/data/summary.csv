@@ -1,0 +1,9 @@
+strategy,book,rows,record_rows,settled,wins,losses,voids,pending,units_pl,roi_pct,clv_ref,clv_n,clv_median_pp,note,generated_at_utc
+moneyline_flag_band,"bet365, pinnacle",164,164,143,61,82,14,7,-3.928,-2.75,pinnacle,79,0.15,tracked record = every in-band flag; CLV cell = Pinnacle-ruler pairs only (odds-trust: referees never pooled; filter clv_ref for b365 pairs),2026-07-29 06:59
+bo3_dog_plus_1_5_v0,pinnacle,33,15,13,8,5,0,2,-0.303,-2.33,pinnacle,14,0.79,"n<100 settled -- too early to judge ROI, watch median CLV",2026-07-29 06:59
+bo3_fav_minus_1_5_v0,pinnacle,22,11,11,4,7,0,0,-0.59,-5.36,pinnacle,11,-1.31,"n<100 settled -- too early to judge ROI, watch median CLV",2026-07-29 06:59
+bo3_dog_plus_1_5_tp_v0,thunderpick,4,2,1,1,0,0,1,0.4,40.0,tp_self,1,0.0,"n<100 settled -- too early to judge ROI, watch median CLV; results-only record; clv_pp vs TP self-close is informational, never a referee",2026-07-29 06:59
+bo3_fav_minus_1_5_tp_v0,thunderpick,5,2,1,1,0,0,1,1.39,139.0,tp_self,2,0.51,"n<100 settled -- too early to judge ROI, watch median CLV; results-only record; clv_pp vs TP self-close is informational, never a referee",2026-07-29 06:59
+map1_specials_v1,pinnacle,77,65,53,14,39,4,8,-19.657,-37.09,specials_hourly,44,0.0,"n<100 settled -- too early to judge ROI, watch median CLV; channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-07-29 06:59
+map2_specials_v1,pinnacle,66,57,48,25,23,1,8,25.78,53.71,specials_hourly,51,0.0,"n<100 settled -- too early to judge ROI, watch median CLV; channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-07-29 06:59
+map3_specials_v1,pinnacle,38,32,10,4,6,14,8,-1.329,-13.29,specials_hourly,32,0.26,"n<100 settled -- too early to judge ROI, watch median CLV; channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-07-29 06:59

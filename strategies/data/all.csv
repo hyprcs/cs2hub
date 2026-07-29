@@ -1,0 +1,374 @@
+strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+moneyline_flag_band,2026-06-30 13:45,,Endless Journey vs Misa,moneyline,Endless Journey,3,bet365,1.44,1,void,0.0,,,,hourly,legacy_unscored,2026-06-30 07:21
+moneyline_flag_band,2026-07-01 09:30,,3DMAX vs Ninjas in Pyjamas,moneyline,3DMAX,1,pinnacle,2.32,1,won,1.32,1.32,1.29,pinnacle,close,legacy_unscored,2026-06-30 23:28
+moneyline_flag_band,2026-07-01 13:45,,Just Players vs SAW,moneyline,SAW,3,pinnacle,4.69,1,won,3.69,5.01,0.44,pinnacle,close,legacy_unscored,2026-06-30 23:29
+moneyline_flag_band,2026-07-01 17:50,,B8 vs MIBR,moneyline,MIBR,1,pinnacle,2.18,1,lost,-1.0,4.01,1.45,pinnacle,close,legacy_unscored,2026-06-30 23:29
+moneyline_flag_band,2026-07-01 22:00,,paiN Academy vs GUARA,moneyline,GUARA,3,pinnacle,4.51,1,lost,-1.0,3.01,-1.0,pinnacle,close,legacy_unscored,2026-07-01 21:35
+moneyline_flag_band,2026-07-02 07:30,,3DMAX vs EYEBALLERS,moneyline,EYEBALLERS,3,bet365,2.0,1,void,0.0,,,,hourly,legacy_unscored,2026-07-01 21:43
+moneyline_flag_band,2026-07-02 08:45,,Alliance vs Ninjas in Pyjamas,moneyline,Alliance,3,pinnacle,2.38,1,void,0.0,,-2.04,pinnacle,close,legacy_unscored,2026-07-02 07:33
+moneyline_flag_band,2026-07-02 09:55,,FaZe vs MIBR,moneyline,FaZe,3,pinnacle,1.781,1,void,0.0,,0.31,pinnacle,hourly,legacy_unscored,2026-07-02 07:34
+moneyline_flag_band,2026-07-02 13:00,,METANOIA Wolves vs VEXA,moneyline,VEXA,3,pinnacle,1.741,1,void,0.0,,0.3,pinnacle,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-02 13:30,,BetBoom vs BIG,moneyline,BetBoom,1,pinnacle,1.581,1,won,0.581,3.591,2.14,pinnacle,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-02 19:05,,Yawara vs Red Feet,moneyline,Red Feet,3,pinnacle,5.68,1,lost,-1.0,2.591,-1.12,pinnacle,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-03 05:25,,EYEBALLERS vs TYLOO,moneyline,EYEBALLERS,3,bet365,2.5,1,lost,-1.0,1.591,,,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 06:30,,Luminosity vs Ninjas in Pyjamas,moneyline,Luminosity,3,bet365,1.83,1,lost,-1.0,0.591,,,hourly,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 08:20,,PARIVISION vs Lynn Vision,moneyline,Lynn Vision,1,bet365,2.75,1,lost,-1.0,-0.409,,,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 10:10,,3DMAX vs 9z,moneyline,3DMAX,1,pinnacle,3.15,1,lost,-1.0,-1.409,1.34,pinnacle,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 13:00,,B8 vs Alliance,moneyline,Alliance,1,bet365,2.75,1,won,1.75,0.341,,,hourly,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 16:20,,BetBoom vs Nemesis,moneyline,Nemesis,3,pinnacle,3.17,1,lost,-1.0,-0.659,1.25,pinnacle,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 19:45,,METANOIA Wolves vs MAGICOS,moneyline,METANOIA Wolves,3,pinnacle,1.313,1,lost,-1.0,-1.659,1.06,pinnacle,hourly,legacy_unscored,2026-07-02 22:38
+moneyline_flag_band,2026-07-04 05:10,,B8 vs Lynn Vision,moneyline,Lynn Vision,3,pinnacle,3.06,1,lost,-1.0,-2.659,-2.04,pinnacle,close,legacy_unscored,2026-07-04 03:48
+moneyline_flag_band,2026-07-04 06:00,,PARIVISION vs MIBR,moneyline,MIBR,3,pinnacle,1.893,1,lost,-1.0,-3.659,-1.36,pinnacle,close,legacy_unscored,2026-07-04 03:48
+moneyline_flag_band,2026-07-04 08:30,,BIG vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,pinnacle,2.04,1,lost,-1.0,-4.659,0.31,pinnacle,close,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 10:35,,Alliance vs 9z,moneyline,9z,3,pinnacle,1.37,1,lost,-1.0,-5.659,-0.31,pinnacle,close,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 11:00,,Endless Journey vs Atreides,moneyline,Endless Journey,3,bet365,2.25,1,won,1.25,-4.409,0.0,bet365,hourly,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 19:05,,paiN Academy vs BESTIA Academy,moneyline,BESTIA Academy,3,pinnacle,2.19,1,won,1.19,-3.219,-7.12,pinnacle,close,legacy_unscored,2026-07-04 07:10
+moneyline_flag_band,2026-07-05 10:00,,B8 vs BIG,moneyline,B8,3,pinnacle,1.813,1,lost,-1.0,-4.219,-0.32,pinnacle,close,legacy_unscored,2026-07-04 21:54
+moneyline_flag_band,2026-07-05 10:30,,Inner Circle Academy vs Honvéd,moneyline,Honvéd,3,bet365,3.4,1,won,2.4,-1.819,0.0,bet365,hourly,legacy_unscored,2026-07-04 21:54
+moneyline_flag_band,2026-07-06 07:32,,illwill vs WBT,moneyline,illwill,3,bet365,1.4,1,void,0.0,,,,hourly,legacy_unscored,2026-07-06 05:54
+moneyline_flag_band,2026-07-06 22:15,,Keyd Stars vs GameHunters,moneyline,GameHunters,3,pinnacle,2.95,1,lost,-1.0,-2.819,,,close,legacy_unscored,2026-07-06 22:12
+moneyline_flag_band,2026-07-08 08:00,,Atreides vs eternal premium,moneyline,eternal premium,3,bet365,3.0,1,lost,-1.0,-3.819,0.0,bet365,hourly,legacy_unscored,2026-07-07 22:43
+moneyline_flag_band,2026-07-08 10:30,,SPARTA vs ENCE,moneyline,ENCE,3,pinnacle,2.75,1,lost,-1.0,-4.819,3.38,pinnacle,hourly,legacy_unscored,2026-07-08 08:31
+moneyline_flag_band,2026-07-08 13:00,,Patins da Ferrari vs Fluxo,moneyline,Patins da Ferrari,3,pinnacle,2.45,1,lost,-1.0,-5.819,-3.85,pinnacle,close,legacy_unscored,2026-07-08 08:32
+moneyline_flag_band,2026-07-08 19:05,,Yawara vs METANOIA Wolves,moneyline,METANOIA Wolves,3,pinnacle,4.32,1,lost,-1.0,-6.819,-4.28,pinnacle,close,legacy_unscored,2026-07-08 08:32
+moneyline_flag_band,2026-07-09 08:00,,GenOne vs BRUTE,moneyline,GenOne,3,pinnacle,1.402,1,lost,-1.0,-7.819,0.3,pinnacle,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 08:05,,TYLOO vs 9z,moneyline,9z,3,pinnacle,1.649,1,won,0.649,-7.17,-3.47,pinnacle,close,legacy_unscored,2026-07-08 22:42
+moneyline_flag_band,2026-07-09 12:10,,Virtus.pro vs Ninjas in Pyjamas,moneyline,Virtus.pro,3,bet365,3.0,1,won,2.0,-5.17,,,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 13:00,,Isurus vs Fake do Biru,moneyline,Isurus,3,pinnacle,2.14,1,won,1.14,-4.03,-8.04,pinnacle,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 16:30,,Inner Circle vs GenOne,moneyline,GenOne,3,bet365,2.62,1,lost,-1.0,-5.03,0.0,bet365,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 16:30,,M80 vs Winners,moneyline,Winners,3,bet365,10.0,1,lost,-1.0,-6.03,-2.02,bet365,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 17:00,,paiN vs METANOIA Wolves,moneyline,METANOIA Wolves,3,bet365,11.0,1,lost,-1.0,-7.03,-1.09,bet365,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 18:20,,EAC vs Magic,moneyline,EAC,3,bet365,8.5,1,lost,-1.0,-8.03,0.0,bet365,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-10 05:00,,Kaleido vs The Huns,moneyline,The Huns,3,bet365,1.66,1,won,0.66,-7.37,0.0,bet365,hourly,legacy_unscored,2026-07-09 23:33
+moneyline_flag_band,2026-07-10 13:00,,B8 vs Virtus.pro,moneyline,Virtus.pro,3,bet365,2.75,1,won,1.75,-5.62,,,close,legacy_unscored,2026-07-09 23:34
+moneyline_flag_band,2026-07-11 11:15,,BASEMENT BOYS vs Enjoy,moneyline,BASEMENT BOYS,3,bet365,2.2,1,won,1.2,-4.42,-3.25,bet365,hourly,legacy_unscored,2026-07-11 05:37
+moneyline_flag_band,2026-07-11 15:30,,mellren vs LPH,moneyline,mellren,3,pinnacle,2.09,1,lost,-1.0,-5.42,0.18,pinnacle,close,legacy_unscored,2026-07-11 05:37
+moneyline_flag_band,2026-07-11 19:00,,Imperial vs Isurus,moneyline,Isurus,3,pinnacle,4.67,1,lost,-1.0,-6.42,-0.5,pinnacle,close,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-11 23:00,,paiN vs Sharks,moneyline,paiN,3,pinnacle,1.578,1,lost,-1.0,-7.42,2.09,pinnacle,close,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-11 23:30,,M80 vs Voca,moneyline,Voca,3,bet365,4.5,1,lost,-1.0,-8.42,-3.56,bet365,hourly,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-12 06:30,,TYLOO vs Lynn Vision,moneyline,Lynn Vision,3,bet365,3.4,1,won,2.4,-6.02,0.0,bet365,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 08:00,,eternal premium vs ENCE,moneyline,eternal premium,3,bet365,2.37,1,lost,-1.0,-7.02,0.0,bet365,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 10:30,,Atreides vs SPARTA,moneyline,Atreides,3,bet365,2.5,1,won,1.5,-5.52,-2.31,bet365,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 13:00,,Bushido Wildcats vs MOUZ NXT,moneyline,Bushido Wildcats,3,bet365,1.66,1,won,0.66,-4.86,,,close,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 13:00,,HOTU vs Vexar,moneyline,Vexar,3,bet365,6.5,1,lost,-1.0,-5.86,,,close,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-12 13:10,,SPARTA vs Noir Verse,moneyline,Noir Verse,3,bet365,3.75,1,lost,-1.0,-6.86,0.0,bet365,hourly,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-12 18:00,,BESTIA vs Keyd Stars,moneyline,BESTIA,3,pinnacle,1.277,1,won,0.277,-6.583,2.4,pinnacle,close,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-13 07:35,,BRUTE vs Honvéd,moneyline,Honvéd,3,bet365,1.66,1,void,0.0,,9.33,bet365,hourly,legacy_unscored,2026-07-13 00:07
+moneyline_flag_band,2026-07-13 13:00,,The Last Resort vs QUAZAR,moneyline,QUAZAR,3,bet365,1.83,1,won,0.83,-5.753,6.31,bet365,hourly,legacy_unscored,2026-07-13 00:08
+moneyline_flag_band,2026-07-13 13:00,,MOUZ NXT vs SPARTA,moneyline,SPARTA,3,pinnacle,1.391,1,won,0.391,-5.362,6.87,pinnacle,close,legacy_unscored,2026-07-13 00:08
+moneyline_flag_band,2026-07-14 10:30,,Honvéd vs GenOne,moneyline,Honvéd,3,bet365,2.62,1,lost,-1.0,-6.362,0.0,bet365,hourly,legacy_unscored,2026-07-14 01:31
+moneyline_flag_band,2026-07-14 11:00,,HOTU vs QUAZAR,moneyline,HOTU,3,pinnacle,1.552,1,won,0.552,-5.81,9.38,pinnacle,close,legacy_unscored,2026-07-14 01:31
+moneyline_flag_band,2026-07-14 16:00,,paiN Academy vs ODDIK,moneyline,ODDIK,3,pinnacle,1.292,1,won,0.292,-5.518,-3.61,pinnacle,hourly,legacy_unscored,2026-07-14 01:32
+moneyline_flag_band,2026-07-14 22:00,,BESTIA Academy vs GUARA,moneyline,GUARA,3,pinnacle,4.45,1,lost,-1.0,-6.518,0.21,pinnacle,close,legacy_unscored,2026-07-14 01:36
+moneyline_flag_band,2026-07-15 08:00,,megoshort vs Julie&Cie,moneyline,Julie&Cie,3,pinnacle,3.64,1,lost,-1.0,-7.518,1.78,pinnacle,close,legacy_unscored,2026-07-15 07:16
+moneyline_flag_band,2026-07-15 10:30,,The Last Resort vs Enjoy,moneyline,The Last Resort,3,bet365,2.62,1,won,1.62,-5.898,6.01,bet365,hourly,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 11:00,,megoshort vs SAW Youngsters,moneyline,SAW Youngsters,3,pinnacle,1.347,1,won,0.347,-5.551,-0.65,pinnacle,close,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 12:00,,3DMAX vs HEROIC,moneyline,3DMAX,3,pinnacle,2.52,1,lost,-1.0,-6.551,1.13,pinnacle,close,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 15:30,,Wildcard vs Gentle Mates,moneyline,Gentle Mates,3,pinnacle,2.15,1,won,1.15,-5.401,-1.66,pinnacle,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-15 16:00,,Bounty Hunters vs Keyd Stars,moneyline,Bounty Hunters,3,pinnacle,1.667,1,won,0.667,-4.734,-5.65,pinnacle,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-15 17:45,,paiN vs Phantom,moneyline,paiN,3,pinnacle,1.461,1,lost,-1.0,-5.734,-0.23,pinnacle,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-16 08:00,,WW vs Just Players,moneyline,Just Players,3,pinnacle,2.26,1,won,1.26,-4.474,-1.58,pinnacle,close,legacy_unscored,2026-07-16 01:22
+moneyline_flag_band,2026-07-16 11:00,,Walczaki vs SPARTA,moneyline,Walczaki,3,bet365,1.36,1,won,0.36,-4.114,-4.46,bet365,hourly,legacy_unscored,2026-07-16 01:23
+moneyline_flag_band,2026-07-16 12:15,,paiN vs 3DMAX,moneyline,paiN,3,pinnacle,1.606,1,lost,-1.0,-5.114,-0.64,pinnacle,close,legacy_unscored,2026-07-16 01:23
+moneyline_flag_band,2026-07-16 14:35,,Gentle Mates vs Ninjas in Pyjamas,moneyline,Gentle Mates,3,pinnacle,2.54,1,lost,-1.0,-6.114,-1.05,pinnacle,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 16:30,,Phantom vs HEROIC,moneyline,Phantom,3,pinnacle,2.86,1,lost,-1.0,-7.114,3.16,pinnacle,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 17:30,,Honvéd vs Subtop De France,moneyline,Honvéd,3,bet365,1.3,1,void,0.0,,2.91,bet365,hourly,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 19:05,,Imperial vs Fluxo,moneyline,Fluxo,3,pinnacle,3.08,1,won,2.08,-5.034,4.26,pinnacle,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-17 07:00,,ARCRED vs The Last Resort,moneyline,The Last Resort,3,bet365,3.25,1,void,0.0,,,,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 08:00,,Bebop vs Endless Journey,moneyline,Endless Journey,3,bet365,1.66,1,won,0.66,-4.374,0.0,bet365,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 08:00,,1win vs GenOne,moneyline,GenOne,3,pinnacle,2.36,1,lost,-1.0,-5.374,0.0,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 10:00,,Gentle Mates vs 3DMAX,moneyline,Gentle Mates,3,pinnacle,2.12,1,lost,-1.0,-6.374,1.12,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 11:00,,BIG Academy vs DONSTU,moneyline,BIG Academy,3,pinnacle,1.377,1,won,0.377,-5.997,-0.05,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 13:00,,GameHunters vs ALKA,moneyline,ALKA,3,pinnacle,2.22,1,lost,-1.0,-6.997,0.0,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 14:00,,ex-MANA vs benched gods,moneyline,benched gods,3,bet365,2.5,1,won,1.5,-5.497,0.0,bet365,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 14:15,,HEROIC vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,pinnacle,1.787,1,lost,-1.0,-6.497,2.03,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 16:05,,Keyd Stars vs Imperial,moneyline,Keyd Stars,3,pinnacle,4.0,1,lost,-1.0,-7.497,-4.72,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 22:00,,Bounty Hunters vs Fluxo,moneyline,Bounty Hunters,3,pinnacle,2.2,1,lost,-1.0,-8.497,-6.98,pinnacle,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-18 00:00,,FlyQuest vs Mindfreak,moneyline,Mindfreak,3,bet365,12.0,1,lost,-1.0,-9.497,0.0,bet365,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 08:00,,Bebop vs DONSTU,moneyline,DONSTU,3,pinnacle,2.4,1,lost,-1.0,-10.497,-0.28,pinnacle,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 10:30,,Nuclear TigeRES vs Atreides,moneyline,Nuclear TigeRES,3,bet365,1.14,1,lost,-1.0,-11.497,0.0,bet365,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 12:00,,Ninjas in Pyjamas vs K27,moneyline,Ninjas in Pyjamas,3,pinnacle,1.588,1,lost,-1.0,-12.497,-1.78,pinnacle,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 14:10,,Endless Journey vs BIG Academy,moneyline,Endless Journey,3,bet365,2.37,1,lost,-1.0,-13.497,0.0,bet365,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 16:00,,Imperial vs ShindeN,moneyline,ShindeN,3,pinnacle,2.4,1,lost,-1.0,-14.497,-1.55,pinnacle,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 17:00,,benched gods vs Misa,moneyline,Misa,3,pinnacle,1.893,1,lost,-1.0,-15.497,2.5,pinnacle,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-19 00:30,,FlyQuest vs Ground Zero,moneyline,Ground Zero,3,bet365,13.0,1,lost,-1.0,-16.497,0.0,bet365,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 11:30,,CYBERSHOKE vs WBT,moneyline,WBT,3,pinnacle,4.84,1,lost,-1.0,-17.497,-0.2,pinnacle,close,legacy_unscored,2026-07-18 21:30
+moneyline_flag_band,2026-07-19 14:00,,Bebop vs Endless Journey,moneyline,Endless Journey,3,bet365,1.8,1,won,0.8,-16.697,0.0,bet365,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 17:00,,ex-MANA vs Misa,moneyline,ex-MANA,3,bet365,2.1,1,lost,-1.0,-17.697,0.0,bet365,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 18:15,,BESTIA Academy vs GameHunters,moneyline,BESTIA Academy,3,bet365,2.37,1,void,0.0,,,,close,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 23:00,,Fluxo vs Imperial,moneyline,Fluxo,5,pinnacle,2.73,1,won,1.73,-15.967,-2.37,pinnacle,close,legacy_unscored,2026-07-19 22:13
+moneyline_flag_band,2026-07-20 08:00,,Just Players vs Walczaki,moneyline,Walczaki,3,bet365,1.3,1,lost,-1.0,-16.967,0.0,bet365,hourly,legacy_unscored,2026-07-20 05:10
+moneyline_flag_band,2026-07-20 10:30,,1win vs ARCRED,moneyline,ARCRED,3,bet365,2.1,1,lost,-1.0,-17.967,2.24,bet365,hourly,legacy_unscored,2026-07-20 05:10
+moneyline_flag_band,2026-07-20 16:00,,paiN Academy vs GUARA,moneyline,GUARA,3,pinnacle,3.45,1,void,0.0,,0.15,pinnacle,close,legacy_unscored,2026-07-20 13:44
+moneyline_flag_band,2026-07-20 22:00,,Grêmio vs METANOIA Wolves,moneyline,METANOIA Wolves,3,pinnacle,1.926,1,lost,-1.0,-18.967,-5.63,pinnacle,close,legacy_unscored,2026-07-20 21:46
+moneyline_flag_band,2026-07-21 10:00,,M80 vs Ninjas in Pyjamas,moneyline,M80,3,pinnacle,2.01,1,lost,-1.0,-19.967,0.45,pinnacle,close,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 10:00,,Magic vs Walczaki,moneyline,Walczaki,3,bet365,3.4,1,lost,-1.0,-20.967,0.0,bet365,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 11:00,,Honvéd vs Julie&Cie,moneyline,Julie&Cie,3,bet365,7.5,1,void,0.0,,0.0,bet365,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 12:15,,Nemesis vs Astralis,moneyline,Astralis,3,pinnacle,1.552,1,won,0.552,-20.415,0.39,pinnacle,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 14:10,,Enjoy vs QUAZAR,moneyline,QUAZAR,3,bet365,1.57,1,won,0.57,-19.845,,,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 15:35,,Nuclear TigeRES vs MOUZ,moneyline,Nuclear TigeRES,3,pinnacle,5.34,1,lost,-1.0,-20.845,2.35,pinnacle,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 16:00,,ODDIK vs Red Feet,moneyline,Red Feet,3,bet365,7.0,1,lost,-1.0,-21.845,0.0,bet365,hourly,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 17:55,,Alliance vs Wildcard,moneyline,Wildcard,3,pinnacle,2.53,1,won,1.53,-20.315,-1.19,pinnacle,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-22 10:00,,EYEBALLERS vs FaZe,moneyline,FaZe,3,pinnacle,1.294,1,won,0.294,-20.021,3.42,pinnacle,close,eligible,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 10:00,,Aurora vs K27,moneyline,K27,3,bet365,4.5,1,lost,-1.0,-21.021,0.0,bet365,hourly,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 11:10,,Eternal Fire vs CYBERSHOKE,moneyline,CYBERSHOKE,3,pinnacle,1.885,1,lost,-1.0,-22.021,-1.11,pinnacle,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 12:18,,Nemiga vs G2,moneyline,Nemiga,3,pinnacle,6.53,1,lost,-1.0,-23.021,1.48,pinnacle,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 13:15,,INFINITE vs Nemesis,moneyline,INFINITE,3,bet365,3.25,1,lost,-1.0,-24.021,-2.57,bet365,hourly,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 14:10,,INOX Division vs Endless Journey,moneyline,INOX Division,3,bet365,1.53,1,won,0.53,-23.491,4.06,bet365,hourly,eligible,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 15:30,,HOTU vs GamerLegion,moneyline,GamerLegion,3,pinnacle,1.538,1,lost,-1.0,-24.491,-1.73,pinnacle,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 16:20,,Nuclear TigeRES vs Echo,moneyline,Echo,3,pinnacle,2.54,1,won,1.54,-22.951,-3.3,pinnacle,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-23 08:00,,Just Players vs CYBERSHOKE,moneyline,CYBERSHOKE,3,pinnacle,1.402,1,won,0.402,-22.549,4.34,pinnacle,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 10:00,,Walczaki vs 3DMAX,moneyline,Walczaki,3,bet365,2.75,1,won,1.75,-20.799,-4.68,bet365,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 13:55,,Ninjas in Pyjamas vs Echo,moneyline,Echo,3,bet365,2.75,1,lost,-1.0,-21.799,,,close,no_bet,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 14:00,,Just Players vs Endless Journey,moneyline,Endless Journey,3,bet365,2.37,1,lost,-1.0,-22.799,0.0,bet365,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 15:50,,Gentle Mates vs paiN,moneyline,paiN,3,pinnacle,1.662,1,won,0.662,-22.137,-1.65,pinnacle,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 17:00,,CYBERSHOKE Prospects vs benched gods,moneyline,CYBERSHOKE Prospects,3,bet365,1.57,1,lost,-1.0,-23.137,,,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 17:20,,Misa vs Rounds,moneyline,Rounds,3,bet365,3.5,1,lost,-1.0,-24.137,,,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-24 08:00,,1win vs Eternal Fire,moneyline,1win,5,pinnacle,2.15,1,lost,-1.0,-25.137,0.57,pinnacle,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 11:00,,SPARTA vs Atreides,moneyline,SPARTA,3,bet365,1.57,1,lost,-1.0,-26.137,0.0,bet365,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 11:00,,megoshort vs Rounds,moneyline,megoshort,3,bet365,1.83,1,lost,-1.0,-27.137,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 12:56,,Fake do Biru vs BORRACHEIROS,moneyline,BORRACHEIROS,3,pinnacle,3.33,1,void,0.0,,12.1,pinnacle,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 13:00,,Nemesis vs INFINITE,moneyline,INFINITE,3,bet365,3.5,1,won,2.5,-24.637,7.24,bet365,hourly,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 13:00,,Nuclear TigeRES vs Echo,moneyline,Echo,3,bet365,2.0,1,won,1.0,-23.637,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 15:50,,Liquid vs Vitality,moneyline,Liquid,3,bet365,9.0,1,won,8.0,-15.637,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:00,,Bounty Hunters vs ODDIK,moneyline,ODDIK,3,pinnacle,2.45,1,won,1.45,-14.187,-0.52,pinnacle,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:00,,Gentle Mates vs Walczaki,moneyline,Walczaki,3,bet365,2.5,1,lost,-1.0,-15.187,13.33,bet365,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:15,,Astralis vs HEROIC,moneyline,Astralis,3,bet365,1.72,1,lost,-1.0,-16.187,,,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 18:00,,Sharks vs FURIA,moneyline,Sharks,3,bet365,5.5,1,won,4.5,-11.687,,,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 19:15,,Keyd Stars vs ALKA,moneyline,Keyd Stars,3,bet365,1.57,1,won,0.57,-11.117,,,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-25 11:00,,benched gods vs NEW VISION,moneyline,benched gods,3,bet365,1.44,1,lost,-1.0,-12.117,0.0,bet365,hourly,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 14:10,,Black Phoenix vs Just Players,moneyline,Just Players,3,bet365,1.57,1,void,0.0,,,,close,no_bet,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 14:45,,HOTU vs Astralis,moneyline,Astralis,3,pinnacle,1.847,1,won,0.847,-11.27,7.08,pinnacle,close,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 17:00,,ex-MANA vs megoshort,moneyline,megoshort,3,bet365,2.75,1,won,1.75,-9.52,-6.22,bet365,hourly,no_bet,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,moneyline,Rune Eaters,3,bet365,1.66,1,lost,-1.0,-10.52,,,close,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-26 10:00,,Ninjas in Pyjamas vs paiN,moneyline,paiN,3,bet365,2.37,1,won,1.37,-9.15,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 11:10,,NEW VISION vs ex-MANA,moneyline,ex-MANA,3,bet365,2.0,1,won,1.0,-8.15,0.0,bet365,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 13:00,,HOTU vs Aurora,moneyline,Aurora,3,bet365,1.4,1,won,0.4,-7.75,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 15:00,,LP vs ODDIK,moneyline,LP,3,pinnacle,1.518,1,lost,-1.0,-8.75,3.78,pinnacle,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:30,,Magic vs Ninjas in Pyjamas,moneyline,Magic,3,bet365,2.0,1,won,1.0,-7.75,0.0,bet365,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:45,,100 Thieves vs Spirit,moneyline,Spirit,3,bet365,1.1,1,won,0.1,-7.65,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 18:20,,EAC vs Atreides,moneyline,EAC,3,bet365,2.1,1,won,1.1,-6.55,0.0,bet365,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-27 14:00,,GenOne vs SPARTA,moneyline,GenOne,3,pinnacle,1.671,1,won,0.671,-5.879,4.57,pinnacle,close,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-27 17:05,,Bebop vs Falcons Force,moneyline,Falcons Force,3,pinnacle,2.51,1,won,1.51,-4.369,2.63,pinnacle,close,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-27 18:45,,NAVI Junior vs MOUZ NXT,moneyline,NAVI Junior,1,pinnacle,2.4,1,won,1.4,-2.969,2.22,pinnacle,hourly,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-28 10:20,,ASTRAL vs NAVI Junior,moneyline,ASTRAL,3,pinnacle,1.541,1,won,0.541,-2.428,6.67,pinnacle,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 11:00,,Atreides vs ex-RUSTEC,moneyline,ex-RUSTEC,3,bet365,2.5,1,won,1.5,-0.928,0.0,bet365,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 15:00,,MIBR vs Fluxo,moneyline,Fluxo,3,pinnacle,3.34,1,lost,-1.0,-1.928,-0.42,pinnacle,close,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 17:00,,SPARTA vs G2 Ares,moneyline,G2 Ares,3,bet365,2.1,1,lost,-1.0,-2.928,0.0,bet365,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 17:00,,Misa vs Falcons Force,moneyline,Misa,3,bet365,1.8,1,lost,-1.0,-3.928,,,close,no_bet,2026-07-28 00:25
+bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,pinnacle,1.364,1,won,0.364,,2.48,pinnacle,,ineligible,2026-07-22 06:05
+bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,pinnacle,1.769,1,won,0.769,0.769,1.36,pinnacle,,selected,2026-07-22 03:09
+bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,pinnacle,2.84,1,won,1.84,,-1.39,pinnacle,,ineligible,2026-07-22 03:09
+bo3_dog_plus_1_5_v0,2026-07-22 12:30,,Nemiga vs G2,+1.5 maps,Nemiga,3,pinnacle,2.52,1,won,1.52,,3.61,pinnacle,,ineligible,2026-07-22 03:09
+bo3_dog_plus_1_5_v0,2026-07-22 16:00,,Nuclear TigeRES vs Echo,+1.5 maps,Echo,3,pinnacle,1.549,1,won,0.549,,-1.28,pinnacle,,ineligible,2026-07-22 03:09
+bo3_dog_plus_1_5_v0,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,pinnacle,1.746,1,won,0.746,1.515,2.38,pinnacle,,selected,2026-07-22 03:09
+bo3_dog_plus_1_5_v0,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,+1.5 maps,Echo,3,pinnacle,1.725,1,lost,-1.0,,0.42,pinnacle,,ineligible,2026-07-23 02:08
+bo3_dog_plus_1_5_v0,2026-07-23 13:00,,100 Thieves vs Nuclear TigeRES,+1.5 maps,Nuclear TigeRES,3,pinnacle,1.469,1,won,0.469,,1.48,pinnacle,,ineligible,2026-07-23 02:08
+bo3_dog_plus_1_5_v0,2026-07-23 17:00,,Misa vs Rounds,+1.5 maps,Rounds,3,pinnacle,1.877,1,lost,-1.0,0.515,-5.92,pinnacle,,selected,2026-07-23 02:08
+bo3_dog_plus_1_5_v0,2026-07-24 11:00,,megoshort vs Rounds,+1.5 maps,Rounds,3,pinnacle,1.418,1,won,0.418,,1.92,pinnacle,,ineligible,2026-07-24 06:06
+bo3_dog_plus_1_5_v0,2026-07-24 11:30,,HEROIC vs The MongolZ,+1.5 maps,The MongolZ,3,pinnacle,1.433,1,won,0.433,,1.11,pinnacle,,quarantined,2026-07-24 00:05
+bo3_dog_plus_1_5_v0,2026-07-24 13:00,,Nuclear TigeRES vs Echo,+1.5 maps,Echo,3,pinnacle,1.388,1,won,0.388,,-3.64,pinnacle,,ineligible,2026-07-24 01:04
+bo3_dog_plus_1_5_v0,2026-07-24 16:00,,Bounty Hunters vs ODDIK,+1.5 maps,ODDIK,3,pinnacle,1.503,1,won,0.503,1.018,0.47,pinnacle,,selected,2026-07-23 22:06
+bo3_dog_plus_1_5_v0,2026-07-24 17:00,,Privateer vs Misa,+1.5 maps,Privateer,3,pinnacle,1.483,1,lost,-1.0,,-0.52,pinnacle,,ineligible,2026-07-24 07:06
+bo3_dog_plus_1_5_v0,2026-07-25 11:00,,Enjoy vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,pinnacle,1.437,1,won,0.437,1.455,5.55,pinnacle,,selected,2026-07-25 02:05
+bo3_dog_plus_1_5_v0,2026-07-25 13:00,,Aurora vs Echo,+1.5 maps,Echo,3,pinnacle,2.19,1,lost,-1.0,0.455,0.65,pinnacle,,selected,2026-07-25 08:05
+bo3_dog_plus_1_5_v0,2026-07-25 16:00,,BESTIA Academy vs Isurus,+1.5 maps,BESTIA Academy,3,pinnacle,1.518,1,lost,-1.0,-0.545,0.0,pinnacle,,selected,2026-07-25 05:06
+bo3_dog_plus_1_5_v0,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,pinnacle,2.04,1,won,1.04,0.495,3.09,pinnacle,,selected,2026-07-25 05:06
+bo3_dog_plus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,+1.5 maps,Ninjas in Pyjamas,3,pinnacle,1.318,1,won,0.318,0.813,,,,selected,2026-07-25 07:05
+bo3_dog_plus_1_5_v0,2026-07-27 14:00,,Black Phoenix vs Misa,+1.5 maps,Misa,3,pinnacle,1.633,1,won,0.633,,0.18,pinnacle,,quarantined,2026-07-26 23:05
+bo3_dog_plus_1_5_v0,2026-07-27 14:00,,ex-RUSTEC vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.478,1,won,0.478,,0.17,pinnacle,,quarantined,2026-07-27 03:05
+bo3_dog_plus_1_5_v0,2026-07-27 17:00,,Bebop vs Falcons Force,+1.5 maps,Falcons Force,3,pinnacle,1.524,1,won,0.524,1.337,2.33,pinnacle,,selected,2026-07-26 23:05
+bo3_dog_plus_1_5_v0,2026-07-27 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.588,1,lost,-1.0,,3.02,pinnacle,,quarantined,2026-07-27 13:06
+bo3_dog_plus_1_5_v0,2026-07-28 08:00,,Black Phoenix vs Enjoy,+1.5 maps,Enjoy,3,pinnacle,1.36,1,won,0.36,1.697,-5.45,pinnacle,,selected,2026-07-27 22:05
+bo3_dog_plus_1_5_v0,2026-07-28 11:00,,Black Phoenix vs Bebop,+1.5 maps,Bebop,3,pinnacle,1.353,1,won,0.353,,0.71,pinnacle,,ineligible,2026-07-28 04:07
+bo3_dog_plus_1_5_v0,2026-07-28 15:00,,MIBR vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.813,1,lost,-1.0,0.697,0.43,pinnacle,,selected,2026-07-28 01:06
+bo3_dog_plus_1_5_v0,2026-07-28 17:00,,Misa vs Falcons Force,+1.5 maps,Misa,3,pinnacle,1.312,1,lost,-1.0,,-0.11,pinnacle,,ineligible,2026-07-28 11:05
+bo3_dog_plus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,+1.5 maps,LP,3,pinnacle,1.287,1,won,0.287,,0.0,pinnacle,,quarantined,2026-07-28 03:05
+bo3_dog_plus_1_5_v0,2026-07-28 21:00,,Imperial vs BESTIA,+1.5 maps,BESTIA,3,pinnacle,1.426,1,lost,-1.0,-0.303,0.94,pinnacle,,selected,2026-07-27 22:05
+bo3_dog_plus_1_5_v0,2026-07-29 01:00,,regain vs Voca,+1.5 maps,regain,3,pinnacle,2.18,1,lost,-1.0,,,,,quarantined,2026-07-29 00:05
+bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,pinnacle,2.11,1,won,1.11,1.11,4.25,pinnacle,,selected,2026-07-22 03:09
+bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,2.86,1,lost,-1.0,,-3.76,pinnacle,,ineligible,2026-07-22 03:09
+bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,pinnacle,1.794,1,lost,-1.0,,1.87,pinnacle,,ineligible,2026-07-23 06:07
+bo3_fav_minus_1_5_v0,2026-07-23 11:00,,NEW VISION vs benched gods,-1.5 maps,benched gods,3,pinnacle,3.05,1,lost,-1.0,,11.16,pinnacle,,quarantined,2026-07-23 02:08
+bo3_fav_minus_1_5_v0,2026-07-23 15:00,,Gentle Mates vs paiN,-1.5 maps,paiN,3,pinnacle,2.89,1,won,1.89,3.0,-1.61,pinnacle,,selected,2026-07-23 02:08
+bo3_fav_minus_1_5_v0,2026-07-23 16:00,,HEROIC vs FOKUS,-1.5 maps,HEROIC,3,pinnacle,2.63,1,won,1.63,,0.45,pinnacle,,ineligible,2026-07-23 14:10
+bo3_fav_minus_1_5_v0,2026-07-23 17:00,,CYBERSHOKE Prospects vs benched gods,-1.5 maps,CYBERSHOKE Prospects,3,pinnacle,2.74,1,lost,-1.0,2.0,2.42,pinnacle,,selected,2026-07-23 05:15
+bo3_fav_minus_1_5_v0,2026-07-24 09:00,,Magic vs 3DMAX,-1.5 maps,Magic,3,pinnacle,2.64,1,lost,-1.0,1.0,-1.49,pinnacle,,selected,2026-07-24 06:06
+bo3_fav_minus_1_5_v0,2026-07-24 16:00,,Astralis vs HEROIC,-1.5 maps,Astralis,3,pinnacle,3.16,1,lost,-1.0,0.0,0.0,pinnacle,,selected,2026-07-24 01:04
+bo3_fav_minus_1_5_v0,2026-07-25 12:30,,Liquid vs G2,-1.5 maps,G2,3,pinnacle,2.76,1,lost,-1.0,,4.04,pinnacle,,quarantined,2026-07-25 04:06
+bo3_fav_minus_1_5_v0,2026-07-25 14:00,,Black Phoenix vs Just Players,-1.5 maps,Just Players,3,pinnacle,2.68,1,won,1.68,,-3.2,pinnacle,,ineligible,2026-07-25 10:05
+bo3_fav_minus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,3.03,1,lost,-1.0,-1.0,-1.92,pinnacle,,selected,2026-07-25 09:07
+bo3_fav_minus_1_5_v0,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,-1.5 maps,Rune Eaters,3,pinnacle,2.86,1,lost,-1.0,-2.0,-3.35,pinnacle,,selected,2026-07-25 02:05
+bo3_fav_minus_1_5_v0,2026-07-25 17:30,,FOKUS vs MOUZ,-1.5 maps,MOUZ,3,pinnacle,1.813,1,won,0.813,,0.94,pinnacle,,ineligible,2026-07-25 04:06
+bo3_fav_minus_1_5_v0,2026-07-25 19:00,,Fluxo vs Keyd Stars,-1.5 maps,Fluxo,3,pinnacle,2.14,1,won,1.14,,-4.61,pinnacle,,ineligible,2026-07-25 10:05
+bo3_fav_minus_1_5_v0,2026-07-26 13:00,,HOTU vs Aurora,-1.5 maps,Aurora,3,pinnacle,2.11,1,lost,-1.0,-3.0,-1.31,pinnacle,,selected,2026-07-25 22:05
+bo3_fav_minus_1_5_v0,2026-07-26 15:00,,Wildcard vs The MongolZ,-1.5 maps,The MongolZ,3,pinnacle,2.48,1,won,1.48,,-2.45,pinnacle,,ineligible,2026-07-26 05:04
+bo3_fav_minus_1_5_v0,2026-07-26 17:30,,100 Thieves vs Spirit,-1.5 maps,Spirit,3,pinnacle,1.629,1,lost,-1.0,,-0.34,pinnacle,,ineligible,2026-07-25 22:05
+bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,-1.13,3.92,pinnacle,,selected,2026-07-27 03:05
+bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,0.41,6.3,pinnacle,,selected,2026-07-28 07:06
+bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,-0.59,-1.75,pinnacle,,selected,2026-07-27 22:05
+bo3_fav_minus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,-1.5 maps,LP,3,pinnacle,3.0,1,lost,-1.0,,0.47,pinnacle,,quarantined,2026-07-27 22:05
+bo3_dog_plus_1_5_tp_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,thunderpick,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
+bo3_dog_plus_1_5_tp_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,thunderpick,1.4,1,won,0.4,0.4,0.0,tp_self,,selected,2026-07-28 14:05
+bo3_dog_plus_1_5_tp_v0,2026-07-28 19:00,,RED Canids Academy vs Grêmio,+1.5 maps,Grêmio,3,thunderpick,1.67,1,won,0.67,,10.02,tp_self,,quarantined,2026-07-28 06:06
+bo3_fav_minus_1_5_tp_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,thunderpick,2.39,1,won,1.39,1.39,1.01,tp_self,,selected,2026-07-28 01:06
+bo3_fav_minus_1_5_tp_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,thunderpick,2.95,1,won,1.95,,-0.45,tp_self,,ineligible,2026-07-28 01:06
+bo3_fav_minus_1_5_tp_v0,2026-07-28 21:00,,ALKA vs QUINTESSÊNCIA,-1.5 maps,ALKA,3,thunderpick,1.93,1,lost,-1.0,,1.75,tp_self,,ineligible,2026-07-28 01:06
+bo3_fav_minus_1_5_tp_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,thunderpick,2.8,1,won,1.8,,6.76,tp_self,,quarantined,2026-07-28 01:06
+map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,pinnacle,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
+map1_specials_v1,2026-07-19 16:00,CCT South America,BORRACHEIROS vs METANOIA Wolves,map1_moneyline,BORRACHEIROS,3,pinnacle,1.752,1,void,0.0,,,,,selected,2026-07-19 15:03
+map1_specials_v1,2026-07-19 19:00,CCT South America,BESTIA Academy vs GameHunters,map1_moneyline,BESTIA Academy,3,pinnacle,2.15,1,void,0.0,,,,,selected,2026-07-19 06:04
+map1_specials_v1,2026-07-19 22:00,CCT South America,Patins da Ferrari vs ODDIK,map1_moneyline,ODDIK,3,pinnacle,1.833,1,lost,-1.0,-2.0,,,,selected,2026-07-19 06:04
+map1_specials_v1,2026-07-20 14:00,CCT Europe Series Closed Qualifier,SAW Youngsters vs Misa,map1_moneyline,SAW Youngsters,3,pinnacle,2.05,1,won,1.05,-0.95,,,,selected,2026-07-20 04:04
+map1_specials_v1,2026-07-20 16:00,,paiN Academy vs GUARA,map1_moneyline,GUARA,3,pinnacle,2.79,1,void,0.0,,,,,selected,2026-07-20 06:04
+map1_specials_v1,2026-07-20 19:00,,MAGICOS vs Blitzkrieg,map1_moneyline,Blitzkrieg,3,pinnacle,2.74,1,void,0.0,,,,,selected,2026-07-20 06:04
+map1_specials_v1,2026-07-21 10:00,BLAST Bounty Qualifier,M80 vs Ninjas in Pyjamas,map1_moneyline,M80,3,pinnacle,1.943,1,lost,-1.0,-1.95,,,,selected,2026-07-21 00:03
+map1_specials_v1,2026-07-21 13:00,StarLadder StarSeries Fall Europe Qualifier,HOTU vs HEROIC,map1_moneyline,HOTU,3,pinnacle,2.64,1,lost,-1.0,-2.95,,,,selected,2026-07-20 04:04
+map1_specials_v1,2026-07-21 13:00,StarLadder StarSeries Fall Europe Qualifier,3DMAX vs Gentle Mates,map1_moneyline,Gentle Mates,3,pinnacle,2.22,1,lost,-1.0,-3.95,,,,selected,2026-07-20 04:04
+map1_specials_v1,2026-07-21 15:00,BLAST Bounty Qualifier,Nuclear TigeRES vs MOUZ,map1_moneyline,Nuclear TigeRES,3,pinnacle,3.33,1,lost,-1.0,-4.95,,,,selected,2026-07-20 07:04
+map1_specials_v1,2026-07-21 15:30,BLAST Bounty Qualifier,Nuclear TigeRES vs MOUZ,map1_moneyline,Nuclear TigeRES,3,pinnacle,3.21,1,lost,-1.0,-5.95,,,,selected,2026-07-21 15:05
+map1_specials_v1,2026-07-21 16:00,StarLadder StarSeries Fall Europe Qualifier,Astralis vs FOKUS,map1_moneyline,FOKUS,3,pinnacle,3.01,1,won,2.01,-3.94,,,,selected,2026-07-20 04:04
+map1_specials_v1,2026-07-21 17:00,CCT Europe Series Closed Qualifier,Fortress vs SAW Youngsters,map1_moneyline,Fortress,3,pinnacle,2.68,1,lost,-1.0,-4.94,,,,selected,2026-07-21 04:04
+map1_specials_v1,2026-07-22 08:00,European Pro League,Just Players vs 1win,map1_moneyline,Just Players,3,pinnacle,2.59,1,won,1.59,-3.35,-0.05,specials_hourly,specials_hourly,selected,2026-07-22 01:04
+map1_specials_v1,2026-07-22 10:30,European Pro League,Eternal Fire vs CYBERSHOKE,map1_moneyline,CYBERSHOKE,3,pinnacle,2.0,1,lost,-1.0,-4.35,2.41,specials_hourly,specials_hourly,selected,2026-07-22 06:04
+map1_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map1_moneyline,SAW Youngsters,3,pinnacle,2.7,1,lost,-1.0,,,,,quarantined,2026-07-21 21:04
+map1_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map1_moneyline,Fortress,3,pinnacle,4.38,1,won,3.38,,-0.56,specials_hourly,specials_hourly,quarantined,2026-07-22 02:05
+map1_specials_v1,2026-07-22 12:30,BLAST Bounty Qualifier,Nemiga vs G2,map1_moneyline,Nemiga,3,pinnacle,3.74,1,won,2.74,-1.61,,,,selected,2026-07-21 08:05
+map1_specials_v1,2026-07-22 13:00,StarLadder StarSeries Fall Europe Qualifier,Ninjas in Pyjamas vs 100 Thieves,map1_moneyline,Ninjas in Pyjamas,3,pinnacle,1.82,1,lost,-1.0,-2.61,,,,selected,2026-07-21 21:04
+map1_specials_v1,2026-07-22 15:00,BLAST Bounty Qualifier,HOTU vs GamerLegion,map1_moneyline,HOTU,3,pinnacle,2.28,1,won,1.28,-1.33,,,,selected,2026-07-21 08:05
+map1_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map1_moneyline,Echo,3,pinnacle,2.22,1,won,1.22,-0.11,,,,selected,2026-07-21 21:04
+map1_specials_v1,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,map1_moneyline,SAW Youngsters,3,pinnacle,2.68,1,lost,-1.0,,1.84,specials_hourly,specials_hourly,quarantined,2026-07-22 03:04
+map1_specials_v1,2026-07-22 19:00,CCT South America,Procyon vs MAGICOS,map1_moneyline,MAGICOS,3,pinnacle,2.64,1,lost,-1.0,-1.11,,,,selected,2026-07-22 18:04
+map1_specials_v1,2026-07-22 19:10,CCT South America,Procyon vs MAGICOS,map1_moneyline,MAGICOS,3,pinnacle,2.64,1,lost,-1.0,-2.11,,,,selected,2026-07-22 19:03
+map1_specials_v1,2026-07-23 08:00,European Pro League,Just Players vs CYBERSHOKE,map1_moneyline,Just Players,3,pinnacle,2.59,1,lost,-1.0,-3.11,-0.77,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map1_specials_v1,2026-07-23 10:00,BLAST Bounty Qualifier,Aurora vs FOKUS,map1_moneyline,Aurora,3,pinnacle,1.413,1,lost,-1.0,-4.11,1.96,specials_hourly,specials_hourly,selected,2026-07-22 19:03
+map1_specials_v1,2026-07-23 11:00,,NEW VISION vs benched gods,map1_moneyline,benched gods,3,pinnacle,1.82,1,lost,-1.0,,9.97,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map1_specials_v1,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,map1_moneyline,Echo,3,pinnacle,2.5,1,lost,-1.0,-5.11,1.72,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map1_specials_v1,2026-07-23 13:00,StarLadder StarSeries Fall Europe Qualifier,100 Thieves vs Nuclear TigeRES,map1_moneyline,Nuclear TigeRES,3,pinnacle,2.44,1,won,1.44,-3.67,1.81,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map1_specials_v1,2026-07-23 14:00,,megoshort vs Privateer,map1_moneyline,Privateer,3,pinnacle,1.719,1,won,0.719,-2.951,0.0,specials_hourly,specials_hourly,selected,2026-07-23 03:04
+map1_specials_v1,2026-07-23 16:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map1_moneyline,FOKUS,3,pinnacle,2.5,1,lost,-1.0,-3.951,,,,selected,2026-07-21 22:03
+map1_specials_v1,2026-07-23 16:00,,Fluxo vs paiN Academy,map1_moneyline,paiN Academy,3,pinnacle,4.69,1,lost,-1.0,,0.68,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map1_specials_v1,2026-07-23 17:00,CCT Europe Series Closed Qualifier,Misa vs Rounds,map1_moneyline,Rounds,3,pinnacle,2.9,1,lost,-1.0,-4.951,-4.11,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map1_specials_v1,2026-07-23 19:00,,Imperial vs BESTIA Academy,map1_moneyline,BESTIA Academy,3,pinnacle,5.32,1,lost,-1.0,,3.27,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map1_specials_v1,2026-07-24 09:00,BLAST Bounty Qualifier,Magic vs 3DMAX,map1_moneyline,Magic,3,pinnacle,1.741,1,won,0.741,-4.21,-1.93,specials_hourly,specials_hourly,selected,2026-07-24 06:06
+map1_specials_v1,2026-07-24 11:00,,megoshort vs Rounds,map1_moneyline,Rounds,3,pinnacle,1.98,1,lost,-1.0,-5.21,-1.35,specials_hourly,specials_hourly,selected,2026-07-24 05:05
+map1_specials_v1,2026-07-24 11:30,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map1_moneyline,The MongolZ,3,pinnacle,2.27,1,lost,-1.0,,0.96,specials_hourly,specials_hourly,quarantined,2026-07-24 00:04
+map1_specials_v1,2026-07-24 12:15,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map1_moneyline,The MongolZ,3,pinnacle,2.29,1,lost,-1.0,,,,,quarantined,2026-07-24 12:06
+map1_specials_v1,2026-07-24 13:00,,Fake do Biru vs BORRACHEIROS,map1_moneyline,BORRACHEIROS,3,pinnacle,2.79,1,void,0.0,,9.57,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map1_specials_v1,2026-07-24 13:00,,Nuclear TigeRES vs Echo,map1_moneyline,Echo,3,pinnacle,1.98,1,won,0.98,-4.23,-2.91,specials_hourly,specials_hourly,selected,2026-07-24 01:04
+map1_specials_v1,2026-07-24 14:00,BLAST Bounty Qualifier,Liquid vs Vitality,map1_moneyline,Vitality,3,pinnacle,1.298,1,lost,-1.0,-5.23,1.9,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map1_specials_v1,2026-07-24 16:00,,Bounty Hunters vs ODDIK,map1_moneyline,ODDIK,3,pinnacle,2.27,1,won,1.27,,0.41,specials_hourly,specials_hourly,quarantined,2026-07-23 19:05
+map1_specials_v1,2026-07-24 17:00,,Privateer vs Misa,map1_moneyline,Privateer,3,pinnacle,2.23,1,lost,-1.0,-6.23,-0.4,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map1_specials_v1,2026-07-24 19:00,CCT South America,Keyd Stars vs ALKA,map1_moneyline,ALKA,3,pinnacle,2.11,1,lost,-1.0,-7.23,-4.99,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map1_specials_v1,2026-07-24 22:00,,LP vs MAGICOS,map1_moneyline,MAGICOS,3,pinnacle,5.32,1,lost,-1.0,-8.23,3.63,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map1_specials_v1,2026-07-25 11:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map1_moneyline,SAW Youngsters,3,pinnacle,2.14,1,lost,-1.0,-9.23,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map1_specials_v1,2026-07-25 12:30,BLAST Bounty Closed Qualifier,Liquid vs G2,map1_moneyline,G2,3,pinnacle,1.769,1,lost,-1.0,-10.23,4.94,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map1_specials_v1,2026-07-25 13:00,,Aurora vs Echo,map1_moneyline,Echo,3,pinnacle,2.87,1,lost,-1.0,-11.23,-4.39,specials_hourly,specials_hourly,selected,2026-07-25 07:05
+map1_specials_v1,2026-07-25 13:00,,BORRACHEIROS vs ODDIK,map1_moneyline,BORRACHEIROS,3,pinnacle,3.14,1,lost,-1.0,-12.23,3.35,specials_hourly,specials_hourly,selected,2026-07-25 08:04
+map1_specials_v1,2026-07-25 14:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map1_moneyline,SAW Youngsters,3,pinnacle,2.14,1,lost,-1.0,-13.23,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map1_specials_v1,2026-07-25 14:00,CCT Europe Series 5,Black Phoenix vs Just Players,map1_moneyline,Black Phoenix,3,pinnacle,2.15,1,lost,-1.0,-14.23,2.97,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map1_specials_v1,2026-07-25 15:00,BLAST Bounty Closed Qualifier,HOTU vs Astralis,map1_moneyline,HOTU,3,pinnacle,2.01,1,lost,-1.0,-15.23,-2.63,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map1_specials_v1,2026-07-25 16:00,StarLadder StarSeries Fall Europe Closed Qualifier,Ninjas in Pyjamas vs HEROIC,map1_moneyline,Ninjas in Pyjamas,3,pinnacle,2.0,1,lost,-1.0,-16.23,1.21,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map1_specials_v1,2026-07-25 16:00,,BESTIA Academy vs Isurus,map1_moneyline,BESTIA Academy,3,pinnacle,2.29,1,lost,-1.0,-17.23,0.0,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map1_specials_v1,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,map1_moneyline,BORRACHEIROS,3,pinnacle,3.14,1,lost,-1.0,-18.23,5.04,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map1_specials_v1,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,map1_moneyline,Rune Eaters,3,pinnacle,1.813,1,won,0.813,-17.417,-1.1,specials_hourly,specials_hourly,selected,2026-07-25 03:05
+map1_specials_v1,2026-07-25 19:00,CCT South America,Fluxo vs Keyd Stars,map1_moneyline,Keyd Stars,3,pinnacle,2.86,1,lost,-1.0,-18.417,7.59,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map1_specials_v1,2026-07-25 22:00,CCT South America,BESTIA Academy vs Isurus,map1_moneyline,BESTIA Academy,3,pinnacle,2.29,1,lost,-1.0,-19.417,-2.79,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map1_specials_v1,2026-07-26 14:00,,QUAZAR vs NEW VISION,map1_moneyline,NEW VISION,3,pinnacle,3.13,1,won,2.13,-17.287,7.24,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map1_specials_v1,2026-07-26 15:00,CCT South America,LP vs ODDIK,map1_moneyline,ODDIK,3,pinnacle,2.54,1,lost,-1.0,-18.287,2.75,specials_hourly,specials_hourly,selected,2026-07-26 08:05
+map1_specials_v1,2026-07-26 18:00,,Fluxo vs Isurus,map1_moneyline,Isurus,3,pinnacle,2.88,1,lost,-1.0,-19.287,-1.13,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map1_specials_v1,2026-07-27 14:00,TP World Championship Europe,Black Phoenix vs Misa,map1_moneyline,Misa,3,pinnacle,2.5,1,lost,-1.0,,-0.78,specials_hourly,specials_hourly,quarantined,2026-07-26 20:03
+map1_specials_v1,2026-07-27 14:00,CCT Europe Series,ex-RUSTEC vs Inner Circle Academy,map1_moneyline,Inner Circle Academy,3,pinnacle,2.23,1,won,1.23,-18.057,0.25,specials_hourly,specials_hourly,selected,2026-07-27 03:05
+map1_specials_v1,2026-07-27 15:30,Urban Riga Open,BRUTE vs NAVI Junior,map1_moneyline,NAVI Junior,1,pinnacle,2.7,1,lost,-1.0,-19.057,-3.06,specials_hourly,specials_hourly,selected,2026-07-26 05:04
+map1_specials_v1,2026-07-27 16:30,Urban Riga Open,BRUTE vs MOUZ NXT,map1_moneyline,MOUZ NXT,1,pinnacle,2.35,1,lost,-1.0,-20.057,-3.15,specials_hourly,specials_hourly,selected,2026-07-26 06:06
+map1_specials_v1,2026-07-27 17:00,TP World Championship Europe,Bebop vs Falcons Force,map1_moneyline,Falcons Force,3,pinnacle,2.28,1,lost,-1.0,-21.057,1.5,specials_hourly,specials_hourly,selected,2026-07-27 05:05
+map1_specials_v1,2026-07-27 17:00,NODWIN Clutch Series,Just Players vs Inner Circle Academy,map1_moneyline,Inner Circle Academy,3,pinnacle,2.42,1,lost,-1.0,,2.4,specials_hourly,specials_hourly,quarantined,2026-07-27 13:05
+map1_specials_v1,2026-07-27 17:30,Urban Riga Open,NAVI Junior vs MOUZ NXT,map1_moneyline,NAVI Junior,1,pinnacle,2.4,1,won,1.4,-19.657,-1.08,specials_hourly,specials_hourly,selected,2026-07-26 05:04
+map2_specials_v1,2026-07-22 10:00,BLAST Bounty Qualifier,EYEBALLERS vs FaZe,map2_moneyline,EYEBALLERS,3,pinnacle,3.29,1,lost,-1.0,-1.0,-2.53,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 10:00,StarLadder StarSeries Fall Europe Qualifier,HOTU vs Astralis,map2_moneyline,HOTU,3,pinnacle,2.38,1,won,1.38,0.38,-4.68,specials_hourly,specials_hourly,selected,2026-07-22 03:04
+map2_specials_v1,2026-07-22 10:30,European Pro League,Eternal Fire vs CYBERSHOKE,map2_moneyline,CYBERSHOKE,3,pinnacle,2.0,1,won,1.0,1.38,2.41,specials_hourly,specials_hourly,selected,2026-07-22 06:04
+map2_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,pinnacle,2.7,1,won,1.7,,0.42,specials_hourly,specials_hourly,quarantined,2026-07-22 00:04
+map2_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map2_moneyline,Fortress,3,pinnacle,4.38,1,lost,-1.0,,-0.56,specials_hourly,specials_hourly,quarantined,2026-07-22 02:05
+map2_specials_v1,2026-07-22 12:30,BLAST Bounty Qualifier,Nemiga vs G2,map2_moneyline,Nemiga,3,pinnacle,4.34,1,lost,-1.0,0.38,-1.63,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 15:00,BLAST Bounty Qualifier,HOTU vs GamerLegion,map2_moneyline,HOTU,3,pinnacle,2.41,1,won,1.41,1.79,-0.87,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 15:30,BLAST Bounty Qualifier,HOTU vs GamerLegion,map2_moneyline,HOTU,3,pinnacle,2.46,1,won,1.46,3.25,,,,selected,2026-07-22 15:04
+map2_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map2_moneyline,Echo,3,pinnacle,2.45,1,won,1.45,4.7,-3.63,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,pinnacle,2.68,1,won,1.68,,1.84,specials_hourly,specials_hourly,quarantined,2026-07-22 03:04
+map2_specials_v1,2026-07-22 17:30,BLAST Bounty Qualifier,Falcons vs 100 Thieves,map2_moneyline,100 Thieves,3,pinnacle,4.73,1,won,3.73,8.43,1.0,specials_hourly,specials_hourly,selected,2026-07-22 09:04
+map2_specials_v1,2026-07-22 19:00,CCT South America,Procyon vs MAGICOS,map2_moneyline,MAGICOS,3,pinnacle,2.64,1,won,1.64,10.07,,,,selected,2026-07-22 18:04
+map2_specials_v1,2026-07-22 19:10,CCT South America,Procyon vs MAGICOS,map2_moneyline,MAGICOS,3,pinnacle,2.64,1,won,1.64,11.71,,,,selected,2026-07-22 19:03
+map2_specials_v1,2026-07-23 08:00,European Pro League,Just Players vs CYBERSHOKE,map2_moneyline,Just Players,3,pinnacle,2.64,1,lost,-1.0,10.71,0.0,specials_hourly,specials_hourly,selected,2026-07-23 05:12
+map2_specials_v1,2026-07-23 10:00,BLAST Bounty Qualifier,Aurora vs FOKUS,map2_moneyline,FOKUS,3,pinnacle,4.5,1,lost,-1.0,9.71,2.36,specials_hourly,specials_hourly,selected,2026-07-22 01:04
+map2_specials_v1,2026-07-23 11:00,,NEW VISION vs benched gods,map2_moneyline,benched gods,3,pinnacle,1.82,1,lost,-1.0,,10.25,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-23 12:30,BLAST Bounty Qualifier,SINNERS vs FUT,map2_moneyline,SINNERS,3,pinnacle,3.5,1,lost,-1.0,8.71,-0.21,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,map2_moneyline,Echo,3,pinnacle,2.87,1,lost,-1.0,7.71,-0.47,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-23 14:00,,megoshort vs Privateer,map2_moneyline,Privateer,3,pinnacle,1.719,1,lost,-1.0,6.71,0.0,specials_hourly,specials_hourly,selected,2026-07-23 03:04
+map2_specials_v1,2026-07-23 15:00,BLAST Bounty Qualifier,Gentle Mates vs paiN,map2_moneyline,Gentle Mates,3,pinnacle,2.25,1,lost,-1.0,5.71,-0.95,specials_hourly,specials_hourly,selected,2026-07-22 09:04
+map2_specials_v1,2026-07-23 15:30,BLAST Bounty Qualifier,Gentle Mates vs paiN,map2_moneyline,Gentle Mates,3,pinnacle,2.3,1,lost,-1.0,4.71,,,,selected,2026-07-23 15:10
+map2_specials_v1,2026-07-23 16:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map2_moneyline,FOKUS,3,pinnacle,2.55,1,lost,-1.0,3.71,-0.31,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-23 16:00,,Fluxo vs paiN Academy,map2_moneyline,paiN Academy,3,pinnacle,4.69,1,lost,-1.0,,0.68,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-23 17:00,BLAST Bounty Qualifier,Spirit vs OG,map2_moneyline,OG,3,pinnacle,7.05,1,won,6.05,9.76,0.17,specials_hourly,specials_hourly,selected,2026-07-22 01:04
+map2_specials_v1,2026-07-23 17:00,CCT Europe Series Closed Qualifier,Misa vs Rounds,map2_moneyline,Rounds,3,pinnacle,2.9,1,lost,-1.0,8.76,-4.11,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-23 17:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map2_moneyline,FOKUS,3,pinnacle,2.57,1,lost,-1.0,7.76,,,,selected,2026-07-23 16:07
+map2_specials_v1,2026-07-23 19:00,,Imperial vs BESTIA Academy,map2_moneyline,BESTIA Academy,3,pinnacle,5.32,1,won,4.32,,3.27,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-24 11:00,,megoshort vs Rounds,map2_moneyline,Rounds,3,pinnacle,1.98,1,won,0.98,8.74,-1.35,specials_hourly,specials_hourly,selected,2026-07-24 05:05
+map2_specials_v1,2026-07-24 11:30,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map2_moneyline,The MongolZ,3,pinnacle,2.05,1,won,1.05,9.79,0.89,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 12:15,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map2_moneyline,The MongolZ,3,pinnacle,1.99,1,won,0.99,10.78,,,,selected,2026-07-24 12:06
+map2_specials_v1,2026-07-24 13:00,,Fake do Biru vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,pinnacle,2.79,1,void,0.0,,12.43,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-24 13:00,,Nuclear TigeRES vs Echo,map2_moneyline,Echo,3,pinnacle,2.13,1,won,1.13,11.91,-4.26,specials_hourly,specials_hourly,selected,2026-07-24 01:04
+map2_specials_v1,2026-07-24 14:00,BLAST Bounty Qualifier,Liquid vs Vitality,map2_moneyline,Liquid,3,pinnacle,6.0,1,won,5.0,16.91,3.53,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 16:00,,Bounty Hunters vs ODDIK,map2_moneyline,ODDIK,3,pinnacle,2.27,1,lost,-1.0,15.91,0.41,specials_hourly,specials_hourly,selected,2026-07-23 19:05
+map2_specials_v1,2026-07-24 17:00,,Privateer vs Misa,map2_moneyline,Privateer,3,pinnacle,2.23,1,lost,-1.0,14.91,-0.4,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map2_specials_v1,2026-07-24 19:00,CCT South America,Keyd Stars vs ALKA,map2_moneyline,ALKA,3,pinnacle,2.11,1,lost,-1.0,13.91,-6.31,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 22:00,,LP vs MAGICOS,map2_moneyline,MAGICOS,3,pinnacle,5.32,1,lost,-1.0,12.91,3.63,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-25 11:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,pinnacle,2.14,1,won,1.14,14.05,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map2_specials_v1,2026-07-25 13:00,,Aurora vs Echo,map2_moneyline,Echo,3,pinnacle,3.23,1,lost,-1.0,13.05,-4.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 13:00,,BORRACHEIROS vs ODDIK,map2_moneyline,BORRACHEIROS,3,pinnacle,3.14,1,won,2.14,15.19,3.35,specials_hourly,specials_hourly,selected,2026-07-25 08:04
+map2_specials_v1,2026-07-25 14:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,pinnacle,2.14,1,won,1.14,16.33,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map2_specials_v1,2026-07-25 14:00,CCT Europe Series 5,Black Phoenix vs Just Players,map2_moneyline,Black Phoenix,3,pinnacle,2.15,1,void,0.0,,2.97,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map2_specials_v1,2026-07-25 15:00,BLAST Bounty Closed Qualifier,HOTU vs Astralis,map2_moneyline,HOTU,3,pinnacle,2.23,1,won,1.23,17.56,-2.58,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map2_specials_v1,2026-07-25 16:00,,BESTIA Academy vs Isurus,map2_moneyline,BESTIA Academy,3,pinnacle,2.29,1,lost,-1.0,16.56,0.0,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,pinnacle,3.14,1,won,2.14,18.7,-1.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,map2_moneyline,Rune Eaters,3,pinnacle,1.813,1,lost,-1.0,17.7,-1.1,specials_hourly,specials_hourly,selected,2026-07-25 03:05
+map2_specials_v1,2026-07-25 17:30,BLAST Bounty Closed Qualifier,FOKUS vs MOUZ,map2_moneyline,FOKUS,3,pinnacle,4.28,1,lost,-1.0,16.7,2.2,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 19:00,CCT South America,Fluxo vs Keyd Stars,map2_moneyline,Keyd Stars,3,pinnacle,2.86,1,lost,-1.0,15.7,7.59,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 22:00,CCT South America,BESTIA Academy vs Isurus,map2_moneyline,BESTIA Academy,3,pinnacle,2.29,1,lost,-1.0,14.7,-2.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-26 12:30,BLAST Bounty Closed Qualifier,3DMAX vs FUT,map2_moneyline,3DMAX,3,pinnacle,3.0,1,won,2.0,16.7,-2.37,specials_hourly,specials_hourly,selected,2026-07-25 22:04
+map2_specials_v1,2026-07-26 13:00,StarLadder StarSeries Fall Europe Closed Qualifier,HOTU vs Aurora,map2_moneyline,HOTU,3,pinnacle,2.88,1,won,1.88,18.58,1.12,specials_hourly,specials_hourly,selected,2026-07-25 22:04
+map2_specials_v1,2026-07-26 15:00,BLAST Bounty Closed Qualifier,Wildcard vs The MongolZ,map2_moneyline,Wildcard,3,pinnacle,2.83,1,lost,-1.0,17.58,5.68,specials_hourly,specials_hourly,selected,2026-07-25 22:05
+map2_specials_v1,2026-07-26 15:00,CCT South America,LP vs ODDIK,map2_moneyline,ODDIK,3,pinnacle,2.54,1,won,1.54,19.12,2.75,specials_hourly,specials_hourly,selected,2026-07-26 08:05
+map2_specials_v1,2026-07-26 17:30,BLAST Bounty Closed Qualifier,100 Thieves vs Spirit,map2_moneyline,100 Thieves,3,pinnacle,4.55,1,won,3.55,22.67,2.77,specials_hourly,specials_hourly,selected,2026-07-25 23:04
+map2_specials_v1,2026-07-26 18:00,,Fluxo vs Isurus,map2_moneyline,Isurus,3,pinnacle,2.88,1,won,1.88,24.55,-1.13,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map2_specials_v1,2026-07-27 14:00,TP World Championship Europe,Black Phoenix vs Misa,map2_moneyline,Misa,3,pinnacle,2.5,1,won,1.5,,-0.32,specials_hourly,specials_hourly,quarantined,2026-07-26 20:03
+map2_specials_v1,2026-07-27 14:00,CCT Europe Series,ex-RUSTEC vs Inner Circle Academy,map2_moneyline,Inner Circle Academy,3,pinnacle,2.23,1,won,1.23,25.78,0.25,specials_hourly,specials_hourly,selected,2026-07-27 03:05
+map2_specials_v1,2026-07-27 17:00,NODWIN Clutch Series,Just Players vs Inner Circle Academy,map2_moneyline,Inner Circle Academy,3,pinnacle,2.42,1,lost,-1.0,,2.4,specials_hourly,specials_hourly,quarantined,2026-07-27 13:05
+map3_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.57,1,lost,-1.0,,0.58,specials_hourly,specials_hourly,quarantined,2026-07-22 00:04
+map3_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map3_moneyline,Fortress,3,pinnacle,4.03,1,lost,-1.0,,-0.79,specials_hourly,specials_hourly,quarantined,2026-07-22 02:05
+map3_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map3_moneyline,Echo,3,pinnacle,2.16,1,void,0.0,,-0.27,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map3_specials_v1,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.57,1,lost,-1.0,-1.0,1.79,specials_hourly,specials_hourly,selected,2026-07-22 03:04
+map3_specials_v1,2026-07-23 11:00,,NEW VISION vs benched gods,map3_moneyline,benched gods,3,pinnacle,1.82,1,void,0.0,,10.68,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,map3_moneyline,Echo,3,pinnacle,2.69,1,void,0.0,,1.84,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 14:00,,megoshort vs Privateer,map3_moneyline,Privateer,3,pinnacle,1.741,1,won,0.741,-0.259,-0.83,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 16:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map3_moneyline,FOKUS,3,pinnacle,2.59,1,void,0.0,,2.67,specials_hourly,specials_hourly,selected,2026-07-22 19:03
+map3_specials_v1,2026-07-23 16:00,,Fluxo vs paiN Academy,map3_moneyline,paiN Academy,3,pinnacle,3.84,1,void,0.0,,0.65,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 17:00,CCT Europe Series Closed Qualifier,Misa vs Rounds,map3_moneyline,Rounds,3,pinnacle,2.79,1,void,0.0,,-4.54,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-23 19:00,,Imperial vs BESTIA Academy,map3_moneyline,BESTIA Academy,3,pinnacle,4.69,1,won,3.69,,2.16,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-24 11:00,,megoshort vs Rounds,map3_moneyline,Rounds,3,pinnacle,1.98,1,won,0.98,0.721,-1.35,specials_hourly,specials_hourly,selected,2026-07-24 05:05
+map3_specials_v1,2026-07-24 13:00,,Fake do Biru vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,pinnacle,2.68,1,void,0.0,,5.46,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map3_specials_v1,2026-07-24 16:00,,Bounty Hunters vs ODDIK,map3_moneyline,ODDIK,3,pinnacle,2.19,1,won,1.19,1.911,0.26,specials_hourly,specials_hourly,selected,2026-07-23 19:05
+map3_specials_v1,2026-07-24 17:00,,Privateer vs Misa,map3_moneyline,Privateer,3,pinnacle,2.23,1,void,0.0,,-0.4,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map3_specials_v1,2026-07-24 19:00,CCT South America,Keyd Stars vs ALKA,map3_moneyline,ALKA,3,pinnacle,2.04,1,void,0.0,,-7.56,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map3_specials_v1,2026-07-24 22:00,,LP vs MAGICOS,map3_moneyline,MAGICOS,3,pinnacle,4.69,1,void,0.0,,3.22,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map3_specials_v1,2026-07-25 11:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.07,1,lost,-1.0,0.911,3.42,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 13:00,,BORRACHEIROS vs ODDIK,map3_moneyline,BORRACHEIROS,3,pinnacle,3.02,1,lost,-1.0,-0.089,3.17,specials_hourly,specials_hourly,selected,2026-07-25 08:04
+map3_specials_v1,2026-07-25 14:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,pinnacle,2.07,1,lost,-1.0,-1.089,3.42,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 14:00,CCT Europe Series 5,Black Phoenix vs Just Players,map3_moneyline,Black Phoenix,3,pinnacle,2.08,1,void,0.0,,3.06,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map3_specials_v1,2026-07-25 16:00,,BESTIA Academy vs Isurus,map3_moneyline,BESTIA Academy,3,pinnacle,2.22,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,pinnacle,3.02,1,lost,-1.0,-2.089,0.98,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,map3_moneyline,Rune Eaters,3,pinnacle,1.806,1,lost,-1.0,-3.089,-2.76,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map3_specials_v1,2026-07-25 19:00,CCT South America,Fluxo vs Keyd Stars,map3_moneyline,Keyd Stars,3,pinnacle,2.78,1,void,0.0,,0.69,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-25 22:00,CCT South America,BESTIA Academy vs Isurus,map3_moneyline,BESTIA Academy,3,pinnacle,2.22,1,void,0.0,,-2.71,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map3_specials_v1,2026-07-26 18:00,,Fluxo vs Isurus,map3_moneyline,Isurus,3,pinnacle,2.76,1,won,1.76,-1.329,-1.94,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map3_specials_v1,2026-07-27 14:00,TP World Championship Europe,Black Phoenix vs Misa,map3_moneyline,Misa,3,pinnacle,2.45,1,won,1.45,,-0.01,specials_hourly,specials_hourly,quarantined,2026-07-26 20:03
+map3_specials_v1,2026-07-27 14:00,CCT Europe Series,ex-RUSTEC vs Inner Circle Academy,map3_moneyline,Inner Circle Academy,3,pinnacle,2.15,1,void,0.0,,0.27,specials_hourly,specials_hourly,selected,2026-07-27 03:05
+map3_specials_v1,2026-07-27 17:00,NODWIN Clutch Series,Just Players vs Inner Circle Academy,map3_moneyline,Inner Circle Academy,3,pinnacle,2.36,1,void,0.0,,1.9,specials_hourly,specials_hourly,selected,2026-07-27 13:05

@@ -1,0 +1,4 @@
+strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+bo3_dog_plus_1_5_tp_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,thunderpick,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
+bo3_dog_plus_1_5_tp_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,thunderpick,1.4,1,won,0.4,0.4,0.0,tp_self,,selected,2026-07-28 14:05
+bo3_dog_plus_1_5_tp_v0,2026-07-28 19:00,,RED Canids Academy vs Grêmio,+1.5 maps,Grêmio,3,thunderpick,1.67,1,won,0.67,,10.02,tp_self,,quarantined,2026-07-28 06:06
