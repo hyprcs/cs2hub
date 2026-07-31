@@ -1,18 +1,19 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_v0,2026-07-24 09:00,,Magic vs 3DMAX,-1.5 maps,Magic,3,pinnacle,2.64,1,lost,-1.0,-1.0,-1.49,pinnacle,,selected,2026-07-24 06:06
-bo3_fav_minus_1_5_v0,2026-07-24 16:00,,Astralis vs HEROIC,-1.5 maps,Astralis,3,pinnacle,3.16,1,lost,-1.0,-2.0,0.0,pinnacle,,selected,2026-07-24 01:04
 bo3_fav_minus_1_5_v0,2026-07-25 12:30,,Liquid vs G2,-1.5 maps,G2,3,pinnacle,2.76,1,lost,-1.0,,4.04,pinnacle,,quarantined,2026-07-25 04:06
 bo3_fav_minus_1_5_v0,2026-07-25 14:00,,Black Phoenix vs Just Players,-1.5 maps,Just Players,3,pinnacle,2.68,1,won,1.68,,-3.2,pinnacle,,ineligible,2026-07-25 10:05
-bo3_fav_minus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,3.03,1,lost,-1.0,-3.0,-1.92,pinnacle,,selected,2026-07-25 09:07
-bo3_fav_minus_1_5_v0,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,-1.5 maps,Rune Eaters,3,pinnacle,2.86,1,lost,-1.0,-4.0,-3.35,pinnacle,,selected,2026-07-25 02:05
+bo3_fav_minus_1_5_v0,2026-07-25 16:00,,Ninjas in Pyjamas vs HEROIC,-1.5 maps,Ninjas in Pyjamas,3,pinnacle,3.03,1,lost,-1.0,-1.0,-1.92,pinnacle,,selected,2026-07-25 09:07
+bo3_fav_minus_1_5_v0,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,-1.5 maps,Rune Eaters,3,pinnacle,2.86,1,lost,-1.0,-2.0,-3.35,pinnacle,,selected,2026-07-25 02:05
 bo3_fav_minus_1_5_v0,2026-07-25 17:30,,FOKUS vs MOUZ,-1.5 maps,MOUZ,3,pinnacle,1.813,1,won,0.813,,0.94,pinnacle,,ineligible,2026-07-25 04:06
 bo3_fav_minus_1_5_v0,2026-07-25 19:00,,Fluxo vs Keyd Stars,-1.5 maps,Fluxo,3,pinnacle,2.14,1,won,1.14,,-4.61,pinnacle,,ineligible,2026-07-25 10:05
-bo3_fav_minus_1_5_v0,2026-07-26 13:00,,HOTU vs Aurora,-1.5 maps,Aurora,3,pinnacle,2.11,1,lost,-1.0,-5.0,-1.31,pinnacle,,selected,2026-07-25 22:05
+bo3_fav_minus_1_5_v0,2026-07-26 13:00,,HOTU vs Aurora,-1.5 maps,Aurora,3,pinnacle,2.11,1,lost,-1.0,-3.0,-1.31,pinnacle,,selected,2026-07-25 22:05
 bo3_fav_minus_1_5_v0,2026-07-26 15:00,,Wildcard vs The MongolZ,-1.5 maps,The MongolZ,3,pinnacle,2.48,1,won,1.48,,-2.45,pinnacle,,ineligible,2026-07-26 05:04
 bo3_fav_minus_1_5_v0,2026-07-26 17:30,,100 Thieves vs Spirit,-1.5 maps,Spirit,3,pinnacle,1.629,1,lost,-1.0,,-0.34,pinnacle,,ineligible,2026-07-25 22:05
-bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,-3.13,3.92,pinnacle,,selected,2026-07-27 03:05
-bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,-1.59,6.3,pinnacle,,selected,2026-07-28 07:06
-bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,-2.59,-1.75,pinnacle,,selected,2026-07-27 22:05
+bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,-1.13,3.92,pinnacle,,selected,2026-07-27 03:05
+bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,0.41,6.3,pinnacle,,selected,2026-07-28 07:06
+bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,-0.59,-1.75,pinnacle,,selected,2026-07-27 22:05
 bo3_fav_minus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,-1.5 maps,LP,3,pinnacle,3.0,1,lost,-1.0,,0.47,pinnacle,,quarantined,2026-07-27 22:05
-bo3_fav_minus_1_5_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,pinnacle,2.89,1,lost,-1.0,-3.59,-2.38,pinnacle,,selected,2026-07-30 04:07
+bo3_fav_minus_1_5_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,pinnacle,2.89,1,lost,-1.0,-1.59,-2.38,pinnacle,,selected,2026-07-30 04:07
 bo3_fav_minus_1_5_v0,2026-07-30 14:00,,SPARTA vs NEW VISION,-1.5 maps,SPARTA,3,pinnacle,2.33,1,won,1.33,,12.54,pinnacle,,quarantined,2026-07-30 00:08
+bo3_fav_minus_1_5_v0,2026-07-31 14:00,,Lavked vs megoshort,-1.5 maps,Lavked,3,pinnacle,2.69,1,lost,-1.0,,0.38,pinnacle,,ineligible,2026-07-31 10:06
+bo3_fav_minus_1_5_v0,2026-07-31 15:30,,Banda Chuya vs mellren,-1.5 maps,mellren,3,pinnacle,2.94,1,won,1.94,,-0.26,pinnacle,,ineligible,2026-07-31 14:07
+bo3_fav_minus_1_5_v0,2026-07-31 17:00,,GenOne vs Enjoy,-1.5 maps,GenOne,3,pinnacle,1.99,1,won,0.99,-0.6,1.87,pinnacle,,selected,2026-07-31 07:08
