@@ -144,8 +144,8 @@ moneyline_flag_band,2026-07-26 10:00,,Ninjas in Pyjamas vs paiN,moneyline,paiN,3
 moneyline_flag_band,2026-07-26 11:10,,NEW VISION vs ex-MANA,moneyline,ex-MANA,3,bet365,2.0,1,won,1.0,-12.65,0.0,bet365,hourly,eligible,2026-07-25 20:46
 moneyline_flag_band,2026-07-26 13:00,,HOTU vs Aurora,moneyline,Aurora,3,bet365,1.4,1,won,0.4,-12.25,,,close,eligible,2026-07-25 20:46
 moneyline_flag_band,2026-07-26 15:00,,LP vs ODDIK,moneyline,LP,3,pinnacle,1.518,1,lost,-1.0,-13.25,3.78,pinnacle,close,eligible,2026-07-25 20:46
-moneyline_flag_band,2026-07-26 16:30,,Magic vs Ninjas in Pyjamas,moneyline,Magic,3,bet365,2.0,1,won,1.0,-12.25,0.0,bet365,hourly,eligible,2026-07-25 20:46
-moneyline_flag_band,2026-07-26 16:45,,100 Thieves vs Spirit,moneyline,Spirit,3,bet365,1.1,1,won,0.1,-12.15,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:35,,100 Thieves vs Spirit,moneyline,Spirit,3,bet365,1.1,1,won,0.1,-13.15,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:35,,Magic vs Ninjas in Pyjamas,moneyline,Magic,3,bet365,2.0,1,won,1.0,-12.15,0.0,bet365,hourly,eligible,2026-07-25 20:46
 moneyline_flag_band,2026-07-26 18:20,,EAC vs Atreides,moneyline,EAC,3,bet365,2.1,1,won,1.1,-11.05,0.0,bet365,hourly,eligible,2026-07-25 20:46
 moneyline_flag_band,2026-07-27 14:00,,GenOne vs SPARTA,moneyline,GenOne,3,pinnacle,1.671,1,won,0.671,-10.379,4.57,pinnacle,close,eligible,2026-07-26 22:17
 moneyline_flag_band,2026-07-27 17:05,,Bebop vs Falcons Force,moneyline,Falcons Force,3,pinnacle,2.51,1,won,1.51,-8.869,2.63,pinnacle,close,eligible,2026-07-26 22:17
@@ -193,3 +193,9 @@ moneyline_flag_band,2026-08-01 14:30,,Sashi vs Just Players,moneyline,Sashi,3,be
 moneyline_flag_band,2026-08-01 18:00,,MIBR vs ShindeN,moneyline,MIBR,3,pinnacle,1.333,1,won,0.333,-22.32,0.59,pinnacle,close,eligible,2026-08-01 14:08
 moneyline_flag_band,2026-08-01 18:05,,Black Phoenix vs Just Players,moneyline,Just Players,3,pinnacle,1.498,1,lost,-1.0,-23.32,-2.19,pinnacle,hourly,eligible,2026-08-01 14:08
 moneyline_flag_band,2026-08-01 20:30,,Fluxo vs BESTIA,moneyline,BESTIA,3,pinnacle,1.787,1,won,0.787,-22.533,0.0,pinnacle,close,eligible,2026-08-01 18:07
+moneyline_flag_band,2026-08-02 08:00,,PCIFIC vs Fire Flux,moneyline,PCIFIC,3,bet365,2.2,1,lost,-1.0,-23.533,0.0,bet365,close,eligible,2026-08-02 06:06
+moneyline_flag_band,2026-08-02 10:00,,Sashi vs Black Phoenix,moneyline,Sashi,3,bet365,1.4,1,won,0.4,-23.133,0.0,bet365,close,no_bet,2026-08-02 08:07
+moneyline_flag_band,2026-08-02 13:00,,SINNERS vs SPARTA,moneyline,SPARTA,3,pinnacle,2.63,1,lost,-1.0,-24.133,0.29,pinnacle,close,eligible,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 13:00,,BASEMENT BOYS vs Fire Flux,moneyline,BASEMENT BOYS,3,bet365,1.57,1,lost,-1.0,-25.133,0.0,bet365,hourly,eligible,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 13:00,,Leo vs Vexar,moneyline,Vexar,3,bet365,2.37,1,lost,-1.0,-26.133,0.0,bet365,hourly,no_bet,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 18:00,,ShindeN vs BESTIA,moneyline,ShindeN,3,pinnacle,2.22,1,lost,-1.0,-27.133,-1.98,pinnacle,close,eligible,2026-08-02 11:09
