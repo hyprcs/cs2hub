@@ -1,34 +1,34 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_dog_plus_1_5_v0,2026-07-27 14:00,,Black Phoenix vs Misa,+1.5 maps,Misa,3,pinnacle,1.633,1,won,0.633,,0.18,pinnacle,,quarantined,2026-07-26 23:05
-bo3_dog_plus_1_5_v0,2026-07-27 14:00,,ex-RUSTEC vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.478,1,won,0.478,,0.17,pinnacle,,quarantined,2026-07-27 03:05
-bo3_dog_plus_1_5_v0,2026-07-27 17:00,,Bebop vs Falcons Force,+1.5 maps,Falcons Force,3,pinnacle,1.524,1,won,0.524,0.524,2.33,pinnacle,,selected,2026-07-26 23:05
-bo3_dog_plus_1_5_v0,2026-07-27 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.588,1,lost,-1.0,,3.02,pinnacle,,quarantined,2026-07-27 13:06
-bo3_dog_plus_1_5_v0,2026-07-28 08:00,,Black Phoenix vs Enjoy,+1.5 maps,Enjoy,3,pinnacle,1.36,1,won,0.36,0.884,-5.45,pinnacle,,selected,2026-07-27 22:05
+bo3_dog_plus_1_5_v0,2026-07-28 08:00,,Black Phoenix vs Enjoy,+1.5 maps,Enjoy,3,pinnacle,1.36,1,won,0.36,0.36,-5.45,pinnacle,,selected,2026-07-27 22:05
 bo3_dog_plus_1_5_v0,2026-07-28 11:00,,Black Phoenix vs Bebop,+1.5 maps,Bebop,3,pinnacle,1.353,1,won,0.353,,0.71,pinnacle,,ineligible,2026-07-28 04:07
-bo3_dog_plus_1_5_v0,2026-07-28 15:00,,MIBR vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.813,1,lost,-1.0,-0.116,0.43,pinnacle,,selected,2026-07-28 01:06
+bo3_dog_plus_1_5_v0,2026-07-28 15:00,,MIBR vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.813,1,lost,-1.0,-0.64,0.43,pinnacle,,selected,2026-07-28 01:06
 bo3_dog_plus_1_5_v0,2026-07-28 17:00,,Misa vs Falcons Force,+1.5 maps,Misa,3,pinnacle,1.312,1,lost,-1.0,,-0.11,pinnacle,,ineligible,2026-07-28 11:05
 bo3_dog_plus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,+1.5 maps,LP,3,pinnacle,1.287,1,won,0.287,,0.0,pinnacle,,quarantined,2026-07-28 03:05
-bo3_dog_plus_1_5_v0,2026-07-28 21:00,,Imperial vs BESTIA,+1.5 maps,BESTIA,3,pinnacle,1.426,1,lost,-1.0,-1.116,0.94,pinnacle,,selected,2026-07-27 22:05
+bo3_dog_plus_1_5_v0,2026-07-28 21:00,,Imperial vs BESTIA,+1.5 maps,BESTIA,3,pinnacle,1.426,1,lost,-1.0,-1.64,0.94,pinnacle,,selected,2026-07-27 22:05
 bo3_dog_plus_1_5_v0,2026-07-29 01:00,,regain vs Voca,+1.5 maps,regain,3,pinnacle,2.18,1,lost,-1.0,,,,,quarantined,2026-07-29 00:05
-bo3_dog_plus_1_5_v0,2026-07-29 14:00,,ex-RUSTEC vs ex-Young Ninjas,+1.5 maps,ex-Young Ninjas,3,pinnacle,1.617,1,won,0.617,-0.499,-0.17,pinnacle,,selected,2026-07-29 09:07
+bo3_dog_plus_1_5_v0,2026-07-29 14:00,,ex-RUSTEC vs ex-Young Ninjas,+1.5 maps,ex-Young Ninjas,3,pinnacle,1.617,1,won,0.617,-1.023,-0.17,pinnacle,,selected,2026-07-29 09:07
 bo3_dog_plus_1_5_v0,2026-07-29 17:00,,Bebop vs Misa,+1.5 maps,Misa,3,pinnacle,1.633,1,lost,-1.0,,0.84,pinnacle,,ineligible,2026-07-29 02:05
-bo3_dog_plus_1_5_v0,2026-07-29 18:00,,MIBR vs LP,+1.5 maps,LP,3,pinnacle,2.05,1,won,1.05,0.551,1.72,pinnacle,,selected,2026-07-29 03:05
+bo3_dog_plus_1_5_v0,2026-07-29 18:00,,MIBR vs LP,+1.5 maps,LP,3,pinnacle,2.05,1,won,1.05,0.027,1.72,pinnacle,,selected,2026-07-29 03:05
 bo3_dog_plus_1_5_v0,2026-07-29 22:00,,NRG vs Marsborne,+1.5 maps,Marsborne,3,pinnacle,2.1,1,won,1.1,,,,,ineligible,2026-07-29 21:06
-bo3_dog_plus_1_5_v0,2026-07-30 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.483,1,lost,-1.0,-0.449,-0.77,pinnacle,,selected,2026-07-30 00:08
-bo3_dog_plus_1_5_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,pinnacle,1.625,1,won,0.625,0.176,3.71,pinnacle,,selected,2026-07-30 05:06
-bo3_dog_plus_1_5_v0,2026-07-30 18:15,,Young TigeRES vs Banda Chuya,+1.5 maps,Banda Chuya,3,pinnacle,1.714,1,lost,-1.0,-0.824,-0.01,pinnacle,,selected,2026-07-30 06:10
-bo3_dog_plus_1_5_v0,2026-07-31 11:00,,SINNERS vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.704,1,lost,-1.0,-1.824,-0.4,pinnacle,,selected,2026-07-31 01:06
+bo3_dog_plus_1_5_v0,2026-07-30 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.483,1,lost,-1.0,-0.973,-0.77,pinnacle,,selected,2026-07-30 00:08
+bo3_dog_plus_1_5_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,pinnacle,1.625,1,won,0.625,-0.348,3.71,pinnacle,,selected,2026-07-30 05:06
+bo3_dog_plus_1_5_v0,2026-07-30 18:15,,Young TigeRES vs Banda Chuya,+1.5 maps,Banda Chuya,3,pinnacle,1.714,1,lost,-1.0,-1.348,-0.01,pinnacle,,selected,2026-07-30 06:10
+bo3_dog_plus_1_5_v0,2026-07-31 11:00,,SINNERS vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.704,1,lost,-1.0,-2.348,-0.4,pinnacle,,selected,2026-07-31 01:06
 bo3_dog_plus_1_5_v0,2026-07-31 12:30,,FaZe vs The MongolZ,+1.5 maps,The MongolZ,3,pinnacle,1.465,1,won,0.465,,-0.64,pinnacle,,ineligible,2026-07-30 15:07
 bo3_dog_plus_1_5_v0,2026-07-31 14:00,,Lavked vs megoshort,+1.5 maps,megoshort,3,pinnacle,1.752,1,won,0.752,,11.8,pinnacle,,ineligible,2026-07-31 02:07
-bo3_dog_plus_1_5_v0,2026-07-31 15:30,,paiN vs Astralis,+1.5 maps,paiN,3,pinnacle,1.448,1,won,0.448,-1.376,0.68,pinnacle,,selected,2026-07-31 06:08
-bo3_dog_plus_1_5_v0,2026-07-31 18:00,,Imperial vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.49,1,won,0.49,-0.886,-0.53,pinnacle,,selected,2026-07-31 11:06
-bo3_dog_plus_1_5_v0,2026-07-31 20:30,,LP vs BESTIA,+1.5 maps,LP,3,pinnacle,1.476,1,lost,-1.0,-1.886,-1.47,pinnacle,,selected,2026-07-31 12:09
-bo3_dog_plus_1_5_v0,2026-08-01 00:30,,Marsborne vs regain,+1.5 maps,regain,3,pinnacle,1.952,1,lost,-1.0,-2.886,-1.31,pinnacle,,selected,2026-07-31 15:08
-bo3_dog_plus_1_5_v0,2026-08-01 10:30,,Spirit vs FaZe,+1.5 maps,FaZe,3,pinnacle,2.12,1,won,1.12,-1.766,0.72,pinnacle,,selected,2026-07-31 23:07
+bo3_dog_plus_1_5_v0,2026-07-31 15:30,,paiN vs Astralis,+1.5 maps,paiN,3,pinnacle,1.448,1,won,0.448,-1.9,0.68,pinnacle,,selected,2026-07-31 06:08
+bo3_dog_plus_1_5_v0,2026-07-31 18:00,,Imperial vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.49,1,won,0.49,-1.41,-0.53,pinnacle,,selected,2026-07-31 11:06
+bo3_dog_plus_1_5_v0,2026-07-31 20:30,,LP vs BESTIA,+1.5 maps,LP,3,pinnacle,1.476,1,lost,-1.0,-2.41,-1.47,pinnacle,,selected,2026-07-31 12:09
+bo3_dog_plus_1_5_v0,2026-08-01 00:30,,Marsborne vs regain,+1.5 maps,regain,3,pinnacle,1.952,1,lost,-1.0,-3.41,-1.31,pinnacle,,selected,2026-07-31 15:08
+bo3_dog_plus_1_5_v0,2026-08-01 10:30,,Spirit vs FaZe,+1.5 maps,FaZe,3,pinnacle,2.12,1,won,1.12,-2.29,0.72,pinnacle,,selected,2026-07-31 23:07
 bo3_dog_plus_1_5_v0,2026-08-01 12:00,,SINQU vs BC.Game,+1.5 maps,SINQU,3,pinnacle,3.76,1,lost,-1.0,,-5.92,pinnacle,,quarantined,2026-08-01 07:06
-bo3_dog_plus_1_5_v0,2026-08-01 14:00,,SPARTA vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.407,1,won,0.407,-1.359,-0.03,pinnacle,,selected,2026-07-31 19:05
+bo3_dog_plus_1_5_v0,2026-08-01 14:00,,SPARTA vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.407,1,won,0.407,-1.883,-0.03,pinnacle,,selected,2026-07-31 19:05
 bo3_dog_plus_1_5_v0,2026-08-01 17:00,,ENCE vs BC.Game,+1.5 maps,ENCE,3,pinnacle,2.71,1,lost,-1.0,,-0.21,pinnacle,,quarantined,2026-08-01 15:08
 bo3_dog_plus_1_5_v0,2026-08-01 22:00,,NRG vs Voca,+1.5 maps,Voca,3,pinnacle,1.763,1,won,0.763,,,,,ineligible,2026-08-01 21:05
-bo3_dog_plus_1_5_v0,2026-08-02 10:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,pinnacle,1.455,1,won,0.455,-0.904,1.4,pinnacle,,selected,2026-08-02 00:07
-bo3_dog_plus_1_5_v0,2026-08-02 13:00,,MOUZ NXT vs WBT,+1.5 maps,WBT,3,pinnacle,1.314,1,won,0.314,-0.59,0.0,pinnacle,,selected,2026-08-01 22:06
-bo3_dog_plus_1_5_v0,2026-08-02 18:00,,ShindeN vs BESTIA,+1.5 maps,ShindeN,3,pinnacle,1.442,1,lost,-1.0,-1.59,0.43,pinnacle,,selected,2026-08-02 06:05
+bo3_dog_plus_1_5_v0,2026-08-02 10:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,pinnacle,1.455,1,won,0.455,-1.428,1.4,pinnacle,,selected,2026-08-02 00:07
+bo3_dog_plus_1_5_v0,2026-08-02 13:00,,MOUZ NXT vs WBT,+1.5 maps,WBT,3,pinnacle,1.314,1,won,0.314,-1.114,0.0,pinnacle,,selected,2026-08-01 22:06
+bo3_dog_plus_1_5_v0,2026-08-02 18:00,,ShindeN vs BESTIA,+1.5 maps,ShindeN,3,pinnacle,1.442,1,lost,-1.0,-2.114,0.43,pinnacle,,selected,2026-08-02 06:05
+bo3_dog_plus_1_5_v0,2026-08-03 08:00,,Eternal Fire Academy vs VP.Prodigy,+1.5 maps,Eternal Fire Academy,3,pinnacle,1.758,1,lost,-1.0,,2.31,pinnacle,,ineligible,2026-08-02 18:04
+bo3_dog_plus_1_5_v0,2026-08-03 08:00,,WW vs CYBERSHOKE Prospects,+1.5 maps,CYBERSHOKE Prospects,3,pinnacle,1.588,1,won,0.588,,3.88,pinnacle,,quarantined,2026-08-03 05:05
+bo3_dog_plus_1_5_v0,2026-08-03 13:00,,MOUZ NXT vs Misa,+1.5 maps,MOUZ NXT,3,pinnacle,1.413,1,won,0.413,-1.701,-0.65,pinnacle,,selected,2026-08-03 02:14
+bo3_dog_plus_1_5_v0,2026-08-03 17:00,,Keyd Stars vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,pinnacle,1.885,1,won,0.885,,-0.96,pinnacle,,ineligible,2026-08-02 23:05

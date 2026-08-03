@@ -1,13 +1,13 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_v0,2026-07-27 14:00,,Rune Eaters vs SAW Youngsters,-1.5 maps,Rune Eaters,3,pinnacle,2.87,1,won,1.87,1.87,3.92,pinnacle,,selected,2026-07-27 03:05
-bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,3.41,6.3,pinnacle,,selected,2026-07-28 07:06
-bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,2.41,-1.75,pinnacle,,selected,2026-07-27 22:05
+bo3_fav_minus_1_5_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,pinnacle,2.54,1,won,1.54,1.54,6.3,pinnacle,,selected,2026-07-28 07:06
+bo3_fav_minus_1_5_v0,2026-07-28 14:00,,GenOne vs NEW VISION,-1.5 maps,GenOne,3,pinnacle,1.621,1,lost,-1.0,0.54,-1.75,pinnacle,,selected,2026-07-27 22:05
 bo3_fav_minus_1_5_v0,2026-07-28 18:00,,Bounty Hunters vs LP,-1.5 maps,LP,3,pinnacle,3.0,1,lost,-1.0,,0.47,pinnacle,,quarantined,2026-07-27 22:05
-bo3_fav_minus_1_5_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,pinnacle,2.89,1,lost,-1.0,1.41,-2.38,pinnacle,,selected,2026-07-30 04:07
+bo3_fav_minus_1_5_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,pinnacle,2.89,1,lost,-1.0,-0.46,-2.38,pinnacle,,selected,2026-07-30 04:07
 bo3_fav_minus_1_5_v0,2026-07-30 14:00,,SPARTA vs NEW VISION,-1.5 maps,SPARTA,3,pinnacle,2.33,1,won,1.33,,12.54,pinnacle,,quarantined,2026-07-30 00:08
 bo3_fav_minus_1_5_v0,2026-07-31 14:00,,Lavked vs megoshort,-1.5 maps,Lavked,3,pinnacle,2.69,1,lost,-1.0,,0.38,pinnacle,,ineligible,2026-07-31 10:06
 bo3_fav_minus_1_5_v0,2026-07-31 15:30,,Banda Chuya vs mellren,-1.5 maps,mellren,3,pinnacle,2.94,1,won,1.94,,-0.26,pinnacle,,ineligible,2026-07-31 14:07
-bo3_fav_minus_1_5_v0,2026-07-31 17:00,,GenOne vs Enjoy,-1.5 maps,GenOne,3,pinnacle,1.99,1,won,0.99,2.4,1.87,pinnacle,,selected,2026-07-31 07:08
-bo3_fav_minus_1_5_v0,2026-08-01 13:30,,Astralis vs MOUZ,-1.5 maps,MOUZ,3,pinnacle,2.17,1,lost,-1.0,1.4,0.0,pinnacle,,selected,2026-08-01 04:07
-bo3_fav_minus_1_5_v0,2026-08-01 17:00,,Black Phoenix vs Just Players,-1.5 maps,Just Players,3,pinnacle,2.54,1,lost,-1.0,0.4,-0.31,pinnacle,,selected,2026-07-31 23:07
+bo3_fav_minus_1_5_v0,2026-07-31 17:00,,GenOne vs Enjoy,-1.5 maps,GenOne,3,pinnacle,1.99,1,won,0.99,0.53,1.87,pinnacle,,selected,2026-07-31 07:08
+bo3_fav_minus_1_5_v0,2026-08-01 13:30,,Astralis vs MOUZ,-1.5 maps,MOUZ,3,pinnacle,2.17,1,lost,-1.0,-0.47,0.0,pinnacle,,selected,2026-08-01 04:07
+bo3_fav_minus_1_5_v0,2026-08-01 17:00,,Black Phoenix vs Just Players,-1.5 maps,Just Players,3,pinnacle,2.54,1,lost,-1.0,-1.47,-0.31,pinnacle,,selected,2026-07-31 23:07
 bo3_fav_minus_1_5_v0,2026-08-01 17:00,,ex-RUSTEC vs SPARTA,-1.5 maps,SPARTA,3,pinnacle,2.94,1,won,1.94,,-2.7,pinnacle,,ineligible,2026-08-01 11:06
+bo3_fav_minus_1_5_v0,2026-08-03 14:00,,SPARTA vs ex-Young Ninjas,-1.5 maps,SPARTA,3,pinnacle,2.37,1,lost,-1.0,-2.47,3.48,pinnacle,,selected,2026-08-02 23:05
