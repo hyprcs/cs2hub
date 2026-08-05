@@ -214,37 +214,40 @@ moneyline_flag_band,2026-08-04 14:00,,Yawara vs GUARA,moneyline,Yawara,3,pinnacl
 moneyline_flag_band,2026-08-04 14:00,,Liquid vs 9INE,moneyline,Liquid,3,pinnacle,1.364,1,won,0.364,-15.418,0.22,pinnacle,close,eligible,2026-08-04 13:06
 moneyline_flag_band,2026-08-04 19:10,,Grêmio vs RUSH,moneyline,Grêmio,3,bet365,1.5,1,won,0.5,-14.918,0.0,bet365,hourly,eligible,2026-08-04 13:06
 moneyline_flag_band,2026-08-04 21:00,,BORRACHEIROS vs ALKA,moneyline,BORRACHEIROS,3,bet365,2.5,1,lost,-1.0,-15.918,,,hourly,no_bet,2026-08-04 19:05
-bo3_dog_plus_1_5_v0,2026-07-29 01:00,,regain vs Voca,+1.5 maps,regain,3,pinnacle,2.18,1,lost,-1.0,,,,,quarantined,2026-07-29 00:05
-bo3_dog_plus_1_5_v0,2026-07-29 14:00,,ex-RUSTEC vs ex-Young Ninjas,+1.5 maps,ex-Young Ninjas,3,pinnacle,1.617,1,won,0.617,0.617,-0.17,pinnacle,,selected,2026-07-29 09:07
-bo3_dog_plus_1_5_v0,2026-07-29 17:00,,Bebop vs Misa,+1.5 maps,Misa,3,pinnacle,1.633,1,lost,-1.0,,0.84,pinnacle,,ineligible,2026-07-29 02:05
-bo3_dog_plus_1_5_v0,2026-07-29 18:00,,MIBR vs LP,+1.5 maps,LP,3,pinnacle,2.05,1,won,1.05,1.667,1.72,pinnacle,,selected,2026-07-29 03:05
-bo3_dog_plus_1_5_v0,2026-07-29 22:00,,NRG vs Marsborne,+1.5 maps,Marsborne,3,pinnacle,2.1,1,won,1.1,,,,,ineligible,2026-07-29 21:06
-bo3_dog_plus_1_5_v0,2026-07-30 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.483,1,lost,-1.0,0.667,-0.77,pinnacle,,selected,2026-07-30 00:08
-bo3_dog_plus_1_5_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,pinnacle,1.625,1,won,0.625,1.292,3.71,pinnacle,,selected,2026-07-30 05:06
-bo3_dog_plus_1_5_v0,2026-07-30 18:15,,Young TigeRES vs Banda Chuya,+1.5 maps,Banda Chuya,3,pinnacle,1.714,1,lost,-1.0,0.292,-0.01,pinnacle,,selected,2026-07-30 06:10
-bo3_dog_plus_1_5_v0,2026-07-31 11:00,,SINNERS vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.704,1,lost,-1.0,-0.708,-0.4,pinnacle,,selected,2026-07-31 01:06
+moneyline_flag_band,2026-08-04 21:30,,ODDIK vs RED Canids Academy,moneyline,ODDIK,3,bet365,1.3,1,won,0.3,-15.618,,,hourly,no_bet,2026-08-04 19:05
+moneyline_flag_band,2026-08-05 10:00,,Ground Zero vs Time Waves,moneyline,Time Waves,3,bet365,11.0,1,lost,-1.0,-16.618,0.0,bet365,close,no_bet,2026-08-05 08:09
+moneyline_flag_band,2026-08-05 10:00,,Arcade vs Abyssal,moneyline,Arcade,3,bet365,2.1,1,lost,-1.0,-17.618,-13.79,bet365,close,eligible,2026-08-05 08:09
+moneyline_flag_band,2026-08-05 13:00,,Liquid vs fnatic,moneyline,Liquid,3,pinnacle,1.498,1,won,0.498,-17.12,4.27,pinnacle,close,eligible,2026-08-05 11:09
+moneyline_flag_band,2026-08-05 14:00,,Nordic Partners vs GenOne,moneyline,GenOne,3,pinnacle,1.369,1,won,0.369,-16.751,-0.72,pinnacle,close,eligible,2026-08-05 13:06
+moneyline_flag_band,2026-08-05 18:30,,Grêmio vs ALKA,moneyline,Grêmio,3,bet365,2.62,1,won,1.62,-15.131,0.0,bet365,close,eligible,2026-08-05 14:07
+bo3_dog_plus_1_5_v0,2026-07-30 17:00,,Just Players vs Inner Circle Academy,+1.5 maps,Inner Circle Academy,3,pinnacle,1.483,1,lost,-1.0,-1.0,-0.77,pinnacle,,selected,2026-07-30 00:08
+bo3_dog_plus_1_5_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,pinnacle,1.625,1,won,0.625,-0.375,3.71,pinnacle,,selected,2026-07-30 05:06
+bo3_dog_plus_1_5_v0,2026-07-30 18:15,,Young TigeRES vs Banda Chuya,+1.5 maps,Banda Chuya,3,pinnacle,1.714,1,lost,-1.0,-1.375,-0.01,pinnacle,,selected,2026-07-30 06:10
+bo3_dog_plus_1_5_v0,2026-07-31 11:00,,SINNERS vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.704,1,lost,-1.0,-2.375,-0.4,pinnacle,,selected,2026-07-31 01:06
 bo3_dog_plus_1_5_v0,2026-07-31 12:30,,FaZe vs The MongolZ,+1.5 maps,The MongolZ,3,pinnacle,1.465,1,won,0.465,,-0.64,pinnacle,,ineligible,2026-07-30 15:07
 bo3_dog_plus_1_5_v0,2026-07-31 14:00,,Lavked vs megoshort,+1.5 maps,megoshort,3,pinnacle,1.752,1,won,0.752,,11.8,pinnacle,,ineligible,2026-07-31 02:07
-bo3_dog_plus_1_5_v0,2026-07-31 15:30,,paiN vs Astralis,+1.5 maps,paiN,3,pinnacle,1.448,1,won,0.448,-0.26,0.68,pinnacle,,selected,2026-07-31 06:08
-bo3_dog_plus_1_5_v0,2026-07-31 18:00,,Imperial vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.49,1,won,0.49,0.23,-0.53,pinnacle,,selected,2026-07-31 11:06
-bo3_dog_plus_1_5_v0,2026-07-31 20:30,,LP vs BESTIA,+1.5 maps,LP,3,pinnacle,1.476,1,lost,-1.0,-0.77,-1.47,pinnacle,,selected,2026-07-31 12:09
-bo3_dog_plus_1_5_v0,2026-08-01 00:30,,Marsborne vs regain,+1.5 maps,regain,3,pinnacle,1.952,1,lost,-1.0,-1.77,-1.31,pinnacle,,selected,2026-07-31 15:08
-bo3_dog_plus_1_5_v0,2026-08-01 10:30,,Spirit vs FaZe,+1.5 maps,FaZe,3,pinnacle,2.12,1,won,1.12,-0.65,0.72,pinnacle,,selected,2026-07-31 23:07
+bo3_dog_plus_1_5_v0,2026-07-31 15:30,,paiN vs Astralis,+1.5 maps,paiN,3,pinnacle,1.448,1,won,0.448,-1.927,0.68,pinnacle,,selected,2026-07-31 06:08
+bo3_dog_plus_1_5_v0,2026-07-31 18:00,,Imperial vs Fluxo,+1.5 maps,Fluxo,3,pinnacle,1.49,1,won,0.49,-1.437,-0.53,pinnacle,,selected,2026-07-31 11:06
+bo3_dog_plus_1_5_v0,2026-07-31 20:30,,LP vs BESTIA,+1.5 maps,LP,3,pinnacle,1.476,1,lost,-1.0,-2.437,-1.47,pinnacle,,selected,2026-07-31 12:09
+bo3_dog_plus_1_5_v0,2026-08-01 00:30,,Marsborne vs regain,+1.5 maps,regain,3,pinnacle,1.952,1,lost,-1.0,-3.437,-1.31,pinnacle,,selected,2026-07-31 15:08
+bo3_dog_plus_1_5_v0,2026-08-01 10:30,,Spirit vs FaZe,+1.5 maps,FaZe,3,pinnacle,2.12,1,won,1.12,-2.317,0.72,pinnacle,,selected,2026-07-31 23:07
 bo3_dog_plus_1_5_v0,2026-08-01 12:00,,SINQU vs BC.Game,+1.5 maps,SINQU,3,pinnacle,3.76,1,lost,-1.0,,-5.92,pinnacle,,quarantined,2026-08-01 07:06
-bo3_dog_plus_1_5_v0,2026-08-01 14:00,,SPARTA vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.407,1,won,0.407,-0.243,-0.03,pinnacle,,selected,2026-07-31 19:05
+bo3_dog_plus_1_5_v0,2026-08-01 14:00,,SPARTA vs Rune Eaters,+1.5 maps,Rune Eaters,3,pinnacle,1.407,1,won,0.407,-1.91,-0.03,pinnacle,,selected,2026-07-31 19:05
 bo3_dog_plus_1_5_v0,2026-08-01 17:00,,ENCE vs BC.Game,+1.5 maps,ENCE,3,pinnacle,2.71,1,lost,-1.0,,-0.21,pinnacle,,quarantined,2026-08-01 15:08
 bo3_dog_plus_1_5_v0,2026-08-01 22:00,,NRG vs Voca,+1.5 maps,Voca,3,pinnacle,1.763,1,won,0.763,,,,,ineligible,2026-08-01 21:05
-bo3_dog_plus_1_5_v0,2026-08-02 10:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,pinnacle,1.455,1,won,0.455,0.212,1.4,pinnacle,,selected,2026-08-02 00:07
-bo3_dog_plus_1_5_v0,2026-08-02 13:00,,MOUZ NXT vs WBT,+1.5 maps,WBT,3,pinnacle,1.314,1,won,0.314,0.526,0.0,pinnacle,,selected,2026-08-01 22:06
-bo3_dog_plus_1_5_v0,2026-08-02 18:00,,ShindeN vs BESTIA,+1.5 maps,ShindeN,3,pinnacle,1.442,1,lost,-1.0,-0.474,0.43,pinnacle,,selected,2026-08-02 06:05
+bo3_dog_plus_1_5_v0,2026-08-02 10:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,pinnacle,1.455,1,won,0.455,-1.455,1.4,pinnacle,,selected,2026-08-02 00:07
+bo3_dog_plus_1_5_v0,2026-08-02 13:00,,MOUZ NXT vs WBT,+1.5 maps,WBT,3,pinnacle,1.314,1,won,0.314,-1.141,0.0,pinnacle,,selected,2026-08-01 22:06
+bo3_dog_plus_1_5_v0,2026-08-02 18:00,,ShindeN vs BESTIA,+1.5 maps,ShindeN,3,pinnacle,1.442,1,lost,-1.0,-2.141,0.43,pinnacle,,selected,2026-08-02 06:05
 bo3_dog_plus_1_5_v0,2026-08-03 08:00,,Eternal Fire Academy vs VP.Prodigy,+1.5 maps,Eternal Fire Academy,3,pinnacle,1.758,1,lost,-1.0,,2.31,pinnacle,,ineligible,2026-08-02 18:04
 bo3_dog_plus_1_5_v0,2026-08-03 08:00,,WW vs CYBERSHOKE Prospects,+1.5 maps,CYBERSHOKE Prospects,3,pinnacle,1.588,1,won,0.588,,3.88,pinnacle,,quarantined,2026-08-03 05:05
-bo3_dog_plus_1_5_v0,2026-08-03 13:00,,MOUZ NXT vs Misa,+1.5 maps,MOUZ NXT,3,pinnacle,1.413,1,won,0.413,-0.061,-0.65,pinnacle,,selected,2026-08-03 02:14
+bo3_dog_plus_1_5_v0,2026-08-03 13:00,,MOUZ NXT vs Misa,+1.5 maps,MOUZ NXT,3,pinnacle,1.413,1,won,0.413,-1.728,-0.65,pinnacle,,selected,2026-08-03 02:14
 bo3_dog_plus_1_5_v0,2026-08-03 17:00,,Keyd Stars vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,pinnacle,1.885,1,won,0.885,,-0.96,pinnacle,,ineligible,2026-08-02 23:05
-bo3_dog_plus_1_5_v0,2026-08-03 23:00,,Grêmio vs paiN Academy,+1.5 maps,Grêmio,3,pinnacle,1.327,1,won,0.327,0.266,-4.76,pinnacle,,selected,2026-08-03 01:05
-bo3_dog_plus_1_5_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,pinnacle,1.41,1,won,0.41,0.676,-1.67,pinnacle,,selected,2026-08-03 16:05
-bo3_dog_plus_1_5_v0,2026-08-04 14:00,,Just Players vs Enjoy,+1.5 maps,Enjoy,3,pinnacle,1.521,1,lost,-1.0,-0.324,2.72,pinnacle,,selected,2026-08-04 03:06
-bo3_dog_plus_1_5_v0,2026-08-04 17:00,,fnatic vs EAC,+1.5 maps,EAC,3,pinnacle,1.885,1,lost,-1.0,-1.324,-0.23,pinnacle,,selected,2026-08-04 04:05
+bo3_dog_plus_1_5_v0,2026-08-03 23:00,,Grêmio vs paiN Academy,+1.5 maps,Grêmio,3,pinnacle,1.327,1,won,0.327,-1.401,-4.76,pinnacle,,selected,2026-08-03 01:05
+bo3_dog_plus_1_5_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,pinnacle,1.41,1,won,0.41,-0.991,-1.67,pinnacle,,selected,2026-08-03 16:05
+bo3_dog_plus_1_5_v0,2026-08-04 14:00,,Just Players vs Enjoy,+1.5 maps,Enjoy,3,pinnacle,1.521,1,lost,-1.0,-1.991,2.72,pinnacle,,selected,2026-08-04 03:06
+bo3_dog_plus_1_5_v0,2026-08-04 17:00,,fnatic vs EAC,+1.5 maps,EAC,3,pinnacle,1.885,1,lost,-1.0,-2.991,-0.23,pinnacle,,selected,2026-08-04 04:05
+bo3_dog_plus_1_5_v0,2026-08-04 23:00,,BESTIA vs METANOIA Wolves,+1.5 maps,METANOIA Wolves,3,pinnacle,3.42,1,lost,-1.0,,,,,ineligible,2026-08-04 22:05
+bo3_dog_plus_1_5_v0,2026-08-05 08:00,,CYBERSHOKE Prospects vs Nuclear TigeRES,+1.5 maps,CYBERSHOKE Prospects,3,pinnacle,1.694,1,lost,-1.0,-3.991,0.18,pinnacle,,selected,2026-08-05 04:06
 bo3_fav_minus_1_5_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,pinnacle,2.89,1,lost,-1.0,-1.0,-2.38,pinnacle,,selected,2026-07-30 04:07
 bo3_fav_minus_1_5_v0,2026-07-30 14:00,,SPARTA vs NEW VISION,-1.5 maps,SPARTA,3,pinnacle,2.33,1,won,1.33,,12.54,pinnacle,,quarantined,2026-07-30 00:08
 bo3_fav_minus_1_5_v0,2026-07-31 14:00,,Lavked vs megoshort,-1.5 maps,Lavked,3,pinnacle,2.69,1,lost,-1.0,,0.38,pinnacle,,ineligible,2026-07-31 10:06
@@ -256,6 +259,9 @@ bo3_fav_minus_1_5_v0,2026-08-01 17:00,,ex-RUSTEC vs SPARTA,-1.5 maps,SPARTA,3,pi
 bo3_fav_minus_1_5_v0,2026-08-03 14:00,,SPARTA vs ex-Young Ninjas,-1.5 maps,SPARTA,3,pinnacle,2.37,1,lost,-1.0,-3.01,3.48,pinnacle,,selected,2026-08-02 23:05
 bo3_fav_minus_1_5_v0,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,-1.5 maps,Nuclear TigeRES,3,pinnacle,1.98,1,won,0.98,-2.03,-2.74,pinnacle,,selected,2026-08-04 06:06
 bo3_fav_minus_1_5_v0,2026-08-04 11:00,,ex-RUSTEC vs NEW VISION,-1.5 maps,ex-RUSTEC,3,pinnacle,2.22,1,lost,-1.0,-3.03,10.19,pinnacle,,selected,2026-08-04 03:06
+bo3_fav_minus_1_5_v0,2026-08-04 23:00,,BESTIA vs METANOIA Wolves,-1.5 maps,BESTIA,3,pinnacle,1.505,1,won,0.505,-2.525,12.48,pinnacle,,selected,2026-08-04 04:05
+bo3_fav_minus_1_5_v0,2026-08-05 13:00,,Liquid vs fnatic,-1.5 maps,Liquid,3,pinnacle,2.49,1,won,1.49,-1.035,2.85,pinnacle,,selected,2026-08-05 08:07
+bo3_fav_minus_1_5_v0,2026-08-05 14:00,,Nordic Partners vs GenOne,-1.5 maps,GenOne,3,pinnacle,2.29,1,won,1.29,0.255,2.4,pinnacle,,selected,2026-08-05 04:06
 bo3_dog_plus_1_5_tp_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,thunderpick,1.65,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-07-29 22:05
 bo3_dog_plus_1_5_tp_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,thunderpick,1.52,1,won,0.52,0.52,0.88,tp_self,,selected,2026-07-29 22:05
 bo3_dog_plus_1_5_tp_v0,2026-07-30 18:15,,aimclub vs Spirit Academy,+1.5 maps,aimclub,3,thunderpick,1.78,1,won,0.78,,4.58,tp_self,,quarantined,2026-07-29 21:06
@@ -267,34 +273,41 @@ bo3_dog_plus_1_5_tp_v0,2026-08-01 08:00,,INOX Division vs SINNERS,+1.5 maps,INOX
 bo3_dog_plus_1_5_tp_v0,2026-08-01 21:00,,ALKA vs Red Feet,+1.5 maps,Red Feet,3,thunderpick,2.33,1,lost,-1.0,,0.12,tp_self,,quarantined,2026-08-01 06:09
 bo3_dog_plus_1_5_tp_v0,2026-08-02 15:30,,Young TigeRES vs Spirit Academy,+1.5 maps,Young TigeRES,3,thunderpick,1.68,1,lost,-1.0,0.33,-0.71,tp_self,,selected,2026-08-02 06:05
 bo3_dog_plus_1_5_tp_v0,2026-08-03 08:00,,WW vs CYBERSHOKE Prospects,+1.5 maps,CYBERSHOKE Prospects,3,thunderpick,1.58,1,won,0.58,,3.58,tp_self,,quarantined,2026-08-02 19:04
-bo3_dog_plus_1_5_tp_v0,2026-08-03 10:00,,Metizport vs Johnny Speeds,+1.5 maps,Johnny Speeds,3,thunderpick,1.58,1,lost,-1.0,-0.67,-3.55,tp_self,,selected,2026-08-02 11:08
-bo3_dog_plus_1_5_tp_v0,2026-08-03 11:00,,1win vs ex-RUBY,+1.5 maps,ex-RUBY,3,thunderpick,1.42,1,won,0.42,-0.25,-2.91,tp_self,,selected,2026-08-02 19:04
+bo3_dog_plus_1_5_tp_v0,2026-08-03 10:00,,Metizport vs Johnny Speeds,+1.5 maps,Johnny Speeds,3,thunderpick,1.58,1,won,0.58,0.91,-3.55,tp_self,,selected,2026-08-02 11:08
+bo3_dog_plus_1_5_tp_v0,2026-08-03 11:00,,1win vs ex-RUBY,+1.5 maps,ex-RUBY,3,thunderpick,1.42,1,won,0.42,1.33,-2.91,tp_self,,selected,2026-08-02 19:04
 bo3_dog_plus_1_5_tp_v0,2026-08-03 21:00,,BORRACHEIROS vs ALKA,+1.5 maps,BORRACHEIROS,3,thunderpick,1.53,1,won,0.53,,1.16,tp_self,,ineligible,2026-08-03 09:06
 bo3_dog_plus_1_5_tp_v0,2026-08-04 10:00,,Rooster vs FURY,+1.5 maps,FURY,3,thunderpick,2.08,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-04 06:06
-bo3_dog_plus_1_5_tp_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,thunderpick,1.4,1,won,0.4,0.15,,,,selected,2026-08-03 15:06
-bo3_dog_plus_1_5_tp_v0,2026-08-04 17:00,,Eternal Fire vs INOX Division,+1.5 maps,INOX Division,3,thunderpick,1.42,1,won,0.42,0.57,3.1,tp_self,,selected,2026-08-04 06:06
-bo3_fav_minus_1_5_tp_v0,2026-07-29 14:00,,ex-RUBY vs GenOne,-1.5 maps,ex-RUBY,3,thunderpick,2.8,1,lost,-1.0,-1.0,0.0,tp_self,,selected,2026-07-29 00:05
-bo3_fav_minus_1_5_tp_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,thunderpick,2.9,1,lost,-1.0,-2.0,0.0,tp_self,,selected,2026-07-29 21:06
-bo3_fav_minus_1_5_tp_v0,2026-07-30 14:00,,Phantom vs Lavked,-1.5 maps,Phantom,3,thunderpick,2.18,1,won,1.18,-0.82,0.4,tp_self,,selected,2026-07-29 21:06
-bo3_fav_minus_1_5_tp_v0,2026-07-31 08:00,,INFINITE vs SPARTA,-1.5 maps,INFINITE,3,thunderpick,2.9,1,lost,-1.0,-1.82,0.0,tp_self,,selected,2026-07-31 00:07
+bo3_dog_plus_1_5_tp_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,thunderpick,1.4,1,won,0.4,1.73,,,,selected,2026-08-03 15:06
+bo3_dog_plus_1_5_tp_v0,2026-08-04 17:00,,Eternal Fire vs INOX Division,+1.5 maps,INOX Division,3,thunderpick,1.42,1,won,0.42,2.15,3.1,tp_self,,selected,2026-08-04 06:06
+bo3_dog_plus_1_5_tp_v0,2026-08-05 08:00,,CYBERSHOKE Prospects vs Nuclear TigeRES,+1.5 maps,CYBERSHOKE Prospects,3,thunderpick,1.55,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-04 20:05
+bo3_dog_plus_1_5_tp_v0,2026-08-05 10:00,,Arcade vs Abyssal,+1.5 maps,Arcade,3,thunderpick,1.43,1,won,0.43,2.58,-5.51,tp_self,,selected,2026-08-04 11:06
+bo3_dog_plus_1_5_tp_v0,2026-08-05 11:00,,INOX Division vs 1win,+1.5 maps,INOX Division,3,thunderpick,1.4,1,won,0.4,,-4.73,tp_self,,ineligible,2026-08-05 06:07
+bo3_dog_plus_1_5_tp_v0,2026-08-05 21:00,,Grêmio vs ALKA,+1.5 maps,Grêmio,3,thunderpick,1.56,1,won,0.56,,0.39,tp_self,,ineligible,2026-08-05 00:06
+bo3_fav_minus_1_5_tp_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,thunderpick,2.9,1,lost,-1.0,-1.0,0.0,tp_self,,selected,2026-07-29 21:06
+bo3_fav_minus_1_5_tp_v0,2026-07-30 14:00,,Phantom vs Lavked,-1.5 maps,Phantom,3,thunderpick,2.18,1,won,1.18,0.18,0.4,tp_self,,selected,2026-07-29 21:06
+bo3_fav_minus_1_5_tp_v0,2026-07-31 08:00,,INFINITE vs SPARTA,-1.5 maps,INFINITE,3,thunderpick,2.9,1,lost,-1.0,-0.82,0.0,tp_self,,selected,2026-07-31 00:07
 bo3_fav_minus_1_5_tp_v0,2026-07-31 08:00,,ex-RUBY vs Lavked,-1.5 maps,ex-RUBY,3,thunderpick,2.03,1,won,1.03,,-2.76,tp_self,,ineligible,2026-07-31 04:07
 bo3_fav_minus_1_5_tp_v0,2026-07-31 14:00,,K27 vs Just Players,-1.5 maps,K27,3,thunderpick,2.1,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-07-30 15:07
 bo3_fav_minus_1_5_tp_v0,2026-07-31 17:00,,JiJieHao vs Black Phoenix,-1.5 maps,JiJieHao,3,thunderpick,2.31,1,lost,-1.0,,-0.4,tp_self,,quarantined,2026-07-31 04:07
 bo3_fav_minus_1_5_tp_v0,2026-07-31 17:00,,GenOne vs Enjoy,-1.5 maps,GenOne,3,thunderpick,2.49,1,won,1.49,,5.45,tp_self,,quarantined,2026-07-31 04:07
-bo3_fav_minus_1_5_tp_v0,2026-07-31 22:00,,SportsBetExpert vs LAG,-1.5 maps,SportsBetExpert,3,thunderpick,2.9,1,lost,-1.0,-2.82,3.1,tp_self,,selected,2026-07-31 03:06
+bo3_fav_minus_1_5_tp_v0,2026-07-31 22:00,,SportsBetExpert vs LAG,-1.5 maps,SportsBetExpert,3,thunderpick,2.9,1,lost,-1.0,-1.82,3.1,tp_self,,selected,2026-07-31 03:06
 bo3_fav_minus_1_5_tp_v0,2026-08-01 11:00,,ex-RUSTEC vs SPARTA,-1.5 maps,SPARTA,3,thunderpick,2.7,1,won,1.7,,0.0,tp_self,,ineligible,2026-08-01 07:06
-bo3_fav_minus_1_5_tp_v0,2026-08-01 13:30,,Astralis vs MOUZ,-1.5 maps,MOUZ,3,thunderpick,2.1,1,lost,-1.0,-3.82,0.0,tp_self,,selected,2026-07-31 23:07
+bo3_fav_minus_1_5_tp_v0,2026-08-01 13:30,,Astralis vs MOUZ,-1.5 maps,MOUZ,3,thunderpick,2.1,1,lost,-1.0,-2.82,0.0,tp_self,,selected,2026-07-31 23:07
 bo3_fav_minus_1_5_tp_v0,2026-08-01 14:00,,Sashi vs Just Players,-1.5 maps,Sashi,3,thunderpick,2.9,1,lost,-1.0,,2.6,tp_self,,ineligible,2026-08-01 00:07
 bo3_fav_minus_1_5_tp_v0,2026-08-02 00:30,,SportsBetExpert vs Marsborne,-1.5 maps,Marsborne,3,thunderpick,3.2,1,lost,-1.0,,1.09,tp_self,,ineligible,2026-08-01 17:07
-bo3_fav_minus_1_5_tp_v0,2026-08-02 10:00,,Acend vs 6666,-1.5 maps,Acend,3,thunderpick,1.69,1,won,0.69,-3.13,-0.71,tp_self,,selected,2026-08-01 11:06
+bo3_fav_minus_1_5_tp_v0,2026-08-02 10:00,,Acend vs 6666,-1.5 maps,Acend,3,thunderpick,1.69,1,won,0.69,-2.13,-0.71,tp_self,,selected,2026-08-01 11:06
 bo3_fav_minus_1_5_tp_v0,2026-08-02 10:00,,Sashi vs Black Phoenix,-1.5 maps,Sashi,3,thunderpick,2.22,1,lost,-1.0,,0.8,tp_self,,ineligible,2026-08-02 06:05
 bo3_fav_minus_1_5_tp_v0,2026-08-02 22:00,,NRG vs SportsBetExpert,-1.5 maps,NRG,3,thunderpick,2.0,1,won,1.0,,0.0,tp_self,,ineligible,2026-08-02 04:05
-bo3_fav_minus_1_5_tp_v0,2026-08-03 10:00,,fnatic vs Lilmix,-1.5 maps,fnatic,3,thunderpick,1.58,1,won,0.58,-2.55,10.88,tp_self,,selected,2026-08-02 11:08
-bo3_fav_minus_1_5_tp_v0,2026-08-03 17:00,,GenOne vs UNiTY,-1.5 maps,GenOne,3,thunderpick,2.03,1,won,1.03,-1.52,0.76,tp_self,,selected,2026-08-02 23:05
+bo3_fav_minus_1_5_tp_v0,2026-08-03 10:00,,fnatic vs Lilmix,-1.5 maps,fnatic,3,thunderpick,1.58,1,won,0.58,-1.55,10.88,tp_self,,selected,2026-08-02 11:08
+bo3_fav_minus_1_5_tp_v0,2026-08-03 17:00,,GenOne vs UNiTY,-1.5 maps,GenOne,3,thunderpick,2.03,1,won,1.03,-0.52,0.76,tp_self,,selected,2026-08-02 23:05
 bo3_fav_minus_1_5_tp_v0,2026-08-03 18:30,,QUINTESSÊNCIA vs BESTIA Academy,-1.5 maps,BESTIA Academy,3,thunderpick,2.02,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-03 17:06
-bo3_fav_minus_1_5_tp_v0,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,-1.5 maps,Nuclear TigeRES,3,thunderpick,2.1,1,won,1.1,-0.42,2.42,tp_self,,selected,2026-08-03 09:06
-bo3_fav_minus_1_5_tp_v0,2026-08-04 08:00,,G2 Ares vs Johnny Speeds,-1.5 maps,Johnny Speeds,3,thunderpick,2.9,1,won,1.9,1.48,-1.95,tp_self,,selected,2026-08-03 23:05
+bo3_fav_minus_1_5_tp_v0,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,-1.5 maps,Nuclear TigeRES,3,thunderpick,2.1,1,won,1.1,0.58,2.42,tp_self,,selected,2026-08-03 09:06
+bo3_fav_minus_1_5_tp_v0,2026-08-04 08:00,,G2 Ares vs Johnny Speeds,-1.5 maps,Johnny Speeds,3,thunderpick,2.9,1,won,1.9,2.48,-1.95,tp_self,,selected,2026-08-03 23:05
 bo3_fav_minus_1_5_tp_v0,2026-08-04 10:00,,Finishers vs Mindfreak,-1.5 maps,Mindfreak,3,thunderpick,1.57,1,lost,-1.0,,4.58,tp_self,,ineligible,2026-08-04 06:06
+bo3_fav_minus_1_5_tp_v0,2026-08-04 21:00,,ODDIK vs RED Canids Academy,-1.5 maps,ODDIK,3,thunderpick,2.1,1,won,1.1,,2.3,tp_self,,ineligible,2026-08-03 22:05
+bo3_fav_minus_1_5_tp_v0,2026-08-05 08:00,,ARCRED vs Just Players,-1.5 maps,ARCRED,3,thunderpick,3.2,1,lost,-1.0,,3.04,tp_self,,ineligible,2026-08-05 03:07
+bo3_fav_minus_1_5_tp_v0,2026-08-05 11:00,,Butterfly vs ex-RUSTEC,-1.5 maps,Butterfly,3,thunderpick,2.9,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-05 00:06
+bo3_fav_minus_1_5_tp_v0,2026-08-05 14:00,,Nordic Partners vs GenOne,-1.5 maps,GenOne,3,thunderpick,2.4,1,won,1.4,,,,,quarantined,2026-08-05 03:07
 map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,pinnacle,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
 map1_specials_v1,2026-07-19 16:00,CCT South America,BORRACHEIROS vs METANOIA Wolves,map1_moneyline,BORRACHEIROS,3,pinnacle,1.752,1,void,0.0,,,,,selected,2026-07-19 15:03
 map1_specials_v1,2026-07-19 19:00,CCT South America,BESTIA Academy vs GameHunters,map1_moneyline,BESTIA Academy,3,pinnacle,2.15,1,void,0.0,,,,,selected,2026-07-19 06:04
