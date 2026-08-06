@@ -1,22 +1,22 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_dog_plus_1_5_tp_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,thunderpick,1.65,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-07-29 22:05
-bo3_dog_plus_1_5_tp_v0,2026-07-30 18:00,,ShindeN vs Imperial,+1.5 maps,ShindeN,3,thunderpick,1.52,1,won,0.52,0.52,0.88,tp_self,,selected,2026-07-29 22:05
-bo3_dog_plus_1_5_tp_v0,2026-07-30 18:15,,aimclub vs Spirit Academy,+1.5 maps,aimclub,3,thunderpick,1.78,1,won,0.78,,4.58,tp_self,,quarantined,2026-07-29 21:06
 bo3_dog_plus_1_5_tp_v0,2026-07-30 22:00,,SportsBetExpert vs Voca,+1.5 maps,SportsBetExpert,3,thunderpick,1.85,1,won,0.85,,4.07,tp_self,,ineligible,2026-07-30 10:47
 bo3_dog_plus_1_5_tp_v0,2026-07-31 17:00,,CYBERSHOKE vs STATE,+1.5 maps,STATE,3,thunderpick,1.75,1,lost,-1.0,,2.44,tp_self,,quarantined,2026-07-31 12:09
 bo3_dog_plus_1_5_tp_v0,2026-07-31 18:00,,paiN Academy vs RUSH,+1.5 maps,RUSH,3,thunderpick,2.09,1,won,1.09,,4.01,tp_self,,ineligible,2026-07-31 00:07
-bo3_dog_plus_1_5_tp_v0,2026-08-01 08:00,,GenOne vs JiJieHao,+1.5 maps,GenOne,3,thunderpick,1.38,1,won,0.38,0.9,0.0,tp_self,,selected,2026-07-31 23:07
-bo3_dog_plus_1_5_tp_v0,2026-08-01 08:00,,INOX Division vs SINNERS,+1.5 maps,INOX Division,3,thunderpick,1.43,1,won,0.43,1.33,-0.93,tp_self,,selected,2026-07-31 23:07
+bo3_dog_plus_1_5_tp_v0,2026-08-01 08:00,,GenOne vs JiJieHao,+1.5 maps,GenOne,3,thunderpick,1.38,1,won,0.38,0.38,0.0,tp_self,,selected,2026-07-31 23:07
+bo3_dog_plus_1_5_tp_v0,2026-08-01 08:00,,INOX Division vs SINNERS,+1.5 maps,INOX Division,3,thunderpick,1.43,1,won,0.43,0.81,-0.93,tp_self,,selected,2026-07-31 23:07
 bo3_dog_plus_1_5_tp_v0,2026-08-01 21:00,,ALKA vs Red Feet,+1.5 maps,Red Feet,3,thunderpick,2.33,1,lost,-1.0,,0.12,tp_self,,quarantined,2026-08-01 06:09
-bo3_dog_plus_1_5_tp_v0,2026-08-02 15:30,,Young TigeRES vs Spirit Academy,+1.5 maps,Young TigeRES,3,thunderpick,1.68,1,lost,-1.0,0.33,-0.71,tp_self,,selected,2026-08-02 06:05
+bo3_dog_plus_1_5_tp_v0,2026-08-02 15:30,,Young TigeRES vs Spirit Academy,+1.5 maps,Young TigeRES,3,thunderpick,1.68,1,lost,-1.0,-0.19,-0.71,tp_self,,selected,2026-08-02 06:05
 bo3_dog_plus_1_5_tp_v0,2026-08-03 08:00,,WW vs CYBERSHOKE Prospects,+1.5 maps,CYBERSHOKE Prospects,3,thunderpick,1.58,1,won,0.58,,3.58,tp_self,,quarantined,2026-08-02 19:04
-bo3_dog_plus_1_5_tp_v0,2026-08-03 10:00,,Metizport vs Johnny Speeds,+1.5 maps,Johnny Speeds,3,thunderpick,1.58,1,won,0.58,0.91,-3.55,tp_self,,selected,2026-08-02 11:08
-bo3_dog_plus_1_5_tp_v0,2026-08-03 11:00,,1win vs ex-RUBY,+1.5 maps,ex-RUBY,3,thunderpick,1.42,1,won,0.42,1.33,-2.91,tp_self,,selected,2026-08-02 19:04
+bo3_dog_plus_1_5_tp_v0,2026-08-03 10:00,,Metizport vs Johnny Speeds,+1.5 maps,Johnny Speeds,3,thunderpick,1.58,1,won,0.58,0.39,-3.55,tp_self,,selected,2026-08-02 11:08
+bo3_dog_plus_1_5_tp_v0,2026-08-03 11:00,,1win vs ex-RUBY,+1.5 maps,ex-RUBY,3,thunderpick,1.42,1,won,0.42,0.81,-2.91,tp_self,,selected,2026-08-02 19:04
 bo3_dog_plus_1_5_tp_v0,2026-08-03 21:00,,BORRACHEIROS vs ALKA,+1.5 maps,BORRACHEIROS,3,thunderpick,1.53,1,won,0.53,,1.16,tp_self,,ineligible,2026-08-03 09:06
 bo3_dog_plus_1_5_tp_v0,2026-08-04 10:00,,Rooster vs FURY,+1.5 maps,FURY,3,thunderpick,2.08,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-04 06:06
-bo3_dog_plus_1_5_tp_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,thunderpick,1.4,1,won,0.4,1.73,,,,selected,2026-08-03 15:06
-bo3_dog_plus_1_5_tp_v0,2026-08-04 17:00,,Eternal Fire vs INOX Division,+1.5 maps,INOX Division,3,thunderpick,1.42,1,won,0.42,2.15,3.1,tp_self,,selected,2026-08-04 06:06
+bo3_dog_plus_1_5_tp_v0,2026-08-04 14:00,,Nemiga vs GenOne,+1.5 maps,GenOne,3,thunderpick,1.4,1,won,0.4,1.21,,,,selected,2026-08-03 15:06
+bo3_dog_plus_1_5_tp_v0,2026-08-04 17:00,,Eternal Fire vs INOX Division,+1.5 maps,INOX Division,3,thunderpick,1.42,1,won,0.42,1.63,3.1,tp_self,,selected,2026-08-04 06:06
 bo3_dog_plus_1_5_tp_v0,2026-08-05 08:00,,CYBERSHOKE Prospects vs Nuclear TigeRES,+1.5 maps,CYBERSHOKE Prospects,3,thunderpick,1.55,1,lost,-1.0,,0.0,tp_self,,ineligible,2026-08-04 20:05
-bo3_dog_plus_1_5_tp_v0,2026-08-05 10:00,,Arcade vs Abyssal,+1.5 maps,Arcade,3,thunderpick,1.43,1,won,0.43,2.58,-5.51,tp_self,,selected,2026-08-04 11:06
+bo3_dog_plus_1_5_tp_v0,2026-08-05 10:00,,Arcade vs Abyssal,+1.5 maps,Arcade,3,thunderpick,1.43,1,won,0.43,2.06,-5.51,tp_self,,selected,2026-08-04 11:06
 bo3_dog_plus_1_5_tp_v0,2026-08-05 11:00,,INOX Division vs 1win,+1.5 maps,INOX Division,3,thunderpick,1.4,1,won,0.4,,-4.73,tp_self,,ineligible,2026-08-05 06:07
 bo3_dog_plus_1_5_tp_v0,2026-08-05 21:00,,Grêmio vs ALKA,+1.5 maps,Grêmio,3,thunderpick,1.56,1,won,0.56,,0.39,tp_self,,ineligible,2026-08-05 00:06
+bo3_dog_plus_1_5_tp_v0,2026-08-06 10:00,,Ground Zero vs Abyssal,+1.5 maps,Abyssal,3,thunderpick,1.66,1,lost,-1.0,1.06,-2.31,tp_self,,selected,2026-08-05 22:05
+bo3_dog_plus_1_5_tp_v0,2026-08-06 12:00,,1win vs Butterfly,+1.5 maps,Butterfly,3,thunderpick,1.48,1,won,0.48,,-3.27,tp_self,,ineligible,2026-08-06 00:05
+bo3_dog_plus_1_5_tp_v0,2026-08-06 14:00,,paiN Academy vs MEIA NOITE,+1.5 maps,paiN Academy,3,thunderpick,1.58,1,won,0.58,,0.0,tp_self,,quarantined,2026-08-05 15:07

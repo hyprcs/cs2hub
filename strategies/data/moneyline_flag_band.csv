@@ -163,9 +163,9 @@ moneyline_flag_band,2026-07-29 15:00,,ShindeN vs Galorys,moneyline,ShindeN,3,pin
 moneyline_flag_band,2026-07-29 17:00,,Just Players vs G2 Ares,moneyline,Just Players,3,bet365,1.9,1,won,0.9,2.387,5.53,bet365,hourly,eligible,2026-07-28 23:23
 moneyline_flag_band,2026-07-29 18:10,,MIBR vs LP,moneyline,LP,3,pinnacle,3.94,1,lost,-1.0,1.387,-1.94,pinnacle,close,eligible,2026-07-28 23:23
 moneyline_flag_band,2026-07-29 22:00,,NRG vs Marsborne,moneyline,Marsborne,3,pinnacle,4.32,1,lost,-1.0,0.387,-0.53,pinnacle,close,no_bet,2026-07-29 20:58
-moneyline_flag_band,2026-07-30 08:00,,SPARTA vs Just Players,moneyline,SPARTA,3,pinnacle,1.73,1,lost,-1.0,-0.613,-2.23,pinnacle,close,eligible,2026-07-29 20:58
+moneyline_flag_band,2026-07-30 08:10,,SPARTA vs Just Players,moneyline,SPARTA,3,pinnacle,1.73,1,lost,-1.0,-0.613,-2.23,pinnacle,close,eligible,2026-07-29 20:58
 moneyline_flag_band,2026-07-30 11:30,,GenOne vs ex-RUSTEC,moneyline,GenOne,3,pinnacle,1.386,1,won,0.386,-0.227,,,hourly,no_bet,2026-07-30 11:08
-moneyline_flag_band,2026-07-30 12:00,,KUUSAMO vs BOJONG,moneyline,KUUSAMO,1,pinnacle,1.654,1,won,0.654,0.427,,,hourly,no_bet,2026-07-30 11:08
+moneyline_flag_band,2026-07-30 11:35,,KUUSAMO vs BOJONG,moneyline,KUUSAMO,1,pinnacle,1.654,1,won,0.654,0.427,,,hourly,no_bet,2026-07-30 11:08
 moneyline_flag_band,2026-07-30 13:00,,Liquid vs Spirit,moneyline,Spirit,3,pinnacle,1.244,1,won,0.244,0.671,,,hourly,no_bet,2026-07-30 12:08
 moneyline_flag_band,2026-07-30 13:40,,ENCE vs SINQU,moneyline,SINQU,1,pinnacle,4.37,1,lost,-1.0,-0.329,-0.21,pinnacle,close,no_bet,2026-07-30 12:08
 moneyline_flag_band,2026-07-30 14:05,,SPARTA vs NEW VISION,moneyline,SPARTA,3,pinnacle,1.229,1,won,0.229,-0.1,-1.34,pinnacle,close,eligible,2026-07-30 12:08
@@ -220,3 +220,6 @@ moneyline_flag_band,2026-08-05 10:00,,Arcade vs Abyssal,moneyline,Arcade,3,bet36
 moneyline_flag_band,2026-08-05 13:00,,Liquid vs fnatic,moneyline,Liquid,3,pinnacle,1.498,1,won,0.498,-17.12,4.27,pinnacle,close,eligible,2026-08-05 11:09
 moneyline_flag_band,2026-08-05 14:00,,Nordic Partners vs GenOne,moneyline,GenOne,3,pinnacle,1.369,1,won,0.369,-16.751,-0.72,pinnacle,close,eligible,2026-08-05 13:06
 moneyline_flag_band,2026-08-05 18:30,,Grêmio vs ALKA,moneyline,Grêmio,3,bet365,2.62,1,won,1.62,-15.131,0.0,bet365,close,eligible,2026-08-05 14:07
+moneyline_flag_band,2026-08-06 08:00,,Lavked vs Black Phoenix,moneyline,Black Phoenix,3,pinnacle,1.617,1,won,0.617,-14.514,5.09,pinnacle,close,no_bet,2026-08-06 00:06
+moneyline_flag_band,2026-08-06 17:00,,Yawara vs Isurus,moneyline,Isurus,3,pinnacle,1.73,1,lost,-1.0,-15.514,1.14,pinnacle,close,eligible,2026-08-06 16:06
+moneyline_flag_band,2026-08-06 19:10,,QUINTESSÊNCIA vs Grêmio,moneyline,Grêmio,3,bet365,1.66,1,won,0.66,-14.854,0.0,bet365,close,eligible,2026-08-06 16:06
