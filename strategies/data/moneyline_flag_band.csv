@@ -182,7 +182,7 @@ moneyline_flag_band,2026-07-31 13:00,,HOTU vs G2 Ares,moneyline,HOTU,3,bet365,1.
 moneyline_flag_band,2026-07-31 16:10,,paiN vs Astralis,moneyline,paiN,3,pinnacle,2.34,1,lost,-1.0,-7.805,0.9,pinnacle,close,eligible,2026-07-31 14:08
 moneyline_flag_band,2026-07-31 16:35,,HAVU vs Rounds,moneyline,Rounds,1,pinnacle,3.6,1,lost,-1.0,-8.805,-1.65,pinnacle,close,no_bet,2026-07-31 14:08
 moneyline_flag_band,2026-07-31 17:10,,GenOne vs Enjoy,moneyline,GenOne,3,pinnacle,1.27,1,won,0.27,-8.535,0.99,pinnacle,close,eligible,2026-07-31 14:08
-moneyline_flag_band,2026-07-31 18:05,,Imperial vs Fluxo,moneyline,Fluxo,3,pinnacle,2.41,1,won,1.41,-7.125,-0.42,pinnacle,close,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 18:00,,Imperial vs Fluxo,moneyline,Fluxo,3,pinnacle,2.41,1,won,1.41,-7.125,-0.42,pinnacle,close,eligible,2026-07-31 14:08
 moneyline_flag_band,2026-07-31 21:25,,LP vs BESTIA,moneyline,LP,3,pinnacle,2.39,1,lost,-1.0,-8.125,-3.65,pinnacle,hourly,eligible,2026-07-31 14:08
 moneyline_flag_band,2026-07-31 22:00,,SportsBetExpert vs LAG,moneyline,SportsBetExpert,3,bet365,1.61,1,won,0.61,-7.515,7.31,bet365,hourly,eligible,2026-07-31 14:08
 moneyline_flag_band,2026-08-01 00:45,,Marsborne vs regain,moneyline,regain,3,pinnacle,3.83,1,lost,-1.0,-8.515,-1.0,pinnacle,hourly,eligible,2026-07-31 22:11
@@ -223,3 +223,8 @@ moneyline_flag_band,2026-08-05 18:30,,Grêmio vs ALKA,moneyline,Grêmio,3,bet365
 moneyline_flag_band,2026-08-06 08:00,,Lavked vs Black Phoenix,moneyline,Black Phoenix,3,pinnacle,1.617,1,won,0.617,-14.514,5.09,pinnacle,close,no_bet,2026-08-06 00:06
 moneyline_flag_band,2026-08-06 17:00,,Yawara vs Isurus,moneyline,Isurus,3,pinnacle,1.73,1,lost,-1.0,-15.514,1.14,pinnacle,close,eligible,2026-08-06 16:06
 moneyline_flag_band,2026-08-06 19:10,,QUINTESSÊNCIA vs Grêmio,moneyline,Grêmio,3,bet365,1.66,1,won,0.66,-14.854,0.0,bet365,close,eligible,2026-08-06 16:06
+moneyline_flag_band,2026-08-06 20:05,,METANOIA Wolves vs Procyon,moneyline,Procyon,3,pinnacle,1.649,1,lost,-1.0,-15.854,,,hourly,no_bet,2026-08-06 16:06
+moneyline_flag_band,2026-08-07 11:00,,Walczaki vs Black Phoenix,moneyline,Black Phoenix,3,bet365,2.62,1,won,1.62,-14.234,4.06,bet365,close,no_bet,2026-08-07 05:09
+moneyline_flag_band,2026-08-07 16:15,,Prestige vs Metizport,moneyline,Metizport,3,pinnacle,1.19,1,won,0.19,-14.044,-0.34,pinnacle,close,no_bet,2026-08-07 15:10
+moneyline_flag_band,2026-08-07 17:05,,GenOne vs CYBERSHOKE,moneyline,GenOne,3,pinnacle,1.901,1,lost,-1.0,-15.044,-2.09,pinnacle,close,eligible,2026-08-07 15:10
+moneyline_flag_band,2026-08-07 20:00,,BESTIA vs Yawara,moneyline,BESTIA,3,pinnacle,1.22,1,lost,-1.0,-16.044,-1.56,pinnacle,close,eligible,2026-08-07 17:07
