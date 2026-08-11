@@ -1,0 +1,55 @@
+user,match_time_utc,event,match,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pct,clv_ref,close_quality,picked_at_utc
+hyper,2026-07-14T10:30:00.000+00:00,European Pro League,Honvéd vs GenOne,Honvéd,3,SoftBook A,2.62,1.0,lost,-1.0,-1.0,0.0,SoftBook A,bookA-hourly,2026-07-14T08:36:44.062386+00:00
+hyper,2026-07-14T11:00:00.000+00:00,NODWIN Clutch Series 10 Closed Qualifier,Inner Circle Academy vs DONSTU,Inner Circle Academy,3,Sharp,1.758,1.0,won,0.758,-0.242,0.37,Sharp,close,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-14T11:00:00.000+00:00,ESL Challenger League Europe,HOTU vs QUAZAR,HOTU,3,SoftBook A,1.44,1.0,won,0.44,0.198,0.56,Sharp,hourly,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-14T11:00:00.000+00:00,ESL Challenger League Europe,BRUTE vs fnatic,fnatic,3,SoftBook A,1.22,1.0,won,0.22,0.418,-3.23,Sharp,hourly,2026-07-14T08:36:44.062386+00:00
+hyper,2026-07-14T16:00:00.000+00:00,CCT South America,paiN Academy vs ODDIK,ODDIK,3,SoftBook A,1.28,1.0,won,0.28,0.698,-1.72,Sharp,close,2026-07-14T08:14:37.241924+00:00
+hyper,2026-07-15T10:00:00.000+00:00,Stake Ranked,Ninjas in Pyjamas vs K27,K27,3,SoftBook A,2.5,1.0,lost,-1.0,-0.302,-2.55,Sharp,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T10:30:00.000+00:00,European Pro League,The Last Resort vs Enjoy,The Last Resort,3,SoftBook A,2.75,1.0,won,1.75,1.448,7.37,SoftBook A,bookA-hourly,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T12:30:00.000+00:00,Stake Ranked,3DMAX vs HEROIC,3DMAX,3,SoftBook A,2.37,1.0,lost,-1.0,0.448,-0.34,Sharp,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T15:00:00.000+00:00,Stake Ranked,Wildcard vs Gentle Mates,Gentle Mates,3,SoftBook A,2.25,1.0,won,1.25,1.698,-2.19,Sharp,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-15T17:30:00.000+00:00,Stake Ranked,paiN vs Phantom,paiN,3,SoftBook A,1.36,1.0,lost,-1.0,0.698,5.6,Sharp,close,2026-07-15T03:39:16.777482+00:00
+hyper,2026-07-16T08:00:00.000+00:00,European Pro League,WW vs Just Players,Just Players,3,SoftBook A,2.37,1.0,won,1.37,2.068,-2.92,Sharp,hourly,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T10:30:00.000+00:00,European Pro League,Walczaki vs SPARTA,Walczaki,3,SoftBook A,1.44,1.0,won,0.44,2.508,0.0,SoftBook A,bookA-hourly,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T12:30:00.000+00:00,Stake Ranked,paiN vs 3DMAX,paiN,3,SoftBook A,1.53,1.0,lost,-1.0,1.508,-1.42,Sharp,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-16T16:00:00.000+00:00,RUSH B Summit,ShindeN vs Bounty Hunters,ShindeN,3,Sharp,1.662,1.0,lost,-1.0,0.508,0.74,Sharp,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-17T00:00:00.000+00:00,DFRAG HyperX Nationals,Abyssal vs Rooster,Abyssal,1,SoftBook A,2.37,1.0,lost,-1.0,-0.492,-19.04,Sharp,close,2026-07-16T05:10:44.839512+00:00
+hyper,2026-07-17T13:00:00.000+00:00,CCT South America,GameHunters vs ALKA,GameHunters,3,SoftBook A,1.72,1.0,won,0.72,0.228,6.56,Sharp,close,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-17T14:00:00.000+00:00,,ex-MANA vs benched gods,benched gods,3,SoftBook A,2.5,1.0,won,1.5,1.728,0.0,SoftBook A,bookA-hourly,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-17T22:00:00.000+00:00,CCT South America,BESTIA Academy vs MAGICOS,BESTIA Academy,3,SoftBook A,1.16,1.0,won,0.16,1.888,-0.38,Sharp,hourly,2026-07-17T03:22:17.301804+00:00
+hyper,2026-07-18T08:00:00.000+00:00,European Pro League,Eternal Fire vs BRUTE,BRUTE,3,SoftBook A,3.0,1.0,lost,-1.0,0.888,-2.66,Sharp,close,2026-07-18T01:30:17.499477+00:00
+hyper,2026-07-18T08:00:00.000+00:00,CCT Europe Series Closed Qualifier,Bebop vs DONSTU,DONSTU,3,Sharp,2.39,0.5,lost,-1.0,-0.112,7.97,Sharp,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T10:30:00.000+00:00,European Pro League,Nuclear TigeRES vs Atreides,Nuclear TigeRES,3,SoftBook A,1.14,1.0,lost,-1.0,-1.112,0.0,SoftBook A,bookA-hourly,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T16:00:00.000+00:00,,Imperial vs ShindeN,ShindeN,3,Sharp,2.49,0.5,lost,-1.0,-2.112,0.0,Sharp,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-18T17:00:00.000+00:00,,benched gods vs Misa,Misa,3,Sharp,1.893,1.0,lost,-1.0,-3.112,-18.04,Sharp,close,2026-07-18T06:12:31.732611+00:00
+hyper,2026-07-19T13:00:00.000+00:00,CCT South America,Grêmio vs ALKA,ALKA,3,SoftBook A,1.4,1.0,won,0.4,-2.712,-0.49,Sharp,close,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T17:00:00.000+00:00,,ex-MANA vs Misa,ex-MANA,3,SoftBook A,2.1,1.0,lost,-1.0,-3.712,-1.89,SoftBook A,bookA-hourly,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T19:00:00.000+00:00,CCT South America,BESTIA Academy vs GameHunters,BESTIA Academy,3,SoftBook A,2.1,1.0,void,0.0,,-1.08,Sharp,close,2026-07-19T06:39:12.636377+00:00
+hyper,2026-07-19T23:00:00.000+00:00,RUSH B Summit,Fluxo vs Imperial,Fluxo,5,Sharp,2.92,1.0,won,1.92,-1.792,0.0,Sharp,close,2026-07-19T22:54:42.002640+00:00
+hyper,2026-07-20T08:00:00.000+00:00,European Pro League,Just Players vs Walczaki,Walczaki,3,SoftBook A,1.3,1.0,lost,-1.0,-2.792,0.0,SoftBook A,bookA-hourly,2026-07-19T22:54:42.002640+00:00
+hyper,2026-07-21T10:00:00.000+00:00,BLAST Bounty Qualifier,M80 vs Ninjas in Pyjamas,M80,3,SoftBook A,2.0,1.0,lost,-1.0,-3.792,0.95,Sharp,close,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-21T12:30:00.000+00:00,BLAST Bounty Qualifier,Nemesis vs Astralis,Astralis,3,SoftBook A,1.53,1.0,won,0.53,-3.262,0.36,Sharp,hourly,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-21T17:30:00.000+00:00,BLAST Bounty Qualifier,Alliance vs Wildcard,Wildcard,3,SoftBook A,2.25,1.0,won,1.25,-2.012,-1.15,Sharp,close,2026-07-20T20:42:41.909216+00:00
+hyper,2026-07-22T10:00:00.000+00:00,BLAST Bounty Qualifier,EYEBALLERS vs FaZe,FaZe,3,SoftBook A,1.33,1.0,won,0.33,-1.682,5.01,Sharp,close,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T10:00:00.000+00:00,,HOTU vs Astralis,Astralis,3,SoftBook A,1.57,1.0,lost,-1.0,-2.682,4.24,Sharp,close,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T11:00:00.000+00:00,CCT Europe Series,SPARTA vs SAW Youngsters,SAW Youngsters,3,SoftBook A,4.5,1.0,lost,-1.0,-3.682,1.96,Sharp,hourly,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T13:00:00.000+00:00,StarLadder StarSeries Fall Europe Qualifier,Ninjas in Pyjamas vs 100 Thieves,Ninjas in Pyjamas,3,SoftBook A,1.61,1.0,won,0.61,-3.072,-1.91,Sharp,close,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T14:00:00.000+00:00,,INOX Division vs Endless Journey,INOX Division,3,SoftBook A,1.53,1.0,won,0.53,-2.542,3.76,SoftBook A,bookA-hourly,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T15:00:00.000+00:00,BLAST Bounty Qualifier,HOTU vs GamerLegion,GamerLegion,3,SoftBook A,1.5,1.0,lost,-1.0,-3.542,-1.67,Sharp,hourly,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T16:00:00.000+00:00,,Nuclear TigeRES vs Echo,Echo,3,SoftBook A,2.5,1.0,won,1.5,-2.042,-3.35,Sharp,close,2026-07-22T01:11:03.130823+00:00
+hyper,2026-07-22T17:00:00.000+00:00,,QUAZAR vs SAW Youngsters,SAW Youngsters,3,SoftBook A,2.5,1.0,lost,-1.0,-3.042,-9.84,SoftBook A,bookA-hourly,2026-07-21T23:59:24.278494+00:00
+hyper,2026-07-23T10:00:00.000+00:00,StarLadder StarSeries Fall Europe Qualifier,Walczaki vs 3DMAX,Walczaki,3,SoftBook A,2.75,1.0,won,1.75,-1.292,-4.69,SoftBook A,bookA-hourly,2026-07-23T06:15:55.378964+00:00
+hyper,2026-07-23T14:00:00.000+00:00,,Just Players vs Endless Journey,Endless Journey,3,SoftBook A,2.37,1.0,lost,-1.0,-2.292,0.0,SoftBook A,bookA-hourly,2026-07-23T06:15:55.378964+00:00
+hyper,2026-07-23T14:00:00.000+00:00,,megoshort vs Privateer,Privateer,3,SoftBook A,1.57,1.0,won,0.57,-1.722,0.0,Sharp,close,2026-07-23T06:15:55.378964+00:00
+hyper,2026-07-23T15:00:00.000+00:00,BLAST Bounty Qualifier,Gentle Mates vs paiN,paiN,3,SoftBook A,1.66,1.0,won,0.66,-1.062,-4.18,Sharp,hourly,2026-07-23T06:15:55.378964+00:00
+hyper,2026-07-23T17:00:00.000+00:00,,CYBERSHOKE Prospects vs benched gods,CYBERSHOKE Prospects,3,SoftBook A,1.57,1.0,lost,-1.0,-2.062,3.15,Sharp,hourly,2026-07-23T06:15:55.378964+00:00
+hyper,2026-07-24T08:00:00.000+00:00,European Pro League,1win vs Eternal Fire,1win,5,SoftBook A,1.9,1.0,lost,-1.0,-3.062,-1.46,Sharp,hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T09:00:00.000+00:00,BLAST Bounty Qualifier,Magic vs 3DMAX,Magic,3,SoftBook A,1.5,1.0,lost,-1.0,-4.062,0.0,SoftBook A,bookA-hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T11:00:00.000+00:00,CCT Europe Series,SPARTA vs Atreides,SPARTA,3,SoftBook A,1.57,1.0,lost,-1.0,-5.062,0.0,SoftBook A,bookA-hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T13:00:00.000+00:00,CCT South America,Fake do Biru vs BORRACHEIROS,BORRACHEIROS,3,SoftBook A,3.75,1.0,void,0.0,,11.01,Sharp,hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T16:00:00.000+00:00,StarLadder StarSeries Fall Europe Qualifier,Gentle Mates vs Walczaki,Walczaki,3,SoftBook A,2.5,1.0,lost,-1.0,-6.062,12.5,SoftBook A,bookA-hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T16:00:00.000+00:00,,Astralis vs HEROIC,Astralis,3,SoftBook A,1.72,1.0,lost,-1.0,-7.062,0.0,SoftBook A,bookA-hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-24T19:00:00.000+00:00,CCT South America,Keyd Stars vs ALKA,Keyd Stars,3,SoftBook A,1.57,1.0,won,0.57,-6.492,0.0,SoftBook A,bookA-hourly,2026-07-23T22:18:02.017620+00:00
+hyper,2026-07-25T11:00:00.000+00:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,SAW Youngsters,3,SoftBook A,2.25,1.0,lost,-1.0,-7.492,5.89,Sharp,close,2026-07-25T03:25:24.297340+00:00
+hyper,2026-07-25T11:00:00.000+00:00,,benched gods vs NEW VISION,benched gods,3,SoftBook A,1.44,1.0,lost,-1.0,-8.492,0.0,SoftBook A,bookA-hourly,2026-07-25T03:25:24.297340+00:00
+hyper,2026-07-25T17:00:00.000+00:00,,ex-RUSTEC vs Rune Eaters,Rune Eaters,3,Sharp,1.8,1.0,lost,-1.0,-9.492,-1.22,Sharp,close,2026-07-25T03:25:24.297340+00:00

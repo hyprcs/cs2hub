@@ -1,0 +1,241 @@
+strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+moneyline_flag_band,2026-06-30 13:45,,Endless Journey vs Misa,moneyline,Endless Journey,3,SoftBook A,1.44,1,void,0.0,,,,hourly,legacy_unscored,2026-06-30 07:21
+moneyline_flag_band,2026-07-01 09:30,,3DMAX vs Ninjas in Pyjamas,moneyline,3DMAX,1,Sharp,2.32,1,won,1.32,1.32,1.29,Sharp,close,legacy_unscored,2026-06-30 23:28
+moneyline_flag_band,2026-07-01 13:45,,Just Players vs SAW,moneyline,SAW,3,Sharp,4.69,1,won,3.69,5.01,0.44,Sharp,close,legacy_unscored,2026-06-30 23:29
+moneyline_flag_band,2026-07-01 17:50,,B8 vs MIBR,moneyline,MIBR,1,Sharp,2.18,1,lost,-1.0,4.01,1.45,Sharp,close,legacy_unscored,2026-06-30 23:29
+moneyline_flag_band,2026-07-01 22:00,,paiN Academy vs GUARA,moneyline,GUARA,3,Sharp,4.51,1,lost,-1.0,3.01,-1.0,Sharp,close,legacy_unscored,2026-07-01 21:35
+moneyline_flag_band,2026-07-02 07:30,,3DMAX vs EYEBALLERS,moneyline,EYEBALLERS,3,SoftBook A,2.0,1,void,0.0,,,,hourly,legacy_unscored,2026-07-01 21:43
+moneyline_flag_band,2026-07-02 08:00,,DONSTU vs Endless Journey,moneyline,Endless Journey,3,SoftBook A,1.83,1,won,0.83,3.84,,,hourly,legacy_unscored,2026-07-02 07:31
+moneyline_flag_band,2026-07-02 08:45,,Alliance vs Ninjas in Pyjamas,moneyline,Alliance,3,Sharp,2.38,1,void,0.0,,-2.04,Sharp,close,legacy_unscored,2026-07-02 07:33
+moneyline_flag_band,2026-07-02 09:55,,FaZe vs MIBR,moneyline,FaZe,3,Sharp,1.781,1,void,0.0,,0.31,Sharp,hourly,legacy_unscored,2026-07-02 07:34
+moneyline_flag_band,2026-07-02 11:00,,DONSTU vs Lilmix,moneyline,DONSTU,3,SoftBook A,1.36,1,won,0.36,4.2,,,hourly,legacy_unscored,2026-07-02 10:45
+moneyline_flag_band,2026-07-02 13:00,,METANOIA Wolves vs VEXA,moneyline,VEXA,3,Sharp,1.741,1,void,0.0,,0.3,Sharp,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-02 13:30,,BetBoom vs BIG,moneyline,BetBoom,1,Sharp,1.581,1,won,0.581,4.781,2.14,Sharp,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-02 19:05,,Yawara vs Red Feet,moneyline,Red Feet,3,Sharp,5.68,1,lost,-1.0,3.781,-1.12,Sharp,close,legacy_unscored,2026-07-02 10:46
+moneyline_flag_band,2026-07-03 05:25,,EYEBALLERS vs TYLOO,moneyline,EYEBALLERS,3,SoftBook A,2.5,1,lost,-1.0,2.781,,,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 06:30,,Luminosity vs Ninjas in Pyjamas,moneyline,Luminosity,3,SoftBook A,1.83,1,lost,-1.0,1.781,,,hourly,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 08:20,,PARIVISION vs Lynn Vision,moneyline,Lynn Vision,1,SoftBook A,2.75,1,lost,-1.0,0.781,,,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 10:10,,3DMAX vs 9z,moneyline,3DMAX,1,SoftBook A,3.25,1,lost,-1.0,-0.219,,,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 13:00,,B8 vs Alliance,moneyline,Alliance,1,SoftBook A,2.75,1,won,1.75,1.531,,,hourly,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 16:20,,BetBoom vs Nemesis,moneyline,Nemesis,3,Sharp,3.17,1,lost,-1.0,0.531,1.25,Sharp,close,legacy_unscored,2026-07-02 22:37
+moneyline_flag_band,2026-07-03 19:45,,METANOIA Wolves vs MAGICOS,moneyline,METANOIA Wolves,3,Sharp,1.313,1,lost,-1.0,-0.469,1.06,Sharp,hourly,legacy_unscored,2026-07-02 22:38
+moneyline_flag_band,2026-07-04 05:10,,B8 vs Lynn Vision,moneyline,Lynn Vision,3,Sharp,3.06,1,lost,-1.0,-1.469,-2.04,Sharp,close,legacy_unscored,2026-07-04 03:48
+moneyline_flag_band,2026-07-04 06:00,,PARIVISION vs MIBR,moneyline,MIBR,3,Sharp,1.893,1,lost,-1.0,-2.469,-1.36,Sharp,close,legacy_unscored,2026-07-04 03:48
+moneyline_flag_band,2026-07-04 08:30,,BIG vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,2.04,1,lost,-1.0,-3.469,0.31,Sharp,close,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 10:35,,Alliance vs 9z,moneyline,9z,3,Sharp,1.37,1,lost,-1.0,-4.469,-0.31,Sharp,close,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 11:00,,Endless Journey vs Atreides,moneyline,Endless Journey,3,SoftBook A,2.25,1,won,1.25,-3.219,0.0,SoftBook A,hourly,legacy_unscored,2026-07-04 07:09
+moneyline_flag_band,2026-07-04 19:05,,paiN Academy vs BESTIA Academy,moneyline,BESTIA Academy,3,Sharp,2.19,1,won,1.19,-2.029,-7.12,Sharp,close,legacy_unscored,2026-07-04 07:10
+moneyline_flag_band,2026-07-05 10:00,,B8 vs BIG,moneyline,B8,3,Sharp,1.813,1,lost,-1.0,-3.029,-0.32,Sharp,close,legacy_unscored,2026-07-04 21:54
+moneyline_flag_band,2026-07-05 10:30,,Inner Circle Academy vs Honvéd,moneyline,Honvéd,3,SoftBook A,3.4,1,won,2.4,-0.629,0.0,SoftBook A,hourly,legacy_unscored,2026-07-04 21:54
+moneyline_flag_band,2026-07-06 07:32,,illwill vs WBT,moneyline,illwill,3,SoftBook A,1.4,1,void,0.0,,,,hourly,legacy_unscored,2026-07-06 05:54
+moneyline_flag_band,2026-07-06 22:15,,Keyd Stars vs GameHunters,moneyline,GameHunters,3,Sharp,2.95,1,lost,-1.0,-1.629,,,close,legacy_unscored,2026-07-06 22:12
+moneyline_flag_band,2026-07-08 08:00,,Atreides vs eternal premium,moneyline,eternal premium,3,SoftBook A,3.0,1,lost,-1.0,-2.629,0.0,SoftBook A,hourly,legacy_unscored,2026-07-07 22:43
+moneyline_flag_band,2026-07-08 10:30,,SPARTA vs ENCE,moneyline,ENCE,3,Sharp,2.75,1,lost,-1.0,-3.629,3.38,Sharp,hourly,legacy_unscored,2026-07-08 08:31
+moneyline_flag_band,2026-07-08 13:00,,Patins da Ferrari vs Fluxo,moneyline,Patins da Ferrari,3,Sharp,2.45,1,lost,-1.0,-4.629,-3.85,Sharp,close,legacy_unscored,2026-07-08 08:32
+moneyline_flag_band,2026-07-08 19:05,,Yawara vs METANOIA Wolves,moneyline,METANOIA Wolves,3,Sharp,4.32,1,lost,-1.0,-5.629,-4.28,Sharp,close,legacy_unscored,2026-07-08 08:32
+moneyline_flag_band,2026-07-09 08:00,,GenOne vs BRUTE,moneyline,GenOne,3,Sharp,1.402,1,lost,-1.0,-6.629,0.3,Sharp,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 08:05,,TYLOO vs 9z,moneyline,9z,3,Sharp,1.649,1,won,0.649,-5.98,-3.47,Sharp,close,legacy_unscored,2026-07-08 22:42
+moneyline_flag_band,2026-07-09 12:10,,Virtus.pro vs Ninjas in Pyjamas,moneyline,Virtus.pro,3,SoftBook A,3.0,1,won,2.0,-3.98,,,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 13:00,,Isurus vs Fake do Biru,moneyline,Isurus,3,Sharp,2.14,1,won,1.14,-2.84,-8.04,Sharp,close,legacy_unscored,2026-07-08 22:43
+moneyline_flag_band,2026-07-09 16:30,,Inner Circle vs GenOne,moneyline,GenOne,3,SoftBook A,2.62,1,lost,-1.0,-3.84,0.0,SoftBook A,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 16:30,,M80 vs Winners,moneyline,Winners,3,SoftBook A,10.0,1,lost,-1.0,-4.84,-2.02,SoftBook A,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 17:00,,paiN vs METANOIA Wolves,moneyline,METANOIA Wolves,3,SoftBook A,11.0,1,lost,-1.0,-5.84,-1.09,SoftBook A,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-09 18:20,,EAC vs Magic,moneyline,EAC,3,SoftBook A,8.5,1,lost,-1.0,-6.84,0.0,SoftBook A,hourly,legacy_unscored,2026-07-08 22:44
+moneyline_flag_band,2026-07-10 05:00,,Kaleido vs The Huns,moneyline,The Huns,3,SoftBook A,1.66,1,won,0.66,-6.18,0.0,SoftBook A,hourly,legacy_unscored,2026-07-09 23:33
+moneyline_flag_band,2026-07-10 13:00,,B8 vs Virtus.pro,moneyline,Virtus.pro,3,SoftBook A,2.75,1,won,1.75,-4.43,,,close,legacy_unscored,2026-07-09 23:34
+moneyline_flag_band,2026-07-11 11:15,,BASEMENT BOYS vs Enjoy,moneyline,BASEMENT BOYS,3,SoftBook A,2.2,1,won,1.2,-3.23,-3.25,SoftBook A,hourly,legacy_unscored,2026-07-11 05:37
+moneyline_flag_band,2026-07-11 15:30,,mellren vs LPH,moneyline,mellren,3,Sharp,2.09,1,lost,-1.0,-4.23,0.18,Sharp,close,legacy_unscored,2026-07-11 05:37
+moneyline_flag_band,2026-07-11 19:00,,Imperial vs Isurus,moneyline,Isurus,3,Sharp,4.67,1,lost,-1.0,-5.23,-0.5,Sharp,close,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-11 23:00,,paiN vs Sharks,moneyline,paiN,3,Sharp,1.578,1,lost,-1.0,-6.23,2.09,Sharp,close,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-11 23:30,,M80 vs Voca,moneyline,Voca,3,SoftBook A,4.5,1,lost,-1.0,-7.23,-3.56,SoftBook A,hourly,legacy_unscored,2026-07-11 05:38
+moneyline_flag_band,2026-07-12 06:30,,TYLOO vs Lynn Vision,moneyline,Lynn Vision,3,SoftBook A,3.4,1,won,2.4,-4.83,0.0,SoftBook A,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 08:00,,eternal premium vs ENCE,moneyline,eternal premium,3,SoftBook A,2.37,1,lost,-1.0,-5.83,0.0,SoftBook A,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 10:30,,Atreides vs SPARTA,moneyline,Atreides,3,SoftBook A,2.5,1,won,1.5,-4.33,-2.31,SoftBook A,hourly,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 13:00,,Bushido Wildcats vs MOUZ NXT,moneyline,Bushido Wildcats,3,SoftBook A,1.66,1,won,0.66,-3.67,,,close,legacy_unscored,2026-07-12 02:52
+moneyline_flag_band,2026-07-12 13:00,,HOTU vs Vexar,moneyline,Vexar,3,SoftBook A,6.5,1,lost,-1.0,-4.67,,,close,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-12 13:10,,SPARTA vs Noir Verse,moneyline,Noir Verse,3,SoftBook A,3.75,1,lost,-1.0,-5.67,0.0,SoftBook A,hourly,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-12 18:00,,BESTIA vs Keyd Stars,moneyline,BESTIA,3,Sharp,1.277,1,won,0.277,-5.393,2.4,Sharp,close,legacy_unscored,2026-07-12 02:53
+moneyline_flag_band,2026-07-13 07:35,,BRUTE vs Honvéd,moneyline,Honvéd,3,SoftBook A,1.66,1,void,0.0,,9.33,SoftBook A,hourly,legacy_unscored,2026-07-13 00:07
+moneyline_flag_band,2026-07-13 13:00,,The Last Resort vs QUAZAR,moneyline,QUAZAR,3,SoftBook A,1.83,1,won,0.83,-4.563,6.31,SoftBook A,hourly,legacy_unscored,2026-07-13 00:08
+moneyline_flag_band,2026-07-13 13:00,,MOUZ NXT vs SPARTA,moneyline,SPARTA,3,Sharp,1.391,1,won,0.391,-4.172,6.87,Sharp,close,legacy_unscored,2026-07-13 00:08
+moneyline_flag_band,2026-07-14 10:30,,Honvéd vs GenOne,moneyline,Honvéd,3,SoftBook A,2.62,1,lost,-1.0,-5.172,0.0,SoftBook A,hourly,legacy_unscored,2026-07-14 01:31
+moneyline_flag_band,2026-07-14 11:00,,HOTU vs QUAZAR,moneyline,HOTU,3,Sharp,1.552,1,won,0.552,-4.62,9.38,Sharp,close,legacy_unscored,2026-07-14 01:31
+moneyline_flag_band,2026-07-14 16:00,,paiN Academy vs ODDIK,moneyline,ODDIK,3,Sharp,1.292,1,won,0.292,-4.328,-3.61,Sharp,hourly,legacy_unscored,2026-07-14 01:32
+moneyline_flag_band,2026-07-14 22:00,,BESTIA Academy vs GUARA,moneyline,GUARA,3,Sharp,4.45,1,lost,-1.0,-5.328,0.21,Sharp,close,legacy_unscored,2026-07-14 01:36
+moneyline_flag_band,2026-07-15 08:00,,megoshort vs Julie&Cie,moneyline,Julie&Cie,3,Sharp,3.64,1,lost,-1.0,-6.328,1.78,Sharp,close,legacy_unscored,2026-07-15 07:16
+moneyline_flag_band,2026-07-15 10:30,,The Last Resort vs Enjoy,moneyline,The Last Resort,3,SoftBook A,2.62,1,won,1.62,-4.708,6.01,SoftBook A,hourly,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 11:00,,megoshort vs SAW Youngsters,moneyline,SAW Youngsters,3,Sharp,1.347,1,won,0.347,-4.361,-0.65,Sharp,close,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 12:00,,3DMAX vs HEROIC,moneyline,3DMAX,3,Sharp,2.52,1,lost,-1.0,-5.361,1.13,Sharp,close,legacy_unscored,2026-07-15 08:35
+moneyline_flag_band,2026-07-15 15:30,,Wildcard vs Gentle Mates,moneyline,Gentle Mates,3,Sharp,2.15,1,won,1.15,-4.211,-1.66,Sharp,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-15 16:00,,Bounty Hunters vs Keyd Stars,moneyline,Bounty Hunters,3,Sharp,1.667,1,won,0.667,-3.544,-5.65,Sharp,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-15 17:45,,paiN vs Phantom,moneyline,paiN,3,Sharp,1.461,1,lost,-1.0,-4.544,-0.23,Sharp,close,legacy_unscored,2026-07-15 08:36
+moneyline_flag_band,2026-07-16 08:00,,WW vs Just Players,moneyline,Just Players,3,Sharp,2.26,1,won,1.26,-3.284,-1.58,Sharp,close,legacy_unscored,2026-07-16 01:22
+moneyline_flag_band,2026-07-16 11:00,,Walczaki vs SPARTA,moneyline,Walczaki,3,SoftBook A,1.36,1,won,0.36,-2.924,-4.46,SoftBook A,hourly,legacy_unscored,2026-07-16 01:23
+moneyline_flag_band,2026-07-16 12:15,,paiN vs 3DMAX,moneyline,paiN,3,Sharp,1.606,1,lost,-1.0,-3.924,-0.64,Sharp,close,legacy_unscored,2026-07-16 01:23
+moneyline_flag_band,2026-07-16 14:35,,Gentle Mates vs Ninjas in Pyjamas,moneyline,Gentle Mates,3,Sharp,2.54,1,lost,-1.0,-4.924,-1.05,Sharp,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 16:30,,Phantom vs HEROIC,moneyline,Phantom,3,Sharp,2.86,1,lost,-1.0,-5.924,3.16,Sharp,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 17:30,,Honvéd vs Subtop De France,moneyline,Honvéd,3,SoftBook A,1.3,1,void,0.0,,2.91,SoftBook A,hourly,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-16 19:05,,Imperial vs Fluxo,moneyline,Fluxo,3,Sharp,3.08,1,won,2.08,-3.844,4.26,Sharp,close,legacy_unscored,2026-07-16 01:24
+moneyline_flag_band,2026-07-17 07:00,,ARCRED vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,3.25,1,void,0.0,,,,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 08:00,,Bebop vs Endless Journey,moneyline,Endless Journey,3,SoftBook A,1.66,1,won,0.66,-3.184,0.0,SoftBook A,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 08:00,,1win vs GenOne,moneyline,GenOne,3,Sharp,2.36,1,lost,-1.0,-4.184,0.0,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 10:00,,Gentle Mates vs 3DMAX,moneyline,Gentle Mates,3,Sharp,2.12,1,lost,-1.0,-5.184,1.12,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 11:00,,BIG Academy vs DONSTU,moneyline,BIG Academy,3,Sharp,1.377,1,won,0.377,-4.807,-0.05,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 13:00,,GameHunters vs ALKA,moneyline,ALKA,3,Sharp,2.22,1,lost,-1.0,-5.807,0.0,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 14:00,,ex-MANA vs benched gods,moneyline,benched gods,3,SoftBook A,2.5,1,won,1.5,-4.307,0.0,SoftBook A,hourly,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 14:15,,HEROIC vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,1.787,1,lost,-1.0,-5.307,2.03,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 16:05,,Keyd Stars vs Imperial,moneyline,Keyd Stars,3,Sharp,4.0,1,lost,-1.0,-6.307,-4.72,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-17 22:00,,Bounty Hunters vs Fluxo,moneyline,Bounty Hunters,3,Sharp,2.2,1,lost,-1.0,-7.307,-6.98,Sharp,close,legacy_unscored,2026-07-17 05:28
+moneyline_flag_band,2026-07-18 00:00,,FlyQuest vs Mindfreak,moneyline,Mindfreak,3,SoftBook A,12.0,1,lost,-1.0,-8.307,0.0,SoftBook A,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 10:30,,Nuclear TigeRES vs Atreides,moneyline,Nuclear TigeRES,3,SoftBook A,1.14,1,lost,-1.0,-9.307,0.0,SoftBook A,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 12:00,,Ninjas in Pyjamas vs K27,moneyline,Ninjas in Pyjamas,3,Sharp,1.588,1,lost,-1.0,-10.307,-1.78,Sharp,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 14:10,,Endless Journey vs BIG Academy,moneyline,Endless Journey,3,SoftBook A,2.37,1,lost,-1.0,-11.307,0.0,SoftBook A,hourly,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 16:00,,Imperial vs ShindeN,moneyline,ShindeN,3,Sharp,2.4,1,lost,-1.0,-12.307,-1.55,Sharp,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-18 17:00,,benched gods vs Misa,moneyline,Misa,3,Sharp,1.893,1,lost,-1.0,-13.307,2.5,Sharp,close,legacy_unscored,2026-07-17 22:33
+moneyline_flag_band,2026-07-19 00:30,,FlyQuest vs Ground Zero,moneyline,Ground Zero,3,SoftBook A,13.0,1,lost,-1.0,-14.307,0.0,SoftBook A,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 11:30,,CYBERSHOKE vs WBT,moneyline,WBT,3,Sharp,4.84,1,lost,-1.0,-15.307,-0.2,Sharp,close,legacy_unscored,2026-07-18 21:30
+moneyline_flag_band,2026-07-19 14:00,,Bebop vs Endless Journey,moneyline,Endless Journey,3,SoftBook A,1.8,1,won,0.8,-14.507,0.0,SoftBook A,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 17:00,,ex-MANA vs Misa,moneyline,ex-MANA,3,SoftBook A,2.1,1,lost,-1.0,-15.507,0.0,SoftBook A,hourly,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 18:15,,BESTIA Academy vs GameHunters,moneyline,BESTIA Academy,3,SoftBook A,2.37,1,void,0.0,,,,close,legacy_unscored,2026-07-18 21:24
+moneyline_flag_band,2026-07-19 23:00,,Fluxo vs Imperial,moneyline,Fluxo,5,Sharp,2.73,1,won,1.73,-13.777,-2.37,Sharp,close,legacy_unscored,2026-07-19 22:13
+moneyline_flag_band,2026-07-20 08:00,,Just Players vs Walczaki,moneyline,Walczaki,3,SoftBook A,1.3,1,lost,-1.0,-14.777,0.0,SoftBook A,hourly,legacy_unscored,2026-07-20 05:10
+moneyline_flag_band,2026-07-20 10:30,,1win vs ARCRED,moneyline,ARCRED,3,SoftBook A,2.1,1,lost,-1.0,-15.777,2.24,SoftBook A,hourly,legacy_unscored,2026-07-20 05:10
+moneyline_flag_band,2026-07-20 16:00,,paiN Academy vs GUARA,moneyline,GUARA,3,Sharp,3.45,1,void,0.0,,0.15,Sharp,close,legacy_unscored,2026-07-20 13:44
+moneyline_flag_band,2026-07-20 22:00,,Grêmio vs METANOIA Wolves,moneyline,METANOIA Wolves,3,Sharp,1.926,1,lost,-1.0,-16.777,-5.63,Sharp,close,legacy_unscored,2026-07-20 21:46
+moneyline_flag_band,2026-07-21 10:00,,M80 vs Ninjas in Pyjamas,moneyline,M80,3,Sharp,2.01,1,lost,-1.0,-17.777,0.45,Sharp,close,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 10:00,,Magic vs Walczaki,moneyline,Walczaki,3,SoftBook A,3.4,1,lost,-1.0,-18.777,0.0,SoftBook A,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 11:00,,Honvéd vs Julie&Cie,moneyline,Julie&Cie,3,SoftBook A,7.5,1,void,0.0,,0.0,SoftBook A,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 12:15,,Nemesis vs Astralis,moneyline,Astralis,3,Sharp,1.552,1,won,0.552,-18.225,0.39,Sharp,hourly,legacy_unscored,2026-07-20 21:47
+moneyline_flag_band,2026-07-21 14:10,,Enjoy vs QUAZAR,moneyline,QUAZAR,3,SoftBook A,1.57,1,won,0.57,-17.655,,,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 15:35,,Nuclear TigeRES vs MOUZ,moneyline,Nuclear TigeRES,3,Sharp,5.34,1,lost,-1.0,-18.655,2.35,Sharp,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 16:00,,ODDIK vs Red Feet,moneyline,Red Feet,3,SoftBook A,7.0,1,lost,-1.0,-19.655,0.0,SoftBook A,hourly,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-21 17:55,,Alliance vs Wildcard,moneyline,Wildcard,3,Sharp,2.53,1,won,1.53,-18.125,-1.19,Sharp,close,legacy_unscored,2026-07-20 21:48
+moneyline_flag_band,2026-07-22 10:00,,EYEBALLERS vs FaZe,moneyline,FaZe,3,Sharp,1.294,1,won,0.294,-17.831,3.42,Sharp,close,eligible,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 10:00,,Aurora vs K27,moneyline,K27,3,SoftBook A,4.5,1,lost,-1.0,-18.831,0.0,SoftBook A,hourly,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 11:10,,Eternal Fire vs CYBERSHOKE,moneyline,CYBERSHOKE,3,Sharp,1.885,1,lost,-1.0,-19.831,-1.11,Sharp,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 12:15,,Nemiga vs G2,moneyline,Nemiga,3,Sharp,6.53,1,lost,-1.0,-20.831,1.48,Sharp,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 13:15,,INFINITE vs Nemesis,moneyline,INFINITE,3,SoftBook A,3.25,1,lost,-1.0,-21.831,-2.57,SoftBook A,hourly,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 14:10,,INOX Division vs Endless Journey,moneyline,INOX Division,3,SoftBook A,1.53,1,won,0.53,-21.301,4.06,SoftBook A,hourly,eligible,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 15:30,,HOTU vs GamerLegion,moneyline,GamerLegion,3,Sharp,1.538,1,lost,-1.0,-22.301,-1.73,Sharp,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-22 16:20,,Nuclear TigeRES vs Echo,moneyline,Echo,3,Sharp,2.54,1,won,1.54,-20.761,-3.3,Sharp,close,no_bet,2026-07-22 03:09
+moneyline_flag_band,2026-07-23 08:00,,Just Players vs CYBERSHOKE,moneyline,CYBERSHOKE,3,Sharp,1.402,1,won,0.402,-20.359,4.34,Sharp,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 10:00,,Walczaki vs 3DMAX,moneyline,Walczaki,3,SoftBook A,2.75,1,won,1.75,-18.609,-4.68,SoftBook A,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 13:55,,Ninjas in Pyjamas vs Echo,moneyline,Echo,3,SoftBook A,2.75,1,lost,-1.0,-19.609,,,close,no_bet,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 14:00,,Just Players vs Endless Journey,moneyline,Endless Journey,3,SoftBook A,2.37,1,lost,-1.0,-20.609,0.0,SoftBook A,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 15:50,,Gentle Mates vs paiN,moneyline,paiN,3,Sharp,1.662,1,won,0.662,-19.947,-1.65,Sharp,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 17:00,,CYBERSHOKE Prospects vs benched gods,moneyline,CYBERSHOKE Prospects,3,SoftBook A,1.57,1,lost,-1.0,-20.947,,,close,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-23 17:20,,Misa vs Rounds,moneyline,Rounds,3,SoftBook A,3.5,1,lost,-1.0,-21.947,,,hourly,eligible,2026-07-23 01:30
+moneyline_flag_band,2026-07-24 08:00,,1win vs Eternal Fire,moneyline,1win,5,Sharp,2.15,1,lost,-1.0,-22.947,0.57,Sharp,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 11:00,,SPARTA vs Atreides,moneyline,SPARTA,3,SoftBook A,1.57,1,lost,-1.0,-23.947,0.0,SoftBook A,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 11:00,,megoshort vs Rounds,moneyline,megoshort,3,SoftBook A,1.83,1,lost,-1.0,-24.947,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 12:56,,Fake do Biru vs BORRACHEIROS,moneyline,BORRACHEIROS,3,Sharp,3.33,1,void,0.0,,12.1,Sharp,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 13:00,,Nemesis vs INFINITE,moneyline,INFINITE,3,SoftBook A,3.5,1,won,2.5,-22.447,7.24,SoftBook A,hourly,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 13:00,,Nuclear TigeRES vs Echo,moneyline,Echo,3,SoftBook A,2.0,1,won,1.0,-21.447,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 15:50,,Liquid vs Vitality,moneyline,Liquid,3,SoftBook A,9.0,1,won,8.0,-13.447,,,close,no_bet,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:00,,Bounty Hunters vs ODDIK,moneyline,ODDIK,3,Sharp,2.45,1,won,1.45,-11.997,-0.52,Sharp,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:00,,Gentle Mates vs Walczaki,moneyline,Walczaki,3,SoftBook A,2.5,1,lost,-1.0,-12.997,13.33,SoftBook A,hourly,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 16:15,,Astralis vs HEROIC,moneyline,Astralis,3,SoftBook A,1.72,1,lost,-1.0,-13.997,,,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-24 19:15,,Keyd Stars vs ALKA,moneyline,Keyd Stars,3,SoftBook A,1.57,1,won,0.57,-13.427,,,close,eligible,2026-07-23 22:00
+moneyline_flag_band,2026-07-25 11:00,,benched gods vs NEW VISION,moneyline,benched gods,3,SoftBook A,1.44,1,lost,-1.0,-14.427,0.0,SoftBook A,hourly,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 14:10,,Black Phoenix vs Just Players,moneyline,Just Players,3,SoftBook A,1.57,1,void,0.0,,,,close,no_bet,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 14:45,,HOTU vs Astralis,moneyline,Astralis,3,Sharp,1.847,1,won,0.847,-13.58,7.08,Sharp,close,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 17:00,,ex-MANA vs megoshort,moneyline,megoshort,3,SoftBook A,2.75,1,won,1.75,-11.83,-6.22,SoftBook A,hourly,no_bet,2026-07-25 00:12
+moneyline_flag_band,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,moneyline,Rune Eaters,3,SoftBook A,1.66,1,lost,-1.0,-12.83,,,close,eligible,2026-07-25 00:12
+moneyline_flag_band,2026-07-26 08:00,,Fortress vs Inner Circle Academy,moneyline,Fortress,3,SoftBook A,10.0,1,won,9.0,-3.83,-2.63,SoftBook A,hourly,no_bet,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 10:00,,Ninjas in Pyjamas vs paiN,moneyline,paiN,3,SoftBook A,2.37,1,won,1.37,-2.46,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 11:10,,NEW VISION vs ex-MANA,moneyline,ex-MANA,3,SoftBook A,2.0,1,won,1.0,-1.46,0.0,SoftBook A,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 13:00,,HOTU vs Aurora,moneyline,Aurora,3,SoftBook A,1.4,1,won,0.4,-1.06,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 15:00,,LP vs ODDIK,moneyline,LP,3,Sharp,1.518,1,lost,-1.0,-2.06,3.78,Sharp,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:35,,100 Thieves vs Spirit,moneyline,Spirit,3,SoftBook A,1.1,1,won,0.1,-1.96,,,close,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 16:35,,Magic vs Ninjas in Pyjamas,moneyline,Magic,3,SoftBook A,2.0,1,won,1.0,-0.96,0.0,SoftBook A,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-26 18:20,,EAC vs Atreides,moneyline,EAC,3,SoftBook A,2.1,1,won,1.1,0.14,0.0,SoftBook A,hourly,eligible,2026-07-25 20:46
+moneyline_flag_band,2026-07-27 14:00,,GenOne vs SPARTA,moneyline,GenOne,3,Sharp,1.671,1,won,0.671,0.811,4.57,Sharp,close,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-27 17:05,,Bebop vs Falcons Force,moneyline,Falcons Force,3,Sharp,2.51,1,won,1.51,2.321,2.63,Sharp,close,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-27 18:45,,NAVI Junior vs MOUZ NXT,moneyline,NAVI Junior,1,Sharp,2.4,1,won,1.4,3.721,2.22,Sharp,hourly,eligible,2026-07-26 22:17
+moneyline_flag_band,2026-07-28 10:20,,ASTRAL vs NAVI Junior,moneyline,ASTRAL,3,Sharp,1.541,1,won,0.541,4.262,6.67,Sharp,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 11:00,,Atreides vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,2.5,1,won,1.5,5.762,0.0,SoftBook A,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 15:00,,MIBR vs Fluxo,moneyline,Fluxo,3,Sharp,3.34,1,lost,-1.0,4.762,-0.42,Sharp,close,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 17:00,,SPARTA vs G2 Ares,moneyline,G2 Ares,3,SoftBook A,2.1,1,lost,-1.0,3.762,0.0,SoftBook A,hourly,eligible,2026-07-28 00:25
+moneyline_flag_band,2026-07-28 17:10,,Misa vs Falcons Force,moneyline,Misa,3,SoftBook A,1.8,1,lost,-1.0,2.762,,,close,no_bet,2026-07-28 00:25
+moneyline_flag_band,2026-07-29 08:00,,Fortress vs STATE,moneyline,Fortress,3,SoftBook A,11.0,1,lost,-1.0,1.762,3.64,SoftBook A,hourly,no_bet,2026-07-28 23:23
+moneyline_flag_band,2026-07-29 14:00,,ex-RUSTEC vs ex-Young Ninjas,moneyline,ex-RUSTEC,3,Sharp,1.694,1,lost,-1.0,0.762,12.19,Sharp,close,eligible,2026-07-28 23:23
+moneyline_flag_band,2026-07-29 15:00,,ShindeN vs Galorys,moneyline,ShindeN,3,Sharp,1.725,1,won,0.725,1.487,3.01,Sharp,close,eligible,2026-07-28 23:23
+moneyline_flag_band,2026-07-29 17:00,,Just Players vs G2 Ares,moneyline,Just Players,3,SoftBook A,1.9,1,won,0.9,2.387,5.53,SoftBook A,hourly,eligible,2026-07-28 23:23
+moneyline_flag_band,2026-07-29 18:10,,MIBR vs LP,moneyline,LP,3,Sharp,3.94,1,lost,-1.0,1.387,-1.94,Sharp,close,eligible,2026-07-28 23:23
+moneyline_flag_band,2026-07-29 22:00,,NRG vs Marsborne,moneyline,Marsborne,3,Sharp,4.32,1,lost,-1.0,0.387,-0.53,Sharp,close,no_bet,2026-07-29 20:58
+moneyline_flag_band,2026-07-30 08:10,,SPARTA vs Just Players,moneyline,SPARTA,3,Sharp,1.73,1,lost,-1.0,-0.613,-2.23,Sharp,close,eligible,2026-07-29 20:58
+moneyline_flag_band,2026-07-30 11:30,,GenOne vs ex-RUSTEC,moneyline,GenOne,3,Sharp,1.386,1,won,0.386,-0.227,,,hourly,no_bet,2026-07-30 11:08
+moneyline_flag_band,2026-07-30 11:35,,KUUSAMO vs BOJONG,moneyline,KUUSAMO,1,Sharp,1.654,1,won,0.654,0.427,,,hourly,no_bet,2026-07-30 11:08
+moneyline_flag_band,2026-07-30 13:00,,Liquid vs Spirit,moneyline,Spirit,3,Sharp,1.244,1,won,0.244,0.671,,,hourly,no_bet,2026-07-30 12:08
+moneyline_flag_band,2026-07-30 13:40,,ENCE vs SINQU,moneyline,SINQU,1,Sharp,4.37,1,lost,-1.0,-0.329,-0.21,Sharp,close,no_bet,2026-07-30 12:08
+moneyline_flag_band,2026-07-30 14:05,,SPARTA vs NEW VISION,moneyline,SPARTA,3,Sharp,1.229,1,won,0.229,-0.1,-1.34,Sharp,close,eligible,2026-07-30 12:08
+moneyline_flag_band,2026-07-30 14:25,,Walczaki vs ex-RUSTEC,moneyline,Walczaki,3,SoftBook A,1.4,1,lost,-1.0,-1.1,,,hourly,no_bet,2026-07-30 14:08
+moneyline_flag_band,2026-07-30 16:00,,SINQU vs BOJONG,moneyline,SINQU,1,Sharp,1.935,1,won,0.935,-0.165,5.25,Sharp,hourly,no_bet,2026-07-30 14:08
+moneyline_flag_band,2026-07-30 17:00,,Just Players vs Inner Circle Academy,moneyline,Inner Circle Academy,3,Sharp,2.45,1,lost,-1.0,-1.165,0.0,Sharp,close,eligible,2026-07-30 16:07
+moneyline_flag_band,2026-07-30 17:00,,Walczaki vs Bebop,moneyline,Walczaki,3,SoftBook A,1.36,1,won,0.36,-0.805,,,hourly,no_bet,2026-07-30 16:07
+moneyline_flag_band,2026-07-30 17:25,,ENCE vs KUUSAMO,moneyline,KUUSAMO,1,Sharp,3.51,1,lost,-1.0,-1.805,0.63,Sharp,close,no_bet,2026-07-30 17:07
+moneyline_flag_band,2026-07-30 21:40,,Galorys vs BESTIA,moneyline,Galorys,3,Sharp,2.72,1,lost,-1.0,-2.805,0.45,Sharp,hourly,no_bet,2026-07-30 18:07
+moneyline_flag_band,2026-07-30 22:00,,SportsBetExpert vs Voca,moneyline,SportsBetExpert,3,SoftBook A,4.33,1,lost,-1.0,-3.805,0.0,SoftBook A,hourly,no_bet,2026-07-30 18:07
+moneyline_flag_band,2026-07-31 08:00,,INFINITE vs SPARTA,moneyline,INFINITE,3,SoftBook A,1.57,1,lost,-1.0,-4.805,0.0,SoftBook A,hourly,eligible,2026-07-31 03:07
+moneyline_flag_band,2026-07-31 11:00,,SINNERS vs Rune Eaters,moneyline,Rune Eaters,3,Sharp,3.05,1,lost,-1.0,-5.805,-1.99,Sharp,close,eligible,2026-07-31 10:07
+moneyline_flag_band,2026-07-31 13:00,,HOTU vs G2 Ares,moneyline,HOTU,3,SoftBook A,1.16,1,lost,-1.0,-6.805,,,hourly,eligible,2026-07-31 12:10
+moneyline_flag_band,2026-07-31 16:10,,paiN vs Astralis,moneyline,paiN,3,Sharp,2.34,1,lost,-1.0,-7.805,0.9,Sharp,close,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 16:35,,HAVU vs Rounds,moneyline,Rounds,1,Sharp,3.6,1,lost,-1.0,-8.805,-1.65,Sharp,close,no_bet,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 17:10,,GenOne vs Enjoy,moneyline,GenOne,3,Sharp,1.27,1,won,0.27,-8.535,0.99,Sharp,close,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 18:00,,Imperial vs Fluxo,moneyline,Fluxo,3,Sharp,2.41,1,won,1.41,-7.125,-0.42,Sharp,close,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 21:25,,LP vs BESTIA,moneyline,LP,3,Sharp,2.39,1,lost,-1.0,-8.125,-3.65,Sharp,hourly,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-07-31 22:00,,SportsBetExpert vs LAG,moneyline,SportsBetExpert,3,SoftBook A,1.61,1,won,0.61,-7.515,7.31,SoftBook A,hourly,eligible,2026-07-31 14:08
+moneyline_flag_band,2026-08-01 00:45,,Marsborne vs regain,moneyline,regain,3,Sharp,3.83,1,lost,-1.0,-8.515,-1.0,Sharp,hourly,eligible,2026-07-31 22:11
+moneyline_flag_band,2026-08-01 08:00,,Walczaki vs Lazer Cats,moneyline,Walczaki,3,SoftBook A,1.36,1,lost,-1.0,-9.515,0.0,SoftBook A,hourly,no_bet,2026-08-01 03:06
+moneyline_flag_band,2026-08-01 10:30,,Spirit vs FaZe,moneyline,FaZe,3,Sharp,4.75,1,lost,-1.0,-10.515,-0.35,Sharp,close,eligible,2026-08-01 10:08
+moneyline_flag_band,2026-08-01 11:15,,INOX Division vs SINNERS,moneyline,INOX Division,3,SoftBook A,2.25,1,lost,-1.0,-11.515,,,hourly,eligible,2026-08-01 10:08
+moneyline_flag_band,2026-08-01 14:10,,Astralis vs MOUZ,moneyline,MOUZ,3,Sharp,1.442,1,won,0.442,-11.073,0.0,Sharp,close,eligible,2026-08-01 14:08
+moneyline_flag_band,2026-08-01 14:30,,Sashi vs Just Players,moneyline,Sashi,3,SoftBook A,1.61,1,won,0.61,-10.463,,,hourly,no_bet,2026-08-01 14:08
+moneyline_flag_band,2026-08-01 18:00,,MIBR vs ShindeN,moneyline,MIBR,3,Sharp,1.333,1,won,0.333,-10.13,0.59,Sharp,close,eligible,2026-08-01 14:08
+moneyline_flag_band,2026-08-01 18:05,,Black Phoenix vs Just Players,moneyline,Just Players,3,Sharp,1.498,1,lost,-1.0,-11.13,-2.19,Sharp,hourly,eligible,2026-08-01 14:08
+moneyline_flag_band,2026-08-01 20:30,,Fluxo vs BESTIA,moneyline,BESTIA,3,Sharp,1.787,1,won,0.787,-10.343,0.0,Sharp,close,eligible,2026-08-01 18:07
+moneyline_flag_band,2026-08-02 10:00,,Sashi vs Black Phoenix,moneyline,Sashi,3,SoftBook A,1.4,1,won,0.4,-9.943,0.0,SoftBook A,close,no_bet,2026-08-02 08:07
+moneyline_flag_band,2026-08-02 13:00,,SINNERS vs SPARTA,moneyline,SPARTA,3,Sharp,2.63,1,lost,-1.0,-10.943,0.29,Sharp,close,eligible,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 13:00,,BASEMENT BOYS vs Fire Flux,moneyline,BASEMENT BOYS,3,SoftBook A,1.57,1,lost,-1.0,-11.943,0.0,SoftBook A,hourly,eligible,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 13:00,,Leo vs Vexar,moneyline,Vexar,3,SoftBook A,2.37,1,lost,-1.0,-12.943,0.0,SoftBook A,hourly,no_bet,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 18:00,,ShindeN vs BESTIA,moneyline,ShindeN,3,Sharp,2.22,1,lost,-1.0,-13.943,-1.98,Sharp,close,eligible,2026-08-02 11:09
+moneyline_flag_band,2026-08-02 22:15,,NRG vs SportsBetExpert,moneyline,NRG,3,SoftBook A,1.25,1,won,0.25,-13.693,0.0,SoftBook A,hourly,no_bet,2026-08-02 11:09
+moneyline_flag_band,2026-08-03 00:40,,NRG vs Voca,moneyline,NRG,3,Sharp,1.465,1,won,0.465,-13.228,0.0,Sharp,close,no_bet,2026-08-01 18:07
+moneyline_flag_band,2026-08-03 10:10,,Mindfreak vs FURY,moneyline,Mindfreak,3,SoftBook A,1.61,1,lost,-1.0,-14.228,0.0,SoftBook A,close,no_bet,2026-08-03 08:07
+moneyline_flag_band,2026-08-03 13:00,,MOUZ NXT vs Misa,moneyline,MOUZ NXT,3,Sharp,2.42,1,won,1.42,-12.808,-2.51,Sharp,close,eligible,2026-08-03 11:07
+moneyline_flag_band,2026-08-03 14:00,,SPARTA vs ex-Young Ninjas,moneyline,SPARTA,3,Sharp,1.45,1,won,0.45,-12.358,2.62,Sharp,close,eligible,2026-08-03 11:07
+moneyline_flag_band,2026-08-03 17:00,,GenOne vs UNiTY,moneyline,GenOne,3,SoftBook A,1.3,1,won,0.3,-12.058,-6.22,SoftBook A,hourly,eligible,2026-08-03 14:05
+moneyline_flag_band,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,moneyline,Nuclear TigeRES,3,Sharp,1.276,1,won,0.276,-11.782,-3.19,Sharp,close,eligible,2026-08-04 00:07
+moneyline_flag_band,2026-08-04 10:00,,Rooster vs FURY,moneyline,FURY,3,SoftBook A,4.0,1,lost,-1.0,-12.782,-7.07,SoftBook A,close,no_bet,2026-08-04 00:07
+moneyline_flag_band,2026-08-04 14:00,,Yawara vs GUARA,moneyline,Yawara,3,Sharp,1.139,1,void,0.0,,,,hourly,no_bet,2026-08-04 13:06
+moneyline_flag_band,2026-08-04 14:00,,Liquid vs 9INE,moneyline,Liquid,3,Sharp,1.364,1,won,0.364,-12.418,0.22,Sharp,close,eligible,2026-08-04 13:06
+moneyline_flag_band,2026-08-04 19:10,,Grêmio vs RUSH,moneyline,Grêmio,3,SoftBook A,1.5,1,won,0.5,-11.918,0.0,SoftBook A,hourly,eligible,2026-08-04 13:06
+moneyline_flag_band,2026-08-04 21:00,,BORRACHEIROS vs ALKA,moneyline,BORRACHEIROS,3,SoftBook A,2.5,1,void,0.0,,,,hourly,no_bet,2026-08-04 19:05
+moneyline_flag_band,2026-08-04 21:30,,ODDIK vs RED Canids Academy,moneyline,ODDIK,3,SoftBook A,1.3,1,won,0.3,-11.618,,,hourly,no_bet,2026-08-04 19:05
+moneyline_flag_band,2026-08-05 10:00,,Ground Zero vs Time Waves,moneyline,Time Waves,3,SoftBook A,11.0,1,lost,-1.0,-12.618,0.0,SoftBook A,close,no_bet,2026-08-05 08:09
+moneyline_flag_band,2026-08-05 10:00,,Arcade vs Abyssal,moneyline,Arcade,3,SoftBook A,2.1,1,lost,-1.0,-13.618,-13.79,SoftBook A,close,eligible,2026-08-05 08:09
+moneyline_flag_band,2026-08-05 13:00,,Liquid vs fnatic,moneyline,Liquid,3,Sharp,1.498,1,won,0.498,-13.12,4.27,Sharp,close,eligible,2026-08-05 11:09
+moneyline_flag_band,2026-08-05 14:00,,Nordic Partners vs GenOne,moneyline,GenOne,3,Sharp,1.369,1,won,0.369,-12.751,-0.72,Sharp,close,eligible,2026-08-05 13:06
+moneyline_flag_band,2026-08-05 18:30,,Grêmio vs ALKA,moneyline,Grêmio,3,SoftBook A,2.62,1,won,1.62,-11.131,0.0,SoftBook A,close,eligible,2026-08-05 14:07
+moneyline_flag_band,2026-08-06 08:00,,Lavked vs Black Phoenix,moneyline,Black Phoenix,3,Sharp,1.617,1,won,0.617,-10.514,5.09,Sharp,close,no_bet,2026-08-06 00:06
+moneyline_flag_band,2026-08-06 17:00,,Yawara vs Isurus,moneyline,Isurus,3,Sharp,1.73,1,lost,-1.0,-11.514,1.14,Sharp,close,eligible,2026-08-06 16:06
+moneyline_flag_band,2026-08-06 19:10,,QUINTESSÊNCIA vs Grêmio,moneyline,Grêmio,3,SoftBook A,1.66,1,won,0.66,-10.854,0.0,SoftBook A,close,eligible,2026-08-06 16:06
+moneyline_flag_band,2026-08-06 20:05,,METANOIA Wolves vs Procyon,moneyline,Procyon,3,Sharp,1.649,1,lost,-1.0,-11.854,,,hourly,no_bet,2026-08-06 16:06
+moneyline_flag_band,2026-08-07 11:00,,Walczaki vs Black Phoenix,moneyline,Black Phoenix,3,SoftBook A,2.62,1,won,1.62,-10.234,4.06,SoftBook A,close,no_bet,2026-08-07 05:09
+moneyline_flag_band,2026-08-07 16:15,,Prestige vs Metizport,moneyline,Metizport,3,Sharp,1.19,1,won,0.19,-10.044,-0.34,Sharp,close,no_bet,2026-08-07 15:10
+moneyline_flag_band,2026-08-07 17:05,,GenOne vs CYBERSHOKE,moneyline,GenOne,3,Sharp,1.901,1,lost,-1.0,-11.044,-2.09,Sharp,close,eligible,2026-08-07 15:10
+moneyline_flag_band,2026-08-07 20:00,,BESTIA vs Yawara,moneyline,BESTIA,3,Sharp,1.22,1,lost,-1.0,-12.044,-1.56,Sharp,close,eligible,2026-08-07 17:07
+moneyline_flag_band,2026-08-07 23:00,,Imperial vs Galorys,moneyline,Galorys,3,Sharp,3.05,1,lost,-1.0,-13.044,-1.43,Sharp,hourly,eligible,2026-08-07 17:07
+moneyline_flag_band,2026-08-08 11:00,,eSuba vs BRUTE,moneyline,eSuba,3,Sharp,6.3,1,lost,-1.0,-14.044,0.0,Sharp,hourly,no_bet,2026-08-07 23:50
+moneyline_flag_band,2026-08-08 14:00,,Procyon vs ODDIK Academy,moneyline,Procyon,3,Sharp,1.813,1,won,0.813,-13.231,3.54,Sharp,hourly,eligible,2026-08-07 23:50
+moneyline_flag_band,2026-08-08 20:05,,ALKA vs paiN Academy,moneyline,paiN Academy,3,Sharp,2.84,1,lost,-1.0,-14.231,0.52,Sharp,hourly,eligible,2026-08-07 23:50
+moneyline_flag_band,2026-08-09 09:00,,HEROIC vs ASTRAL,moneyline,ASTRAL,3,Sharp,5.66,1,lost,-1.0,-15.231,2.53,Sharp,close,eligible,2026-08-09 03:09
+moneyline_flag_band,2026-08-09 09:00,,BC.Game vs OG,moneyline,OG,3,Sharp,2.81,1,lost,-1.0,-16.231,-5.17,Sharp,close,eligible,2026-08-09 03:09
+moneyline_flag_band,2026-08-09 09:00,,Eternal Fire vs BIG,moneyline,BIG,3,Sharp,1.397,1,won,0.397,-15.834,3.86,Sharp,close,eligible,2026-08-09 03:09
+moneyline_flag_band,2026-08-09 09:00,,INFINITE vs 100 Thieves,moneyline,INFINITE,3,SoftBook A,3.75,1,lost,-1.0,-16.834,-1.82,SoftBook A,close,eligible,2026-08-09 03:09
+moneyline_flag_band,2026-08-09 09:00,,Virtus.pro vs Sashi,moneyline,Virtus.pro,3,SoftBook A,1.8,1,lost,-1.0,-17.834,0.0,SoftBook A,close,eligible,2026-08-09 03:09
+moneyline_flag_band,2026-08-09 17:00,,Grêmio vs Procyon,moneyline,Grêmio,3,Sharp,2.07,1,won,1.07,-16.764,0.2,Sharp,close,eligible,2026-08-09 10:07
+moneyline_flag_band,2026-08-09 23:15,,Galorys vs Keyd Stars,moneyline,Keyd Stars,3,Sharp,2.08,1,lost,-1.0,-17.764,5.69,Sharp,close,eligible,2026-08-09 21:34
+moneyline_flag_band,2026-08-10 10:00,,Ground Zero vs Mindfreak,moneyline,Mindfreak,3,SoftBook A,4.0,1,lost,-1.0,-18.764,-7.07,SoftBook A,close,no_bet,2026-08-10 02:07
+moneyline_flag_band,2026-08-10 20:10,,paiN Academy vs Keyd Stars,moneyline,Keyd Stars,3,Sharp,1.239,1,won,0.239,-18.525,-1.33,Sharp,close,eligible,2026-08-10 12:07
+moneyline_flag_band,2026-08-10 21:00,,Back to Back vs DAMAJUANA,moneyline,DAMAJUANA,3,Sharp,7.08,1,lost,-1.0,-19.525,,,close,no_bet,2026-08-10 20:58

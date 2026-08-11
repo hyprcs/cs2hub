@@ -1,0 +1,149 @@
+strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+map2_specials_v1,2026-07-22 10:00,BLAST Bounty Qualifier,EYEBALLERS vs FaZe,map2_moneyline,EYEBALLERS,3,Sharp,3.29,1,lost,-1.0,-1.0,-2.53,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 10:00,StarLadder StarSeries Fall Europe Qualifier,HOTU vs Astralis,map2_moneyline,HOTU,3,Sharp,2.38,1,won,1.38,0.38,-4.68,specials_hourly,specials_hourly,selected,2026-07-22 03:04
+map2_specials_v1,2026-07-22 10:30,European Pro League,Eternal Fire vs CYBERSHOKE,map2_moneyline,CYBERSHOKE,3,Sharp,2.0,1,won,1.0,1.38,2.41,specials_hourly,specials_hourly,selected,2026-07-22 06:04
+map2_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,Sharp,2.7,1,won,1.7,,0.42,specials_hourly,specials_hourly,quarantined,2026-07-22 00:04
+map2_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map2_moneyline,Fortress,3,Sharp,4.38,1,lost,-1.0,,-0.56,specials_hourly,specials_hourly,quarantined,2026-07-22 02:05
+map2_specials_v1,2026-07-22 12:30,BLAST Bounty Qualifier,Nemiga vs G2,map2_moneyline,Nemiga,3,Sharp,4.34,1,lost,-1.0,0.38,-1.63,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 15:00,BLAST Bounty Qualifier,HOTU vs GamerLegion,map2_moneyline,HOTU,3,Sharp,2.41,1,won,1.41,1.79,-0.87,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 15:30,BLAST Bounty Qualifier,HOTU vs GamerLegion,map2_moneyline,HOTU,3,Sharp,2.46,1,won,1.46,3.25,,,,selected,2026-07-22 15:04
+map2_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map2_moneyline,Echo,3,Sharp,2.45,1,won,1.45,4.7,-3.63,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-22 17:00,,QUAZAR vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,Sharp,2.68,1,won,1.68,,1.84,specials_hourly,specials_hourly,quarantined,2026-07-22 03:04
+map2_specials_v1,2026-07-22 17:30,BLAST Bounty Qualifier,Falcons vs 100 Thieves,map2_moneyline,100 Thieves,3,Sharp,4.73,1,won,3.73,8.43,1.0,specials_hourly,specials_hourly,selected,2026-07-22 09:04
+map2_specials_v1,2026-07-22 19:00,CCT South America,Procyon vs MAGICOS,map2_moneyline,MAGICOS,3,Sharp,2.64,1,won,1.64,10.07,,,,selected,2026-07-22 18:04
+map2_specials_v1,2026-07-22 19:10,CCT South America,Procyon vs MAGICOS,map2_moneyline,MAGICOS,3,Sharp,2.64,1,won,1.64,11.71,,,,selected,2026-07-22 19:03
+map2_specials_v1,2026-07-23 08:00,European Pro League,Just Players vs CYBERSHOKE,map2_moneyline,Just Players,3,Sharp,2.64,1,lost,-1.0,10.71,0.0,specials_hourly,specials_hourly,selected,2026-07-23 05:12
+map2_specials_v1,2026-07-23 10:00,BLAST Bounty Qualifier,Aurora vs FOKUS,map2_moneyline,FOKUS,3,Sharp,4.5,1,lost,-1.0,9.71,2.36,specials_hourly,specials_hourly,selected,2026-07-22 01:04
+map2_specials_v1,2026-07-23 11:00,,NEW VISION vs benched gods,map2_moneyline,benched gods,3,Sharp,1.82,1,lost,-1.0,,10.25,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-23 12:30,BLAST Bounty Qualifier,SINNERS vs FUT,map2_moneyline,SINNERS,3,Sharp,3.5,1,lost,-1.0,8.71,-0.21,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-23 13:00,,Ninjas in Pyjamas vs Echo,map2_moneyline,Echo,3,Sharp,2.87,1,lost,-1.0,7.71,-0.47,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-23 14:00,,megoshort vs Privateer,map2_moneyline,Privateer,3,Sharp,1.719,1,lost,-1.0,6.71,0.0,specials_hourly,specials_hourly,selected,2026-07-23 03:04
+map2_specials_v1,2026-07-23 15:00,BLAST Bounty Qualifier,Gentle Mates vs paiN,map2_moneyline,Gentle Mates,3,Sharp,2.25,1,lost,-1.0,5.71,-0.95,specials_hourly,specials_hourly,selected,2026-07-22 09:04
+map2_specials_v1,2026-07-23 15:30,BLAST Bounty Qualifier,Gentle Mates vs paiN,map2_moneyline,Gentle Mates,3,Sharp,2.3,1,lost,-1.0,4.71,,,,selected,2026-07-23 15:10
+map2_specials_v1,2026-07-23 16:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map2_moneyline,FOKUS,3,Sharp,2.55,1,lost,-1.0,3.71,-0.31,specials_hourly,specials_hourly,selected,2026-07-22 00:04
+map2_specials_v1,2026-07-23 16:00,,Fluxo vs paiN Academy,map2_moneyline,paiN Academy,3,Sharp,4.69,1,lost,-1.0,,0.68,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-23 17:00,BLAST Bounty Qualifier,Spirit vs OG,map2_moneyline,OG,3,Sharp,7.05,1,won,6.05,9.76,0.17,specials_hourly,specials_hourly,selected,2026-07-22 01:04
+map2_specials_v1,2026-07-23 17:00,CCT Europe Series Closed Qualifier,Misa vs Rounds,map2_moneyline,Rounds,3,Sharp,2.9,1,lost,-1.0,8.76,-4.11,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-23 17:00,StarLadder StarSeries Fall Europe Qualifier,HEROIC vs FOKUS,map2_moneyline,FOKUS,3,Sharp,2.57,1,lost,-1.0,7.76,,,,selected,2026-07-23 16:07
+map2_specials_v1,2026-07-23 19:00,,Imperial vs BESTIA Academy,map2_moneyline,BESTIA Academy,3,Sharp,5.32,1,won,4.32,,3.27,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-24 11:00,,megoshort vs Rounds,map2_moneyline,Rounds,3,Sharp,1.98,1,won,0.98,8.74,-1.35,specials_hourly,specials_hourly,selected,2026-07-24 05:05
+map2_specials_v1,2026-07-24 11:30,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map2_moneyline,The MongolZ,3,Sharp,2.05,1,won,1.05,9.79,0.89,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 12:15,BLAST Bounty Qualifier,HEROIC vs The MongolZ,map2_moneyline,The MongolZ,3,Sharp,1.99,1,won,0.99,10.78,,,,selected,2026-07-24 12:06
+map2_specials_v1,2026-07-24 13:00,,Fake do Biru vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,2.79,1,void,0.0,,12.43,specials_hourly,specials_hourly,quarantined,2026-07-23 02:07
+map2_specials_v1,2026-07-24 13:00,,Nuclear TigeRES vs Echo,map2_moneyline,Echo,3,Sharp,2.13,1,won,1.13,11.91,-4.26,specials_hourly,specials_hourly,selected,2026-07-24 01:04
+map2_specials_v1,2026-07-24 14:00,BLAST Bounty Qualifier,Liquid vs Vitality,map2_moneyline,Liquid,3,Sharp,6.0,1,won,5.0,16.91,3.53,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 16:00,,Bounty Hunters vs ODDIK,map2_moneyline,ODDIK,3,Sharp,2.27,1,lost,-1.0,15.91,0.41,specials_hourly,specials_hourly,selected,2026-07-23 19:05
+map2_specials_v1,2026-07-24 17:00,,Privateer vs Misa,map2_moneyline,Privateer,3,Sharp,2.23,1,lost,-1.0,14.91,-0.4,specials_hourly,specials_hourly,selected,2026-07-24 07:05
+map2_specials_v1,2026-07-24 19:00,CCT South America,Keyd Stars vs ALKA,map2_moneyline,ALKA,3,Sharp,2.11,1,lost,-1.0,13.91,-6.31,specials_hourly,specials_hourly,selected,2026-07-24 00:04
+map2_specials_v1,2026-07-24 22:00,,LP vs MAGICOS,map2_moneyline,MAGICOS,3,Sharp,5.32,1,lost,-1.0,12.91,3.63,specials_hourly,specials_hourly,selected,2026-07-23 02:07
+map2_specials_v1,2026-07-25 11:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,Sharp,2.14,1,won,1.14,14.05,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map2_specials_v1,2026-07-25 13:00,,Aurora vs Echo,map2_moneyline,Echo,3,Sharp,3.23,1,lost,-1.0,13.05,-4.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 13:00,,BORRACHEIROS vs ODDIK,map2_moneyline,BORRACHEIROS,3,Sharp,3.14,1,won,2.14,15.19,3.35,specials_hourly,specials_hourly,selected,2026-07-25 08:04
+map2_specials_v1,2026-07-25 14:00,CCT Europe Series 6,Enjoy vs SAW Youngsters,map2_moneyline,SAW Youngsters,3,Sharp,2.14,1,won,1.14,16.33,5.25,specials_hourly,specials_hourly,selected,2026-07-25 02:04
+map2_specials_v1,2026-07-25 14:00,CCT Europe Series 5,Black Phoenix vs Just Players,map2_moneyline,Black Phoenix,3,Sharp,2.15,1,void,0.0,,2.97,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map2_specials_v1,2026-07-25 15:00,BLAST Bounty Closed Qualifier,HOTU vs Astralis,map2_moneyline,HOTU,3,Sharp,2.23,1,won,1.23,17.56,-2.58,specials_hourly,specials_hourly,selected,2026-07-25 04:06
+map2_specials_v1,2026-07-25 16:00,,BESTIA Academy vs Isurus,map2_moneyline,BESTIA Academy,3,Sharp,2.29,1,lost,-1.0,16.56,0.0,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 16:00,,ODDIK vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,3.14,1,won,2.14,18.7,-1.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 17:00,,ex-RUSTEC vs Rune Eaters,map2_moneyline,Rune Eaters,3,Sharp,1.813,1,lost,-1.0,17.7,-1.1,specials_hourly,specials_hourly,selected,2026-07-25 03:05
+map2_specials_v1,2026-07-25 17:30,BLAST Bounty Closed Qualifier,FOKUS vs MOUZ,map2_moneyline,FOKUS,3,Sharp,4.28,1,lost,-1.0,16.7,2.2,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 19:00,CCT South America,Fluxo vs Keyd Stars,map2_moneyline,Keyd Stars,3,Sharp,2.86,1,lost,-1.0,15.7,7.59,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-25 22:00,CCT South America,BESTIA Academy vs Isurus,map2_moneyline,BESTIA Academy,3,Sharp,2.29,1,lost,-1.0,14.7,-2.46,specials_hourly,specials_hourly,selected,2026-07-25 05:05
+map2_specials_v1,2026-07-26 12:30,BLAST Bounty Closed Qualifier,3DMAX vs FUT,map2_moneyline,3DMAX,3,Sharp,3.0,1,won,2.0,16.7,-2.37,specials_hourly,specials_hourly,selected,2026-07-25 22:04
+map2_specials_v1,2026-07-26 13:00,StarLadder StarSeries Fall Europe Closed Qualifier,HOTU vs Aurora,map2_moneyline,HOTU,3,Sharp,2.88,1,won,1.88,18.58,1.12,specials_hourly,specials_hourly,selected,2026-07-25 22:04
+map2_specials_v1,2026-07-26 15:00,BLAST Bounty Closed Qualifier,Wildcard vs The MongolZ,map2_moneyline,Wildcard,3,Sharp,2.83,1,lost,-1.0,17.58,5.68,specials_hourly,specials_hourly,selected,2026-07-25 22:05
+map2_specials_v1,2026-07-26 15:00,CCT South America,LP vs ODDIK,map2_moneyline,ODDIK,3,Sharp,2.54,1,won,1.54,19.12,2.75,specials_hourly,specials_hourly,selected,2026-07-26 08:05
+map2_specials_v1,2026-07-26 17:30,BLAST Bounty Closed Qualifier,100 Thieves vs Spirit,map2_moneyline,100 Thieves,3,Sharp,4.55,1,won,3.55,22.67,2.77,specials_hourly,specials_hourly,selected,2026-07-25 23:04
+map2_specials_v1,2026-07-26 18:00,,Fluxo vs Isurus,map2_moneyline,Isurus,3,Sharp,2.88,1,won,1.88,24.55,-1.13,specials_hourly,specials_hourly,selected,2026-07-26 04:04
+map2_specials_v1,2026-07-27 14:00,TP World Championship Europe,Black Phoenix vs Misa,map2_moneyline,Misa,3,Sharp,2.5,1,won,1.5,,-0.32,specials_hourly,specials_hourly,quarantined,2026-07-26 20:03
+map2_specials_v1,2026-07-27 14:00,CCT Europe Series,ex-RUSTEC vs Inner Circle Academy,map2_moneyline,Inner Circle Academy,3,Sharp,2.23,1,won,1.23,25.78,0.25,specials_hourly,specials_hourly,selected,2026-07-27 03:05
+map2_specials_v1,2026-07-27 17:00,NODWIN Clutch Series,Just Players vs Inner Circle Academy,map2_moneyline,Inner Circle Academy,3,Sharp,2.42,1,lost,-1.0,,2.4,specials_hourly,specials_hourly,quarantined,2026-07-27 13:05
+map2_specials_v1,2026-07-28 08:00,CCT Europe Series 6,Black Phoenix vs Enjoy,map2_moneyline,Enjoy,3,Sharp,2.0,1,won,1.0,26.78,-5.54,specials_hourly,specials_hourly,selected,2026-07-27 22:05
+map2_specials_v1,2026-07-28 14:00,CCT Europe Series 6,GenOne vs NEW VISION,map2_moneyline,NEW VISION,3,Sharp,3.5,1,lost,-1.0,25.78,0.53,specials_hourly,specials_hourly,selected,2026-07-27 22:05
+map2_specials_v1,2026-07-28 15:00,StarLadder StarSeries Fall SA Closed Qualifier,MIBR vs Fluxo,map2_moneyline,Fluxo,3,Sharp,2.74,1,lost,-1.0,24.78,-0.12,specials_hourly,specials_hourly,selected,2026-07-27 04:05
+map2_specials_v1,2026-07-28 17:00,TP World Championship Europe,Misa vs Falcons Force,map2_moneyline,Misa,3,Sharp,1.855,1,lost,-1.0,23.78,-1.53,specials_hourly,specials_hourly,selected,2026-07-28 10:05
+map2_specials_v1,2026-07-28 18:00,StarLadder StarSeries Fall SA Closed Qualifier,Bounty Hunters vs LP,map2_moneyline,LP,3,Sharp,1.885,1,won,0.885,24.665,5.45,specials_hourly,specials_hourly,selected,2026-07-27 04:05
+map2_specials_v1,2026-07-28 21:00,StarLadder StarSeries Fall SA Closed Qualifier,Imperial vs BESTIA,map2_moneyline,BESTIA,3,Sharp,2.24,1,lost,-1.0,23.665,6.43,specials_hourly,specials_hourly,selected,2026-07-27 04:05
+map2_specials_v1,2026-07-29 01:00,,regain vs Voca,map2_moneyline,regain,3,Sharp,2.81,1,lost,-1.0,22.665,-6.52,specials_hourly,specials_hourly,selected,2026-07-27 04:05
+map2_specials_v1,2026-07-29 14:00,CCT Europe Series 6,ex-RUSTEC vs ex-Young Ninjas,map2_moneyline,ex-Young Ninjas,3,Sharp,2.5,1,won,1.5,24.165,-0.38,specials_hourly,specials_hourly,selected,2026-07-29 09:06
+map2_specials_v1,2026-07-29 15:00,StarLadder StarSeries Fall SA Closed Qualifier,ShindeN vs Galorys,map2_moneyline,Galorys,3,Sharp,2.18,1,lost,-1.0,23.165,-0.88,specials_hourly,specials_hourly,selected,2026-07-28 05:07
+map2_specials_v1,2026-07-29 17:00,TP World Championship Europe,Bebop vs Misa,map2_moneyline,Misa,3,Sharp,2.5,1,lost,-1.0,22.165,0.57,specials_hourly,specials_hourly,selected,2026-07-29 02:04
+map2_specials_v1,2026-07-29 18:00,StarLadder StarSeries Fall SA Closed Qualifier,MIBR vs LP,map2_moneyline,LP,3,Sharp,3.51,1,lost,-1.0,,1.91,specials_hourly,specials_hourly,quarantined,2026-07-29 03:05
+map2_specials_v1,2026-07-29 21:00,StarLadder StarSeries Fall SA Closed Qualifier,Bounty Hunters vs Fluxo,map2_moneyline,Bounty Hunters,3,Sharp,2.69,1,won,1.69,23.855,-1.1,specials_hourly,specials_hourly,selected,2026-07-29 03:05
+map2_specials_v1,2026-07-29 22:00,StarLadder StarSeries Fall NA Closed Qualifier,NRG vs Marsborne,map2_moneyline,Marsborne,3,Sharp,3.44,1,lost,-1.0,,-0.68,specials_hourly,specials_hourly,quarantined,2026-07-29 08:04
+map2_specials_v1,2026-07-29 22:00,StarLadder StarSeries Fall SA Closed Qualifier,Bounty Hunters vs Fluxo,map2_moneyline,Bounty Hunters,3,Sharp,2.77,1,won,1.77,25.625,,,,selected,2026-07-29 21:06
+map2_specials_v1,2026-07-30 08:00,NODWIN Clutch Series,SPARTA vs Just Players,map2_moneyline,SPARTA,3,Sharp,1.763,1,won,0.763,26.388,-2.15,specials_hourly,specials_hourly,selected,2026-07-30 04:06
+map2_specials_v1,2026-07-30 11:00,TP World Championship Europe,GenOne vs ex-RUSTEC,map2_moneyline,GenOne,3,Sharp,1.654,1,won,0.654,27.042,0.98,specials_hourly,specials_hourly,selected,2026-07-30 09:07
+map2_specials_v1,2026-07-30 14:00,CCT Europe Series 6,SPARTA vs NEW VISION,map2_moneyline,NEW VISION,3,Sharp,2.71,1,lost,-1.0,26.042,-4.84,specials_hourly,specials_hourly,selected,2026-07-30 03:06
+map2_specials_v1,2026-07-30 15:20,BLAST Bounty,3DMAX vs MOUZ,map2_moneyline,3DMAX,3,Sharp,4.09,1,lost,-1.0,25.042,,,,selected,2026-07-30 15:06
+map2_specials_v1,2026-07-30 16:00,,3DMAX vs MOUZ,map2_moneyline,3DMAX,3,Sharp,3.47,1,lost,-1.0,24.042,-4.31,specials_hourly,specials_hourly,selected,2026-07-30 04:06
+map2_specials_v1,2026-07-30 17:00,CCT Europe Series 6,Just Players vs Inner Circle Academy,map2_moneyline,Inner Circle Academy,3,Sharp,2.24,1,lost,-1.0,23.042,-0.66,specials_hourly,specials_hourly,selected,2026-07-30 00:07
+map2_specials_v1,2026-07-30 18:00,StarLadder StarSeries Fall SA Closed Qualifier,ShindeN vs Imperial,map2_moneyline,ShindeN,3,Sharp,2.48,1,lost,-1.0,22.042,2.66,specials_hourly,specials_hourly,selected,2026-07-30 05:06
+map2_specials_v1,2026-07-30 18:15,,Young TigeRES vs Banda Chuya,map2_moneyline,Banda Chuya,3,Sharp,2.63,1,lost,-1.0,21.042,0.13,specials_hourly,specials_hourly,selected,2026-07-30 06:10
+map2_specials_v1,2026-07-30 20:30,StarLadder StarSeries Fall SA Closed Qualifier,Galorys vs BESTIA,map2_moneyline,Galorys,3,Sharp,2.7,1,lost,-1.0,20.042,0.94,specials_hourly,specials_hourly,selected,2026-07-30 09:07
+map2_specials_v1,2026-07-30 21:00,StarLadder StarSeries Fall SA Closed Qualifier,Galorys vs BESTIA,map2_moneyline,Galorys,3,Sharp,2.38,1,lost,-1.0,19.042,-4.21,specials_hourly,specials_hourly,selected,2026-07-30 08:06
+map2_specials_v1,2026-07-30 21:30,StarLadder StarSeries Fall SA Closed Qualifier,Galorys vs BESTIA,map2_moneyline,Galorys,3,Sharp,2.64,1,lost,-1.0,18.042,,,,selected,2026-07-30 21:05
+map2_specials_v1,2026-07-31 11:00,CCT Europe Series 5,SINNERS vs Rune Eaters,map2_moneyline,Rune Eaters,3,Sharp,2.63,1,lost,-1.0,,-0.27,specials_hourly,specials_hourly,quarantined,2026-07-31 01:05
+map2_specials_v1,2026-07-31 14:00,TP World Championship Europe,Lavked vs megoshort,map2_moneyline,megoshort,3,Sharp,2.63,1,won,1.63,19.672,8.68,specials_hourly,specials_hourly,selected,2026-07-31 01:05
+map2_specials_v1,2026-07-31 15:30,BLAST Bounty,paiN vs Astralis,map2_moneyline,paiN,3,Sharp,2.27,1,lost,-1.0,18.672,-2.11,specials_hourly,specials_hourly,selected,2026-07-30 03:06
+map2_specials_v1,2026-07-31 15:30,CCT Europe Series Contenders,Banda Chuya vs mellren,map2_moneyline,mellren,3,Sharp,1.847,1,won,0.847,19.519,3.69,specials_hourly,specials_hourly,selected,2026-07-31 14:06
+map2_specials_v1,2026-07-31 16:10,BLAST Bounty,paiN vs Astralis,map2_moneyline,paiN,3,Sharp,2.36,1,lost,-1.0,18.519,,,,selected,2026-07-31 16:06
+map2_specials_v1,2026-07-31 17:00,CCT Europe Series 6,GenOne vs Enjoy,map2_moneyline,Enjoy,3,Sharp,2.81,1,lost,-1.0,17.519,-1.15,specials_hourly,specials_hourly,selected,2026-07-31 07:07
+map2_specials_v1,2026-07-31 18:30,,Banda Chuya vs mellren,map2_moneyline,mellren,3,Sharp,1.847,1,won,0.847,18.366,3.69,specials_hourly,specials_hourly,selected,2026-07-31 14:06
+map2_specials_v1,2026-07-31 20:30,StarLadder StarSeries Fall SA Closed Qualifier,LP vs BESTIA,map2_moneyline,LP,3,Sharp,2.12,1,lost,-1.0,17.366,-5.04,specials_hourly,specials_hourly,selected,2026-07-31 06:07
+map2_specials_v1,2026-08-01 00:30,StarLadder StarSeries Fall NA Closed Qualifier,Marsborne vs regain,map2_moneyline,regain,3,Sharp,2.88,1,lost,-1.0,16.366,-4.14,specials_hourly,specials_hourly,selected,2026-07-31 09:07
+map2_specials_v1,2026-08-01 01:00,StarLadder StarSeries Fall NA Closed Qualifier,Marsborne vs regain,map2_moneyline,regain,3,Sharp,2.88,1,lost,-1.0,15.366,-4.14,specials_hourly,specials_hourly,selected,2026-07-31 06:07
+map2_specials_v1,2026-08-01 10:30,BLAST Bounty,Spirit vs FaZe,map2_moneyline,FaZe,3,Sharp,3.97,1,won,2.97,18.336,4.72,specials_hourly,specials_hourly,selected,2026-07-31 23:06
+map2_specials_v1,2026-08-01 11:00,,megoshort vs CYBERSHOKE,map2_moneyline,megoshort,3,Sharp,3.68,1,won,2.68,21.016,0.0,specials_hourly,specials_hourly,selected,2026-08-01 03:04
+map2_specials_v1,2026-08-01 12:00,Elisa Esports BreakOut,SINQU vs BC.Game,map2_moneyline,SINQU,3,Sharp,5.73,1,lost,-1.0,,-2.44,specials_hourly,specials_hourly,quarantined,2026-08-01 07:06
+map2_specials_v1,2026-08-01 13:30,BLAST Bounty,Astralis vs MOUZ,map2_moneyline,Astralis,3,Sharp,3.02,1,lost,-1.0,20.016,-0.52,specials_hourly,specials_hourly,selected,2026-08-01 04:06
+map2_specials_v1,2026-08-01 14:00,CCT Europe Series 6,SPARTA vs Rune Eaters,map2_moneyline,Rune Eaters,3,Sharp,2.09,1,won,1.09,21.106,0.0,specials_hourly,specials_hourly,selected,2026-07-31 19:05
+map2_specials_v1,2026-08-01 17:00,CCT Europe Series 6,Black Phoenix vs Just Players,map2_moneyline,Black Phoenix,3,Sharp,2.25,1,won,1.25,22.356,0.43,specials_hourly,specials_hourly,selected,2026-07-31 23:06
+map2_specials_v1,2026-08-01 17:00,TP World Championship Europe,megoshort vs CYBERSHOKE,map2_moneyline,megoshort,3,Sharp,3.68,1,won,2.68,25.036,-0.68,specials_hourly,specials_hourly,selected,2026-08-01 03:05
+map2_specials_v1,2026-08-01 17:00,,ENCE vs BC.Game,map2_moneyline,ENCE,3,Sharp,4.23,1,lost,-1.0,,-0.13,specials_hourly,specials_hourly,quarantined,2026-08-01 15:07
+map2_specials_v1,2026-08-01 17:15,TP World Championship Europe,megoshort vs CYBERSHOKE,map2_moneyline,megoshort,3,Sharp,3.74,1,won,2.74,27.776,,,,selected,2026-08-01 17:06
+map2_specials_v1,2026-08-01 17:30,CCT Europe Series 6,Black Phoenix vs Just Players,map2_moneyline,Black Phoenix,3,Sharp,2.09,1,won,1.09,28.866,,,,selected,2026-08-01 17:07
+map2_specials_v1,2026-08-01 18:00,StarLadder StarSeries Fall SA Closed Qualifier,MIBR vs ShindeN,map2_moneyline,ShindeN,3,Sharp,2.67,1,lost,-1.0,27.866,-3.17,specials_hourly,specials_hourly,selected,2026-07-31 23:06
+map2_specials_v1,2026-08-01 20:30,StarLadder StarSeries Fall SA Closed Qualifier,Fluxo vs BESTIA,map2_moneyline,Fluxo,3,Sharp,2.02,1,lost,-1.0,26.866,-0.52,specials_hourly,specials_hourly,selected,2026-08-01 14:06
+map2_specials_v1,2026-08-01 22:00,,NRG vs Voca,map2_moneyline,Voca,3,Sharp,2.64,1,won,1.64,28.506,-3.62,specials_hourly,specials_hourly,selected,2026-08-01 03:05
+map2_specials_v1,2026-08-02 10:00,,GenOne vs CYBERSHOKE,map2_moneyline,GenOne,3,Sharp,2.18,1,won,1.18,29.686,1.29,specials_hourly,specials_hourly,selected,2026-08-01 22:05
+map2_specials_v1,2026-08-02 10:00,,SINNERS vs SPARTA,map2_moneyline,SPARTA,3,Sharp,2.25,1,lost,-1.0,28.686,-2.27,specials_hourly,specials_hourly,selected,2026-08-01 22:05
+map2_specials_v1,2026-08-02 10:30,BLAST Bounty,Spirit vs MOUZ,map2_moneyline,MOUZ,5,Sharp,3.0,1,won,2.0,30.686,4.87,specials_hourly,specials_hourly,selected,2026-08-01 21:04
+map2_specials_v1,2026-08-02 13:00,ESL Challenger League Europe,MOUZ NXT vs WBT,map2_moneyline,WBT,3,Sharp,1.909,1,won,0.909,31.595,2.75,specials_hourly,specials_hourly,selected,2026-08-01 22:05
+map2_specials_v1,2026-08-02 13:00,,GenOne vs CYBERSHOKE,map2_moneyline,GenOne,3,Sharp,2.18,1,won,1.18,32.775,0.91,specials_hourly,specials_hourly,selected,2026-08-02 02:04
+map2_specials_v1,2026-08-02 13:00,,SINNERS vs SPARTA,map2_moneyline,SPARTA,3,Sharp,2.18,1,lost,-1.0,31.775,-3.69,specials_hourly,specials_hourly,selected,2026-08-02 04:05
+map2_specials_v1,2026-08-02 14:00,TP World Championship Europe,GenOne vs CYBERSHOKE,map2_moneyline,GenOne,3,Sharp,2.12,1,won,1.12,32.895,,,,selected,2026-08-02 13:04
+map2_specials_v1,2026-08-02 18:00,StarLadder StarSeries Fall SA Closed Qualifier,ShindeN vs BESTIA,map2_moneyline,ShindeN,3,Sharp,2.31,1,lost,-1.0,31.895,2.49,specials_hourly,specials_hourly,selected,2026-08-02 08:06
+map2_specials_v1,2026-08-03 08:00,NODWIN Clutch Series,WW vs CYBERSHOKE Prospects,map2_moneyline,CYBERSHOKE Prospects,3,Sharp,2.41,1,won,1.41,33.305,1.83,specials_hourly,specials_hourly,selected,2026-08-03 05:04
+map2_specials_v1,2026-08-03 14:00,CCT Europe Series 6,SPARTA vs ex-Young Ninjas,map2_moneyline,ex-Young Ninjas,3,Sharp,2.42,1,lost,-1.0,32.305,-1.81,specials_hourly,specials_hourly,selected,2026-08-03 09:05
+map2_specials_v1,2026-08-03 17:00,BB Storm,Keyd Stars vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,2.87,1,lost,-1.0,,-1.13,specials_hourly,specials_hourly,quarantined,2026-07-31 17:05
+map2_specials_v1,2026-08-03 23:00,BB Storm,Grêmio vs paiN Academy,map2_moneyline,Grêmio,3,Sharp,1.943,1,lost,-1.0,31.305,-3.94,specials_hourly,specials_hourly,selected,2026-07-31 23:06
+map2_specials_v1,2026-08-04 08:00,NODWIN Clutch Series,Nuclear TigeRES vs Just Players,map2_moneyline,Just Players,3,Sharp,2.75,1,lost,-1.0,30.305,2.46,specials_hourly,specials_hourly,selected,2026-08-04 04:04
+map2_specials_v1,2026-08-04 11:00,CCT Europe Series,ex-RUSTEC vs NEW VISION,map2_moneyline,NEW VISION,3,Sharp,2.92,1,lost,-1.0,29.305,-1.57,specials_hourly,specials_hourly,selected,2026-08-04 06:06
+map2_specials_v1,2026-08-04 14:00,BB Storm,Yawara vs GUARA,map2_moneyline,GUARA,3,Sharp,3.84,1,void,0.0,,2.84,specials_hourly,specials_hourly,selected,2026-08-03 03:04
+map2_specials_v1,2026-08-04 14:00,NODWIN Clutch Series,Nemiga vs GenOne,map2_moneyline,GenOne,3,Sharp,2.09,1,won,1.09,,-2.44,specials_hourly,specials_hourly,quarantined,2026-08-03 16:04
+map2_specials_v1,2026-08-04 14:00,,Just Players vs Enjoy,map2_moneyline,Enjoy,3,Sharp,2.3,1,lost,-1.0,28.305,2.26,specials_hourly,specials_hourly,selected,2026-08-04 03:06
+map2_specials_v1,2026-08-04 14:00,Pulse Beat,Liquid vs 9INE,map2_moneyline,9INE,3,Sharp,3.19,1,lost,-1.0,27.305,7.5,specials_hourly,specials_hourly,selected,2026-08-04 04:04
+map2_specials_v1,2026-08-04 17:00,,fnatic vs EAC,map2_moneyline,EAC,3,Sharp,3.26,1,lost,-1.0,26.305,1.15,specials_hourly,specials_hourly,selected,2026-08-04 04:04
+map2_specials_v1,2026-08-04 23:00,BB Storm,BESTIA vs METANOIA Wolves,map2_moneyline,METANOIA Wolves,3,Sharp,4.01,1,lost,-1.0,25.305,-6.21,specials_hourly,specials_hourly,selected,2026-08-04 06:06
+map2_specials_v1,2026-08-05 08:00,NODWIN Clutch Series,CYBERSHOKE Prospects vs Nuclear TigeRES,map2_moneyline,CYBERSHOKE Prospects,3,Sharp,2.6,1,lost,-1.0,24.305,0.3,specials_hourly,specials_hourly,selected,2026-08-05 04:05
+map2_specials_v1,2026-08-05 13:00,Pulse Beat,Liquid vs fnatic,map2_moneyline,fnatic,3,Sharp,2.38,1,lost,-1.0,23.305,-2.38,specials_hourly,specials_hourly,selected,2026-08-05 04:05
+map2_specials_v1,2026-08-05 14:00,NODWIN Clutch Series,CYBERSHOKE Prospects vs Nuclear TigeRES,map2_moneyline,CYBERSHOKE Prospects,3,Sharp,2.6,1,lost,-1.0,22.305,-3.98,specials_hourly,specials_hourly,selected,2026-08-05 04:05
+map2_specials_v1,2026-08-05 20:00,,Imperial vs ALKA,map2_moneyline,ALKA,3,Sharp,4.14,1,won,3.14,25.445,-1.33,specials_hourly,specials_hourly,selected,2026-08-05 04:05
+map2_specials_v1,2026-08-05 23:00,,BESTIA vs Grêmio,map2_moneyline,Grêmio,3,Sharp,4.84,1,lost,-1.0,,-0.24,specials_hourly,specials_hourly,quarantined,2026-08-05 04:05
+map2_specials_v1,2026-08-06 08:00,CCT Europe Series 6,Lavked vs Black Phoenix,map2_moneyline,Black Phoenix,3,Sharp,1.699,1,lost,-1.0,24.445,5.25,specials_hourly,specials_hourly,selected,2026-08-05 22:05
+map2_specials_v1,2026-08-06 14:00,BB Storm,paiN Academy vs MEIA NOITE,map2_moneyline,paiN Academy,3,Sharp,2.32,1,lost,-1.0,23.445,4.16,specials_hourly,specials_hourly,selected,2026-08-05 23:05
+map2_specials_v1,2026-08-06 17:00,CCT Europe Series 6,WW vs ex-RUSTEC,map2_moneyline,ex-RUSTEC,3,Sharp,2.09,1,won,1.09,24.535,-2.04,specials_hourly,specials_hourly,selected,2026-08-05 22:05
+map2_specials_v1,2026-08-06 17:00,BB Storm,Yawara vs Isurus,map2_moneyline,Isurus,3,Sharp,1.775,1,lost,-1.0,23.535,-1.16,specials_hourly,specials_hourly,selected,2026-08-06 08:06
+map2_specials_v1,2026-08-06 23:00,BB Storm,Galorys vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,3.34,1,lost,-1.0,,4.54,specials_hourly,specials_hourly,quarantined,2026-08-05 23:05
+map2_specials_v1,2026-08-07 09:00,,SAW vs EAC,map2_moneyline,EAC,3,Sharp,2.38,1,lost,-1.0,,3.63,specials_hourly,specials_hourly,quarantined,2026-08-06 23:06
+map2_specials_v1,2026-08-07 11:00,CCT Europe Series 6,GenOne vs CYBERSHOKE,map2_moneyline,GenOne,3,Sharp,1.952,1,lost,-1.0,22.535,2.3,specials_hourly,specials_hourly,selected,2026-08-07 07:09
+map2_specials_v1,2026-08-07 16:00,Esports World Cup Last Chance Qualifier,Prestige vs Metizport,map2_moneyline,Prestige,3,Sharp,2.98,1,lost,-1.0,21.535,1.29,specials_hourly,specials_hourly,selected,2026-08-07 08:08
+map2_specials_v1,2026-08-07 17:00,BB Storm,Grêmio vs Keyd Stars,map2_moneyline,Grêmio,3,Sharp,2.8,1,lost,-1.0,20.535,0.31,specials_hourly,specials_hourly,selected,2026-08-07 05:07
+map2_specials_v1,2026-08-07 17:00,CCT Europe Series 6,GenOne vs CYBERSHOKE,map2_moneyline,GenOne,3,Sharp,1.952,1,lost,-1.0,19.535,1.64,specials_hourly,specials_hourly,selected,2026-08-07 07:09
+map2_specials_v1,2026-08-07 20:00,BB Storm,BESTIA vs Yawara,map2_moneyline,Yawara,3,Sharp,3.02,1,won,2.02,21.555,2.26,specials_hourly,specials_hourly,selected,2026-08-07 05:07
+map2_specials_v1,2026-08-07 23:00,BB Storm,Imperial vs Galorys,map2_moneyline,Galorys,3,Sharp,2.53,1,lost,-1.0,20.555,-1.12,specials_hourly,specials_hourly,selected,2026-08-07 05:07
+map2_specials_v1,2026-08-08 09:00,Esports World Cup Last Chance Qualifier,Echo vs OG,map2_moneyline,Echo,3,Sharp,1.84,1,lost,-1.0,19.555,0.54,specials_hourly,specials_hourly,selected,2026-08-08 04:06
+map2_specials_v1,2026-08-08 09:00,Esports World Cup Last Chance Qualifier,Liquid vs Metizport,map2_moneyline,Metizport,3,Sharp,2.97,1,lost,-1.0,18.555,2.79,specials_hourly,specials_hourly,selected,2026-08-08 04:06
+map2_specials_v1,2026-08-08 10:00,,Black Phoenix vs CYBERSHOKE,map2_moneyline,Black Phoenix,3,Sharp,2.3,1,lost,-1.0,17.555,0.0,specials_hourly,specials_hourly,selected,2026-08-08 07:13
+map2_specials_v1,2026-08-08 13:00,CCT Europe Series 6,Black Phoenix vs CYBERSHOKE,map2_moneyline,Black Phoenix,3,Sharp,2.3,1,lost,-1.0,16.555,0.0,specials_hourly,specials_hourly,selected,2026-08-08 07:13
+map2_specials_v1,2026-08-08 15:00,BB Storm,Procyon vs ODDIK Academy,map2_moneyline,ODDIK Academy,3,Sharp,2.09,1,lost,-1.0,15.555,-1.21,specials_hourly,specials_hourly,selected,2026-08-07 22:05
