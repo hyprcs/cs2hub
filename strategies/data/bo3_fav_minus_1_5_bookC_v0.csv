@@ -1,7 +1,4 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_bookC_v0,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,-1.5 maps,Nuclear TigeRES,3,SoftBook C,2.1,1,won,1.1,1.1,2.42,bookC_self,,selected,2026-08-03 09:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-04 08:00,,G2 Ares vs Johnny Speeds,-1.5 maps,Johnny Speeds,3,SoftBook C,2.9,1,won,1.9,3.0,-1.95,bookC_self,,selected,2026-08-03 23:05
-bo3_fav_minus_1_5_bookC_v0,2026-08-04 10:00,,Finishers vs Mindfreak,-1.5 maps,Mindfreak,3,SoftBook C,1.57,1,lost,-1.0,,4.58,bookC_self,,ineligible,2026-08-04 06:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-04 21:00,,ODDIK vs RED Canids Academy,-1.5 maps,ODDIK,3,SoftBook C,2.1,1,won,1.1,,2.3,bookC_self,,ineligible,2026-08-03 22:05
 bo3_fav_minus_1_5_bookC_v0,2026-08-05 08:00,,ARCRED vs Just Players,-1.5 maps,ARCRED,3,SoftBook C,3.2,1,lost,-1.0,,3.04,bookC_self,,ineligible,2026-08-05 03:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-05 11:00,,Butterfly vs ex-RUSTEC,-1.5 maps,Butterfly,3,SoftBook C,2.9,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-05 00:06
@@ -11,13 +8,15 @@ bo3_fav_minus_1_5_bookC_v0,2026-08-06 10:00,,Time Waves vs Arcade,-1.5 maps,Arca
 bo3_fav_minus_1_5_bookC_v0,2026-08-06 18:30,,QUINTESSÊNCIA vs Grêmio,-1.5 maps,Grêmio,3,SoftBook C,2.77,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-06 12:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-07 10:00,,FURY vs Mindfreak,-1.5 maps,Mindfreak,3,SoftBook C,2.95,1,won,1.95,,1.07,bookC_self,,ineligible,2026-08-06 11:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-07 16:00,,Virtus.pro vs Sangal,-1.5 maps,Virtus.pro,3,SoftBook C,2.4,1,won,1.4,,0.88,bookC_self,,quarantined,2026-08-06 17:05
-bo3_fav_minus_1_5_bookC_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,SoftBook C,1.95,1,lost,-1.0,2.0,0.0,bookC_self,,selected,2026-08-07 03:08
+bo3_fav_minus_1_5_bookC_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,SoftBook C,1.95,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-08-07 03:08
 bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,Echo vs OG,-1.5 maps,Echo,3,SoftBook C,2.9,1,lost,-1.0,,-1.95,bookC_self,,quarantined,2026-08-08 00:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,Acend vs NRG,-1.5 maps,NRG,3,SoftBook C,2.69,1,lost,-1.0,,0.68,bookC_self,,quarantined,2026-08-08 00:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,JiJieHao vs Virtus.pro,-1.5 maps,Virtus.pro,3,SoftBook C,2.5,1,won,1.5,3.5,0.0,bookC_self,,selected,2026-08-08 00:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,EYEBALLERS vs Phantom,-1.5 maps,EYEBALLERS,3,SoftBook C,3.1,1,lost,-1.0,2.5,1.95,bookC_self,,selected,2026-08-08 07:13
-bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Virtus.pro vs Sashi,-1.5 maps,Virtus.pro,3,SoftBook C,3.2,1,lost,-1.0,1.5,-1.07,bookC_self,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,JiJieHao vs Virtus.pro,-1.5 maps,Virtus.pro,3,SoftBook C,2.5,1,won,1.5,0.5,0.0,bookC_self,,selected,2026-08-08 00:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,EYEBALLERS vs Phantom,-1.5 maps,EYEBALLERS,3,SoftBook C,3.1,1,lost,-1.0,-0.5,1.95,bookC_self,,selected,2026-08-08 07:13
+bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Virtus.pro vs Sashi,-1.5 maps,Virtus.pro,3,SoftBook C,3.2,1,lost,-1.0,-1.5,-1.07,bookC_self,,selected,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Inner Circle vs Iberian Soul,-1.5 maps,Inner Circle,3,SoftBook C,2.35,1,lost,-1.0,,0.0,bookC_self,,quarantined,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,K27 vs SAW,-1.5 maps,K27,3,SoftBook C,2.1,1,lost,-1.0,,0.0,bookC_self,,quarantined,2026-08-08 23:07
-bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,NRG vs Phantom,-1.5 maps,NRG,3,SoftBook C,2.64,1,lost,-1.0,0.5,1.22,bookC_self,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,NRG vs Phantom,-1.5 maps,NRG,3,SoftBook C,2.64,1,lost,-1.0,-2.5,1.22,bookC_self,,selected,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 10:30,,INOX Division vs INFURITY,-1.5 maps,INOX Division,3,SoftBook C,1.68,1,won,0.68,,0.0,bookC_self,,ineligible,2026-08-09 07:14
+bo3_fav_minus_1_5_bookC_v0,2026-08-10 23:45,,paiN Academy vs QUINTESSÊNCIA,-1.5 maps,paiN Academy,3,SoftBook C,2.92,1,won,1.92,-0.58,2.31,bookC_self,,selected,2026-08-10 16:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-11 10:00,,Abyssal vs Ground Zero,-1.5 maps,Ground Zero,3,SoftBook C,2.02,1,lost,-1.0,,7.02,bookC_self,,ineligible,2026-08-10 15:06
