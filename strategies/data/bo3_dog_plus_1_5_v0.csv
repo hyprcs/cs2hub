@@ -1,20 +1,19 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_dog_plus_1_5_v0,2026-08-04 23:00,,BESTIA vs METANOIA Wolves,+1.5 maps,METANOIA Wolves,3,Sharp,3.42,1,lost,-1.0,,,,,ineligible,2026-08-04 22:05
-bo3_dog_plus_1_5_v0,2026-08-05 08:00,,CYBERSHOKE Prospects vs Nuclear TigeRES,+1.5 maps,CYBERSHOKE Prospects,3,Sharp,1.694,1,lost,-1.0,-1.0,0.18,Sharp,,selected,2026-08-05 04:06
-bo3_dog_plus_1_5_v0,2026-08-05 20:00,,Imperial vs ALKA,+1.5 maps,ALKA,3,Sharp,2.49,1,won,1.49,0.49,-3.73,Sharp,,selected,2026-08-05 15:07
+bo3_dog_plus_1_5_v0,2026-08-05 20:00,,Imperial vs ALKA,+1.5 maps,ALKA,3,Sharp,2.49,1,won,1.49,1.49,-3.73,Sharp,,selected,2026-08-05 15:07
 bo3_dog_plus_1_5_v0,2026-08-05 23:00,,BESTIA vs Grêmio,+1.5 maps,Grêmio,3,Sharp,2.79,1,lost,-1.0,,-1.79,Sharp,,ineligible,2026-08-05 04:06
 bo3_dog_plus_1_5_v0,2026-08-06 14:00,,paiN Academy vs MEIA NOITE,+1.5 maps,paiN Academy,3,Sharp,1.649,1,won,0.649,,8.37,Sharp,,quarantined,2026-08-05 23:05
 bo3_dog_plus_1_5_v0,2026-08-06 23:00,,Galorys vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,Sharp,2.0,1,lost,-1.0,,3.23,Sharp,,ineligible,2026-08-06 07:06
 bo3_dog_plus_1_5_v0,2026-08-07 09:00,,SAW vs EAC,+1.5 maps,EAC,3,Sharp,1.581,1,lost,-1.0,,4.28,Sharp,,quarantined,2026-08-06 23:06
-bo3_dog_plus_1_5_v0,2026-08-07 11:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,Sharp,1.339,1,lost,-1.0,-0.51,0.0,Sharp,,selected,2026-08-07 07:10
-bo3_dog_plus_1_5_v0,2026-08-07 23:00,,Imperial vs Galorys,+1.5 maps,Galorys,3,Sharp,1.704,1,won,0.704,0.194,-4.76,Sharp,,selected,2026-08-07 09:11
-bo3_dog_plus_1_5_v0,2026-08-08 08:00,,Fire Flux vs Phantom Academy,+1.5 maps,Phantom Academy,3,Sharp,1.369,1,won,0.369,0.563,,,,selected,2026-08-08 07:13
+bo3_dog_plus_1_5_v0,2026-08-07 11:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,Sharp,1.339,1,lost,-1.0,0.49,0.0,Sharp,,selected,2026-08-07 07:10
+bo3_dog_plus_1_5_v0,2026-08-07 23:00,,Imperial vs Galorys,+1.5 maps,Galorys,3,Sharp,1.704,1,won,0.704,1.194,-4.76,Sharp,,selected,2026-08-07 09:11
+bo3_dog_plus_1_5_v0,2026-08-08 08:00,,Fire Flux vs Phantom Academy,+1.5 maps,Phantom Academy,3,Sharp,1.369,1,won,0.369,1.563,,,,selected,2026-08-08 07:13
 bo3_dog_plus_1_5_v0,2026-08-08 09:00,,Echo vs OG,+1.5 maps,Echo,3,Sharp,1.305,1,won,0.305,,,,,quarantined,2026-08-08 04:06
 bo3_dog_plus_1_5_v0,2026-08-08 10:00,,Black Phoenix vs CYBERSHOKE,+1.5 maps,Black Phoenix,3,Sharp,1.532,1,won,0.532,,0.0,Sharp,,ineligible,2026-08-08 07:13
-bo3_dog_plus_1_5_v0,2026-08-08 20:00,,ALKA vs paiN Academy,+1.5 maps,paiN Academy,3,Sharp,1.599,1,lost,-1.0,-0.437,0.08,Sharp,,selected,2026-08-08 00:06
-bo3_dog_plus_1_5_v0,2026-08-09 09:00,,HEROIC vs ASTRAL,+1.5 maps,ASTRAL,3,Sharp,2.54,1,lost,-1.0,-1.437,5.39,Sharp,,selected,2026-08-08 23:07
-bo3_dog_plus_1_5_v0,2026-08-09 09:00,,BC.Game vs OG,+1.5 maps,OG,3,Sharp,1.633,1,lost,-1.0,-2.437,-4.37,Sharp,,selected,2026-08-08 23:07
-bo3_dog_plus_1_5_v0,2026-08-09 14:00,,ALKA vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,Sharp,1.37,1,lost,-1.0,-3.437,-1.89,Sharp,,selected,2026-08-09 04:07
-bo3_dog_plus_1_5_v0,2026-08-09 17:00,,Grêmio vs Procyon,+1.5 maps,Grêmio,3,Sharp,1.315,1,won,0.315,-3.122,-1.64,Sharp,,selected,2026-08-09 04:07
-bo3_dog_plus_1_5_v0,2026-08-09 23:00,,Galorys vs Keyd Stars,+1.5 maps,Keyd Stars,3,Sharp,1.383,1,lost,-1.0,-4.122,1.79,Sharp,,selected,2026-08-09 04:07
+bo3_dog_plus_1_5_v0,2026-08-08 20:00,,ALKA vs paiN Academy,+1.5 maps,paiN Academy,3,Sharp,1.599,1,lost,-1.0,0.563,0.08,Sharp,,selected,2026-08-08 00:06
+bo3_dog_plus_1_5_v0,2026-08-09 09:00,,HEROIC vs ASTRAL,+1.5 maps,ASTRAL,3,Sharp,2.54,1,lost,-1.0,-0.437,5.39,Sharp,,selected,2026-08-08 23:07
+bo3_dog_plus_1_5_v0,2026-08-09 09:00,,BC.Game vs OG,+1.5 maps,OG,3,Sharp,1.633,1,lost,-1.0,-1.437,-4.37,Sharp,,selected,2026-08-08 23:07
+bo3_dog_plus_1_5_v0,2026-08-09 14:00,,ALKA vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,Sharp,1.37,1,lost,-1.0,-2.437,-1.89,Sharp,,selected,2026-08-09 04:07
+bo3_dog_plus_1_5_v0,2026-08-09 17:00,,Grêmio vs Procyon,+1.5 maps,Grêmio,3,Sharp,1.315,1,won,0.315,-2.122,-1.64,Sharp,,selected,2026-08-09 04:07
+bo3_dog_plus_1_5_v0,2026-08-09 23:00,,Galorys vs Keyd Stars,+1.5 maps,Keyd Stars,3,Sharp,1.383,1,lost,-1.0,-3.122,1.79,Sharp,,selected,2026-08-09 04:07
 bo3_dog_plus_1_5_v0,2026-08-10 21:00,,Back to Back vs DAMAJUANA,+1.5 maps,DAMAJUANA,3,Sharp,2.92,1,lost,-1.0,,-0.3,Sharp,,ineligible,2026-08-10 16:06
+bo3_dog_plus_1_5_v0,2026-08-11 23:45,,METANOIA Wolves vs Red Feet,+1.5 maps,Red Feet,3,Sharp,1.521,1,lost,-1.0,,-1.79,Sharp,,quarantined,2026-08-11 12:06

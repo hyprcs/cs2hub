@@ -1,8 +1,4 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_bookC_v0,2026-08-04 21:00,,ODDIK vs RED Canids Academy,-1.5 maps,ODDIK,3,SoftBook C,2.1,1,won,1.1,,2.3,bookC_self,,ineligible,2026-08-03 22:05
-bo3_fav_minus_1_5_bookC_v0,2026-08-05 08:00,,ARCRED vs Just Players,-1.5 maps,ARCRED,3,SoftBook C,3.2,1,lost,-1.0,,3.04,bookC_self,,ineligible,2026-08-05 03:07
-bo3_fav_minus_1_5_bookC_v0,2026-08-05 11:00,,Butterfly vs ex-RUSTEC,-1.5 maps,Butterfly,3,SoftBook C,2.9,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-05 00:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-05 14:00,,Nordic Partners vs GenOne,-1.5 maps,GenOne,3,SoftBook C,2.4,1,won,1.4,,,,,quarantined,2026-08-05 03:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-05 18:30,,QUINTESSÊNCIA vs ODDIK,-1.5 maps,ODDIK,3,SoftBook C,1.65,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-05 15:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-06 10:00,,Time Waves vs Arcade,-1.5 maps,Arcade,3,SoftBook C,1.89,1,lost,-1.0,,-0.28,bookC_self,,quarantined,2026-08-05 22:05
 bo3_fav_minus_1_5_bookC_v0,2026-08-06 18:30,,QUINTESSÊNCIA vs Grêmio,-1.5 maps,Grêmio,3,SoftBook C,2.77,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-06 12:07
