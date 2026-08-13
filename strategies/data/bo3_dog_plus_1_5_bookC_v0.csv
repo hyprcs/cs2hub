@@ -1,18 +1,17 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_dog_plus_1_5_bookC_v0,2026-08-06 10:00,,Ground Zero vs Abyssal,+1.5 maps,Abyssal,3,SoftBook C,1.66,1,lost,-1.0,-1.0,-2.31,bookC_self,,selected,2026-08-05 22:05
-bo3_dog_plus_1_5_bookC_v0,2026-08-06 12:00,,1win vs Butterfly,+1.5 maps,Butterfly,3,SoftBook C,1.48,1,won,0.48,,-3.27,bookC_self,,ineligible,2026-08-06 00:05
-bo3_dog_plus_1_5_bookC_v0,2026-08-06 14:00,,paiN Academy vs MEIA NOITE,+1.5 maps,paiN Academy,3,SoftBook C,1.58,1,won,0.58,,0.0,bookC_self,,quarantined,2026-08-05 15:07
 bo3_dog_plus_1_5_bookC_v0,2026-08-07 09:00,,BC.Game vs BASEMENT BOYS,+1.5 maps,BASEMENT BOYS,3,SoftBook C,3.1,1,won,2.1,,5.06,bookC_self,,quarantined,2026-08-06 10:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-07 10:00,,Abyssal vs Arcade,+1.5 maps,Arcade,3,SoftBook C,1.44,1,lost,-1.0,,0.0,bookC_self,,quarantined,2026-08-07 05:08
-bo3_dog_plus_1_5_bookC_v0,2026-08-07 17:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,SoftBook C,1.28,1,lost,-1.0,-2.0,,,,selected,2026-08-07 12:08
-bo3_dog_plus_1_5_bookC_v0,2026-08-08 09:00,,Sashi vs FOKUS,+1.5 maps,Sashi,3,SoftBook C,1.32,1,lost,-1.0,-3.0,0.0,bookC_self,,selected,2026-08-08 00:06
+bo3_dog_plus_1_5_bookC_v0,2026-08-07 17:00,,GenOne vs CYBERSHOKE,+1.5 maps,GenOne,3,SoftBook C,1.28,1,lost,-1.0,-1.0,,,,selected,2026-08-07 12:08
+bo3_dog_plus_1_5_bookC_v0,2026-08-08 09:00,,Sashi vs FOKUS,+1.5 maps,Sashi,3,SoftBook C,1.32,1,lost,-1.0,-2.0,0.0,bookC_self,,selected,2026-08-08 00:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-08 15:00,,BASEMENT BOYS vs 1win,+1.5 maps,BASEMENT BOYS,3,SoftBook C,1.55,1,lost,-1.0,,-8.47,bookC_self,,ineligible,2026-08-07 16:07
 bo3_dog_plus_1_5_bookC_v0,2026-08-09 09:00,,INFINITE vs 100 Thieves,+1.5 maps,INFINITE,3,SoftBook C,1.92,1,lost,-1.0,,6.12,bookC_self,,quarantined,2026-08-08 23:07
-bo3_dog_plus_1_5_bookC_v0,2026-08-09 09:00,,FOKUS vs Acend,+1.5 maps,Acend,3,SoftBook C,1.56,1,won,0.56,-2.44,0.1,bookC_self,,selected,2026-08-08 23:07
-bo3_dog_plus_1_5_bookC_v0,2026-08-09 21:00,,METANOIA Wolves vs MEIA NOITE,+1.5 maps,METANOIA Wolves,3,SoftBook C,1.58,1,lost,-1.0,-3.44,0.01,bookC_self,,selected,2026-08-09 06:08
+bo3_dog_plus_1_5_bookC_v0,2026-08-09 09:00,,FOKUS vs Acend,+1.5 maps,Acend,3,SoftBook C,1.56,1,won,0.56,-1.44,0.1,bookC_self,,selected,2026-08-08 23:07
+bo3_dog_plus_1_5_bookC_v0,2026-08-09 21:00,,METANOIA Wolves vs MEIA NOITE,+1.5 maps,METANOIA Wolves,3,SoftBook C,1.58,1,lost,-1.0,-2.44,0.01,bookC_self,,selected,2026-08-09 06:08
 bo3_dog_plus_1_5_bookC_v0,2026-08-10 17:00,,BORRACHEIROS vs MEIA NOITE,+1.5 maps,BORRACHEIROS,3,SoftBook C,1.36,1,won,0.36,,-0.97,bookC_self,,quarantined,2026-08-10 06:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-10 21:00,,ODDIK Academy vs Patins da Ferrari,+1.5 maps,ODDIK Academy,3,SoftBook C,2.53,1,lost,-1.0,,-0.39,bookC_self,,ineligible,2026-08-10 16:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-11 10:00,,Rooster vs Mindfreak,+1.5 maps,Mindfreak,3,SoftBook C,1.64,1,won,0.64,,0.45,bookC_self,,quarantined,2026-08-10 15:06
-bo3_dog_plus_1_5_bookC_v0,2026-08-11 10:00,,Abyssal vs Ground Zero,+1.5 maps,Abyssal,3,SoftBook C,2.03,1,won,1.03,-2.41,2.6,bookC_self,,selected,2026-08-11 06:06
-bo3_dog_plus_1_5_bookC_v0,2026-08-12 10:00,,Ground Zero vs Mindfreak,+1.5 maps,Mindfreak,3,SoftBook C,2.0,1,lost,-1.0,-3.41,-6.5,bookC_self,,selected,2026-08-11 14:06
+bo3_dog_plus_1_5_bookC_v0,2026-08-11 10:00,,Abyssal vs Ground Zero,+1.5 maps,Abyssal,3,SoftBook C,2.03,1,won,1.03,-1.41,2.6,bookC_self,,selected,2026-08-11 06:06
+bo3_dog_plus_1_5_bookC_v0,2026-08-12 10:00,,Ground Zero vs Mindfreak,+1.5 maps,Mindfreak,3,SoftBook C,2.0,1,lost,-1.0,-2.41,-6.5,bookC_self,,selected,2026-08-11 14:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-12 11:10,,ex-RUSTEC vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,SoftBook C,1.73,1,won,0.73,,,,,ineligible,2026-08-12 11:07
+bo3_dog_plus_1_5_bookC_v0,2026-08-13 14:00,,Bushido Wildcats vs ex-RUSTEC,+1.5 maps,Bushido Wildcats,3,SoftBook C,1.45,1,won,0.45,,-2.93,bookC_self,,ineligible,2026-08-12 16:06
+bo3_dog_plus_1_5_bookC_v0,2026-08-13 17:00,,FaZe vs Legacy,+1.5 maps,Legacy,3,SoftBook C,1.32,1,lost,-1.0,-3.41,0.0,bookC_self,,selected,2026-08-12 18:06

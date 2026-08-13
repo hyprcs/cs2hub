@@ -1,14 +1,16 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
-bo3_fav_minus_1_5_v0,2026-08-06 17:00,,Yawara vs Isurus,-1.5 maps,Isurus,3,Sharp,2.86,1,lost,-1.0,-1.0,-2.04,Sharp,,selected,2026-08-06 07:06
-bo3_fav_minus_1_5_v0,2026-08-06 20:00,,METANOIA Wolves vs Procyon,-1.5 maps,Procyon,3,Sharp,2.86,1,lost,-1.0,,,,,ineligible,2026-08-06 10:06
 bo3_fav_minus_1_5_v0,2026-08-07 16:00,,Virtus.pro vs Sangal,-1.5 maps,Virtus.pro,3,Sharp,2.22,1,won,1.22,,-0.23,Sharp,,quarantined,2026-08-06 23:06
 bo3_fav_minus_1_5_v0,2026-08-07 16:00,,Prestige vs Metizport,-1.5 maps,Metizport,3,Sharp,1.794,1,won,0.794,,1.04,Sharp,,ineligible,2026-08-07 12:08
-bo3_fav_minus_1_5_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,Sharp,1.893,1,lost,-1.0,-2.0,-0.75,Sharp,,selected,2026-08-07 11:06
+bo3_fav_minus_1_5_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,Sharp,1.893,1,lost,-1.0,-1.0,-0.75,Sharp,,selected,2026-08-07 11:06
 bo3_fav_minus_1_5_v0,2026-08-08 10:30,,Phantom Academy vs VP.Prodigy,-1.5 maps,Phantom Academy,3,Sharp,3.03,1,won,2.03,,0.0,Sharp,,quarantined,2026-08-08 07:13
-bo3_fav_minus_1_5_v0,2026-08-08 15:00,,Procyon vs ODDIK Academy,-1.5 maps,Procyon,3,Sharp,3.01,1,won,2.01,0.01,2.14,Sharp,,selected,2026-08-07 22:06
-bo3_fav_minus_1_5_v0,2026-08-09 09:00,,Echo vs GenOne,-1.5 maps,Echo,3,Sharp,2.88,1,lost,-1.0,-0.99,1.2,Sharp,,selected,2026-08-08 23:07
-bo3_fav_minus_1_5_v0,2026-08-09 09:00,,Eternal Fire vs BIG,-1.5 maps,BIG,3,Sharp,2.13,1,won,1.13,0.14,-0.93,Sharp,,selected,2026-08-08 23:07
-bo3_fav_minus_1_5_v0,2026-08-09 09:00,,9INE vs HOTU,-1.5 maps,HOTU,3,Sharp,2.4,1,won,1.4,1.54,-1.19,Sharp,,selected,2026-08-08 23:07
-bo3_fav_minus_1_5_v0,2026-08-09 09:00,,1win vs Liquid,-1.5 maps,Liquid,3,Sharp,2.36,1,lost,-1.0,0.54,-0.32,Sharp,,selected,2026-08-08 23:07
-bo3_fav_minus_1_5_v0,2026-08-10 20:00,,paiN Academy vs Keyd Stars,-1.5 maps,Keyd Stars,3,Sharp,2.08,1,lost,-1.0,-0.46,4.18,Sharp,,selected,2026-08-10 04:07
-bo3_fav_minus_1_5_v0,2026-08-11 23:45,,MEIA NOITE vs ALKA,-1.5 maps,ALKA,3,Sharp,2.59,1,won,1.59,1.13,1.97,Sharp,,selected,2026-08-11 12:06
+bo3_fav_minus_1_5_v0,2026-08-08 15:00,,Procyon vs ODDIK Academy,-1.5 maps,Procyon,3,Sharp,3.01,1,won,2.01,1.01,2.14,Sharp,,selected,2026-08-07 22:06
+bo3_fav_minus_1_5_v0,2026-08-09 09:00,,Echo vs GenOne,-1.5 maps,Echo,3,Sharp,2.88,1,lost,-1.0,0.01,1.2,Sharp,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_v0,2026-08-09 09:00,,Eternal Fire vs BIG,-1.5 maps,BIG,3,Sharp,2.13,1,won,1.13,1.14,-0.93,Sharp,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_v0,2026-08-09 09:00,,9INE vs HOTU,-1.5 maps,HOTU,3,Sharp,2.4,1,won,1.4,2.54,-1.19,Sharp,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_v0,2026-08-09 09:00,,1win vs Liquid,-1.5 maps,Liquid,3,Sharp,2.36,1,lost,-1.0,1.54,-0.32,Sharp,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_v0,2026-08-10 20:00,,paiN Academy vs Keyd Stars,-1.5 maps,Keyd Stars,3,Sharp,2.08,1,lost,-1.0,0.54,4.18,Sharp,,selected,2026-08-10 04:07
+bo3_fav_minus_1_5_v0,2026-08-11 23:45,,MEIA NOITE vs ALKA,-1.5 maps,ALKA,3,Sharp,2.59,1,won,1.59,2.13,1.97,Sharp,,selected,2026-08-11 12:06
+bo3_fav_minus_1_5_v0,2026-08-13 08:00,,Just Players vs MOUZ NXT,-1.5 maps,Just Players,3,Sharp,2.01,1,lost,-1.0,1.13,,,,selected,2026-08-13 07:07
+bo3_fav_minus_1_5_v0,2026-08-13 14:00,,Spirit vs Luminosity,-1.5 maps,Spirit,3,Sharp,1.575,1,won,0.575,,1.87,Sharp,,ineligible,2026-08-12 22:06
+bo3_fav_minus_1_5_v0,2026-08-13 14:00,,M80 vs Aurora,-1.5 maps,Aurora,3,Sharp,2.02,1,won,1.02,2.15,-3.65,Sharp,,selected,2026-08-12 22:06
+bo3_fav_minus_1_5_v0,2026-08-13 17:00,,Falcons vs Astralis,-1.5 maps,Falcons,3,Sharp,1.8,1,won,0.8,2.95,-1.68,Sharp,,selected,2026-08-12 22:06
