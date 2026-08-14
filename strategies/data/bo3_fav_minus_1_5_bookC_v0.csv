@@ -1,18 +1,53 @@
 strategy,match_time_utc,event,match,market,pick,best_of,book,odds,stake,result,pl,cum_pl,clv_pp,clv_ref,close_quality,status,flagged_at_utc
+bo3_fav_minus_1_5_bookC_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,SoftBook C,2.39,1,won,1.39,1.39,1.01,bookC_self,,selected,2026-07-28 01:06
+bo3_fav_minus_1_5_bookC_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,SoftBook C,2.95,1,won,1.95,,-0.45,bookC_self,,ineligible,2026-07-28 01:06
+bo3_fav_minus_1_5_bookC_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,2.8,1,won,1.8,,6.76,bookC_self,,quarantined,2026-07-28 01:06
+bo3_fav_minus_1_5_bookC_v0,2026-07-29 14:00,,ex-RUBY vs GenOne,-1.5 maps,ex-RUBY,3,SoftBook C,2.8,1,lost,-1.0,0.39,0.0,bookC_self,,selected,2026-07-29 00:05
+bo3_fav_minus_1_5_bookC_v0,2026-07-30 08:00,,SPARTA vs Just Players,-1.5 maps,SPARTA,3,SoftBook C,2.9,1,lost,-1.0,-0.61,0.0,bookC_self,,selected,2026-07-29 21:06
+bo3_fav_minus_1_5_bookC_v0,2026-07-30 14:00,,Phantom vs Lavked,-1.5 maps,Phantom,3,SoftBook C,2.18,1,won,1.18,0.57,0.4,bookC_self,,selected,2026-07-29 21:06
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 08:00,,INFINITE vs SPARTA,-1.5 maps,INFINITE,3,SoftBook C,2.9,1,lost,-1.0,-0.43,0.0,bookC_self,,selected,2026-07-31 00:07
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 08:00,,ex-RUBY vs Lavked,-1.5 maps,ex-RUBY,3,SoftBook C,2.03,1,won,1.03,,-2.76,bookC_self,,ineligible,2026-07-31 04:07
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 14:00,,K27 vs Just Players,-1.5 maps,K27,3,SoftBook C,2.1,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-07-30 15:07
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 17:00,,JiJieHao vs Black Phoenix,-1.5 maps,JiJieHao,3,SoftBook C,2.31,1,lost,-1.0,,-0.4,bookC_self,,quarantined,2026-07-31 04:07
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 17:00,,GenOne vs Enjoy,-1.5 maps,GenOne,3,SoftBook C,2.49,1,won,1.49,,5.45,bookC_self,,quarantined,2026-07-31 04:07
+bo3_fav_minus_1_5_bookC_v0,2026-07-31 22:00,,SportsBetExpert vs LAG,-1.5 maps,SportsBetExpert,3,SoftBook C,2.9,1,lost,-1.0,-1.43,3.1,bookC_self,,selected,2026-07-31 03:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-01 11:00,,ex-RUSTEC vs SPARTA,-1.5 maps,SPARTA,3,SoftBook C,2.7,1,won,1.7,,0.0,bookC_self,,ineligible,2026-08-01 07:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-01 13:30,,Astralis vs MOUZ,-1.5 maps,MOUZ,3,SoftBook C,2.1,1,lost,-1.0,-2.43,0.0,bookC_self,,selected,2026-07-31 23:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-01 14:00,,Sashi vs Just Players,-1.5 maps,Sashi,3,SoftBook C,2.9,1,lost,-1.0,,2.6,bookC_self,,ineligible,2026-08-01 00:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-02 00:30,,SportsBetExpert vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,3.2,1,lost,-1.0,,1.09,bookC_self,,ineligible,2026-08-01 17:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-02 10:00,,Acend vs 6666,-1.5 maps,Acend,3,SoftBook C,1.69,1,won,0.69,-1.74,-0.71,bookC_self,,selected,2026-08-01 11:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-02 10:00,,Sashi vs Black Phoenix,-1.5 maps,Sashi,3,SoftBook C,2.22,1,lost,-1.0,,0.8,bookC_self,,ineligible,2026-08-02 06:05
+bo3_fav_minus_1_5_bookC_v0,2026-08-02 22:00,,NRG vs SportsBetExpert,-1.5 maps,NRG,3,SoftBook C,2.0,1,won,1.0,,0.0,bookC_self,,ineligible,2026-08-02 04:05
+bo3_fav_minus_1_5_bookC_v0,2026-08-03 10:00,,fnatic vs Lilmix,-1.5 maps,fnatic,3,SoftBook C,1.58,1,won,0.58,-1.16,10.88,bookC_self,,selected,2026-08-02 11:08
+bo3_fav_minus_1_5_bookC_v0,2026-08-03 17:00,,GenOne vs UNiTY,-1.5 maps,GenOne,3,SoftBook C,2.03,1,won,1.03,-0.13,0.76,bookC_self,,selected,2026-08-02 23:05
+bo3_fav_minus_1_5_bookC_v0,2026-08-04 08:00,,Nuclear TigeRES vs Just Players,-1.5 maps,Nuclear TigeRES,3,SoftBook C,2.1,1,won,1.1,0.97,2.42,bookC_self,,selected,2026-08-03 09:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-04 08:00,,G2 Ares vs Johnny Speeds,-1.5 maps,Johnny Speeds,3,SoftBook C,2.9,1,won,1.9,2.87,-1.95,bookC_self,,selected,2026-08-03 23:05
+bo3_fav_minus_1_5_bookC_v0,2026-08-04 10:00,,Finishers vs Mindfreak,-1.5 maps,Mindfreak,3,SoftBook C,1.57,1,lost,-1.0,,4.58,bookC_self,,ineligible,2026-08-04 06:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-05 08:00,,ARCRED vs Just Players,-1.5 maps,ARCRED,3,SoftBook C,3.2,1,lost,-1.0,,3.04,bookC_self,,ineligible,2026-08-05 03:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-05 11:00,,Butterfly vs ex-RUSTEC,-1.5 maps,Butterfly,3,SoftBook C,2.9,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-08-05 00:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-05 14:00,,Nordic Partners vs GenOne,-1.5 maps,GenOne,3,SoftBook C,2.4,1,won,1.4,,,,,quarantined,2026-08-05 03:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-06 10:00,,Time Waves vs Arcade,-1.5 maps,Arcade,3,SoftBook C,1.89,1,lost,-1.0,,-0.28,bookC_self,,quarantined,2026-08-05 22:05
 bo3_fav_minus_1_5_bookC_v0,2026-08-07 10:00,,FURY vs Mindfreak,-1.5 maps,Mindfreak,3,SoftBook C,2.95,1,won,1.95,,1.07,bookC_self,,ineligible,2026-08-06 11:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-07 16:00,,Virtus.pro vs Sangal,-1.5 maps,Virtus.pro,3,SoftBook C,2.4,1,won,1.4,,0.88,bookC_self,,quarantined,2026-08-06 17:05
-bo3_fav_minus_1_5_bookC_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,SoftBook C,1.95,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-08-07 03:08
+bo3_fav_minus_1_5_bookC_v0,2026-08-07 20:00,,BESTIA vs Yawara,-1.5 maps,BESTIA,3,SoftBook C,1.95,1,lost,-1.0,1.87,0.0,bookC_self,,selected,2026-08-07 03:08
 bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,Echo vs OG,-1.5 maps,Echo,3,SoftBook C,2.9,1,lost,-1.0,,-1.95,bookC_self,,quarantined,2026-08-08 00:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,Acend vs NRG,-1.5 maps,NRG,3,SoftBook C,2.69,1,lost,-1.0,,0.68,bookC_self,,quarantined,2026-08-08 00:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,JiJieHao vs Virtus.pro,-1.5 maps,Virtus.pro,3,SoftBook C,2.5,1,won,1.5,0.5,0.0,bookC_self,,selected,2026-08-08 00:06
-bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,EYEBALLERS vs Phantom,-1.5 maps,EYEBALLERS,3,SoftBook C,3.1,1,lost,-1.0,-0.5,1.95,bookC_self,,selected,2026-08-08 07:13
-bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Virtus.pro vs Sashi,-1.5 maps,Virtus.pro,3,SoftBook C,3.2,1,lost,-1.0,-1.5,-1.07,bookC_self,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,JiJieHao vs Virtus.pro,-1.5 maps,Virtus.pro,3,SoftBook C,2.5,1,won,1.5,3.37,0.0,bookC_self,,selected,2026-08-08 00:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-08 09:00,,EYEBALLERS vs Phantom,-1.5 maps,EYEBALLERS,3,SoftBook C,3.1,1,lost,-1.0,2.37,1.95,bookC_self,,selected,2026-08-08 07:13
+bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Virtus.pro vs Sashi,-1.5 maps,Virtus.pro,3,SoftBook C,3.2,1,lost,-1.0,1.37,-1.07,bookC_self,,selected,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,Inner Circle vs Iberian Soul,-1.5 maps,Inner Circle,3,SoftBook C,2.35,1,lost,-1.0,,0.0,bookC_self,,quarantined,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,K27 vs SAW,-1.5 maps,K27,3,SoftBook C,2.1,1,lost,-1.0,,0.0,bookC_self,,quarantined,2026-08-08 23:07
-bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,NRG vs Phantom,-1.5 maps,NRG,3,SoftBook C,2.64,1,lost,-1.0,-2.5,1.22,bookC_self,,selected,2026-08-08 23:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-09 09:00,,NRG vs Phantom,-1.5 maps,NRG,3,SoftBook C,2.64,1,lost,-1.0,0.37,1.22,bookC_self,,selected,2026-08-08 23:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-09 10:30,,INOX Division vs INFURITY,-1.5 maps,INOX Division,3,SoftBook C,1.68,1,won,0.68,,0.0,bookC_self,,ineligible,2026-08-09 07:14
-bo3_fav_minus_1_5_bookC_v0,2026-08-10 23:45,,paiN Academy vs QUINTESSÊNCIA,-1.5 maps,paiN Academy,3,SoftBook C,2.92,1,won,1.92,-0.58,2.31,bookC_self,,selected,2026-08-10 16:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-10 23:45,,paiN Academy vs QUINTESSÊNCIA,-1.5 maps,paiN Academy,3,SoftBook C,2.92,1,won,1.92,2.29,2.31,bookC_self,,selected,2026-08-10 16:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-11 10:00,,Abyssal vs Ground Zero,-1.5 maps,Ground Zero,3,SoftBook C,2.02,1,lost,-1.0,,7.02,bookC_self,,ineligible,2026-08-10 15:06
 bo3_fav_minus_1_5_bookC_v0,2026-08-13 11:00,,JiJieHao vs GamerLegion,-1.5 maps,GamerLegion,3,SoftBook C,2.5,1,won,1.5,,0.0,bookC_self,,quarantined,2026-08-12 13:07
-bo3_fav_minus_1_5_bookC_v0,2026-08-13 14:00,,M80 vs Aurora,-1.5 maps,Aurora,3,SoftBook C,2.0,1,won,1.0,0.42,0.0,bookC_self,,selected,2026-08-12 15:07
-bo3_fav_minus_1_5_bookC_v0,2026-08-13 17:00,,Falcons vs Astralis,-1.5 maps,Falcons,3,SoftBook C,1.65,1,won,0.65,1.07,-1.12,bookC_self,,selected,2026-08-12 19:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-13 14:00,,M80 vs Aurora,-1.5 maps,Aurora,3,SoftBook C,2.0,1,won,1.0,3.29,0.0,bookC_self,,selected,2026-08-12 15:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-13 17:00,,Falcons vs Astralis,-1.5 maps,Falcons,3,SoftBook C,1.65,1,won,0.65,3.94,-1.12,bookC_self,,selected,2026-08-12 19:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 08:00,,INOX Division vs VP.Prodigy,-1.5 maps,INOX Division,3,SoftBook C,1.56,1,won,0.56,,0.0,bookC_self,,ineligible,2026-08-14 02:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 11:00,,BetBoom vs Ninjas in Pyjamas,-1.5 maps,BetBoom,3,SoftBook C,2.4,1,lost,-1.0,2.94,0.88,bookC_self,,selected,2026-08-13 12:09
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 11:00,,K27 vs MIBR,-1.5 maps,MIBR,3,SoftBook C,2.9,1,won,1.9,4.84,0.0,bookC_self,,selected,2026-08-13 12:09
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 11:00,,MOUZ NXT vs Enjoy,-1.5 maps,Enjoy,3,SoftBook C,2.93,1,lost,-1.0,3.84,1.47,bookC_self,,selected,2026-08-14 05:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 14:00,,FUT vs MOUZ,-1.5 maps,MOUZ,3,SoftBook C,2.4,1,lost,-1.0,2.84,-1.28,bookC_self,,selected,2026-08-13 15:16
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 17:00,,100 Thieves vs PARIVISION,-1.5 maps,PARIVISION,3,SoftBook C,3.3,1,won,2.3,,0.0,bookC_self,,quarantined,2026-08-13 18:07
+bo3_fav_minus_1_5_bookC_v0,2026-08-14 17:00,,TYLOO vs Lynn Vision,-1.5 maps,TYLOO,3,SoftBook C,2.8,1,lost,-1.0,,3.12,bookC_self,,quarantined,2026-08-13 18:07
