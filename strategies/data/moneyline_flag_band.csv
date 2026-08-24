@@ -281,8 +281,8 @@ moneyline_flag_band,2026-08-16 17:45,,Legacy vs MIBR,moneyline,Legacy,3,Sharp,1.
 moneyline_flag_band,2026-08-16 21:00,,paiN Academy vs QUINTESSÊNCIA,moneyline,paiN Academy,3,Sharp,1.714,1,lost,-1.0,-16.699,4.15,Sharp,close,no_bet,2026-08-16 20:07
 moneyline_flag_band,2026-08-17 12:25,,Noir Verse vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,1.83,1,won,0.83,-15.869,0.0,SoftBook A,hourly,no_bet,2026-08-17 11:09
 moneyline_flag_band,2026-08-17 13:45,,LPH vs SAW Youngsters,moneyline,LPH,3,Sharp,1.943,1,won,0.943,-14.926,-0.76,Sharp,close,no_bet,2026-08-17 13:08
-moneyline_flag_band,2026-08-17 15:20,,Bushido Wildcats vs Inner Circle Academy,moneyline,Bushido Wildcats,3,Sharp,1.402,1,won,0.402,-14.524,-1.7,Sharp,hourly,eligible,2026-08-17 14:08
-moneyline_flag_band,2026-08-17 17:55,,Enjoy vs HAVU,moneyline,HAVU,3,Sharp,2.2,1,won,1.2,-13.324,-0.67,Sharp,hourly,eligible,2026-08-17 14:08
+moneyline_flag_band,2026-08-17 15:25,,Bushido Wildcats vs Inner Circle Academy,moneyline,Bushido Wildcats,3,Sharp,1.402,1,won,0.402,-14.524,-1.7,Sharp,hourly,eligible,2026-08-17 14:08
+moneyline_flag_band,2026-08-17 18:00,,Enjoy vs HAVU,moneyline,HAVU,3,Sharp,2.2,1,won,1.2,-13.324,-0.67,Sharp,hourly,eligible,2026-08-17 14:08
 moneyline_flag_band,2026-08-18 08:00,,PCIFIC vs Just Players,moneyline,PCIFIC,3,Sharp,2.5,1,lost,-1.0,-14.324,-7.95,Sharp,close,no_bet,2026-08-17 22:08
 moneyline_flag_band,2026-08-18 11:00,,ex-Zero Tenacity vs ex-RUSTEC,moneyline,ex-RUSTEC,3,Sharp,1.833,1,lost,-1.0,-15.324,-2.93,Sharp,close,eligible,2026-08-18 08:09
 moneyline_flag_band,2026-08-18 13:00,,SPARTA vs MOUZ NXT,moneyline,SPARTA,3,Sharp,1.274,1,won,0.274,-15.05,1.59,Sharp,close,eligible,2026-08-18 11:09
@@ -323,3 +323,7 @@ moneyline_flag_band,2026-08-23 08:00,,G2 Ares vs HyperSpirit,moneyline,HyperSpir
 moneyline_flag_band,2026-08-23 08:00,,FURIA vs Legacy,moneyline,Legacy,3,Sharp,2.42,1,won,1.42,-12.862,-3.2,Sharp,hourly,eligible,2026-08-22 21:18
 moneyline_flag_band,2026-08-23 11:00,,WBT vs Noir Verse,moneyline,Noir Verse,3,SoftBook A,2.25,1,lost,-1.0,-13.862,0.0,SoftBook A,close,eligible,2026-08-23 09:13
 moneyline_flag_band,2026-08-23 12:15,,FUT vs Spirit,moneyline,FUT,5,Sharp,3.68,1,lost,-1.0,-14.862,-0.6,Sharp,close,eligible,2026-08-23 11:09
+moneyline_flag_band,2026-08-24 13:00,,Alliance vs Phantom Academy,moneyline,Phantom Academy,3,SoftBook A,8.0,1,won,7.0,-7.862,0.0,SoftBook A,close,no_bet,2026-08-24 11:09
+moneyline_flag_band,2026-08-24 16:00,,Nuclear TigeRES vs Spirit Academy,moneyline,Nuclear TigeRES,1,Sharp,1.291,1,won,0.291,-7.571,-4.32,Sharp,close,eligible,2026-08-24 14:10
+moneyline_flag_band,2026-08-24 16:00,,BAKS vs Color,moneyline,BAKS,1,Sharp,2.05,1,lost,-1.0,-8.571,0.0,Sharp,close,no_bet,2026-08-24 14:10
+moneyline_flag_band,2026-08-24 17:00,,Black Phoenix vs HAVU,moneyline,HAVU,3,Sharp,2.48,1,lost,-1.0,-9.571,-0.29,Sharp,close,eligible,2026-08-24 14:10

@@ -281,8 +281,8 @@ moneyline_flag_band,2026-08-16 17:45,,Legacy vs MIBR,moneyline,Legacy,3,Sharp,1.
 moneyline_flag_band,2026-08-16 21:00,,paiN Academy vs QUINTESSÊNCIA,moneyline,paiN Academy,3,Sharp,1.714,1,lost,-1.0,-16.699,4.15,Sharp,close,no_bet,2026-08-16 20:07
 moneyline_flag_band,2026-08-17 12:25,,Noir Verse vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,1.83,1,won,0.83,-15.869,0.0,SoftBook A,hourly,no_bet,2026-08-17 11:09
 moneyline_flag_band,2026-08-17 13:45,,LPH vs SAW Youngsters,moneyline,LPH,3,Sharp,1.943,1,won,0.943,-14.926,-0.76,Sharp,close,no_bet,2026-08-17 13:08
-moneyline_flag_band,2026-08-17 15:20,,Bushido Wildcats vs Inner Circle Academy,moneyline,Bushido Wildcats,3,Sharp,1.402,1,won,0.402,-14.524,-1.7,Sharp,hourly,eligible,2026-08-17 14:08
-moneyline_flag_band,2026-08-17 17:55,,Enjoy vs HAVU,moneyline,HAVU,3,Sharp,2.2,1,won,1.2,-13.324,-0.67,Sharp,hourly,eligible,2026-08-17 14:08
+moneyline_flag_band,2026-08-17 15:25,,Bushido Wildcats vs Inner Circle Academy,moneyline,Bushido Wildcats,3,Sharp,1.402,1,won,0.402,-14.524,-1.7,Sharp,hourly,eligible,2026-08-17 14:08
+moneyline_flag_band,2026-08-17 18:00,,Enjoy vs HAVU,moneyline,HAVU,3,Sharp,2.2,1,won,1.2,-13.324,-0.67,Sharp,hourly,eligible,2026-08-17 14:08
 moneyline_flag_band,2026-08-18 08:00,,PCIFIC vs Just Players,moneyline,PCIFIC,3,Sharp,2.5,1,lost,-1.0,-14.324,-7.95,Sharp,close,no_bet,2026-08-17 22:08
 moneyline_flag_band,2026-08-18 11:00,,ex-Zero Tenacity vs ex-RUSTEC,moneyline,ex-RUSTEC,3,Sharp,1.833,1,lost,-1.0,-15.324,-2.93,Sharp,close,eligible,2026-08-18 08:09
 moneyline_flag_band,2026-08-18 13:00,,SPARTA vs MOUZ NXT,moneyline,SPARTA,3,Sharp,1.274,1,won,0.274,-15.05,1.59,Sharp,close,eligible,2026-08-18 11:09
@@ -323,6 +323,10 @@ moneyline_flag_band,2026-08-23 08:00,,G2 Ares vs HyperSpirit,moneyline,HyperSpir
 moneyline_flag_band,2026-08-23 08:00,,FURIA vs Legacy,moneyline,Legacy,3,Sharp,2.42,1,won,1.42,-12.862,-3.2,Sharp,hourly,eligible,2026-08-22 21:18
 moneyline_flag_band,2026-08-23 11:00,,WBT vs Noir Verse,moneyline,Noir Verse,3,SoftBook A,2.25,1,lost,-1.0,-13.862,0.0,SoftBook A,close,eligible,2026-08-23 09:13
 moneyline_flag_band,2026-08-23 12:15,,FUT vs Spirit,moneyline,FUT,5,Sharp,3.68,1,lost,-1.0,-14.862,-0.6,Sharp,close,eligible,2026-08-23 11:09
+moneyline_flag_band,2026-08-24 13:00,,Alliance vs Phantom Academy,moneyline,Phantom Academy,3,SoftBook A,8.0,1,won,7.0,-7.862,0.0,SoftBook A,close,no_bet,2026-08-24 11:09
+moneyline_flag_band,2026-08-24 16:00,,Nuclear TigeRES vs Spirit Academy,moneyline,Nuclear TigeRES,1,Sharp,1.291,1,won,0.291,-7.571,-4.32,Sharp,close,eligible,2026-08-24 14:10
+moneyline_flag_band,2026-08-24 16:00,,BAKS vs Color,moneyline,BAKS,1,Sharp,2.05,1,lost,-1.0,-8.571,0.0,Sharp,close,no_bet,2026-08-24 14:10
+moneyline_flag_band,2026-08-24 17:00,,Black Phoenix vs HAVU,moneyline,HAVU,3,Sharp,2.48,1,lost,-1.0,-9.571,-0.29,Sharp,close,eligible,2026-08-24 14:10
 bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,Sharp,1.364,1,won,0.364,,2.48,Sharp,,ineligible,2026-07-22 06:05
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,Sharp,1.769,1,won,0.769,0.769,1.36,Sharp,,selected,2026-07-22 03:09
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,Sharp,2.84,1,won,1.84,,-1.39,Sharp,,ineligible,2026-07-22 03:09
@@ -435,6 +439,8 @@ bo3_dog_plus_1_5_v0,2026-08-21 17:00,,Vitality vs Spirit,+1.5 maps,Spirit,3,Shar
 bo3_dog_plus_1_5_v0,2026-08-22 17:00,,Legacy vs Spirit,+1.5 maps,Legacy,3,Sharp,1.781,1,lost,-1.0,-1.878,,,,selected,2026-08-22 16:06
 bo3_dog_plus_1_5_v0,2026-08-23 08:00,,Color vs SPARTA,+1.5 maps,SPARTA,3,Sharp,1.386,1,won,0.386,-1.492,1.42,Sharp,,selected,2026-08-22 20:07
 bo3_dog_plus_1_5_v0,2026-08-23 11:00,,Drip Too Hard vs MASONIC,+1.5 maps,MASONIC,3,Sharp,1.49,1,lost,-1.0,,0.26,Sharp,,quarantined,2026-08-23 09:11
+bo3_dog_plus_1_5_v0,2026-08-23 17:00,,Just Players vs ex-Zero Tenacity,+1.5 maps,Just Players,3,Sharp,1.324,1,won,0.324,,0.0,Sharp,,ineligible,2026-08-23 09:11
+bo3_dog_plus_1_5_v0,2026-08-24 14:00,,PCIFIC vs Bushido Wildcats,+1.5 maps,PCIFIC,3,Sharp,1.61,1,won,0.61,-0.882,-1.87,Sharp,,selected,2026-08-24 06:25
 bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,Sharp,2.11,1,won,1.11,1.11,4.25,Sharp,,selected,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,Sharp,2.86,1,lost,-1.0,,-3.76,Sharp,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,Sharp,1.794,1,lost,-1.0,,1.87,Sharp,,ineligible,2026-07-23 06:07
@@ -528,6 +534,7 @@ bo3_fav_minus_1_5_v0,2026-08-21 14:00,,Legacy vs Falcons,-1.5 maps,Falcons,3,Sha
 bo3_fav_minus_1_5_v0,2026-08-22 11:00,,Lavked vs Bushido Wildcats,-1.5 maps,Bushido Wildcats,3,Sharp,2.83,1,lost,-1.0,-0.522,0.44,Sharp,,selected,2026-08-22 09:07
 bo3_fav_minus_1_5_v0,2026-08-22 14:00,,FURIA vs FUT,-1.5 maps,FURIA,3,Sharp,2.72,1,lost,-1.0,-1.522,-0.99,Sharp,,selected,2026-08-22 03:07
 bo3_fav_minus_1_5_v0,2026-08-23 14:00,,GenOne vs ex-RUSTEC,-1.5 maps,GenOne,3,Sharp,2.31,1,lost,-1.0,,-1.68,Sharp,,quarantined,2026-08-22 20:07
+bo3_fav_minus_1_5_v0,2026-08-23 17:00,,Just Players vs ex-Zero Tenacity,-1.5 maps,Just Players,3,Sharp,3.24,1,lost,-1.0,,0.0,Sharp,,ineligible,2026-08-22 20:07
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,SoftBook C,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,SoftBook C,1.4,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-07-28 14:05
 bo3_dog_plus_1_5_bookC_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,SoftBook C,1.65,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-07-29 22:05
@@ -581,6 +588,7 @@ bo3_dog_plus_1_5_bookC_v0,2026-08-21 17:00,,Vitality vs Spirit,+1.5 maps,Spirit,
 bo3_dog_plus_1_5_bookC_v0,2026-08-23 08:00,,Color vs SPARTA,+1.5 maps,SPARTA,3,SoftBook C,1.42,1,won,0.42,-3.53,,,,selected,2026-08-22 19:06
 bo3_dog_plus_1_5_bookC_v0,2026-08-23 11:00,,Nordic Partners vs Black Phoenix,+1.5 maps,Nordic Partners,3,SoftBook C,1.45,1,won,0.45,,1.84,bookC_self,,ineligible,2026-08-22 22:07
 bo3_dog_plus_1_5_bookC_v0,2026-08-23 14:00,,Lavked vs Black Phoenix,+1.5 maps,Lavked,3,SoftBook C,1.52,1,won,0.52,-3.01,0.0,bookC_self,,selected,2026-08-23 10:09
+bo3_dog_plus_1_5_bookC_v0,2026-08-24 11:00,,MASONIC vs HyperSpirit,+1.5 maps,MASONIC,3,SoftBook C,1.55,1,lost,-1.0,-4.01,0.0,bookC_self,,selected,2026-08-23 22:07
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,SoftBook C,2.39,1,won,1.39,1.39,1.01,bookC_self,,selected,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,SoftBook C,2.95,1,won,1.95,,-0.45,bookC_self,,ineligible,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,2.8,1,won,1.8,,6.76,bookC_self,,quarantined,2026-07-28 01:06
@@ -655,6 +663,7 @@ bo3_fav_minus_1_5_bookC_v0,2026-08-21 14:00,,Black Phoenix vs Bebop,-1.5 maps,Bl
 bo3_fav_minus_1_5_bookC_v0,2026-08-21 17:00,,SPARTA vs Leo,-1.5 maps,SPARTA,3,SoftBook C,2.15,1,won,1.15,6.62,0.0,bookC_self,,selected,2026-08-20 20:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-22 14:00,,FURIA vs FUT,-1.5 maps,FURIA,3,SoftBook C,2.5,1,lost,-1.0,5.62,0.0,bookC_self,,selected,2026-08-21 15:07
 bo3_fav_minus_1_5_bookC_v0,2026-08-23 14:00,,GenOne vs ex-RUSTEC,-1.5 maps,GenOne,3,SoftBook C,2.07,1,lost,-1.0,,0.29,bookC_self,,quarantined,2026-08-22 15:06
+bo3_fav_minus_1_5_bookC_v0,2026-08-24 14:00,,GenOne vs Leo,-1.5 maps,GenOne,3,SoftBook C,2.1,1,lost,-1.0,4.62,0.0,bookC_self,,selected,2026-08-23 15:08
 map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,Sharp,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
 map1_specials_v1,2026-07-19 16:00,CCT South America,BORRACHEIROS vs METANOIA Wolves,map1_moneyline,BORRACHEIROS,3,Sharp,1.752,1,void,0.0,,,,,selected,2026-07-19 15:03
 map1_specials_v1,2026-07-19 19:00,CCT South America,BESTIA Academy vs GameHunters,map1_moneyline,BESTIA Academy,3,Sharp,2.15,1,void,0.0,,,,,selected,2026-07-19 06:04
