@@ -109,7 +109,7 @@ bo3_fav_minus_1_5_bookC_v0,2026-08-30 13:00,,BERG vs WBT,-1.5 maps,WBT,3,SoftBoo
 bo3_fav_minus_1_5_bookC_v0,2026-08-30 13:00,,BAKS vs Misa,-1.5 maps,BAKS,3,SoftBook C,1.99,1,lost,-1.0,2.14,0.45,bookC_self,,selected,2026-08-29 23:11
 bo3_fav_minus_1_5_bookC_v0,2026-08-30 14:00,,ASTRAL vs Insiders,-1.5 maps,ASTRAL,3,SoftBook C,2.19,1,won,1.19,,1.52,bookC_self,,quarantined,2026-08-29 23:11
 bo3_fav_minus_1_5_bookC_v0,2026-08-30 14:00,,Sangal vs PURE,-1.5 maps,Sangal,3,SoftBook C,2.7,1,lost,-1.0,1.14,0.0,bookC_self,,selected,2026-08-29 23:11
-bo3_fav_minus_1_5_bookC_v0,2026-08-30 16:00,,ex-Zero Tenacity vs INOX Division,-1.5 maps,INOX Division,3,SoftBook C,3.23,1,lost,-1.0,,,,,quarantined,2026-08-30 15:12
+bo3_fav_minus_1_5_bookC_v0,2026-08-30 16:00,,ex-Zero Tenacity vs INOX Division,-1.5 maps,INOX Division,3,SoftBook C,3.23,1,won,2.23,,,,,quarantined,2026-08-30 15:12
 bo3_fav_minus_1_5_bookC_v0,2026-08-31 01:00,,Voca vs Marsborne,-1.5 maps,Voca,3,SoftBook C,3.06,1,won,2.06,3.2,6.05,bookC_self,,selected,2026-08-30 02:08
 bo3_fav_minus_1_5_bookC_v0,2026-08-31 01:00,,Overtake Sector vs Chicken Coop,-1.5 maps,Chicken Coop,3,SoftBook C,2.25,1,lost,-1.0,,-0.39,bookC_self,,ineligible,2026-08-30 07:11
 bo3_fav_minus_1_5_bookC_v0,2026-08-31 11:00,,3DMAX vs Butterfly,-1.5 maps,3DMAX,3,SoftBook C,2.5,1,won,1.5,4.7,0.0,bookC_self,,selected,2026-08-31 06:10
@@ -117,3 +117,12 @@ bo3_fav_minus_1_5_bookC_v0,2026-08-31 13:00,,Misa vs BAKS,-1.5 maps,BAKS,3,SoftB
 bo3_fav_minus_1_5_bookC_v0,2026-08-31 21:00,,Imperial vs ShindeN,-1.5 maps,Imperial,3,SoftBook C,2.4,1,lost,-1.0,3.7,0.0,bookC_self,,selected,2026-08-31 06:10
 bo3_fav_minus_1_5_bookC_v0,2026-09-01 11:00,,INFINITE vs Inner Circle Academy,-1.5 maps,INFINITE,3,SoftBook C,2.4,1,lost,-1.0,2.7,0.0,bookC_self,,selected,2026-08-31 12:11
 bo3_fav_minus_1_5_bookC_v0,2026-09-01 14:00,,UNiTY vs Misa,-1.5 maps,UNiTY,3,SoftBook C,2.21,1,won,1.21,,6.12,bookC_self,,ineligible,2026-09-01 01:09
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 01:00,,Voca vs Marsborne,-1.5 maps,Voca,3,SoftBook C,2.59,1,lost,-1.0,1.7,6.58,bookC_self,,selected,2026-09-01 06:10
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 09:00,,Magic vs K27,-1.5 maps,Magic,3,SoftBook C,2.5,1,won,1.5,3.2,-1.47,bookC_self,,selected,2026-09-01 10:10
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 11:00,,Black Phoenix vs INFINITE,-1.5 maps,INFINITE,3,SoftBook C,2.76,1,won,1.76,4.96,0.0,bookC_self,,selected,2026-09-02 07:29
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 12:00,,TYLOO vs DEPO,-1.5 maps,TYLOO,3,SoftBook C,1.92,1,won,0.92,5.88,0.0,bookC_self,,selected,2026-09-02 10:12
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 14:00,,INOX Division vs UNiTY,-1.5 maps,INOX Division,3,SoftBook C,2.11,1,won,1.11,6.99,0.7,bookC_self,,selected,2026-09-02 07:29
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 15:00,,K27 vs GamerLegion,-1.5 maps,GamerLegion,3,SoftBook C,2.5,1,lost,-1.0,,1.28,bookC_self,,ineligible,2026-09-02 12:10
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 15:00,,Magic vs Nuclear TigeRES,-1.5 maps,Magic,3,SoftBook C,2.6,1,lost,-1.0,5.99,-3.12,bookC_self,,selected,2026-09-02 12:10
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 15:00,,MIBR vs 3DMAX,-1.5 maps,MIBR,3,SoftBook C,3.1,1,won,2.1,,,,,ineligible,2026-09-02 14:09
+bo3_fav_minus_1_5_bookC_v0,2026-09-02 15:00,,Eternal Fire vs HEROIC,-1.5 maps,HEROIC,3,SoftBook C,2.3,1,lost,-1.0,4.99,,,,selected,2026-09-02 14:09
