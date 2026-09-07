@@ -397,7 +397,6 @@ moneyline_flag_band,2026-08-30 17:00,,SAW Youngsters vs Noir Verse,moneyline,SAW
 moneyline_flag_band,2026-08-30 17:10,,Legacy vs Vitality,moneyline,Legacy,3,Sharp,3.17,1,lost,-1.0,-27.415,-2.15,Sharp,close,no_bet,2026-08-30 11:18
 moneyline_flag_band,2026-08-30 22:10,,ODDIK vs Grêmio,moneyline,ODDIK,3,Sharp,1.207,1,won,0.207,-27.208,5.77,Sharp,close,eligible,2026-08-30 21:37
 moneyline_flag_band,2026-08-31 09:00,,Ground Zero vs Arcade,moneyline,Arcade,3,SoftBook A,7.5,1,lost,-1.0,-28.208,0.0,SoftBook A,close,no_bet,2026-08-31 08:12
-moneyline_flag_band,2026-08-31 10:30,,Fire Flux vs mellren,moneyline,mellren,3,SoftBook A,1.72,1,void,0.0,,,,hourly,eligible,2026-08-31 10:12
 moneyline_flag_band,2026-08-31 11:00,,Metizport vs PCIFIC,moneyline,PCIFIC,3,Sharp,4.77,1,lost,-1.0,-29.208,2.12,Sharp,close,eligible,2026-08-31 10:12
 moneyline_flag_band,2026-08-31 12:14,,ex-RUSTEC vs Bushido Wildcats,moneyline,Bushido Wildcats,3,Sharp,1.741,1,void,0.0,,0.0,Sharp,close,eligible,2026-08-31 11:14
 moneyline_flag_band,2026-08-31 13:00,,Misa vs BAKS,moneyline,BAKS,3,Sharp,1.373,1,won,0.373,-28.835,0.0,Sharp,close,eligible,2026-08-31 11:14
@@ -467,3 +466,6 @@ moneyline_flag_band,2026-09-06 14:00,,HEROIC vs EAC,moneyline,HEROIC,1,Sharp,1.2
 moneyline_flag_band,2026-09-06 14:00,,BBL vs UPGRADE,moneyline,BBL,1,Sharp,1.633,1,won,0.633,-31.252,0.0,Sharp,close,eligible,2026-09-06 11:15
 moneyline_flag_band,2026-09-06 14:00,,PsychoFace vs Just Players,moneyline,PsychoFace,3,SoftBook A,2.1,1,lost,-1.0,-32.252,0.0,SoftBook A,hourly,no_bet,2026-09-06 11:15
 moneyline_flag_band,2026-09-06 17:10,,SPARTA vs ex-Zero Tenacity,moneyline,SPARTA,3,Sharp,2.16,1,won,1.16,-31.092,-1.61,Sharp,close,no_bet,2026-09-06 11:15
+moneyline_flag_band,2026-09-07 08:00,,MOUZ NXT vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,1.8,1,won,0.8,-30.292,0.0,SoftBook A,close,no_bet,2026-09-07 06:17
+moneyline_flag_band,2026-09-07 09:00,,Nemesis vs FORZE Reload,moneyline,Nemesis,3,Sharp,1.515,1,won,0.515,-29.777,1.21,Sharp,close,eligible,2026-09-07 06:17
+moneyline_flag_band,2026-09-07 14:30,,Lavked vs Leo,moneyline,Lavked,3,SoftBook A,2.2,1,won,1.2,-28.577,,,hourly,eligible,2026-09-07 14:12
