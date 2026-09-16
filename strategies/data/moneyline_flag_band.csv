@@ -478,7 +478,7 @@ moneyline_flag_band,2026-09-08 13:00,,MOUZ NXT vs Dark Moon,moneyline,MOUZ NXT,3
 moneyline_flag_band,2026-09-08 13:45,,Bushido Wildcats vs NAVI Junior,moneyline,NAVI Junior,3,Sharp,3.31,1,lost,-1.0,-29.68,1.94,Sharp,close,eligible,2026-09-08 11:13
 moneyline_flag_band,2026-09-08 17:30,,WW vs NOVAQ,moneyline,NOVAQ,3,Sharp,3.15,1,lost,-1.0,-30.68,-0.58,Sharp,close,eligible,2026-09-08 14:13
 moneyline_flag_band,2026-09-09 03:00,,FaZe vs Magic,moneyline,FaZe,3,SoftBook A,1.57,1,lost,-1.0,-31.68,0.0,SoftBook A,close,eligible,2026-09-09 02:16
-moneyline_flag_band,2026-09-09 03:10,,5star vs The MongolZ,moneyline,5star,3,Sharp,8.3,1,won,7.3,-24.38,0.99,Sharp,close,no_bet,2026-09-09 02:16
+moneyline_flag_band,2026-09-09 03:20,,5star vs The MongolZ,moneyline,5star,3,Sharp,8.3,1,won,7.3,-24.38,0.99,Sharp,close,no_bet,2026-09-09 02:16
 moneyline_flag_band,2026-09-09 05:44,,mellren vs ex-Sashi Academy,moneyline,mellren,3,SoftBook A,1.16,1,void,0.0,,0.0,SoftBook A,hourly,no_bet,2026-09-09 02:16
 moneyline_flag_band,2026-09-09 05:50,,9z vs MIBR,moneyline,9z,3,Sharp,1.621,1,lost,-1.0,-25.38,0.88,Sharp,close,eligible,2026-09-09 02:16
 moneyline_flag_band,2026-09-09 07:35,,Alliance vs Legacy,moneyline,Alliance,3,SoftBook A,3.5,1,lost,-1.0,-26.38,,,hourly,eligible,2026-09-09 07:16
@@ -547,3 +547,6 @@ moneyline_flag_band,2026-09-14 14:00,,Falcons Force vs NAVI Junior,moneyline,NAV
 moneyline_flag_band,2026-09-14 17:00,,KAMUI vs Fortress,moneyline,KAMUI,3,Sharp,1.575,1,won,0.575,-8.412,1.31,Sharp,close,eligible,2026-09-14 14:12
 moneyline_flag_band,2026-09-15 11:20,,Bushido Wildcats vs Leo,moneyline,Bushido Wildcats,3,SoftBook A,1.8,1,lost,-1.0,-9.412,0.0,SoftBook A,close,eligible,2026-09-15 11:15
 moneyline_flag_band,2026-09-15 11:25,,Black Phoenix vs Just Players,moneyline,Black Phoenix,3,Sharp,2.08,1,lost,-1.0,-10.412,,,hourly,eligible,2026-09-15 11:15
+moneyline_flag_band,2026-09-16 00:05,,RUSH vs Grêmio,moneyline,RUSH,3,SoftBook A,2.5,1,won,1.5,-8.912,0.0,SoftBook A,hourly,eligible,2026-09-15 23:03
+moneyline_flag_band,2026-09-16 14:00,,QUAZAR vs ex-RUSTEC,moneyline,QUAZAR,3,Sharp,2.09,1,won,1.09,-7.822,-4.64,Sharp,close,no_bet,2026-09-16 13:17
+moneyline_flag_band,2026-09-16 17:05,,ex-RUSTEC vs Nexus,moneyline,ex-RUSTEC,3,Sharp,1.599,1,won,0.599,-7.223,0.08,Sharp,close,no_bet,2026-09-16 13:17
