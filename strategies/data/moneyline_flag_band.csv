@@ -542,7 +542,7 @@ moneyline_flag_band,2026-09-13 17:30,,INOX Division vs Color,moneyline,INOX Divi
 moneyline_flag_band,2026-09-14 08:00,,ex-RUSTEC vs Azuolas,moneyline,Azuolas,3,Sharp,3.23,1,lost,-1.0,-8.462,2.44,Sharp,hourly,no_bet,2026-09-13 23:42
 moneyline_flag_band,2026-09-14 08:00,,Bushido Wildcats vs Enjoy,moneyline,Bushido Wildcats,3,Sharp,1.405,1,won,0.405,-8.057,2.89,Sharp,close,no_bet,2026-09-13 23:42
 moneyline_flag_band,2026-09-14 08:00,,ENCE vs Falcons Force,moneyline,Falcons Force,3,Sharp,1.826,1,lost,-1.0,-9.057,-0.21,Sharp,close,eligible,2026-09-13 23:42
-moneyline_flag_band,2026-09-14 14:00,,Falcons Force vs NAVI Junior,moneyline,NAVI Junior,3,Sharp,2.07,1,won,1.07,-7.987,,,hourly,eligible,2026-09-14 11:13
+moneyline_flag_band,2026-09-14 14:15,,Falcons Force vs NAVI Junior,moneyline,NAVI Junior,3,Sharp,2.07,1,won,1.07,-7.987,,,hourly,eligible,2026-09-14 14:12
 moneyline_flag_band,2026-09-14 17:00,,KAMUI vs Fortress,moneyline,KAMUI,3,Sharp,1.575,1,won,0.575,-7.412,1.31,Sharp,close,eligible,2026-09-14 14:12
 moneyline_flag_band,2026-09-15 11:20,,Bushido Wildcats vs Leo,moneyline,Bushido Wildcats,3,SoftBook A,1.8,1,lost,-1.0,-8.412,0.0,SoftBook A,close,eligible,2026-09-15 11:15
 moneyline_flag_band,2026-09-15 11:25,,Black Phoenix vs Just Players,moneyline,Black Phoenix,3,Sharp,2.08,1,lost,-1.0,-9.412,,,hourly,eligible,2026-09-15 11:15
@@ -590,3 +590,9 @@ moneyline_flag_band,2026-09-20 08:00,,ex-RUSTEC vs Azuolas,moneyline,Azuolas,3,S
 moneyline_flag_band,2026-09-20 09:00,,WBT vs SAW Youngsters,moneyline,WBT,3,Sharp,1.304,1,won,0.304,-5.627,2.76,Sharp,close,eligible,2026-09-20 08:14
 moneyline_flag_band,2026-09-20 11:15,,Lavked vs ENCE,moneyline,Lavked,3,Sharp,1.82,1,lost,-1.0,-6.627,,,close,eligible,2026-09-20 11:14
 moneyline_flag_band,2026-09-20 17:00,,INOX Division vs SPARTA,moneyline,SPARTA,3,Sharp,2.34,1,won,1.34,-5.287,-1.28,Sharp,close,no_bet,2026-09-20 14:14
+moneyline_flag_band,2026-09-20 21:00,,Bounty Hunters vs BESTIA,moneyline,BESTIA,3,Sharp,1.629,1,won,0.629,-4.658,0.42,Sharp,close,eligible,2026-09-20 14:14
+moneyline_flag_band,2026-09-21 08:00,,BRUTE vs SPARTA,moneyline,BRUTE,3,Sharp,2.26,1,won,1.26,-3.398,3.14,Sharp,close,eligible,2026-09-20 22:22
+moneyline_flag_band,2026-09-21 10:00,,Sashi vs FOKUS,moneyline,Sashi,3,SoftBook A,2.0,1,lost,-1.0,-4.398,0.0,SoftBook A,close,eligible,2026-09-21 08:14
+moneyline_flag_band,2026-09-21 10:00,,Astralis vs Sangal,moneyline,Astralis,3,Sharp,1.211,1,won,0.211,-4.187,1.02,Sharp,close,eligible,2026-09-21 08:14
+moneyline_flag_band,2026-09-21 14:00,,Nexus vs Bushido Wildcats,moneyline,Nexus,3,SoftBook A,2.0,1,lost,-1.0,-5.187,0.0,SoftBook A,close,eligible,2026-09-21 13:14
+moneyline_flag_band,2026-09-21 17:00,,WW vs Phantom Academy,moneyline,WW,3,Sharp,1.389,1,won,0.389,-4.798,-2.42,Sharp,close,no_bet,2026-09-21 15:15
