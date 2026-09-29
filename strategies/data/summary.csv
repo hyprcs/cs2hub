@@ -1,9 +1,9 @@
 strategy,book,rows,record_rows,settled,wins,losses,voids,pending,units_pl,roi_pct,clv_ref,clv_n,clv_median_pp,note,generated_at_utc
-moneyline_flag_band,"SoftBook A, Sharp",739,739,666,307,359,30,43,-31.678,-4.76,Sharp,443,0.0,tracked record = every in-band flag; CLV cell = sharp-referee pairs only (odds-trust: referees never pooled; filter clv_ref for the soft-book pairs),2026-09-28 21:25
-bo3_dog_plus_1_5_v0,Sharp,280,171,167,97,70,0,0,-12.961,-7.76,Sharp,163,0.18,,2026-09-28 21:25
-bo3_fav_minus_1_5_v0,Sharp,286,182,175,73,102,0,2,-7.389,-4.22,Sharp,174,0.79,,2026-09-28 21:25
-bo3_dog_plus_1_5_bookC_v0,SoftBook C,166,78,72,42,30,0,1,-8.59,-11.93,bookC_self,71,0.0,"n<100 settled -- too early to judge ROI, watch median CLV; results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-09-28 21:25
-bo3_fav_minus_1_5_bookC_v0,SoftBook C,220,123,118,50,68,0,1,-0.98,-0.83,bookC_self,116,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-09-28 21:25
-map1_specials_v1,Sharp,639,566,527,223,304,0,11,7.281,1.38,specials_hourly,341,0.11,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-28 21:25
-map2_specials_v1,Sharp,615,540,502,158,344,8,10,-93.549,-18.64,specials_hourly,330,0.09,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-28 21:25
-map3_specials_v1,Sharp,428,381,140,48,92,215,8,-23.487,-16.78,specials_hourly,248,0.0,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-28 21:25
+moneyline_flag_band,"SoftBook A, Sharp",749,749,674,311,363,31,44,-32.257,-4.79,Sharp,450,0.0,tracked record = every in-band flag; CLV cell = sharp-referee pairs only (odds-trust: referees never pooled; filter clv_ref for the soft-book pairs),2026-09-29 23:16
+bo3_dog_plus_1_5_v0,Sharp,282,172,167,97,70,0,1,-12.961,-7.76,Sharp,164,0.18,,2026-09-29 23:16
+bo3_fav_minus_1_5_v0,Sharp,291,185,179,75,104,0,1,-6.589,-3.68,Sharp,177,0.69,,2026-09-29 23:16
+bo3_dog_plus_1_5_bookC_v0,SoftBook C,169,79,73,42,31,0,1,-9.59,-13.14,bookC_self,72,0.0,"n<100 settled -- too early to judge ROI, watch median CLV; results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-09-29 23:16
+bo3_fav_minus_1_5_bookC_v0,SoftBook C,220,123,119,50,69,0,0,-1.98,-1.66,bookC_self,116,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-09-29 23:16
+map1_specials_v1,Sharp,639,566,527,223,304,0,11,7.281,1.38,specials_hourly,341,0.11,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-29 23:16
+map2_specials_v1,Sharp,615,540,502,158,344,8,10,-93.549,-18.64,specials_hourly,330,0.09,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-29 23:16
+map3_specials_v1,Sharp,428,381,140,48,92,215,8,-23.487,-16.78,specials_hourly,248,0.0,"channel is flag-quarantined at policy level -- tracking record, not an endorsed edge",2026-09-29 23:16
