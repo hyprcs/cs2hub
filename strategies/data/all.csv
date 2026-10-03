@@ -647,9 +647,9 @@ moneyline_flag_band,2026-09-25 14:35,,Iberian Soul vs UPGRADE,moneyline,UPGRADE,
 moneyline_flag_band,2026-09-25 16:10,,SINNERS vs ex-RUBY,moneyline,SINNERS,3,SoftBook A,1.5,1,lost,-1.0,-25.548,0.0,SoftBook A,hourly,eligible,2026-09-25 14:19
 moneyline_flag_band,2026-09-25 17:00,,ex-Zero Tenacity vs Illyrians,moneyline,ex-Zero Tenacity,3,Sharp,1.541,1,won,0.541,-25.007,-6.59,Sharp,close,eligible,2026-09-25 14:19
 moneyline_flag_band,2026-09-25 17:11,,BBL vs BRUTE,moneyline,BBL,3,Sharp,1.485,1,void,0.0,,3.3,Sharp,close,eligible,2026-09-25 14:19
-moneyline_flag_band,2026-09-25 17:15,,NRG vs Wildcard,moneyline,Wildcard,3,Sharp,2.49,1,lost,-1.0,-26.007,-3.07,Sharp,hourly,eligible,2026-09-25 14:19
-moneyline_flag_band,2026-09-25 17:15,,Liquid vs Chicken Coop,moneyline,Chicken Coop,3,SoftBook A,15.0,1,lost,-1.0,-27.007,0.0,SoftBook A,hourly,no_bet,2026-09-25 14:19
-moneyline_flag_band,2026-09-25 17:15,,JiJieHao vs Sangal,moneyline,JiJieHao,3,SoftBook A,1.5,1,lost,-1.0,-28.007,6.76,SoftBook A,hourly,eligible,2026-09-25 14:19
+moneyline_flag_band,2026-09-25 17:15,,JiJieHao vs Sangal,moneyline,JiJieHao,3,SoftBook A,1.5,1,lost,-1.0,-26.007,6.76,SoftBook A,hourly,eligible,2026-09-25 14:19
+moneyline_flag_band,2026-09-25 17:20,,NRG vs Wildcard,moneyline,Wildcard,3,Sharp,2.49,1,lost,-1.0,-27.007,-3.07,Sharp,hourly,eligible,2026-09-25 14:19
+moneyline_flag_band,2026-09-25 17:20,,Liquid vs Chicken Coop,moneyline,Chicken Coop,3,SoftBook A,15.0,1,lost,-1.0,-28.007,0.0,SoftBook A,hourly,no_bet,2026-09-25 14:19
 moneyline_flag_band,2026-09-25 17:25,,Magic vs EYEBALLERS,moneyline,EYEBALLERS,3,SoftBook A,3.25,1,lost,-1.0,-29.007,,,close,eligible,2026-09-25 14:19
 moneyline_flag_band,2026-09-25 18:20,,Sashi vs 9INE,moneyline,Sashi,3,SoftBook A,1.83,1,won,0.83,-28.177,0.0,SoftBook A,hourly,eligible,2026-09-25 14:19
 moneyline_flag_band,2026-09-25 21:00,,Procyon vs Turma do Pagode,moneyline,Procyon,3,Sharp,3.6,1,won,2.6,-25.577,-0.95,Sharp,close,eligible,2026-09-25 14:19
@@ -721,6 +721,25 @@ moneyline_flag_band,2026-10-01 15:30,,Astralis vs Alliance,moneyline,Astralis,3,
 moneyline_flag_band,2026-10-01 15:35,,SAW vs Nice Try,moneyline,Nice Try,1,Sharp,3.53,1,lost,-1.0,-37.301,,,hourly,eligible,2026-10-01 15:19
 moneyline_flag_band,2026-10-01 16:50,,SINQU vs SAW,moneyline,SINQU,1,Sharp,8.55,1,lost,-1.0,-38.301,0.0,Sharp,close,no_bet,2026-10-01 16:18
 moneyline_flag_band,2026-10-01 17:00,,EAC vs ex-Zero Tenacity,moneyline,EAC,3,Sharp,2.32,1,won,1.32,-36.981,-1.5,Sharp,close,eligible,2026-10-01 16:18
+moneyline_flag_band,2026-10-01 22:20,,QUINTESSÊNCIA vs BORRACHEIROS,moneyline,BORRACHEIROS,3,SoftBook A,2.0,1,lost,-1.0,-37.981,0.0,SoftBook A,hourly,eligible,2026-10-01 16:18
+moneyline_flag_band,2026-10-02 10:00,,B8 vs fnatic,moneyline,B8,3,Sharp,1.526,1,lost,-1.0,-38.981,0.0,Sharp,close,eligible,2026-10-02 09:22
+moneyline_flag_band,2026-10-02 10:00,,SAW vs NAVI Junior,moneyline,NAVI Junior,3,Sharp,4.24,1,lost,-1.0,-39.981,0.34,Sharp,close,eligible,2026-10-02 09:22
+moneyline_flag_band,2026-10-02 12:00,,BBL vs Sangal,moneyline,BBL,1,Sharp,1.806,1,lost,-1.0,-40.981,-0.54,Sharp,close,eligible,2026-10-02 11:20
+moneyline_flag_band,2026-10-02 12:00,,9INE vs Johnny Speeds,moneyline,9INE,1,SoftBook A,1.57,1,lost,-1.0,-41.981,0.0,SoftBook A,hourly,eligible,2026-10-02 11:20
+moneyline_flag_band,2026-10-02 12:00,,Voca vs BASEMENT BOYS,moneyline,Voca,1,SoftBook A,1.57,1,won,0.57,-41.411,0.0,SoftBook A,hourly,eligible,2026-10-02 11:20
+moneyline_flag_band,2026-10-02 12:00,,SINNERS vs Lilmix,moneyline,SINNERS,1,SoftBook A,1.11,1,won,0.11,-41.301,0.0,SoftBook A,hourly,eligible,2026-10-02 11:20
+moneyline_flag_band,2026-10-02 12:10,,FaZe vs Astralis,moneyline,FaZe,3,Sharp,1.741,1,lost,-1.0,-42.301,-0.29,Sharp,close,eligible,2026-10-02 11:20
+moneyline_flag_band,2026-10-02 13:00,,FOKUS vs 9INE,moneyline,9INE,1,Sharp,2.55,1,lost,-1.0,-43.301,0.0,Sharp,close,eligible,2026-10-02 12:22
+moneyline_flag_band,2026-10-02 13:00,,SINNERS vs Eternal Fire,moneyline,Eternal Fire,1,Sharp,1.926,1,won,0.926,-42.375,3.76,Sharp,close,eligible,2026-10-02 12:22
+moneyline_flag_band,2026-10-02 13:00,,100 Thieves vs Lilmix,moneyline,100 Thieves,1,SoftBook A,1.071,1,won,0.071,-42.304,,,hourly,eligible,2026-10-02 12:22
+moneyline_flag_band,2026-10-02 14:10,,Eternal Fire vs Lilmix,moneyline,Eternal Fire,1,SoftBook A,1.083,1,won,0.083,-42.221,0.0,SoftBook A,close,eligible,2026-10-02 12:22
+moneyline_flag_band,2026-10-02 15:00,,SINNERS vs Nordic Partners,moneyline,SINNERS,1,Sharp,1.262,1,won,0.262,-41.959,0.44,Sharp,close,eligible,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 15:30,,Sashi vs Voca,moneyline,Voca,1,SoftBook A,2.25,1,won,1.25,-40.709,0.0,SoftBook A,hourly,eligible,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 15:40,,BC.Game vs BASEMENT BOYS,moneyline,BASEMENT BOYS,1,SoftBook A,4.5,1,lost,-1.0,-41.709,0.0,SoftBook A,hourly,eligible,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 16:40,,100 Thieves vs SINNERS,moneyline,100 Thieves,1,Sharp,1.662,1,lost,-1.0,-42.709,2.83,Sharp,hourly,eligible,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 16:40,,Nordic Partners vs Lilmix,moneyline,Nordic Partners,1,SoftBook A,1.22,1,won,0.22,-42.489,0.0,SoftBook A,hourly,eligible,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 16:40,,Eternal Fire vs Anteiku,moneyline,Eternal Fire,1,SoftBook A,1.062,1,won,0.062,-42.427,0.0,SoftBook A,hourly,no_bet,2026-10-02 14:20
+moneyline_flag_band,2026-10-02 17:00,,PCIFIC vs MASONIC,moneyline,MASONIC,3,Sharp,2.64,1,lost,-1.0,-43.427,2.24,Sharp,close,eligible,2026-10-02 14:20
 bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,Sharp,1.364,1,won,0.364,,2.48,Sharp,,ineligible,2026-07-22 06:05
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,Sharp,1.769,1,won,0.769,0.769,1.36,Sharp,,selected,2026-07-22 03:09
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,Sharp,2.84,1,won,1.84,,-1.39,Sharp,,ineligible,2026-07-22 03:09
@@ -998,6 +1017,8 @@ bo3_dog_plus_1_5_v0,2026-09-30 11:00,,Phantom Academy vs Rounds,+1.5 maps,Rounds
 bo3_dog_plus_1_5_v0,2026-09-30 22:00,,METANOIA Wolves vs MEIA NOITE,+1.5 maps,METANOIA Wolves,3,Sharp,1.68,1,won,0.68,,0.0,Sharp,,quarantined,2026-09-30 19:10
 bo3_dog_plus_1_5_v0,2026-10-01 13:45,,FORZE Reload vs Fire Flux,+1.5 maps,Fire Flux,3,Sharp,1.877,1,won,0.877,-13.399,,,,selected,2026-10-01 13:15
 bo3_dog_plus_1_5_v0,2026-10-01 16:00,,Yawara vs BORRACHEIROS,+1.5 maps,BORRACHEIROS,3,Sharp,1.606,1,lost,-1.0,-14.399,-0.67,Sharp,,selected,2026-10-01 07:21
+bo3_dog_plus_1_5_v0,2026-10-02 10:00,,SAW vs NAVI Junior,+1.5 maps,NAVI Junior,3,Sharp,2.06,1,lost,-1.0,-15.399,,,,selected,2026-10-02 09:17
+bo3_dog_plus_1_5_v0,2026-10-02 15:00,,Luminosity vs BIG,+1.5 maps,BIG,3,Sharp,1.375,1,won,0.375,-15.024,2.09,Sharp,,selected,2026-10-01 20:12
 bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,Sharp,2.11,1,won,1.11,1.11,4.25,Sharp,,selected,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,Sharp,2.86,1,lost,-1.0,,-3.76,Sharp,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,Sharp,1.794,1,lost,-1.0,,1.87,Sharp,,ineligible,2026-07-23 06:07
@@ -1282,6 +1303,9 @@ bo3_fav_minus_1_5_v0,2026-09-29 22:00,,MEIA NOITE vs ALKA,-1.5 maps,ALKA,3,Sharp
 bo3_fav_minus_1_5_v0,2026-09-30 17:00,,ex-RUSTEC vs BERG,-1.5 maps,ex-RUSTEC,3,Sharp,1.794,1,won,0.794,,9.45,Sharp,,quarantined,2026-09-30 06:14
 bo3_fav_minus_1_5_v0,2026-09-30 17:00,,Young TigeRES vs Fire Flux,-1.5 maps,Fire Flux,3,Sharp,2.68,1,lost,-1.0,,,,,ineligible,2026-09-30 16:12
 bo3_fav_minus_1_5_v0,2026-10-01 10:00,,B8 vs Luminosity,-1.5 maps,B8,3,Sharp,2.83,1,lost,-1.0,-7.589,-2.39,Sharp,,selected,2026-09-30 11:11
+bo3_fav_minus_1_5_v0,2026-10-02 10:00,,FaZe vs Astralis,-1.5 maps,FaZe,3,Sharp,3.38,1,lost,-1.0,-8.589,2.05,Sharp,,selected,2026-10-02 00:13
+bo3_fav_minus_1_5_v0,2026-10-02 10:00,,SAW vs NAVI Junior,-1.5 maps,SAW,3,Sharp,2.34,1,won,1.34,-7.249,14.62,Sharp,,selected,2026-10-02 06:26
+bo3_fav_minus_1_5_v0,2026-10-02 12:30,,B8 vs fnatic,-1.5 maps,B8,3,Sharp,2.76,1,lost,-1.0,-8.249,1.65,Sharp,,selected,2026-10-01 20:12
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,SoftBook C,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,SoftBook C,1.4,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-07-28 14:05
 bo3_dog_plus_1_5_bookC_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,SoftBook C,1.65,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-07-29 22:05
@@ -1436,6 +1460,10 @@ bo3_dog_plus_1_5_bookC_v0,2026-09-29 09:00,,FlyQuest vs THUNDER dOWNUNDER,+1.5 m
 bo3_dog_plus_1_5_bookC_v0,2026-09-29 17:30,,Fire Flux vs NAVI Junior,+1.5 maps,NAVI Junior,3,SoftBook C,1.42,1,won,0.42,,-0.17,bookC_self,,ineligible,2026-09-28 22:09
 bo3_dog_plus_1_5_bookC_v0,2026-09-30 01:00,,LAG vs Marsborne,+1.5 maps,LAG,3,SoftBook C,1.48,1,won,0.48,-9.11,-6.52,bookC_self,,selected,2026-09-29 08:11
 bo3_dog_plus_1_5_bookC_v0,2026-09-30 22:00,,METANOIA Wolves vs MEIA NOITE,+1.5 maps,METANOIA Wolves,3,SoftBook C,1.52,1,won,0.52,,0.49,bookC_self,,ineligible,2026-09-30 07:10
+bo3_dog_plus_1_5_bookC_v0,2026-10-02 13:30,,UNiTY vs aimclub,+1.5 maps,aimclub,3,SoftBook C,1.65,1,lost,-1.0,-10.11,0.0,bookC_self,,selected,2026-10-02 06:26
+bo3_dog_plus_1_5_bookC_v0,2026-10-02 15:00,,Luminosity vs BIG,+1.5 maps,BIG,3,SoftBook C,1.32,1,won,0.32,-9.79,0.0,bookC_self,,selected,2026-10-01 17:15
+bo3_dog_plus_1_5_bookC_v0,2026-10-02 16:30,,INFINITE vs SAW,+1.5 maps,INFINITE,3,SoftBook C,1.5,1,won,0.5,-9.29,0.0,bookC_self,,selected,2026-10-02 13:17
+bo3_dog_plus_1_5_bookC_v0,2026-10-02 17:30,,Alliance vs Nemiga,+1.5 maps,Alliance,3,SoftBook C,1.55,1,lost,-1.0,-10.29,1.1,bookC_self,,selected,2026-10-01 23:13
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,SoftBook C,2.39,1,won,1.39,1.39,1.01,bookC_self,,selected,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,SoftBook C,2.95,1,won,1.95,,-0.45,bookC_self,,ineligible,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,2.8,1,won,1.8,,6.76,bookC_self,,quarantined,2026-07-28 01:06
@@ -1642,6 +1670,8 @@ bo3_fav_minus_1_5_bookC_v0,2026-09-28 21:00,,Galorys vs Turma do Pagode,-1.5 map
 bo3_fav_minus_1_5_bookC_v0,2026-09-30 17:30,,Young TigeRES vs Fire Flux,-1.5 maps,Fire Flux,3,SoftBook C,2.74,1,lost,-1.0,,1.04,bookC_self,,ineligible,2026-09-30 00:12
 bo3_fav_minus_1_5_bookC_v0,2026-09-30 19:00,,Grêmio vs QUINTESSÊNCIA,-1.5 maps,QUINTESSÊNCIA,3,SoftBook C,2.68,1,lost,-1.0,-2.98,-1.96,bookC_self,,selected,2026-09-30 07:10
 bo3_fav_minus_1_5_bookC_v0,2026-10-01 15:00,,Astralis vs Alliance,-1.5 maps,Astralis,3,SoftBook C,2.7,1,lost,-1.0,-3.98,3.41,bookC_self,,selected,2026-09-30 22:13
+bo3_fav_minus_1_5_bookC_v0,2026-10-02 10:00,,FaZe vs Astralis,-1.5 maps,FaZe,3,SoftBook C,3.2,1,lost,-1.0,-4.98,,,,selected,2026-10-01 23:13
+bo3_fav_minus_1_5_bookC_v0,2026-10-02 12:30,,B8 vs fnatic,-1.5 maps,B8,3,SoftBook C,2.4,1,lost,-1.0,-5.98,0.0,bookC_self,,selected,2026-10-01 17:15
 map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,Sharp,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
 map1_specials_v1,2026-07-19 22:00,CCT South America,Patins da Ferrari vs ODDIK,map1_moneyline,ODDIK,3,Sharp,1.833,1,lost,-1.0,-2.0,,,,selected,2026-07-19 06:04
 map1_specials_v1,2026-07-20 14:00,CCT Europe Series Closed Qualifier,SAW Youngsters vs Misa,map1_moneyline,SAW Youngsters,3,Sharp,2.05,1,won,1.05,-0.95,,,,selected,2026-07-20 04:04
@@ -2233,6 +2263,82 @@ map1_specials_v1,2026-09-24 13:00,,WBT Academy vs Ryvex,map1_moneyline,Ryvex,3,S
 map1_specials_v1,2026-09-24 14:00,CCT Europe Series 10,ex-Zero Tenacity vs BIG Academy,map1_moneyline,BIG Academy,3,Sharp,2.53,1,lost,-1.0,9.281,1.7,specials_hourly,specials_hourly,selected,2026-09-21 14:08
 map1_specials_v1,2026-09-24 16:30,FERJEE In House,Juventus vs Yawara,map1_moneyline,Juventus,3,Sharp,2.21,1,lost,-1.0,8.281,3.59,specials_hourly,specials_hourly,selected,2026-09-24 03:09
 map1_specials_v1,2026-09-24 19:00,CCT South America,Grêmio vs your end,map1_moneyline,your end,3,Sharp,2.23,1,lost,-1.0,7.281,-0.4,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map1_specials_v1,2026-09-24 21:00,ESL Challenger League South America,Keyd Stars vs ALKA,map1_moneyline,ALKA,3,Sharp,2.32,1,won,1.32,8.601,-1.93,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map1_specials_v1,2026-09-25 08:00,Pulse Beat,HEROIC vs fnatic,map1_moneyline,fnatic,3,Sharp,2.54,1,won,1.54,10.141,2.39,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map1_specials_v1,2026-09-25 08:00,Leon Masters,MOUZ NXT vs FaZe Up Next,map1_moneyline,FaZe Up Next,1,Sharp,2.42,1,won,1.42,11.561,0.0,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map1_specials_v1,2026-09-25 08:00,European Pro League,PCIFIC vs Bebop,map1_moneyline,PCIFIC,3,Sharp,1.885,1,won,0.885,12.446,,,,selected,2026-09-25 07:17
+map1_specials_v1,2026-09-25 09:00,Stake Ranked Qualifier,Eternal Fire vs WBT,map1_moneyline,WBT,3,Sharp,2.99,1,lost,-1.0,11.446,0.22,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map1_specials_v1,2026-09-25 11:00,Pulse Beat,100 Thieves vs BBL,map1_moneyline,BBL,3,Sharp,2.24,1,lost,-1.0,10.446,3.24,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map1_specials_v1,2026-09-25 12:00,Stake Ranked Qualifier,Nuclear TigeRES vs ex-Zero Tenacity,map1_moneyline,ex-Zero Tenacity,3,Sharp,2.08,1,won,1.08,11.526,-0.4,specials_hourly,specials_hourly,selected,2026-09-25 02:09
+map1_specials_v1,2026-09-25 12:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map1_moneyline,3DMAX,3,Sharp,1.952,1,lost,-1.0,10.526,6.94,specials_hourly,specials_hourly,selected,2026-09-25 05:09
+map1_specials_v1,2026-09-25 13:00,FERJEE In House,Bounty Hunters vs Yawara,map1_moneyline,Yawara,3,Sharp,2.41,1,lost,-1.0,9.526,1.29,specials_hourly,specials_hourly,selected,2026-09-25 02:09
+map1_specials_v1,2026-09-25 13:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map1_moneyline,3DMAX,3,Sharp,1.893,1,lost,-1.0,8.526,,,,selected,2026-09-25 12:12
+map1_specials_v1,2026-09-25 13:50,Private Club,Ninjas in Pyjamas vs 3DMAX,map1_moneyline,3DMAX,3,Sharp,1.847,1,lost,-1.0,7.526,,,,selected,2026-09-25 13:11
+map1_specials_v1,2026-09-25 14:00,,Omega vs ex-RUSTEC,map1_moneyline,Omega,3,Sharp,2.12,1,lost,-1.0,6.526,-0.39,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map1_specials_v1,2026-09-25 16:00,CCT South America,ALKA vs BORRACHEIROS,map1_moneyline,BORRACHEIROS,3,Sharp,2.22,1,lost,-1.0,5.526,-1.21,specials_hourly,specials_hourly,selected,2026-09-25 07:17
+map1_specials_v1,2026-09-25 16:30,FERJEE In House,Galorys vs Keyd Stars,map1_moneyline,Galorys,3,Sharp,1.676,1,won,0.676,6.202,4.38,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map1_specials_v1,2026-09-25 17:00,iBUYPOWER Masters,NRG vs Wildcard,map1_moneyline,Wildcard,3,Sharp,2.3,1,lost,-1.0,5.202,0.25,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map1_specials_v1,2026-09-25 17:00,,ex-Zero Tenacity vs Illyrians,map1_moneyline,Illyrians,3,Sharp,2.11,1,won,1.11,6.312,0.09,specials_hourly,specials_hourly,selected,2026-09-25 07:17
+map1_specials_v1,2026-09-25 17:30,Private Club,Magic vs EYEBALLERS,map1_moneyline,EYEBALLERS,3,Sharp,2.57,1,won,1.57,7.882,,,,selected,2026-09-25 17:11
+map1_specials_v1,2026-09-25 20:00,iBUYPOWER Masters,M80 vs BESTIA,map1_moneyline,BESTIA,3,Sharp,2.79,1,lost,-1.0,6.882,4.04,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map1_specials_v1,2026-09-25 20:00,,DENDELE vs Voca,map1_moneyline,Voca,3,Sharp,2.86,1,lost,-1.0,5.882,-2.5,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map1_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Galorys vs METANOIA Wolves,map1_moneyline,METANOIA Wolves,3,Sharp,4.04,1,lost,-1.0,4.882,-2.85,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map1_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map1_moneyline,Procyon,3,Sharp,2.65,1,won,1.65,,-4.14,specials_hourly,specials_hourly,quarantined,2026-09-25 00:16
+map1_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Yawara vs Grêmio,map1_moneyline,Grêmio,3,Sharp,2.64,1,lost,-1.0,,0.0,specials_hourly,specials_hourly,quarantined,2026-09-25 04:10
+map1_specials_v1,2026-09-25 21:00,,ALKA vs MEIA NOITE,map1_moneyline,ALKA,3,Sharp,1.585,1,lost,-1.0,3.882,-3.01,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map1_specials_v1,2026-09-26 08:00,CCT Europe Series 9,ex-RUSTEC vs ENCE,map1_moneyline,ENCE,3,Sharp,2.63,1,lost,-1.0,2.882,-0.17,specials_hourly,specials_hourly,selected,2026-09-26 05:14
+map1_specials_v1,2026-09-26 10:00,Pulse Beat,100 Thieves vs Astralis,map1_moneyline,Astralis,3,Sharp,1.917,1,lost,-1.0,1.882,0.44,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map1_specials_v1,2026-09-26 11:00,NODWIN Clutch Series,FOKUS vs SPARTA,map1_moneyline,SPARTA,3,Sharp,2.25,1,won,1.25,3.132,-0.01,specials_hourly,specials_hourly,selected,2026-09-26 00:14
+map1_specials_v1,2026-09-26 13:00,Pulse Beat,HEROIC vs Sangal,map1_moneyline,Sangal,3,Sharp,3.11,1,lost,-1.0,2.132,1.49,specials_hourly,specials_hourly,selected,2026-09-26 00:14
+map1_specials_v1,2026-09-26 16:00,,SAW vs MOUZ NXT,map1_moneyline,MOUZ NXT,3,Sharp,2.5,1,lost,-1.0,1.132,-5.45,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map1_specials_v1,2026-09-26 16:00,,Zetta vs your end,map1_moneyline,Zetta,3,Sharp,3.96,1,won,2.96,,,,,quarantined,2026-09-26 15:14
+map1_specials_v1,2026-09-26 16:30,FERJEE In House,paiN vs Galorys,map1_moneyline,paiN,3,Sharp,1.775,1,won,0.775,1.907,-0.76,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map1_specials_v1,2026-09-26 17:00,,M80 vs Voca,map1_moneyline,Voca,3,Sharp,2.7,1,lost,-1.0,0.907,,,,selected,2026-09-26 16:12
+map1_specials_v1,2026-09-26 21:00,,METANOIA Wolves vs Yawara,map1_moneyline,METANOIA Wolves,3,Sharp,3.65,1,lost,-1.0,,4.07,specials_hourly,specials_hourly,quarantined,2026-09-26 05:14
+map1_specials_v1,2026-09-26 21:00,ESL Challenger League South America,Turma do Pagode vs ALKA,map1_moneyline,ALKA,3,Sharp,2.7,1,lost,-1.0,,0.75,specials_hourly,specials_hourly,quarantined,2026-09-26 10:31
+map1_specials_v1,2026-09-27 00:00,,DENDELE vs Wildcard,map1_moneyline,DENDELE,3,Sharp,1.685,1,won,0.685,1.592,2.19,specials_hourly,specials_hourly,selected,2026-09-26 20:10
+map1_specials_v1,2026-09-27 11:00,,ex-Zero Tenacity vs Saint Sinners,map1_moneyline,Saint Sinners,3,Sharp,2.92,1,lost,-1.0,0.592,-0.47,specials_hourly,specials_hourly,selected,2026-09-27 09:10
+map1_specials_v1,2026-09-27 13:00,,Bounty Hunters vs Galorys,map1_moneyline,Galorys,3,Sharp,1.833,1,lost,-1.0,-0.408,0.42,specials_hourly,specials_hourly,selected,2026-09-26 20:10
+map1_specials_v1,2026-09-27 13:00,,Iberian Soul vs ex-RUSTEC,map1_moneyline,ex-RUSTEC,3,Sharp,2.19,1,won,1.19,0.782,0.17,specials_hourly,specials_hourly,selected,2026-09-27 04:08
+map1_specials_v1,2026-09-27 14:00,,BBL vs SINNERS,map1_moneyline,BBL,3,Sharp,1.99,1,lost,-1.0,-0.218,-4.7,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map1_specials_v1,2026-09-27 14:00,CCT Europe Series 10 Closed Qualifier,Spirit Academy vs megoshort,map1_moneyline,megoshort,3,Sharp,2.87,1,won,1.87,1.652,9.33,specials_hourly,specials_hourly,selected,2026-09-27 09:10
+map1_specials_v1,2026-09-27 16:30,,Fluxo vs SAW,map1_moneyline,Fluxo,3,Sharp,1.909,1,lost,-1.0,0.652,,,,selected,2026-09-27 16:10
+map1_specials_v1,2026-09-27 17:00,,Imperial vs paiN,map1_moneyline,paiN,5,Sharp,2.03,1,lost,-1.0,-0.348,-3.49,specials_hourly,specials_hourly,selected,2026-09-26 20:10
+map1_specials_v1,2026-09-27 17:00,,M80 vs DENDELE,map1_moneyline,DENDELE,3,Sharp,1.917,1,won,0.917,0.569,-4.29,specials_hourly,specials_hourly,selected,2026-09-27 07:10
+map1_specials_v1,2026-09-27 19:00,CCT South America,BESTIA Academy vs Procyon,map1_moneyline,BESTIA Academy,3,Sharp,2.36,1,lost,-1.0,-0.431,2.53,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map1_specials_v1,2026-09-27 21:00,ESL Challenger League South America,Galorys vs Procyon,map1_moneyline,Procyon,3,Sharp,2.62,1,won,1.62,1.189,-2.75,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map1_specials_v1,2026-09-27 21:00,ESL Challenger League South America,Yawara vs Turma do Pagode,map1_moneyline,Yawara,3,Sharp,2.33,1,lost,-1.0,0.189,-2.36,specials_hourly,specials_hourly,selected,2026-09-27 07:10
+map1_specials_v1,2026-09-27 22:00,CCT South America,ALKA vs Mira,map1_moneyline,ALKA,3,Sharp,2.27,1,lost,-1.0,,-2.44,specials_hourly,specials_hourly,quarantined,2026-09-26 16:12
+map1_specials_v1,2026-09-28 10:30,European Pro League,Nexus vs mellren,map1_moneyline,mellren,3,Sharp,1.935,1,won,0.935,1.124,4.54,specials_hourly,specials_hourly,selected,2026-09-28 04:07
+map1_specials_v1,2026-09-28 13:45,,Fire Flux vs BIG Academy,map1_moneyline,Fire Flux,3,Sharp,2.01,1,won,1.01,2.134,0.6,specials_hourly,specials_hourly,selected,2026-09-28 09:11
+map1_specials_v1,2026-09-28 17:00,,EAC vs megoshort,map1_moneyline,megoshort,3,Sharp,2.73,1,lost,-1.0,1.134,-1.57,specials_hourly,specials_hourly,selected,2026-09-28 05:09
+map1_specials_v1,2026-09-29 12:00,Urban Riga Open,Inner Circle Academy vs KUUSAMO,map1_moneyline,KUUSAMO,1,Sharp,3.1,1,lost,-1.0,0.134,2.26,specials_hourly,specials_hourly,selected,2026-09-28 15:09
+map1_specials_v1,2026-09-29 13:45,CCT Europe Challengers,Spirit Academy vs Phantom Academy,map1_moneyline,Phantom Academy,3,Sharp,2.29,1,lost,-1.0,-0.866,3.38,specials_hourly,specials_hourly,selected,2026-09-28 23:09
+map1_specials_v1,2026-09-29 16:00,CCT South America,BORRACHEIROS vs METANOIA Wolves,map1_moneyline,METANOIA Wolves,3,Sharp,2.29,1,lost,-1.0,-1.866,1.46,specials_hourly,specials_hourly,selected,2026-09-28 06:19
+map1_specials_v1,2026-09-29 16:30,Urban Riga Open,ENCE vs Sangal,map1_moneyline,ENCE,1,Sharp,2.9,1,won,1.9,0.034,0.4,specials_hourly,specials_hourly,selected,2026-09-28 15:09
+map1_specials_v1,2026-09-29 16:45,Urban Riga Open,ENCE vs Sangal,map1_moneyline,ENCE,1,Sharp,2.87,1,won,1.87,1.904,0.0,specials_hourly,specials_hourly,selected,2026-09-29 14:08
+map1_specials_v1,2026-09-29 17:30,Urban Riga Open,Aimhaus vs Sangal,map1_moneyline,Aimhaus,1,Sharp,5.33,1,lost,-1.0,,0.01,specials_hourly,specials_hourly,quarantined,2026-09-28 15:09
+map1_specials_v1,2026-09-29 17:45,Urban Riga Open,Aimhaus vs Sangal,map1_moneyline,Aimhaus,1,Sharp,5.33,1,lost,-1.0,,0.01,specials_hourly,specials_hourly,quarantined,2026-09-29 14:08
+map1_specials_v1,2026-09-29 18:30,Urban Riga Open,ENCE vs Aimhaus,map1_moneyline,Aimhaus,1,Sharp,3.5,1,lost,-1.0,,-0.29,specials_hourly,specials_hourly,quarantined,2026-09-28 15:09
+map1_specials_v1,2026-09-29 18:30,Urban Riga Open,Aimhaus vs Sangal,map1_moneyline,Aimhaus,1,Sharp,5.33,1,lost,-1.0,,,,,quarantined,2026-09-29 18:08
+map1_specials_v1,2026-09-29 18:45,Urban Riga Open,ENCE vs Aimhaus,map1_moneyline,Aimhaus,1,Sharp,3.5,1,lost,-1.0,,-0.29,specials_hourly,specials_hourly,quarantined,2026-09-29 14:08
+map1_specials_v1,2026-09-29 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map1_moneyline,Procyon,3,Sharp,2.19,1,lost,-1.0,0.904,-6.97,specials_hourly,specials_hourly,selected,2026-09-29 03:12
+map1_specials_v1,2026-09-30 10:00,Urban Riga Open,Sangal vs KUUSAMO,map1_moneyline,KUUSAMO,3,Sharp,3.67,1,lost,-1.0,-0.096,-0.83,specials_hourly,specials_hourly,selected,2026-09-30 06:11
+map1_specials_v1,2026-09-30 11:00,CCT Europe Challengers,BIG Academy vs MAYBE,map1_moneyline,MAYBE,3,Sharp,2.58,1,won,1.58,1.484,16.37,specials_hourly,specials_hourly,selected,2026-09-30 08:09
+map1_specials_v1,2026-09-30 11:00,,Phantom Academy vs Rounds,map1_moneyline,Rounds,3,Sharp,3.42,1,lost,-1.0,,0.0,specials_hourly,specials_hourly,quarantined,2026-09-30 08:09
+map1_specials_v1,2026-09-30 17:00,,ex-RUSTEC vs BERG,map1_moneyline,BERG,3,Sharp,4.01,1,lost,-1.0,0.484,-1.8,specials_hourly,specials_hourly,selected,2026-09-30 07:08
+map1_specials_v1,2026-09-30 22:00,,METANOIA Wolves vs MEIA NOITE,map1_moneyline,METANOIA Wolves,3,Sharp,2.57,1,won,1.57,2.054,0.0,specials_hourly,specials_hourly,selected,2026-09-30 19:07
+map1_specials_v1,2026-10-01 08:00,CCT Europe Series 10,MASONIC vs Lavked,map1_moneyline,MASONIC,3,Sharp,2.45,1,lost,-1.0,1.054,-2.08,specials_hourly,specials_hourly,selected,2026-09-30 22:08
+map1_specials_v1,2026-10-01 09:15,FOX Legacy,NAVI Junior vs ABT,map1_moneyline,ABT,1,Sharp,3.75,1,lost,-1.0,,-0.41,specials_hourly,specials_hourly,quarantined,2026-09-30 22:08
+map1_specials_v1,2026-10-01 10:00,Stake Ranked,B8 vs Luminosity,map1_moneyline,Luminosity,3,Sharp,2.35,1,won,1.35,2.404,5.84,specials_hourly,specials_hourly,selected,2026-09-28 17:08
+map1_specials_v1,2026-10-01 10:30,FOX Legacy,ABT vs Falcons Force,map1_moneyline,ABT,1,Sharp,2.29,1,won,1.29,3.694,-8.06,specials_hourly,specials_hourly,selected,2026-10-01 06:11
+map1_specials_v1,2026-10-01 11:45,FOX Legacy,NAVI Junior vs Falcons Force,map1_moneyline,Falcons Force,1,Sharp,2.29,1,lost,-1.0,2.694,9.08,specials_hourly,specials_hourly,selected,2026-10-01 06:11
+map1_specials_v1,2026-10-01 12:30,Stake Ranked,BIG vs fnatic,map1_moneyline,fnatic,3,Sharp,2.17,1,won,1.17,3.864,-3.59,specials_hourly,specials_hourly,selected,2026-09-28 13:08
+map1_specials_v1,2026-10-01 13:45,,FORZE Reload vs Fire Flux,map1_moneyline,Fire Flux,3,Sharp,3.02,1,won,2.02,,1.1,specials_hourly,specials_hourly,quarantined,2026-09-28 23:09
+map1_specials_v1,2026-10-01 16:00,CCT South America,Yawara vs BORRACHEIROS,map1_moneyline,BORRACHEIROS,3,Sharp,2.45,1,lost,-1.0,,-0.98,specials_hourly,specials_hourly,quarantined,2026-10-01 07:13
+map1_specials_v1,2026-10-01 16:15,FOX Legacy,SINQU vs SAW,map1_moneyline,SINQU,1,Sharp,8.37,1,lost,-1.0,,-0.21,specials_hourly,specials_hourly,quarantined,2026-09-30 22:08
+map1_specials_v1,2026-10-01 16:45,FOX Legacy,SINQU vs SAW,map1_moneyline,SINQU,1,Sharp,8.55,1,lost,-1.0,,,,,quarantined,2026-10-01 16:10
+map1_specials_v1,2026-10-01 17:00,CCT Europe Series 10,EAC vs ex-Zero Tenacity,map1_moneyline,EAC,3,Sharp,2.23,1,lost,-1.0,2.864,0.74,specials_hourly,specials_hourly,selected,2026-09-30 19:07
 map2_specials_v1,2026-07-22 10:00,BLAST Bounty Qualifier,EYEBALLERS vs FaZe,map2_moneyline,EYEBALLERS,3,Sharp,3.29,1,lost,-1.0,-1.0,,,,selected,2026-07-22 00:04
 map2_specials_v1,2026-07-22 10:00,StarLadder StarSeries Fall Europe Qualifier,HOTU vs Astralis,map2_moneyline,HOTU,3,Sharp,2.38,1,won,1.38,0.38,,,,selected,2026-07-22 03:04
 map2_specials_v1,2026-07-22 10:30,European Pro League,Eternal Fire vs CYBERSHOKE,map2_moneyline,CYBERSHOKE,3,Sharp,2.0,1,won,1.0,1.38,,,,selected,2026-07-22 06:04
@@ -2809,6 +2915,75 @@ map2_specials_v1,2026-09-24 13:00,,WBT Academy vs Ryvex,map2_moneyline,Ryvex,3,S
 map2_specials_v1,2026-09-24 14:00,CCT Europe Series 10,ex-Zero Tenacity vs BIG Academy,map2_moneyline,BIG Academy,3,Sharp,2.53,1,lost,-1.0,-91.549,1.7,specials_hourly,specials_hourly,selected,2026-09-21 14:08
 map2_specials_v1,2026-09-24 16:30,FERJEE In House,Juventus vs Yawara,map2_moneyline,Juventus,3,Sharp,2.21,1,lost,-1.0,-92.549,-4.55,specials_hourly,specials_hourly,selected,2026-09-24 03:09
 map2_specials_v1,2026-09-24 19:00,CCT South America,Grêmio vs your end,map2_moneyline,your end,3,Sharp,2.23,1,lost,-1.0,-93.549,-0.4,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map2_specials_v1,2026-09-24 21:00,ESL Challenger League South America,Keyd Stars vs ALKA,map2_moneyline,ALKA,3,Sharp,2.32,1,won,1.32,-92.229,-1.93,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map2_specials_v1,2026-09-25 08:00,European Pro League,PCIFIC vs Bebop,map2_moneyline,PCIFIC,3,Sharp,1.885,1,won,0.885,-91.344,,,,selected,2026-09-25 07:17
+map2_specials_v1,2026-09-25 09:00,Stake Ranked Qualifier,Eternal Fire vs WBT,map2_moneyline,WBT,3,Sharp,2.99,1,lost,-1.0,-92.344,0.66,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map2_specials_v1,2026-09-25 11:00,Pulse Beat,100 Thieves vs BBL,map2_moneyline,BBL,3,Sharp,2.24,1,lost,-1.0,-93.344,-5.02,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map2_specials_v1,2026-09-25 12:00,Stake Ranked Qualifier,Nuclear TigeRES vs ex-Zero Tenacity,map2_moneyline,ex-Zero Tenacity,3,Sharp,2.25,1,lost,-1.0,-94.344,2.25,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map2_specials_v1,2026-09-25 12:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map2_moneyline,3DMAX,3,Sharp,1.99,1,lost,-1.0,-95.344,-1.92,specials_hourly,specials_hourly,selected,2026-09-25 05:09
+map2_specials_v1,2026-09-25 13:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map2_moneyline,3DMAX,3,Sharp,2.21,1,lost,-1.0,,,,,quarantined,2026-09-25 12:12
+map2_specials_v1,2026-09-25 13:50,Private Club,Ninjas in Pyjamas vs 3DMAX,map2_moneyline,3DMAX,3,Sharp,2.16,1,lost,-1.0,,,,,quarantined,2026-09-25 13:11
+map2_specials_v1,2026-09-25 14:00,,Omega vs ex-RUSTEC,map2_moneyline,Omega,3,Sharp,2.12,1,won,1.12,-94.224,-0.39,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map2_specials_v1,2026-09-25 16:00,CCT South America,ALKA vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,2.22,1,lost,-1.0,-95.224,-1.21,specials_hourly,specials_hourly,selected,2026-09-25 07:17
+map2_specials_v1,2026-09-25 16:30,FERJEE In House,Galorys vs Keyd Stars,map2_moneyline,Galorys,3,Sharp,1.602,1,won,0.602,-94.622,7.09,specials_hourly,specials_hourly,selected,2026-09-25 02:09
+map2_specials_v1,2026-09-25 17:00,iBUYPOWER Masters,NRG vs Wildcard,map2_moneyline,Wildcard,3,Sharp,2.3,1,lost,-1.0,-95.622,0.0,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map2_specials_v1,2026-09-25 17:00,,ex-Zero Tenacity vs Illyrians,map2_moneyline,Illyrians,3,Sharp,2.24,1,lost,-1.0,-96.622,-1.0,specials_hourly,specials_hourly,selected,2026-09-25 14:09
+map2_specials_v1,2026-09-25 17:30,Private Club,Magic vs EYEBALLERS,map2_moneyline,EYEBALLERS,3,Sharp,3.03,1,lost,-1.0,-97.622,-0.86,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map2_specials_v1,2026-09-25 20:00,iBUYPOWER Masters,M80 vs BESTIA,map2_moneyline,BESTIA,3,Sharp,2.79,1,lost,-1.0,-98.622,1.84,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map2_specials_v1,2026-09-25 20:00,,DENDELE vs Voca,map2_moneyline,Voca,3,Sharp,2.86,1,lost,-1.0,-99.622,-4.33,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map2_specials_v1,2026-09-25 20:30,Private Club,GamerLegion vs K27,map2_moneyline,K27,3,Sharp,2.1,1,lost,-1.0,-100.622,-0.29,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map2_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Galorys vs METANOIA Wolves,map2_moneyline,METANOIA Wolves,3,Sharp,4.04,1,lost,-1.0,-101.622,-2.85,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map2_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map2_moneyline,Procyon,3,Sharp,2.65,1,won,1.65,,-5.56,specials_hourly,specials_hourly,quarantined,2026-09-25 00:16
+map2_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Yawara vs Grêmio,map2_moneyline,Grêmio,3,Sharp,2.64,1,won,1.64,-99.982,-2.18,specials_hourly,specials_hourly,selected,2026-09-25 04:10
+map2_specials_v1,2026-09-25 21:00,,ALKA vs MEIA NOITE,map2_moneyline,ALKA,3,Sharp,1.585,1,won,0.585,-99.397,-3.56,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map2_specials_v1,2026-09-25 21:00,Private Club,GamerLegion vs K27,map2_moneyline,K27,3,Sharp,2.11,1,lost,-1.0,-100.397,,,,selected,2026-09-25 20:10
+map2_specials_v1,2026-09-26 08:00,CCT Europe Series 9,ex-RUSTEC vs ENCE,map2_moneyline,ENCE,3,Sharp,2.63,1,lost,-1.0,-101.397,-0.17,specials_hourly,specials_hourly,selected,2026-09-26 05:14
+map2_specials_v1,2026-09-26 09:00,Stake Ranked Qualifier,fnatic vs Iberian Soul,map2_moneyline,Iberian Soul,3,Sharp,2.83,1,lost,-1.0,-102.397,5.82,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 10:00,Pulse Beat,100 Thieves vs Astralis,map2_moneyline,Astralis,3,Sharp,1.746,1,won,0.746,-101.651,4.34,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 13:00,FERJEE In House,Imperial vs Bounty Hunters,map2_moneyline,Bounty Hunters,3,Sharp,2.9,1,lost,-1.0,-102.651,1.19,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 13:00,,HEROIC vs Sangal,map2_moneyline,Sangal,3,Sharp,3.78,1,won,2.78,-99.871,3.39,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 15:00,Private Club,SINNERS vs Ninjas in Pyjamas,map2_moneyline,SINNERS,3,Sharp,2.38,1,lost,-1.0,-100.871,0.47,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 16:00,,SAW vs MOUZ NXT,map2_moneyline,MOUZ NXT,3,Sharp,3.0,1,lost,-1.0,,-2.87,specials_hourly,specials_hourly,quarantined,2026-09-25 21:12
+map2_specials_v1,2026-09-26 16:00,,Zetta vs your end,map2_moneyline,Zetta,3,Sharp,3.96,1,lost,-1.0,,,,,quarantined,2026-09-26 15:14
+map2_specials_v1,2026-09-26 16:30,FERJEE In House,paiN vs Galorys,map2_moneyline,Galorys,3,Sharp,2.75,1,lost,-1.0,-101.871,12.18,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map2_specials_v1,2026-09-26 17:00,,M80 vs Voca,map2_moneyline,Voca,3,Sharp,3.08,1,lost,-1.0,-102.871,-1.78,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map2_specials_v1,2026-09-26 21:00,,METANOIA Wolves vs Yawara,map2_moneyline,METANOIA Wolves,3,Sharp,3.65,1,won,2.65,,4.07,specials_hourly,specials_hourly,quarantined,2026-09-26 05:14
+map2_specials_v1,2026-09-26 21:00,ESL Challenger League South America,Turma do Pagode vs ALKA,map2_moneyline,ALKA,3,Sharp,2.7,1,won,1.7,-101.171,0.75,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map2_specials_v1,2026-09-26 21:00,,Liquid vs M80,map2_moneyline,M80,3,Sharp,2.23,1,lost,-1.0,-102.171,,,,selected,2026-09-26 20:10
+map2_specials_v1,2026-09-27 08:00,,Iberian Soul vs FOKUS,map2_moneyline,Iberian Soul,3,Sharp,2.29,1,lost,-1.0,-103.171,1.87,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map2_specials_v1,2026-09-27 10:00,CCT Europe Series 9,Iberian Soul vs ex-RUSTEC,map2_moneyline,ex-RUSTEC,3,Sharp,2.19,1,won,1.19,-101.981,0.0,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map2_specials_v1,2026-09-27 10:30,,PCIFIC vs mellren,map2_moneyline,mellren,3,Sharp,1.893,1,won,0.893,-101.088,6.22,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map2_specials_v1,2026-09-27 11:30,Private Club,GamerLegion vs 3DMAX,map2_moneyline,3DMAX,3,Sharp,2.14,1,won,1.14,-99.948,,,,selected,2026-09-27 11:11
+map2_specials_v1,2026-09-27 12:00,Private Club,GamerLegion vs 3DMAX,map2_moneyline,3DMAX,3,Sharp,2.15,1,won,1.15,-98.798,0.27,specials_hourly,specials_hourly,selected,2026-09-27 03:09
+map2_specials_v1,2026-09-27 13:00,CCT Europe Series 9,Iberian Soul vs ex-RUSTEC,map2_moneyline,ex-RUSTEC,3,Sharp,2.19,1,won,1.19,-97.608,0.17,specials_hourly,specials_hourly,selected,2026-09-27 03:09
+map2_specials_v1,2026-09-27 14:00,CCT Europe Series 10 Closed Qualifier,Spirit Academy vs megoshort,map2_moneyline,megoshort,3,Sharp,2.87,1,won,1.87,-95.738,9.33,specials_hourly,specials_hourly,selected,2026-09-27 09:10
+map2_specials_v1,2026-09-27 14:00,NODWIN Clutch Series,BBL vs SINNERS,map2_moneyline,BBL,3,Sharp,2.05,1,lost,-1.0,-96.738,0.0,specials_hourly,specials_hourly,selected,2026-09-27 12:11
+map2_specials_v1,2026-09-27 16:30,,Fluxo vs SAW,map2_moneyline,Fluxo,3,Sharp,1.758,1,won,0.758,-95.98,,,,selected,2026-09-27 16:10
+map2_specials_v1,2026-09-27 17:00,NODWIN Clutch Series,Nemiga vs Color,map2_moneyline,Color,3,Sharp,2.52,1,won,1.52,-94.46,-1.09,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map2_specials_v1,2026-09-27 17:00,FERJEE In House,Imperial vs paiN,map2_moneyline,paiN,5,Sharp,2.03,1,lost,-1.0,-95.46,-4.11,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map2_specials_v1,2026-09-27 19:00,CCT South America,BESTIA Academy vs Procyon,map2_moneyline,BESTIA Academy,3,Sharp,2.36,1,won,1.36,-94.1,2.53,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map2_specials_v1,2026-09-27 21:00,ESL Challenger League South America,Galorys vs Procyon,map2_moneyline,Procyon,3,Sharp,2.65,1,lost,-1.0,-95.1,-7.54,specials_hourly,specials_hourly,selected,2026-09-26 23:12
+map2_specials_v1,2026-09-27 21:30,iBUYPOWER Masters,Liquid vs Wildcard,map2_moneyline,Wildcard,3,Sharp,2.86,1,lost,-1.0,-96.1,1.36,specials_hourly,specials_hourly,selected,2026-09-27 11:12
+map2_specials_v1,2026-09-27 22:00,CCT South America,ALKA vs Mira,map2_moneyline,ALKA,3,Sharp,1.8,1,lost,-1.0,-97.1,-4.63,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map2_specials_v1,2026-09-27 22:30,iBUYPOWER Masters,Liquid vs Wildcard,map2_moneyline,Wildcard,3,Sharp,2.97,1,lost,-1.0,-98.1,,,,selected,2026-09-27 22:08
+map2_specials_v1,2026-09-28 10:30,,Nexus vs mellren,map2_moneyline,mellren,3,Sharp,1.971,1,lost,-1.0,-99.1,5.53,specials_hourly,specials_hourly,selected,2026-09-27 18:08
+map2_specials_v1,2026-09-28 11:00,NODWIN Clutch Series,Nemiga vs FOKUS,map2_moneyline,FOKUS,3,Sharp,2.41,1,lost,-1.0,-100.1,3.65,specials_hourly,specials_hourly,selected,2026-09-28 03:08
+map2_specials_v1,2026-09-28 13:45,,Fire Flux vs BIG Academy,map2_moneyline,Fire Flux,3,Sharp,2.01,1,won,1.01,-99.09,0.6,specials_hourly,specials_hourly,selected,2026-09-28 09:11
+map2_specials_v1,2026-09-28 17:00,,EAC vs megoshort,map2_moneyline,megoshort,3,Sharp,2.73,1,lost,-1.0,-100.09,-1.36,specials_hourly,specials_hourly,selected,2026-09-28 05:09
+map2_specials_v1,2026-09-29 13:45,CCT Europe Challengers,Spirit Academy vs Phantom Academy,map2_moneyline,Phantom Academy,3,Sharp,2.29,1,lost,-1.0,-101.09,3.38,specials_hourly,specials_hourly,selected,2026-09-28 23:09
+map2_specials_v1,2026-09-29 16:00,CCT South America,BORRACHEIROS vs METANOIA Wolves,map2_moneyline,METANOIA Wolves,3,Sharp,2.29,1,lost,-1.0,-102.09,1.46,specials_hourly,specials_hourly,selected,2026-09-28 06:19
+map2_specials_v1,2026-09-29 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map2_moneyline,Procyon,3,Sharp,2.44,1,lost,-1.0,-103.09,-4.12,specials_hourly,specials_hourly,selected,2026-09-29 07:09
+map2_specials_v1,2026-09-30 10:00,Urban Riga Open,Sangal vs KUUSAMO,map2_moneyline,KUUSAMO,3,Sharp,4.84,1,lost,-1.0,-104.09,0.89,specials_hourly,specials_hourly,selected,2026-09-30 06:11
+map2_specials_v1,2026-09-30 11:00,CCT Europe Challengers,BIG Academy vs MAYBE,map2_moneyline,MAYBE,3,Sharp,2.58,1,won,1.58,-102.51,16.97,specials_hourly,specials_hourly,selected,2026-09-30 08:09
+map2_specials_v1,2026-09-30 11:00,,Phantom Academy vs Rounds,map2_moneyline,Rounds,3,Sharp,3.42,1,lost,-1.0,-103.51,0.0,specials_hourly,specials_hourly,selected,2026-09-30 08:09
+map2_specials_v1,2026-09-30 17:00,,ex-RUSTEC vs BERG,map2_moneyline,BERG,3,Sharp,4.01,1,lost,-1.0,-104.51,-1.59,specials_hourly,specials_hourly,selected,2026-09-30 07:08
+map2_specials_v1,2026-09-30 17:00,ESEA Finals Europe,Young TigeRES vs Fire Flux,map2_moneyline,Fire Flux,3,Sharp,1.671,1,won,0.671,-103.839,,,,selected,2026-09-30 16:08
+map2_specials_v1,2026-09-30 22:00,,METANOIA Wolves vs MEIA NOITE,map2_moneyline,METANOIA Wolves,3,Sharp,2.57,1,lost,-1.0,-104.839,0.0,specials_hourly,specials_hourly,selected,2026-09-30 19:07
+map2_specials_v1,2026-10-01 08:00,CCT Europe Series 10,MASONIC vs Lavked,map2_moneyline,MASONIC,3,Sharp,2.44,1,lost,-1.0,-105.839,-2.16,specials_hourly,specials_hourly,selected,2026-09-30 22:08
+map2_specials_v1,2026-10-01 12:30,Stake Ranked,BIG vs fnatic,map2_moneyline,fnatic,3,Sharp,2.27,1,lost,-1.0,-106.839,-1.89,specials_hourly,specials_hourly,selected,2026-09-28 15:09
+map2_specials_v1,2026-10-01 13:45,,FORZE Reload vs Fire Flux,map2_moneyline,Fire Flux,3,Sharp,3.02,1,lost,-1.0,,1.1,specials_hourly,specials_hourly,quarantined,2026-09-28 23:09
+map2_specials_v1,2026-10-01 16:00,CCT South America,Yawara vs BORRACHEIROS,map2_moneyline,BORRACHEIROS,3,Sharp,2.45,1,lost,-1.0,,0.01,specials_hourly,specials_hourly,quarantined,2026-10-01 07:13
+map2_specials_v1,2026-10-01 17:00,CCT Europe Series 10,EAC vs ex-Zero Tenacity,map2_moneyline,EAC,3,Sharp,2.23,1,won,1.23,-105.609,1.01,specials_hourly,specials_hourly,selected,2026-09-30 19:07
 map3_specials_v1,2026-07-22 11:00,CCT Europe Series,SPARTA vs SAW Youngsters,map3_moneyline,SAW Youngsters,3,Sharp,2.57,1,lost,-1.0,,,,,quarantined,2026-07-22 00:04
 map3_specials_v1,2026-07-22 11:00,,Enjoy vs Fortress,map3_moneyline,Fortress,3,Sharp,4.03,1,lost,-1.0,,,,,quarantined,2026-07-22 02:05
 map3_specials_v1,2026-07-22 16:00,,Nuclear TigeRES vs Echo,map3_moneyline,Echo,3,Sharp,2.16,1,void,0.0,,,,,selected,2026-07-22 00:04
@@ -3203,3 +3378,64 @@ map3_specials_v1,2026-09-24 14:00,CCT Europe Series 10,ex-Zero Tenacity vs BIG A
 map3_specials_v1,2026-09-24 16:30,FERJEE In House,Turma do Pagode vs Keyd Stars,map3_moneyline,Turma do Pagode,3,Sharp,1.826,1,lost,-1.0,-23.487,3.51,specials_hourly,specials_hourly,selected,2026-09-24 03:09
 map3_specials_v1,2026-09-24 16:30,FERJEE In House,Juventus vs Yawara,map3_moneyline,Juventus,3,Sharp,2.14,1,void,0.0,,-2.57,specials_hourly,specials_hourly,selected,2026-09-24 03:09
 map3_specials_v1,2026-09-24 19:00,CCT South America,Grêmio vs your end,map3_moneyline,your end,3,Sharp,2.16,1,void,0.0,,-0.44,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map3_specials_v1,2026-09-24 21:00,ESL Challenger League South America,Keyd Stars vs ALKA,map3_moneyline,ALKA,3,Sharp,2.25,1,void,0.0,,-2.13,specials_hourly,specials_hourly,selected,2026-09-24 06:12
+map3_specials_v1,2026-09-24 21:00,ESL Challenger League South America,Bounty Hunters vs Yawara,map3_moneyline,Bounty Hunters,3,Sharp,1.538,1,lost,-1.0,-24.487,,,,selected,2026-09-24 20:09
+map3_specials_v1,2026-09-25 08:00,European Pro League,PCIFIC vs Bebop,map3_moneyline,PCIFIC,3,Sharp,1.885,1,void,0.0,,,,,selected,2026-09-25 07:17
+map3_specials_v1,2026-09-25 09:00,Stake Ranked Qualifier,Eternal Fire vs WBT,map3_moneyline,WBT,3,Sharp,2.8,1,void,0.0,,0.56,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map3_specials_v1,2026-09-25 12:00,Stake Ranked Qualifier,Nuclear TigeRES vs ex-Zero Tenacity,map3_moneyline,ex-Zero Tenacity,3,Sharp,2.02,1,lost,-1.0,-25.487,0.45,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map3_specials_v1,2026-09-25 12:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map3_moneyline,3DMAX,3,Sharp,1.893,1,void,0.0,,2.1,specials_hourly,specials_hourly,selected,2026-09-25 05:09
+map3_specials_v1,2026-09-25 13:00,Private Club,Ninjas in Pyjamas vs 3DMAX,map3_moneyline,3DMAX,3,Sharp,1.98,1,void,0.0,,,,,selected,2026-09-25 12:12
+map3_specials_v1,2026-09-25 13:50,Private Club,Ninjas in Pyjamas vs 3DMAX,map3_moneyline,3DMAX,3,Sharp,1.943,1,void,0.0,,,,,selected,2026-09-25 13:11
+map3_specials_v1,2026-09-25 16:00,CCT South America,ALKA vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,Sharp,2.18,1,void,0.0,,-1.19,specials_hourly,specials_hourly,selected,2026-09-25 07:17
+map3_specials_v1,2026-09-25 16:30,FERJEE In House,Galorys vs Keyd Stars,map3_moneyline,Galorys,3,Sharp,1.667,1,void,0.0,,5.28,specials_hourly,specials_hourly,selected,2026-09-25 05:09
+map3_specials_v1,2026-09-25 17:00,iBUYPOWER Masters,NRG vs Wildcard,map3_moneyline,Wildcard,3,Sharp,2.24,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map3_specials_v1,2026-09-25 17:00,CCT Europe Series 10 Closed Qualifier,ex-Zero Tenacity vs Illyrians,map3_moneyline,Illyrians,3,Sharp,2.3,1,lost,-1.0,-26.487,0.46,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map3_specials_v1,2026-09-25 17:30,Private Club,Magic vs EYEBALLERS,map3_moneyline,EYEBALLERS,3,Sharp,2.77,1,lost,-1.0,-27.487,-0.92,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map3_specials_v1,2026-09-25 20:00,iBUYPOWER Masters,M80 vs BESTIA,map3_moneyline,BESTIA,3,Sharp,2.66,1,void,0.0,,2.33,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map3_specials_v1,2026-09-25 20:00,,DENDELE vs Voca,map3_moneyline,Voca,3,Sharp,2.79,1,void,0.0,,-2.98,specials_hourly,specials_hourly,selected,2026-09-25 06:12
+map3_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Galorys vs METANOIA Wolves,map3_moneyline,METANOIA Wolves,3,Sharp,3.92,1,void,0.0,,-3.01,specials_hourly,specials_hourly,selected,2026-09-25 00:16
+map3_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map3_moneyline,Procyon,3,Sharp,2.55,1,void,0.0,,-5.83,specials_hourly,specials_hourly,quarantined,2026-09-25 00:16
+map3_specials_v1,2026-09-25 21:00,ESL Challenger League South America,Yawara vs Grêmio,map3_moneyline,Grêmio,3,Sharp,2.58,1,lost,-1.0,-28.487,0.01,specials_hourly,specials_hourly,selected,2026-09-25 04:10
+map3_specials_v1,2026-09-25 21:00,,ALKA vs MEIA NOITE,map3_moneyline,ALKA,3,Sharp,1.617,1,won,0.617,-27.87,-3.49,specials_hourly,specials_hourly,selected,2026-09-25 15:13
+map3_specials_v1,2026-09-26 08:00,CCT Europe Series 9,ex-RUSTEC vs ENCE,map3_moneyline,ENCE,3,Sharp,2.55,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-09-26 05:14
+map3_specials_v1,2026-09-26 10:00,Pulse Beat,100 Thieves vs Astralis,map3_moneyline,Astralis,3,Sharp,1.82,1,lost,-1.0,-28.87,2.68,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map3_specials_v1,2026-09-26 13:00,,HEROIC vs Sangal,map3_moneyline,Sangal,3,Sharp,3.34,1,lost,-1.0,-29.87,3.53,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map3_specials_v1,2026-09-26 13:00,FERJEE In House,Imperial vs Bounty Hunters,map3_moneyline,Bounty Hunters,3,Sharp,2.76,1,void,0.0,,0.98,specials_hourly,specials_hourly,selected,2026-09-26 00:14
+map3_specials_v1,2026-09-26 15:00,,Nuclear TigeRES vs Eternal Fire,map3_moneyline,Nuclear TigeRES,3,Sharp,2.21,1,lost,-1.0,-30.87,1.74,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map3_specials_v1,2026-09-26 15:00,Private Club,SINNERS vs Ninjas in Pyjamas,map3_moneyline,SINNERS,3,Sharp,2.17,1,lost,-1.0,-31.87,0.18,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map3_specials_v1,2026-09-26 16:00,,SAW vs MOUZ NXT,map3_moneyline,MOUZ NXT,3,Sharp,2.74,1,void,0.0,,-4.09,specials_hourly,specials_hourly,selected,2026-09-25 21:12
+map3_specials_v1,2026-09-26 16:00,,Zetta vs your end,map3_moneyline,Zetta,3,Sharp,3.94,1,won,2.94,,,,,quarantined,2026-09-26 15:14
+map3_specials_v1,2026-09-26 16:30,FERJEE In House,paiN vs Galorys,map3_moneyline,paiN,3,Sharp,1.787,1,void,0.0,,0.3,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map3_specials_v1,2026-09-26 17:00,,M80 vs Voca,map3_moneyline,Voca,3,Sharp,2.72,1,void,0.0,,-2.57,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map3_specials_v1,2026-09-26 21:00,,METANOIA Wolves vs Yawara,map3_moneyline,METANOIA Wolves,3,Sharp,3.53,1,lost,-1.0,,3.99,specials_hourly,specials_hourly,quarantined,2026-09-26 05:14
+map3_specials_v1,2026-09-26 21:00,ESL Challenger League South America,Turma do Pagode vs ALKA,map3_moneyline,ALKA,3,Sharp,2.63,1,lost,-1.0,,0.73,specials_hourly,specials_hourly,quarantined,2026-09-26 10:31
+map3_specials_v1,2026-09-27 08:00,NODWIN Clutch Series,Iberian Soul vs FOKUS,map3_moneyline,Iberian Soul,3,Sharp,2.15,1,void,0.0,,3.17,specials_hourly,specials_hourly,selected,2026-09-27 04:08
+map3_specials_v1,2026-09-27 10:30,,PCIFIC vs mellren,map3_moneyline,mellren,3,Sharp,1.877,1,void,0.0,,6.16,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map3_specials_v1,2026-09-27 14:00,CCT Europe Series 10 Closed Qualifier,Spirit Academy vs megoshort,map3_moneyline,megoshort,3,Sharp,2.84,1,void,0.0,,4.14,specials_hourly,specials_hourly,selected,2026-09-27 09:10
+map3_specials_v1,2026-09-27 14:00,NODWIN Clutch Series,BBL vs SINNERS,map3_moneyline,BBL,3,Sharp,2.15,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-09-27 12:11
+map3_specials_v1,2026-09-27 16:30,,Fluxo vs SAW,map3_moneyline,Fluxo,3,Sharp,1.833,1,lost,-1.0,-32.87,,,,selected,2026-09-27 16:10
+map3_specials_v1,2026-09-27 17:00,,Imperial vs paiN,map3_moneyline,paiN,5,Sharp,2.03,1,lost,-1.0,-33.87,-4.11,specials_hourly,specials_hourly,selected,2026-09-26 20:10
+map3_specials_v1,2026-09-27 17:00,NODWIN Clutch Series,Nemiga vs Color,map3_moneyline,Color,3,Sharp,2.41,1,lost,-1.0,-34.87,0.0,specials_hourly,specials_hourly,selected,2026-09-27 15:11
+map3_specials_v1,2026-09-27 17:00,,M80 vs DENDELE,map3_moneyline,DENDELE,3,Sharp,1.909,1,lost,-1.0,-35.87,0.23,specials_hourly,specials_hourly,selected,2026-09-27 15:11
+map3_specials_v1,2026-09-27 19:00,CCT South America,BESTIA Academy vs Procyon,map3_moneyline,BESTIA Academy,3,Sharp,2.31,1,void,0.0,,2.61,specials_hourly,specials_hourly,selected,2026-09-26 10:31
+map3_specials_v1,2026-09-27 21:00,ESL Challenger League South America,Galorys vs Procyon,map3_moneyline,Procyon,3,Sharp,2.57,1,won,1.57,-34.3,-5.99,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map3_specials_v1,2026-09-27 21:00,ESL Challenger League South America,Yawara vs Turma do Pagode,map3_moneyline,Yawara,3,Sharp,2.18,1,void,0.0,,-2.67,specials_hourly,specials_hourly,selected,2026-09-27 07:10
+map3_specials_v1,2026-09-27 21:30,iBUYPOWER Masters,Liquid vs Wildcard,map3_moneyline,Wildcard,3,Sharp,2.63,1,void,0.0,,1.09,specials_hourly,specials_hourly,selected,2026-09-27 13:10
+map3_specials_v1,2026-09-27 22:00,CCT South America,ALKA vs Mira,map3_moneyline,ALKA,3,Sharp,1.714,1,void,0.0,,-9.36,specials_hourly,specials_hourly,selected,2026-09-26 16:12
+map3_specials_v1,2026-09-27 22:30,iBUYPOWER Masters,Liquid vs Wildcard,map3_moneyline,Wildcard,3,Sharp,2.63,1,void,0.0,,,,,selected,2026-09-27 22:08
+map3_specials_v1,2026-09-28 10:30,European Pro League,Nexus vs mellren,map3_moneyline,mellren,3,Sharp,1.909,1,won,0.909,-33.391,2.56,specials_hourly,specials_hourly,selected,2026-09-28 04:07
+map3_specials_v1,2026-09-28 13:45,,Fire Flux vs BIG Academy,map3_moneyline,Fire Flux,3,Sharp,2.01,1,void,0.0,,0.6,specials_hourly,specials_hourly,selected,2026-09-28 09:11
+map3_specials_v1,2026-09-28 17:00,,EAC vs megoshort,map3_moneyline,megoshort,3,Sharp,2.6,1,void,0.0,,-1.68,specials_hourly,specials_hourly,selected,2026-09-28 05:09
+map3_specials_v1,2026-09-29 13:45,CCT Europe Challengers,Spirit Academy vs Phantom Academy,map3_moneyline,Phantom Academy,3,Sharp,2.22,1,void,0.0,,3.13,specials_hourly,specials_hourly,selected,2026-09-28 23:09
+map3_specials_v1,2026-09-29 17:00,ESEA Finals Europe,Fire Flux vs NAVI Junior,map3_moneyline,Fire Flux,3,Sharp,1.855,1,won,0.855,-32.536,1.44,specials_hourly,specials_hourly,selected,2026-09-29 15:09
+map3_specials_v1,2026-09-29 21:00,ESL Challenger League South America,Procyon vs Turma do Pagode,map3_moneyline,Procyon,3,Sharp,2.11,1,void,0.0,,-7.82,specials_hourly,specials_hourly,selected,2026-09-29 03:12
+map3_specials_v1,2026-09-30 10:00,Urban Riga Open,Sangal vs KUUSAMO,map3_moneyline,KUUSAMO,3,Sharp,4.21,1,void,0.0,,0.09,specials_hourly,specials_hourly,selected,2026-09-30 06:11
+map3_specials_v1,2026-09-30 11:00,CCT Europe Challengers,BIG Academy vs MAYBE,map3_moneyline,MAYBE,3,Sharp,2.58,1,void,0.0,,20.72,specials_hourly,specials_hourly,selected,2026-09-30 08:09
+map3_specials_v1,2026-09-30 11:00,,Phantom Academy vs Rounds,map3_moneyline,Rounds,3,Sharp,3.42,1,void,0.0,,0.0,specials_hourly,specials_hourly,quarantined,2026-09-30 08:09
+map3_specials_v1,2026-09-30 17:00,,ex-RUSTEC vs BERG,map3_moneyline,BERG,3,Sharp,3.77,1,void,0.0,,-2.44,specials_hourly,specials_hourly,selected,2026-09-30 07:08
+map3_specials_v1,2026-09-30 22:00,,METANOIA Wolves vs MEIA NOITE,map3_moneyline,METANOIA Wolves,3,Sharp,2.47,1,lost,-1.0,-33.536,0.0,specials_hourly,specials_hourly,selected,2026-09-30 19:07
+map3_specials_v1,2026-10-01 08:00,CCT Europe Series 10,MASONIC vs Lavked,map3_moneyline,MASONIC,3,Sharp,2.4,1,void,0.0,,-2.16,specials_hourly,specials_hourly,selected,2026-09-30 22:08
+map3_specials_v1,2026-10-01 10:00,Stake Ranked,B8 vs Luminosity,map3_moneyline,B8,3,Sharp,1.87,1,void,0.0,,0.45,specials_hourly,specials_hourly,selected,2026-09-30 14:08
+map3_specials_v1,2026-10-01 12:30,Stake Ranked,BIG vs fnatic,map3_moneyline,fnatic,3,Sharp,2.19,1,lost,-1.0,-34.536,-1.22,specials_hourly,specials_hourly,selected,2026-09-28 15:09
+map3_specials_v1,2026-10-01 13:45,,FORZE Reload vs Fire Flux,map3_moneyline,Fire Flux,3,Sharp,2.95,1,lost,-1.0,-35.536,1.02,specials_hourly,specials_hourly,selected,2026-09-28 23:09
+map3_specials_v1,2026-10-01 16:00,CCT South America,Yawara vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,Sharp,2.45,1,void,0.0,,0.01,specials_hourly,specials_hourly,quarantined,2026-10-01 07:13
