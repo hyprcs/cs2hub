@@ -700,7 +700,7 @@ moneyline_flag_band,2026-09-29 12:35,,Inner Circle Academy vs KUUSAMO,moneyline,
 moneyline_flag_band,2026-09-29 13:50,,Spirit Academy vs Phantom Academy,moneyline,Spirit Academy,3,Sharp,1.606,1,won,0.606,-31.943,2.52,Sharp,close,no_bet,2026-09-29 08:16
 moneyline_flag_band,2026-09-29 15:45,,ex-RUSTEC vs Nexus,moneyline,ex-RUSTEC,3,Sharp,1.518,1,lost,-1.0,-32.943,0.77,Sharp,hourly,eligible,2026-09-29 08:16
 moneyline_flag_band,2026-09-29 16:00,,BORRACHEIROS vs METANOIA Wolves,moneyline,BORRACHEIROS,3,Sharp,1.529,1,won,0.529,-32.414,0.35,Sharp,close,eligible,2026-09-29 08:16
-moneyline_flag_band,2026-09-29 17:45,,ENCE vs Sangal,moneyline,ENCE,1,Sharp,2.87,1,won,1.87,-30.544,,,hourly,eligible,2026-09-29 17:15
+moneyline_flag_band,2026-09-29 17:50,,ENCE vs Sangal,moneyline,ENCE,1,Sharp,2.87,1,won,1.87,-30.544,,,hourly,eligible,2026-09-29 17:15
 moneyline_flag_band,2026-09-29 20:00,,ENCE vs Aimhaus,moneyline,Aimhaus,1,Sharp,3.5,1,lost,-1.0,-31.544,-7.36,Sharp,close,eligible,2026-09-29 17:15
 moneyline_flag_band,2026-09-29 21:00,,Procyon vs Turma do Pagode,moneyline,Procyon,3,Sharp,2.94,1,lost,-1.0,-32.544,-0.2,Sharp,close,eligible,2026-09-29 17:15
 moneyline_flag_band,2026-09-30 01:00,,LAG vs Marsborne,moneyline,LAG,3,SoftBook A,2.25,1,lost,-1.0,-33.544,-14.13,SoftBook A,close,eligible,2026-09-29 23:24
@@ -770,3 +770,8 @@ moneyline_flag_band,2026-10-05 14:00,,M80 vs TYLOO,moneyline,TYLOO,3,Sharp,1.862
 moneyline_flag_band,2026-10-05 14:20,,Spirit vs MOUZ,moneyline,Spirit,3,Sharp,1.529,1,lost,-1.0,-49.639,-0.28,Sharp,close,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-05 16:30,,Vitality vs Falcons,moneyline,Falcons,3,Sharp,2.43,1,lost,-1.0,-50.639,-2.18,Sharp,close,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-05 17:15,,Aurora vs BetBoom,moneyline,BetBoom,3,Sharp,2.68,1,lost,-1.0,-51.639,1.39,Sharp,close,eligible,2026-10-05 01:43
+moneyline_flag_band,2026-10-06 08:10,,EAC EXTRA vs STATE,moneyline,STATE,3,SoftBook A,1.36,1,won,0.36,-51.279,0.0,SoftBook A,close,eligible,2026-10-06 00:04
+moneyline_flag_band,2026-10-06 10:45,,Teletubisie vs THE UNIT,moneyline,THE UNIT,3,SoftBook A,6.5,1,lost,-1.0,-52.279,0.0,SoftBook A,hourly,no_bet,2026-10-06 10:17
+moneyline_flag_band,2026-10-06 12:00,,G2 vs PARIVISION,moneyline,G2,3,Sharp,1.602,1,lost,-1.0,-53.279,-0.24,Sharp,close,eligible,2026-10-06 11:15
+moneyline_flag_band,2026-10-06 15:40,,FURIA vs Aurora,moneyline,FURIA,3,Sharp,1.741,1,lost,-1.0,-54.279,-0.29,Sharp,close,eligible,2026-10-06 13:17
+moneyline_flag_band,2026-10-06 17:25,,PCIFIC vs Lavked,moneyline,PCIFIC,3,Sharp,2.22,1,lost,-1.0,-55.279,0.36,Sharp,close,eligible,2026-10-06 13:17
