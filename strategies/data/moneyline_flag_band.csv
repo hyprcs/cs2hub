@@ -763,9 +763,9 @@ moneyline_flag_band,2026-10-05 09:00,,ShindeN vs G2,moneyline,ShindeN,3,Sharp,6.
 moneyline_flag_band,2026-10-05 11:00,,EAC vs Lavked,moneyline,EAC,3,Sharp,1.5,1,won,0.5,-46.659,-0.51,Sharp,close,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-05 12:20,,9z vs Natus Vincere,moneyline,9z,3,Sharp,3.04,1,lost,-1.0,-47.659,-2.05,Sharp,close,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-05 14:00,,M80 vs TYLOO,moneyline,TYLOO,3,Sharp,1.862,1,lost,-1.0,-48.659,-6.44,Sharp,close,eligible,2026-10-05 01:43
-moneyline_flag_band,2026-10-05 14:20,,Spirit vs MOUZ,moneyline,Spirit,3,Sharp,1.529,1,lost,-1.0,-49.659,-0.28,Sharp,close,eligible,2026-10-05 01:43
+moneyline_flag_band,2026-10-05 14:25,,Spirit vs MOUZ,moneyline,Spirit,3,Sharp,1.529,1,lost,-1.0,-49.659,0.0,Sharp,close,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-05 16:30,,Vitality vs Falcons,moneyline,Falcons,3,Sharp,2.43,1,lost,-1.0,-50.659,-2.18,Sharp,close,eligible,2026-10-05 01:43
-moneyline_flag_band,2026-10-05 17:15,,Aurora vs BetBoom,moneyline,BetBoom,3,Sharp,2.68,1,lost,-1.0,-51.659,1.39,Sharp,close,eligible,2026-10-05 01:43
+moneyline_flag_band,2026-10-05 17:20,,Aurora vs BetBoom,moneyline,BetBoom,3,Sharp,2.68,1,lost,-1.0,-51.659,1.39,Sharp,hourly,eligible,2026-10-05 01:43
 moneyline_flag_band,2026-10-06 08:10,,EAC EXTRA vs STATE,moneyline,STATE,3,SoftBook A,1.36,1,won,0.36,-51.299,0.0,SoftBook A,close,eligible,2026-10-06 00:04
 moneyline_flag_band,2026-10-06 10:45,,Teletubisie vs THE UNIT,moneyline,THE UNIT,3,SoftBook A,6.5,1,lost,-1.0,-52.299,0.0,SoftBook A,hourly,no_bet,2026-10-06 10:17
 moneyline_flag_band,2026-10-06 12:00,,G2 vs PARIVISION,moneyline,G2,3,Sharp,1.602,1,lost,-1.0,-53.299,-0.24,Sharp,close,eligible,2026-10-06 11:15
@@ -831,3 +831,6 @@ moneyline_flag_band,2026-10-11 13:00,,Kaleido vs Chinggis Warriors,moneyline,Kal
 moneyline_flag_band,2026-10-11 14:20,,9INE vs Spirit Academy,moneyline,9INE,3,Sharp,1.69,1,lost,-1.0,-65.592,-0.11,Sharp,hourly,eligible,2026-10-11 10:15
 moneyline_flag_band,2026-10-11 15:00,,Vitality vs MOUZ,moneyline,MOUZ,5,Sharp,2.7,1,lost,-1.0,-66.592,1.21,Sharp,close,eligible,2026-10-11 10:15
 moneyline_flag_band,2026-10-11 15:30,,NRG vs Imperial,moneyline,Imperial,3,SoftBook A,2.25,1,won,1.25,-65.342,9.62,SoftBook A,hourly,eligible,2026-10-11 10:15
+moneyline_flag_band,2026-10-12 01:00,,Overtake Sector vs regain,moneyline,regain,3,SoftBook A,2.1,1,lost,-1.0,-66.342,0.0,SoftBook A,close,eligible,2026-10-12 00:16
+moneyline_flag_band,2026-10-12 08:00,,Enjoy vs Saint Sinners,moneyline,Saint Sinners,3,SoftBook A,2.0,1,won,1.0,-65.342,0.0,SoftBook A,close,eligible,2026-10-12 06:16
+moneyline_flag_band,2026-10-12 13:00,,Just Swing vs Lynn Vision,moneyline,Lynn Vision,3,SoftBook A,1.25,1,won,0.25,-65.092,0.0,SoftBook A,close,eligible,2026-10-12 12:16
