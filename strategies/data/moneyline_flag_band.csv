@@ -860,3 +860,13 @@ moneyline_flag_band,2026-10-16 16:00,,Procyon vs LOS NINOS,moneyline,Procyon,3,S
 moneyline_flag_band,2026-10-16 17:00,,Legacy vs BetBoom,moneyline,Legacy,3,Sharp,1.524,1,lost,-1.0,-63.55,0.0,Sharp,hourly,eligible,2026-10-16 11:18
 moneyline_flag_band,2026-10-16 17:30,,GamerLegion vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,5.0,1,won,4.0,-59.55,0.0,SoftBook A,hourly,eligible,2026-10-16 11:18
 moneyline_flag_band,2026-10-17 00:00,,Rooster vs FlyQuest,moneyline,Rooster,3,SoftBook A,12.0,1,lost,-1.0,-60.55,,,hourly,no_bet,2026-10-16 21:19
+moneyline_flag_band,2026-10-17 08:00,,Ninjas in Pyjamas vs HEROIC,moneyline,Ninjas in Pyjamas,3,Sharp,2.33,1,won,1.33,-59.22,1.02,Sharp,close,eligible,2026-10-17 07:12
+moneyline_flag_band,2026-10-17 08:00,,WBT vs HAVU,moneyline,HAVU,3,Sharp,2.56,1,won,1.56,-57.66,-1.87,Sharp,close,eligible,2026-10-17 07:12
+moneyline_flag_band,2026-10-17 08:00,,Revise vs Illyrians,moneyline,Revise,3,SoftBook A,5.5,1,lost,-1.0,-58.66,,,close,no_bet,2026-10-17 07:12
+moneyline_flag_band,2026-10-17 11:20,,MIBR vs 100 Thieves,moneyline,MIBR,3,Sharp,1.69,1,won,0.69,-57.97,,,close,eligible,2026-10-17 11:16
+moneyline_flag_band,2026-10-17 12:30,,ENCE vs Phantom,moneyline,ENCE,3,SoftBook A,3.25,1,lost,-1.0,-58.97,0.0,SoftBook A,close,eligible,2026-10-17 11:16
+moneyline_flag_band,2026-10-17 13:45,,Noir Verse vs Ryvex,moneyline,Noir Verse,3,SoftBook A,1.28,1,lost,-1.0,-59.97,0.0,SoftBook A,close,no_bet,2026-10-17 11:16
+moneyline_flag_band,2026-10-17 14:00,,FURIA vs Aurora,moneyline,FURIA,3,Sharp,1.862,1,won,0.862,-59.108,2.74,Sharp,hourly,eligible,2026-10-17 11:16
+moneyline_flag_band,2026-10-17 16:00,,HAVU vs Phantom,moneyline,HAVU,3,SoftBook A,3.4,1,lost,-1.0,-60.108,,,close,eligible,2026-10-17 15:19
+moneyline_flag_band,2026-10-17 17:00,,BBL vs ex-RUSTEC,moneyline,BBL,3,Sharp,1.633,1,won,0.633,-59.475,0.93,Sharp,close,eligible,2026-10-17 15:19
+moneyline_flag_band,2026-10-17 17:15,,Ninjas in Pyjamas vs MIBR,moneyline,MIBR,3,Sharp,1.73,1,lost,-1.0,-60.475,0.56,Sharp,close,eligible,2026-10-17 15:19
