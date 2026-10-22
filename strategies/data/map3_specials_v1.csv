@@ -507,3 +507,31 @@ map3_specials_v1,2026-10-14 01:00,,Zomblers vs Overtake Sector,map3_moneyline,Zo
 map3_specials_v1,2026-10-14 08:00,,Enjoy vs B8 Academy,map3_moneyline,B8 Academy,3,Sharp,2.06,1,lost,-1.0,-42.243,0.0,specials_hourly,specials_hourly,selected,2026-10-14 05:07
 map3_specials_v1,2026-10-14 10:00,Pulse Beat,HOTU vs fnatic,map3_moneyline,fnatic,3,Sharp,1.87,1,void,0.0,,2.21,specials_hourly,specials_hourly,selected,2026-10-12 15:07
 map3_specials_v1,2026-10-14 14:00,,PCIFIC vs Ryvex,map3_moneyline,Ryvex,3,Sharp,3.0,1,void,0.0,,-3.48,specials_hourly,specials_hourly,quarantined,2026-10-14 06:11
+map3_specials_v1,2026-10-15 10:00,,MIBR vs BC.Game,map3_moneyline,MIBR,3,Sharp,1.699,1,lost,-1.0,-43.243,-2.19,specials_hourly,specials_hourly,selected,2026-10-14 02:10
+map3_specials_v1,2026-10-16 08:00,,Ninjas in Pyjamas vs Liquid,map3_moneyline,Liquid,3,Sharp,2.05,1,lost,-1.0,-44.243,1.49,specials_hourly,specials_hourly,selected,2026-10-15 21:08
+map3_specials_v1,2026-10-16 11:00,,fnatic vs HEROIC,map3_moneyline,fnatic,3,Sharp,2.32,1,void,0.0,,-1.08,specials_hourly,specials_hourly,selected,2026-10-15 20:10
+map3_specials_v1,2026-10-16 14:00,,Astralis vs MIBR,map3_moneyline,Astralis,3,Sharp,1.855,1,lost,-1.0,-45.243,-3.64,specials_hourly,specials_hourly,selected,2026-10-16 05:11
+map3_specials_v1,2026-10-16 16:00,,Procyon vs LOS NINOS,map3_moneyline,LOS NINOS,3,Sharp,2.46,1,lost,-1.0,-46.243,0.0,specials_hourly,specials_hourly,selected,2026-10-16 08:09
+map3_specials_v1,2026-10-17 08:00,,WBT vs HAVU,map3_moneyline,HAVU,3,Sharp,2.33,1,won,1.33,-44.913,2.78,specials_hourly,specials_hourly,selected,2026-10-16 19:19
+map3_specials_v1,2026-10-17 11:00,,Bebop vs DONSTU,map3_moneyline,DONSTU,3,Sharp,2.14,1,void,0.0,,-4.45,specials_hourly,specials_hourly,selected,2026-10-17 03:11
+map3_specials_v1,2026-10-19 08:00,,GenOne vs FORZE Reload,map3_moneyline,GenOne,3,Sharp,2.51,1,void,0.0,,-1.14,specials_hourly,specials_hourly,selected,2026-10-19 00:08
+map3_specials_v1,2026-10-19 12:00,,GenOne vs Omega,map3_moneyline,Omega,3,Sharp,2.62,1,lost,-1.0,-45.913,0.0,specials_hourly,specials_hourly,selected,2026-10-18 16:09
+map3_specials_v1,2026-10-19 13:45,,Ryvex vs Phantom Academy,map3_moneyline,Ryvex,3,Sharp,3.16,1,void,0.0,,2.38,specials_hourly,specials_hourly,selected,2026-10-19 02:08
+map3_specials_v1,2026-10-19 14:00,,Nemesis vs Nuclear TigeRES,map3_moneyline,Nuclear TigeRES,3,Sharp,2.28,1,lost,-1.0,-46.913,,,,selected,2026-10-19 11:09
+map3_specials_v1,2026-10-19 17:00,,Nemesis vs Nuclear TigeRES,map3_moneyline,Nuclear TigeRES,3,Sharp,2.1,1,lost,-1.0,-47.913,-3.19,specials_hourly,specials_hourly,selected,2026-10-19 03:08
+map3_specials_v1,2026-10-20 12:00,,Sangal vs Aurora Young Blud,map3_moneyline,Aurora Young Blud,3,Sharp,4.23,1,void,0.0,,5.65,specials_hourly,specials_hourly,selected,2026-10-19 16:09
+map3_specials_v1,2026-10-20 14:00,,SINNERS vs SAW,map3_moneyline,SAW,3,Sharp,2.26,1,void,0.0,,-3.64,specials_hourly,specials_hourly,selected,2026-10-19 23:10
+map3_specials_v1,2026-10-20 14:00,,Luminosity vs Nexus,map3_moneyline,Nexus,3,Sharp,3.36,1,won,2.36,-45.553,-0.95,specials_hourly,specials_hourly,selected,2026-10-20 10:11
+map3_specials_v1,2026-10-20 14:25,,Luminosity vs Nexus,map3_moneyline,Nexus,3,Sharp,3.49,1,won,2.49,-43.063,,,,selected,2026-10-20 14:10
+map3_specials_v1,2026-10-20 15:00,,BIG vs The MongolZ,map3_moneyline,The MongolZ,3,Sharp,1.877,1,void,0.0,,2.2,specials_hourly,specials_hourly,selected,2026-10-19 18:08
+map3_specials_v1,2026-10-20 16:00,,DAMAJUANA vs your end,map3_moneyline,DAMAJUANA,3,Sharp,2.11,1,lost,-1.0,-44.063,0.0,specials_hourly,specials_hourly,selected,2026-10-20 06:13
+map3_specials_v1,2026-10-20 18:00,,PARIVISION vs fnatic,map3_moneyline,fnatic,3,Sharp,2.32,1,lost,-1.0,-45.063,-1.08,specials_hourly,specials_hourly,selected,2026-10-19 23:10
+map3_specials_v1,2026-10-20 18:30,,ASTRAL vs Iberian Soul,map3_moneyline,ASTRAL,3,Sharp,2.78,1,void,0.0,,,,,selected,2026-10-20 18:10
+map3_specials_v1,2026-10-20 22:00,,JOGA DE TERNO vs Grêmio,map3_moneyline,JOGA DE TERNO,3,Sharp,1.935,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-10-20 19:08
+map3_specials_v1,2026-10-21 11:00,,Inner Circle Academy vs HAVU,map3_moneyline,HAVU,3,Sharp,3.29,1,lost,-1.0,,-0.25,specials_hourly,specials_hourly,quarantined,2026-10-20 17:10
+map3_specials_v1,2026-10-21 11:00,,BC.Game vs Nexus,map3_moneyline,Nexus,3,Sharp,3.83,1,lost,-1.0,-46.063,3.92,specials_hourly,specials_hourly,selected,2026-10-20 23:10
+map3_specials_v1,2026-10-21 11:00,,Just Players vs Fire Flux,map3_moneyline,Fire Flux,3,Sharp,2.01,1,lost,-1.0,,4.19,specials_hourly,specials_hourly,quarantined,2026-10-21 01:10
+map3_specials_v1,2026-10-21 12:00,,GenOne vs Metizport,map3_moneyline,GenOne,3,Sharp,2.42,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-10-20 15:11
+map3_specials_v1,2026-10-21 13:45,,Falcons Force vs Privateer,map3_moneyline,Privateer,3,Sharp,2.93,1,void,0.0,,-4.64,specials_hourly,specials_hourly,quarantined,2026-10-20 23:10
+map3_specials_v1,2026-10-21 13:45,,Phantom Academy vs Bebop,map3_moneyline,Phantom Academy,3,Sharp,1.781,1,won,0.781,-45.282,-6.66,specials_hourly,specials_hourly,selected,2026-10-21 02:09
+map3_specials_v1,2026-10-21 14:00,,Fluxo vs Galorys,map3_moneyline,Galorys,3,Sharp,2.28,1,lost,-1.0,-46.282,-0.8,specials_hourly,specials_hourly,selected,2026-10-20 23:10
