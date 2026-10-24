@@ -1,9 +1,9 @@
 strategy,book,rows,record_rows,settled,wins,losses,voids,pending,units_pl,roi_pct,clv_ref,clv_n,clv_median_pp,note,generated_at_utc
-moneyline_flag_band,"SoftBook A, Sharp",985,985,886,407,479,41,58,-72.439,-8.18,Sharp,583,0.0,tracked record = every in-band flag; CLV cell = sharp-referee pairs only (odds-trust: referees never pooled; filter clv_ref for the soft-book pairs),2026-10-23 21:05
-bo3_dog_plus_1_5_v0,Sharp,351,228,220,132,88,0,4,-13.886,-6.31,Sharp,208,0.15,,2026-10-23 21:05
-bo3_fav_minus_1_5_v0,Sharp,400,256,249,104,145,0,1,-4.992,-2.0,Sharp,245,0.63,,2026-10-23 21:05
-bo3_dog_plus_1_5_bookC_v0,SoftBook C,214,112,104,57,47,0,2,-19.01,-18.28,bookC_self,100,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-10-23 21:05
-bo3_fav_minus_1_5_bookC_v0,SoftBook C,282,164,159,64,95,0,0,-11.17,-7.03,bookC_self,153,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-10-23 21:05
-map1_specials_v1,Sharp,883,760,709,305,404,0,13,11.825,1.67,specials_hourly,515,0.19,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-23 21:05
-map2_specials_v1,Sharp,838,744,693,224,469,8,15,-141.489,-20.42,specials_hourly,500,0.14,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-23 21:05
-map3_specials_v1,Sharp,582,519,188,59,129,295,8,-46.282,-24.62,specials_hourly,364,0.0,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-23 21:05
+moneyline_flag_band,"SoftBook A, Sharp",996,996,897,412,485,41,58,-69.204,-7.72,Sharp,590,0.0,tracked record = every in-band flag; CLV cell = sharp-referee pairs only (odds-trust: referees never pooled; filter clv_ref for the soft-book pairs),2026-10-24 21:23
+bo3_dog_plus_1_5_v0,Sharp,353,230,225,133,92,0,1,-17.398,-7.73,Sharp,210,0.15,,2026-10-24 21:23
+bo3_fav_minus_1_5_v0,Sharp,401,257,250,104,146,0,1,-5.992,-2.4,Sharp,246,0.62,,2026-10-24 21:23
+bo3_dog_plus_1_5_bookC_v0,SoftBook C,214,112,105,58,47,0,1,-18.66,-17.77,bookC_self,100,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-10-24 21:23
+bo3_fav_minus_1_5_bookC_v0,SoftBook C,282,164,159,64,95,0,0,-11.17,-7.03,bookC_self,153,0.0,"results-only record; clv_pp vs the entry book's own close is informational, never a referee",2026-10-24 21:23
+map1_specials_v1,Sharp,883,760,709,305,404,0,13,11.825,1.67,specials_hourly,515,0.19,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-24 21:23
+map2_specials_v1,Sharp,838,744,693,224,469,8,15,-141.489,-20.42,specials_hourly,500,0.14,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-24 21:23
+map3_specials_v1,Sharp,582,519,188,59,129,295,8,-46.282,-24.62,specials_hourly,364,0.0,"RETIRED 2026-10-14: dead at its pre-registered floor -- channel is flag-quarantined at policy level; tracking record kept for transparency, not an endorsed edge",2026-10-24 21:23

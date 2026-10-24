@@ -867,7 +867,7 @@ moneyline_flag_band,2026-10-17 13:45,,Noir Verse vs Ryvex,moneyline,Noir Verse,3
 moneyline_flag_band,2026-10-17 14:00,,FURIA vs Aurora,moneyline,FURIA,3,Sharp,1.862,1,won,0.862,-57.108,2.74,Sharp,hourly,eligible,2026-10-17 11:16
 moneyline_flag_band,2026-10-17 16:00,,HAVU vs Phantom,moneyline,HAVU,3,SoftBook A,3.4,1,lost,-1.0,-58.108,,,close,eligible,2026-10-17 15:19
 moneyline_flag_band,2026-10-17 17:00,,BBL vs ex-RUSTEC,moneyline,BBL,3,Sharp,1.633,1,won,0.633,-57.475,0.93,Sharp,close,eligible,2026-10-17 15:19
-moneyline_flag_band,2026-10-17 17:15,,Ninjas in Pyjamas vs MIBR,moneyline,MIBR,3,Sharp,1.73,1,lost,-1.0,-58.475,0.56,Sharp,close,eligible,2026-10-17 15:19
+moneyline_flag_band,2026-10-17 17:20,,Ninjas in Pyjamas vs MIBR,moneyline,MIBR,3,Sharp,1.73,1,lost,-1.0,-58.475,,,close,eligible,2026-10-17 17:16
 moneyline_flag_band,2026-10-18 11:00,,Falcons Force vs MAYBE,moneyline,MAYBE,3,Sharp,2.51,1,lost,-1.0,-59.475,0.0,Sharp,close,eligible,2026-10-18 09:18
 moneyline_flag_band,2026-10-18 13:55,,ex-6666 vs Privateer,moneyline,Privateer,3,SoftBook A,8.0,1,lost,-1.0,-60.475,0.0,SoftBook A,hourly,no_bet,2026-10-18 12:19
 moneyline_flag_band,2026-10-18 14:00,,Nemesis vs EYEBALLERS,moneyline,EYEBALLERS,3,Sharp,2.83,1,lost,-1.0,-61.475,0.0,Sharp,close,eligible,2026-10-18 12:19
@@ -923,6 +923,17 @@ moneyline_flag_band,2026-10-23 11:00,,Nuclear TigeRES vs Illyrians,moneyline,Ill
 moneyline_flag_band,2026-10-23 11:00,,Ryvex vs TitanFlow,moneyline,TitanFlow,3,SoftBook A,2.25,1,void,0.0,,0.0,SoftBook A,close,eligible,2026-10-23 10:20
 moneyline_flag_band,2026-10-23 12:30,,Isurus vs Hacha,moneyline,Hacha,3,Sharp,3.66,1,void,0.0,,4.07,Sharp,hourly,eligible,2026-10-23 10:20
 moneyline_flag_band,2026-10-23 16:00,,BORRACHEIROS vs QUINTESSÊNCIA,moneyline,QUINTESSÊNCIA,3,Sharp,2.54,1,lost,-1.0,-71.324,-1.87,Sharp,close,eligible,2026-10-23 14:19
-moneyline_flag_band,2026-10-23 17:45,,BRUTE vs BAKS,moneyline,BRUTE,3,Sharp,1.885,1,won,0.885,-70.439,-12.94,Sharp,hourly,eligible,2026-10-23 14:19
+moneyline_flag_band,2026-10-23 17:20,,BRUTE vs BAKS,moneyline,BRUTE,3,Sharp,1.885,1,won,0.885,-70.439,-12.94,Sharp,close,eligible,2026-10-23 14:19
 moneyline_flag_band,2026-10-23 18:00,,BESTIA vs Galorys,moneyline,Galorys,3,Sharp,2.18,1,lost,-1.0,-71.439,0.44,Sharp,close,eligible,2026-10-23 14:19
-moneyline_flag_band,2026-10-23 19:00,,BESTIA Academy vs RED Canids Academy,moneyline,BESTIA Academy,3,Sharp,2.34,1,lost,-1.0,-72.439,-0.29,Sharp,close,eligible,2026-10-23 14:19
+moneyline_flag_band,2026-10-23 18:55,,SINNERS vs Eternal Fire,moneyline,Eternal Fire,3,SoftBook A,2.25,1,won,1.25,-70.189,0.0,SoftBook A,hourly,eligible,2026-10-22 13:21
+moneyline_flag_band,2026-10-23 19:00,,BESTIA Academy vs RED Canids Academy,moneyline,BESTIA Academy,3,Sharp,2.34,1,lost,-1.0,-71.189,-0.29,Sharp,close,eligible,2026-10-23 14:19
+moneyline_flag_band,2026-10-23 22:00,,ALKA vs LOS NINOS,moneyline,LOS NINOS,3,Sharp,3.65,1,won,2.65,-68.539,0.0,Sharp,close,eligible,2026-10-23 21:13
+moneyline_flag_band,2026-10-24 07:00,,FUT vs TYLOO,moneyline,TYLOO,3,Sharp,4.38,1,lost,-1.0,-69.539,0.64,Sharp,close,eligible,2026-10-24 06:20
+moneyline_flag_band,2026-10-24 09:15,,MOUZ vs Liquid,moneyline,Liquid,3,Sharp,5.32,1,won,4.32,-65.219,-1.44,Sharp,close,eligible,2026-10-24 07:20
+moneyline_flag_band,2026-10-24 10:35,,Spirit vs BetBoom,moneyline,Spirit,3,Sharp,1.24,1,lost,-1.0,-66.219,0.12,Sharp,hourly,eligible,2026-10-24 09:21
+moneyline_flag_band,2026-10-24 11:00,,HAVU vs Azuolas,moneyline,HAVU,3,SoftBook A,1.28,1,won,0.28,-65.939,-4.68,SoftBook A,close,eligible,2026-10-24 09:21
+moneyline_flag_band,2026-10-24 14:00,,Nuclear TigeRES vs FORZE Reload,moneyline,FORZE Reload,3,Sharp,2.58,1,lost,-1.0,-66.939,2.13,Sharp,close,eligible,2026-10-24 12:20
+moneyline_flag_band,2026-10-24 16:10,,FURIA vs DENDELE,moneyline,DENDELE,3,Sharp,4.91,1,lost,-1.0,-67.939,-0.44,Sharp,close,eligible,2026-10-24 12:20
+moneyline_flag_band,2026-10-24 16:15,,G2 vs Natus Vincere,moneyline,G2,3,Sharp,2.15,1,lost,-1.0,-68.939,-0.28,Sharp,close,eligible,2026-10-24 12:20
+moneyline_flag_band,2026-10-24 17:00,,ex-Zero Tenacity vs Nuclear TigeRES,moneyline,Nuclear TigeRES,3,SoftBook A,1.53,1,lost,-1.0,-69.939,0.0,SoftBook A,close,eligible,2026-10-24 12:20
+moneyline_flag_band,2026-10-24 18:00,,Galorys vs paiN,moneyline,paiN,3,Sharp,1.735,1,won,0.735,-69.204,1.55,Sharp,hourly,eligible,2026-10-24 12:20
