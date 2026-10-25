@@ -937,6 +937,10 @@ moneyline_flag_band,2026-10-24 16:10,,FURIA vs DENDELE,moneyline,DENDELE,3,Sharp
 moneyline_flag_band,2026-10-24 16:15,,G2 vs Natus Vincere,moneyline,G2,3,Sharp,2.15,1,lost,-1.0,-68.939,-0.28,Sharp,close,eligible,2026-10-24 12:20
 moneyline_flag_band,2026-10-24 17:00,,ex-Zero Tenacity vs Nuclear TigeRES,moneyline,Nuclear TigeRES,3,SoftBook A,1.53,1,lost,-1.0,-69.939,0.0,SoftBook A,close,eligible,2026-10-24 12:20
 moneyline_flag_band,2026-10-24 18:00,,Galorys vs paiN,moneyline,paiN,3,Sharp,1.735,1,won,0.735,-69.204,1.55,Sharp,hourly,eligible,2026-10-24 12:20
+moneyline_flag_band,2026-10-25 08:00,,Spirit vs TYLOO,moneyline,TYLOO,3,Sharp,7.0,1,lost,-1.0,-70.204,-2.16,Sharp,close,no_bet,2026-10-25 03:18
+moneyline_flag_band,2026-10-25 09:10,,Prestige vs Revenge,moneyline,Prestige,3,SoftBook A,1.25,1,lost,-1.0,-71.204,0.0,SoftBook A,hourly,eligible,2026-10-25 03:18
+moneyline_flag_band,2026-10-25 09:50,,Vitality vs The MongolZ,moneyline,Vitality,3,Sharp,1.175,1,won,0.175,-71.029,-2.52,Sharp,close,eligible,2026-10-25 03:18
+moneyline_flag_band,2026-10-25 14:55,,Legacy vs DENDELE,moneyline,DENDELE,3,Sharp,3.37,1,lost,-1.0,-72.029,1.03,Sharp,close,eligible,2026-10-25 03:18
 bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,Sharp,1.364,1,won,0.364,,2.48,Sharp,,ineligible,2026-07-22 06:05
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,Sharp,1.769,1,won,0.769,0.769,1.36,Sharp,,selected,2026-07-22 03:09
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,Sharp,2.84,1,won,1.84,,-1.39,Sharp,,ineligible,2026-07-22 03:09
@@ -1277,6 +1281,8 @@ bo3_dog_plus_1_5_v0,2026-10-23 19:00,,BESTIA Academy vs RED Canids Academy,+1.5 
 bo3_dog_plus_1_5_v0,2026-10-23 21:00,,paiN vs Imperial,+1.5 maps,paiN,3,Sharp,1.488,1,won,0.488,-15.398,-3.42,Sharp,,selected,2026-10-23 05:16
 bo3_dog_plus_1_5_v0,2026-10-24 07:00,,FUT vs TYLOO,+1.5 maps,TYLOO,3,Sharp,1.926,1,lost,-1.0,-16.398,-1.29,Sharp,,selected,2026-10-24 03:12
 bo3_dog_plus_1_5_v0,2026-10-24 11:00,,DONSTU vs Quintessence,+1.5 maps,Quintessence,3,Sharp,1.361,1,lost,-1.0,-17.398,-0.23,Sharp,,selected,2026-10-23 18:14
+bo3_dog_plus_1_5_v0,2026-10-24 16:00,,G2 vs Natus Vincere,+1.5 maps,G2,3,Sharp,1.394,1,lost,-1.0,-18.398,0.13,Sharp,,selected,2026-10-23 22:13
+bo3_dog_plus_1_5_v0,2026-10-25 17:00,,FURIA vs Natus Vincere,+1.5 maps,FURIA,3,Sharp,1.472,1,lost,-1.0,,,,,quarantined,2026-10-25 16:15
 bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,Sharp,2.11,1,won,1.11,1.11,4.25,Sharp,,selected,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,Sharp,2.86,1,lost,-1.0,,-3.76,Sharp,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,Sharp,1.794,1,lost,-1.0,,1.87,Sharp,,ineligible,2026-07-23 06:07
@@ -1662,6 +1668,11 @@ bo3_fav_minus_1_5_v0,2026-10-22 16:00,,MEIA NOITE vs Procyon,-1.5 maps,Procyon,3
 bo3_fav_minus_1_5_v0,2026-10-22 17:00,,Rune Eaters vs FORZE Reload,-1.5 maps,FORZE Reload,3,Sharp,2.18,1,won,1.18,-4.992,-3.73,Sharp,,selected,2026-10-22 06:15
 bo3_fav_minus_1_5_v0,2026-10-24 10:00,,Spirit vs BetBoom,-1.5 maps,Spirit,3,Sharp,1.833,1,lost,-1.0,-5.992,-2.28,Sharp,,selected,2026-10-23 11:16
 bo3_fav_minus_1_5_v0,2026-10-24 13:00,,Vitality vs 9z,-1.5 maps,Vitality,3,Sharp,1.592,1,won,0.592,,-0.86,Sharp,,ineligible,2026-10-23 14:13
+bo3_fav_minus_1_5_v0,2026-10-24 18:00,,Galorys vs paiN,-1.5 maps,paiN,3,Sharp,2.73,1,won,1.73,-4.262,-1.54,Sharp,,selected,2026-10-24 08:14
+bo3_fav_minus_1_5_v0,2026-10-25 08:00,,FUT vs Liquid,-1.5 maps,FUT,3,Sharp,2.31,1,won,1.31,-2.952,3.13,Sharp,,selected,2026-10-25 05:16
+bo3_fav_minus_1_5_v0,2026-10-25 11:00,,Vitality vs The MongolZ,-1.5 maps,Vitality,3,Sharp,1.704,1,won,0.704,,-3.7,Sharp,,ineligible,2026-10-24 22:14
+bo3_fav_minus_1_5_v0,2026-10-25 13:00,,MOUZ vs 9z,-1.5 maps,MOUZ,3,Sharp,2.07,1,won,1.07,-1.882,,,,selected,2026-10-25 12:14
+bo3_fav_minus_1_5_v0,2026-10-25 17:00,,FURIA vs Natus Vincere,-1.5 maps,FURIA,3,Sharp,2.93,1,lost,-1.0,-2.882,-1.46,Sharp,,selected,2026-10-24 22:14
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,SoftBook C,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,SoftBook C,1.4,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-07-28 14:05
 bo3_dog_plus_1_5_bookC_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,SoftBook C,1.65,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-07-29 22:05
