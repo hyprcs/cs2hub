@@ -988,3 +988,12 @@ moneyline_flag_band,2026-11-02 02:00,,Legacy vs The MongolZ,moneyline,Legacy,3,S
 moneyline_flag_band,2026-11-02 02:00,,HEROIC vs B8,moneyline,B8,3,Sharp,2.54,1,lost,-1.0,-90.758,0.24,Sharp,hourly,eligible,2026-11-01 22:22
 moneyline_flag_band,2026-11-02 04:30,,Aurora vs Liquid,moneyline,Aurora,3,Sharp,1.395,1,lost,-1.0,-91.758,0.21,Sharp,close,eligible,2026-11-01 22:22
 moneyline_flag_band,2026-11-02 10:15,,MOUZ vs TYLOO,moneyline,TYLOO,3,SoftBook A,7.0,1,lost,-1.0,-92.758,-1.81,SoftBook A,hourly,no_bet,2026-11-02 06:22
+moneyline_flag_band,2026-11-03 02:00,,Aurora vs G2,moneyline,Aurora,3,Sharp,1.704,1,won,0.704,-92.054,-0.1,Sharp,hourly,eligible,2026-11-03 00:20
+moneyline_flag_band,2026-11-03 05:55,,MOUZ vs BetBoom,moneyline,MOUZ,3,Sharp,1.388,1,won,0.388,-91.666,0.43,Sharp,close,eligible,2026-11-03 02:59
+moneyline_flag_band,2026-11-03 10:55,,Legacy vs B8,moneyline,Legacy,3,Sharp,1.559,1,lost,-1.0,-92.666,0.0,Sharp,close,eligible,2026-11-03 10:18
+moneyline_flag_band,2026-11-03 11:45,,Falcons Force vs MAYBE,moneyline,MAYBE,3,SoftBook A,2.62,1,won,1.62,-91.046,,,hourly,eligible,2026-11-03 11:17
+moneyline_flag_band,2026-11-03 14:20,,PCIFIC vs Falcons Force,moneyline,Falcons Force,3,Sharp,2.39,1,void,0.0,,2.62,Sharp,hourly,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 15:00,,Leo vs Illyrians,moneyline,Illyrians,3,SoftBook A,2.75,1,lost,-1.0,-92.046,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 15:55,,Noir Verse vs eSuba,moneyline,Noir Verse,3,SoftBook A,1.44,1,won,0.44,-91.606,0.0,SoftBook A,hourly,no_bet,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 18:00,,DONSTU vs megoshort,moneyline,DONSTU,3,SoftBook A,1.72,1,lost,-1.0,-92.606,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 19:00,,QUINTESSÊNCIA vs RED Canids Academy,moneyline,QUINTESSÊNCIA,3,Sharp,3.4,1,won,2.4,-90.206,4.71,Sharp,close,eligible,2026-11-03 12:19
