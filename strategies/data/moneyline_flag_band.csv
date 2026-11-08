@@ -973,50 +973,54 @@ moneyline_flag_band,2026-10-31 16:15,,ShindeN vs Isurus,moneyline,ShindeN,3,Shar
 moneyline_flag_band,2026-10-31 18:00,,Azuolas vs Illyrians,moneyline,Illyrians,3,SoftBook A,1.28,1,lost,-1.0,-88.641,-24.78,SoftBook A,close,eligible,2026-10-31 17:19
 moneyline_flag_band,2026-10-31 20:00,,DENDELE vs NAOCOPULAS,moneyline,NAOCOPULAS,3,Sharp,8.31,1,lost,-1.0,-89.641,0.4,Sharp,close,no_bet,2026-10-31 18:18
 moneyline_flag_band,2026-11-01 03:00,,FlyQuest vs Alter Ego,moneyline,Alter Ego,5,SoftBook A,6.0,1,lost,-1.0,-90.641,0.0,SoftBook A,close,no_bet,2026-11-01 02:19
-moneyline_flag_band,2026-11-01 09:10,,MAYBE vs eternal premium,moneyline,MAYBE,3,SoftBook A,1.57,1,won,0.57,-90.071,0.0,SoftBook A,close,no_bet,2026-11-01 07:21
-moneyline_flag_band,2026-11-01 09:10,,UNiTY vs gothboiclique,moneyline,UNiTY,3,SoftBook A,1.16,1,won,0.16,-89.911,-1.87,SoftBook A,close,no_bet,2026-11-01 07:21
-moneyline_flag_band,2026-11-01 10:15,,JiJieHao vs Metizport,moneyline,Metizport,3,SoftBook A,2.75,1,won,1.75,-88.161,0.0,SoftBook A,hourly,eligible,2026-11-01 07:21
-moneyline_flag_band,2026-11-01 14:00,,BESTIA vs 100 Thieves,moneyline,BESTIA,3,Sharp,4.39,1,lost,-1.0,-89.161,1.32,Sharp,close,eligible,2026-11-01 10:16
-moneyline_flag_band,2026-11-01 14:00,,WBT Academy vs Iberian Soul,moneyline,WBT Academy,3,SoftBook A,4.33,1,won,3.33,-85.831,,,hourly,eligible,2026-11-01 10:16
-moneyline_flag_band,2026-11-01 16:35,,BARCA vs Wildcard,moneyline,Wildcard,3,Sharp,1.621,1,won,0.621,-85.21,0.86,Sharp,close,eligible,2026-11-01 14:19
-moneyline_flag_band,2026-11-01 19:10,,WBT Academy vs Metizport,moneyline,Metizport,3,SoftBook A,1.3,1,lost,-1.0,-86.21,0.0,SoftBook A,close,no_bet,2026-10-31 16:20
-moneyline_flag_band,2026-11-01 20:00,,DENDELE vs Imperial,moneyline,Imperial,5,Sharp,2.16,1,lost,-1.0,-87.21,-2.1,Sharp,close,eligible,2026-11-01 14:19
-moneyline_flag_band,2026-11-02 02:00,,Legacy vs The MongolZ,moneyline,Legacy,3,Sharp,1.87,1,lost,-1.0,-88.21,-1.15,Sharp,hourly,eligible,2026-11-01 22:22
-moneyline_flag_band,2026-11-02 02:00,,HEROIC vs B8,moneyline,B8,3,Sharp,2.54,1,lost,-1.0,-89.21,0.24,Sharp,hourly,eligible,2026-11-01 22:22
-moneyline_flag_band,2026-11-02 04:30,,Aurora vs Liquid,moneyline,Aurora,3,Sharp,1.395,1,lost,-1.0,-90.21,0.21,Sharp,close,eligible,2026-11-01 22:22
-moneyline_flag_band,2026-11-02 10:15,,MOUZ vs TYLOO,moneyline,TYLOO,3,SoftBook A,7.0,1,lost,-1.0,-91.21,-1.81,SoftBook A,hourly,no_bet,2026-11-02 06:22
-moneyline_flag_band,2026-11-03 02:00,,Aurora vs G2,moneyline,Aurora,3,Sharp,1.704,1,won,0.704,-90.506,-0.1,Sharp,hourly,eligible,2026-11-03 00:20
-moneyline_flag_band,2026-11-03 05:55,,MOUZ vs BetBoom,moneyline,MOUZ,3,Sharp,1.388,1,won,0.388,-90.118,0.43,Sharp,close,eligible,2026-11-03 02:59
-moneyline_flag_band,2026-11-03 10:55,,Legacy vs B8,moneyline,Legacy,3,Sharp,1.559,1,lost,-1.0,-91.118,0.0,Sharp,close,eligible,2026-11-03 10:18
+moneyline_flag_band,2026-11-01 10:15,,JiJieHao vs Metizport,moneyline,Metizport,3,SoftBook A,2.75,1,won,1.75,-88.891,0.0,SoftBook A,hourly,eligible,2026-11-01 07:21
+moneyline_flag_band,2026-11-01 14:00,,BESTIA vs 100 Thieves,moneyline,BESTIA,3,Sharp,4.39,1,lost,-1.0,-89.891,1.32,Sharp,close,eligible,2026-11-01 10:16
+moneyline_flag_band,2026-11-01 14:05,,WBT Academy vs Iberian Soul,moneyline,WBT Academy,3,SoftBook A,4.33,1,won,3.33,-86.561,,,hourly,eligible,2026-11-01 10:16
+moneyline_flag_band,2026-11-01 16:35,,BARCA vs Wildcard,moneyline,Wildcard,3,Sharp,1.621,1,won,0.621,-85.94,0.86,Sharp,close,eligible,2026-11-01 14:19
+moneyline_flag_band,2026-11-01 19:10,,WBT Academy vs Metizport,moneyline,Metizport,3,SoftBook A,1.3,1,lost,-1.0,-86.94,0.0,SoftBook A,close,no_bet,2026-10-31 16:20
+moneyline_flag_band,2026-11-01 20:00,,DENDELE vs Imperial,moneyline,Imperial,5,Sharp,2.16,1,lost,-1.0,-87.94,-2.1,Sharp,close,eligible,2026-11-01 14:19
+moneyline_flag_band,2026-11-02 02:00,,Legacy vs The MongolZ,moneyline,Legacy,3,Sharp,1.87,1,lost,-1.0,-88.94,-1.15,Sharp,hourly,eligible,2026-11-01 22:22
+moneyline_flag_band,2026-11-02 02:00,,HEROIC vs B8,moneyline,B8,3,Sharp,2.54,1,lost,-1.0,-89.94,0.24,Sharp,hourly,eligible,2026-11-01 22:22
+moneyline_flag_band,2026-11-02 04:30,,Aurora vs Liquid,moneyline,Aurora,3,Sharp,1.395,1,lost,-1.0,-90.94,0.21,Sharp,close,eligible,2026-11-01 22:22
+moneyline_flag_band,2026-11-02 10:15,,MOUZ vs TYLOO,moneyline,TYLOO,3,SoftBook A,7.0,1,lost,-1.0,-91.94,-1.81,SoftBook A,hourly,no_bet,2026-11-02 06:22
+moneyline_flag_band,2026-11-03 02:00,,Aurora vs G2,moneyline,Aurora,3,Sharp,1.704,1,won,0.704,-91.236,-0.1,Sharp,hourly,eligible,2026-11-03 00:20
+moneyline_flag_band,2026-11-03 05:55,,MOUZ vs BetBoom,moneyline,MOUZ,3,Sharp,1.388,1,won,0.388,-90.848,0.43,Sharp,close,eligible,2026-11-03 02:59
+moneyline_flag_band,2026-11-03 10:55,,Legacy vs B8,moneyline,Legacy,3,Sharp,1.559,1,lost,-1.0,-91.848,0.0,Sharp,close,eligible,2026-11-03 10:18
 moneyline_flag_band,2026-11-03 14:20,,PCIFIC vs Falcons Force,moneyline,Falcons Force,3,Sharp,2.39,1,void,0.0,,2.62,Sharp,hourly,eligible,2026-11-03 12:19
-moneyline_flag_band,2026-11-03 15:00,,Leo vs Illyrians,moneyline,Illyrians,3,SoftBook A,2.75,1,lost,-1.0,-92.118,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
-moneyline_flag_band,2026-11-03 15:55,,Noir Verse vs eSuba,moneyline,Noir Verse,3,SoftBook A,1.44,1,won,0.44,-91.678,0.0,SoftBook A,hourly,no_bet,2026-11-03 12:19
-moneyline_flag_band,2026-11-03 18:00,,Falcons Force vs MAYBE,moneyline,MAYBE,3,SoftBook A,2.62,1,won,1.62,-90.058,,,hourly,eligible,2026-11-03 11:17
-moneyline_flag_band,2026-11-03 18:00,,DONSTU vs megoshort,moneyline,DONSTU,3,SoftBook A,1.72,1,lost,-1.0,-91.058,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
-moneyline_flag_band,2026-11-03 19:00,,QUINTESSÊNCIA vs RED Canids Academy,moneyline,QUINTESSÊNCIA,3,Sharp,3.4,1,won,2.4,-88.658,4.71,Sharp,close,eligible,2026-11-03 12:19
-moneyline_flag_band,2026-11-04 02:00,,Liquid vs TYLOO,moneyline,TYLOO,3,SoftBook A,3.5,1,lost,-1.0,-89.658,4.68,SoftBook A,close,eligible,2026-11-03 22:34
-moneyline_flag_band,2026-11-04 04:30,,HEROIC vs Falcons,moneyline,Falcons,3,Sharp,1.448,1,won,0.448,-89.21,3.17,Sharp,hourly,eligible,2026-11-04 02:18
-moneyline_flag_band,2026-11-04 07:00,,Liquid vs BetBoom,moneyline,BetBoom,3,Sharp,1.478,1,won,0.478,-88.732,0.22,Sharp,hourly,eligible,2026-11-04 05:19
-moneyline_flag_band,2026-11-04 09:30,,The MongolZ vs FURIA,moneyline,FURIA,3,Sharp,1.334,1,lost,-1.0,-89.732,1.76,Sharp,hourly,eligible,2026-11-04 07:18
-moneyline_flag_band,2026-11-04 10:15,,Natus Vincere vs Falcons,moneyline,Falcons,3,Sharp,1.877,1,lost,-1.0,-90.732,1.49,Sharp,close,eligible,2026-11-04 07:18
-moneyline_flag_band,2026-11-04 13:00,,MEIA NOITE vs DAMAJUANA,moneyline,MEIA NOITE,3,Sharp,1.166,1,won,0.166,-90.566,-0.19,Sharp,close,no_bet,2026-11-04 12:18
-moneyline_flag_band,2026-11-04 14:10,,PCIFIC vs MAYBE,moneyline,MAYBE,3,Sharp,2.92,1,lost,-1.0,-91.566,3.43,Sharp,hourly,eligible,2026-11-04 12:18
-moneyline_flag_band,2026-11-04 15:00,,Noir Verse vs KUUSAMO,moneyline,Noir Verse,3,SoftBook A,1.57,1,lost,-1.0,-92.566,0.0,SoftBook A,hourly,eligible,2026-11-04 12:18
-moneyline_flag_band,2026-11-04 18:00,,Nexus vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,3.4,1,lost,-1.0,-93.566,-2.91,SoftBook A,hourly,eligible,2026-11-04 12:18
-moneyline_flag_band,2026-11-04 18:05,,Prestige vs MAYBE,moneyline,Prestige,3,Sharp,1.526,1,lost,-1.0,-94.566,0.0,Sharp,hourly,eligible,2026-11-04 12:18
-moneyline_flag_band,2026-11-04 19:10,,RED Canids Academy vs Underworld,moneyline,Underworld,3,SoftBook A,5.0,1,lost,-1.0,-95.566,0.0,SoftBook A,hourly,eligible,2026-11-04 12:18
-moneyline_flag_band,2026-11-05 09:30,,NAVI Junior vs STATE,moneyline,NAVI Junior,3,SoftBook A,2.37,1,lost,-1.0,-96.566,,,hourly,eligible,2026-11-05 09:16
+moneyline_flag_band,2026-11-03 15:00,,Leo vs Illyrians,moneyline,Illyrians,3,SoftBook A,2.75,1,lost,-1.0,-92.848,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 15:55,,Noir Verse vs eSuba,moneyline,Noir Verse,3,SoftBook A,1.44,1,won,0.44,-92.408,0.0,SoftBook A,hourly,no_bet,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 18:00,,Falcons Force vs MAYBE,moneyline,MAYBE,3,SoftBook A,2.62,1,won,1.62,-90.788,,,hourly,eligible,2026-11-03 11:17
+moneyline_flag_band,2026-11-03 18:00,,DONSTU vs megoshort,moneyline,DONSTU,3,SoftBook A,1.72,1,lost,-1.0,-91.788,0.0,SoftBook A,hourly,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-03 19:00,,QUINTESSÊNCIA vs RED Canids Academy,moneyline,QUINTESSÊNCIA,3,Sharp,3.4,1,won,2.4,-89.388,4.71,Sharp,close,eligible,2026-11-03 12:19
+moneyline_flag_band,2026-11-04 02:00,,Liquid vs TYLOO,moneyline,TYLOO,3,SoftBook A,3.5,1,lost,-1.0,-90.388,4.68,SoftBook A,close,eligible,2026-11-03 22:34
+moneyline_flag_band,2026-11-04 04:30,,HEROIC vs Falcons,moneyline,Falcons,3,Sharp,1.448,1,won,0.448,-89.94,3.17,Sharp,hourly,eligible,2026-11-04 02:18
+moneyline_flag_band,2026-11-04 07:00,,Liquid vs BetBoom,moneyline,BetBoom,3,Sharp,1.478,1,won,0.478,-89.462,0.22,Sharp,hourly,eligible,2026-11-04 05:19
+moneyline_flag_band,2026-11-04 09:30,,The MongolZ vs FURIA,moneyline,FURIA,3,Sharp,1.334,1,lost,-1.0,-90.462,1.76,Sharp,hourly,eligible,2026-11-04 07:18
+moneyline_flag_band,2026-11-04 10:15,,Natus Vincere vs Falcons,moneyline,Falcons,3,Sharp,1.877,1,lost,-1.0,-91.462,1.49,Sharp,close,eligible,2026-11-04 07:18
+moneyline_flag_band,2026-11-04 13:00,,MEIA NOITE vs DAMAJUANA,moneyline,MEIA NOITE,3,Sharp,1.166,1,won,0.166,-91.296,-0.19,Sharp,close,no_bet,2026-11-04 12:18
+moneyline_flag_band,2026-11-04 14:10,,PCIFIC vs MAYBE,moneyline,MAYBE,3,Sharp,2.92,1,lost,-1.0,-92.296,3.43,Sharp,hourly,eligible,2026-11-04 12:18
+moneyline_flag_band,2026-11-04 15:00,,Noir Verse vs KUUSAMO,moneyline,Noir Verse,3,SoftBook A,1.57,1,lost,-1.0,-93.296,0.0,SoftBook A,hourly,eligible,2026-11-04 12:18
+moneyline_flag_band,2026-11-04 18:00,,Nexus vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,3.4,1,lost,-1.0,-94.296,-2.91,SoftBook A,hourly,eligible,2026-11-04 12:18
+moneyline_flag_band,2026-11-04 18:05,,Prestige vs MAYBE,moneyline,Prestige,3,Sharp,1.526,1,lost,-1.0,-95.296,0.0,Sharp,hourly,eligible,2026-11-04 12:18
+moneyline_flag_band,2026-11-04 19:10,,RED Canids Academy vs Underworld,moneyline,Underworld,3,SoftBook A,5.0,1,lost,-1.0,-96.296,0.0,SoftBook A,hourly,eligible,2026-11-04 12:18
+moneyline_flag_band,2026-11-05 09:30,,NAVI Junior vs STATE,moneyline,NAVI Junior,3,SoftBook A,2.37,1,lost,-1.0,-97.296,,,hourly,eligible,2026-11-05 09:16
 moneyline_flag_band,2026-11-05 11:30,,ex-ENCE vs Noir Verse,moneyline,Noir Verse,3,SoftBook A,2.1,1,void,0.0,,0.0,SoftBook A,close,eligible,2026-11-05 10:16
-moneyline_flag_band,2026-11-05 15:30,,Prestige vs KUUSAMO,moneyline,KUUSAMO,3,Sharp,3.97,1,lost,-1.0,-97.566,0.0,Sharp,close,no_bet,2026-11-05 15:16
-moneyline_flag_band,2026-11-05 19:10,,QUINTESSÊNCIA vs Grêmio,moneyline,QUINTESSÊNCIA,3,SoftBook A,2.1,1,lost,-1.0,-98.566,0.0,SoftBook A,hourly,eligible,2026-11-05 15:16
-moneyline_flag_band,2026-11-06 06:30,,PARIVISION vs Natus Vincere,moneyline,PARIVISION,3,Sharp,3.21,1,lost,-1.0,-99.566,0.3,Sharp,close,eligible,2026-11-05 23:26
+moneyline_flag_band,2026-11-05 15:30,,Prestige vs KUUSAMO,moneyline,KUUSAMO,3,Sharp,3.97,1,lost,-1.0,-98.296,0.0,Sharp,close,no_bet,2026-11-05 15:16
+moneyline_flag_band,2026-11-05 19:10,,QUINTESSÊNCIA vs Grêmio,moneyline,QUINTESSÊNCIA,3,SoftBook A,2.1,1,lost,-1.0,-99.296,0.0,SoftBook A,hourly,eligible,2026-11-05 15:16
+moneyline_flag_band,2026-11-06 06:30,,PARIVISION vs Natus Vincere,moneyline,PARIVISION,3,Sharp,3.21,1,lost,-1.0,-100.296,0.3,Sharp,close,eligible,2026-11-05 23:26
 moneyline_flag_band,2026-11-06 15:00,,Gothic vs Inner Circle Academy,moneyline,Inner Circle Academy,3,SoftBook A,1.72,1,void,0.0,,0.0,SoftBook A,close,eligible,2026-11-06 11:17
 moneyline_flag_band,2026-11-06 18:40,,Saint Sinners vs Phantom Academy,moneyline,Phantom Academy,3,SoftBook A,2.0,1,void,0.0,,,,hourly,eligible,2026-11-06 18:17
-moneyline_flag_band,2026-11-07 09:45,,MOUZ vs BetBoom,moneyline,MOUZ,3,Sharp,1.36,1,won,0.36,-99.206,-0.93,Sharp,close,eligible,2026-11-07 09:15
+moneyline_flag_band,2026-11-07 09:45,,MOUZ vs BetBoom,moneyline,MOUZ,3,Sharp,1.36,1,won,0.36,-99.936,-0.93,Sharp,close,eligible,2026-11-07 09:15
 moneyline_flag_band,2026-11-07 10:15,,Ryvex vs Saint Sinners,moneyline,Saint Sinners,3,SoftBook A,1.5,1,void,0.0,,0.0,SoftBook A,hourly,eligible,2026-11-07 09:15
-moneyline_flag_band,2026-11-07 14:10,,PRIVATE vs Optibet,moneyline,Optibet,3,SoftBook A,11.0,1,lost,-1.0,-100.206,0.0,SoftBook A,close,no_bet,2026-11-07 13:17
-moneyline_flag_band,2026-11-07 14:20,,Alliance vs MAYBE,moneyline,MAYBE,3,SoftBook A,6.5,1,lost,-1.0,-101.206,0.0,SoftBook A,hourly,no_bet,2026-11-07 13:17
-moneyline_flag_band,2026-11-07 15:00,,ex-Zero Tenacity vs Leo,moneyline,ex-Zero Tenacity,3,SoftBook A,1.4,1,won,0.4,-100.806,0.0,SoftBook A,hourly,eligible,2026-11-07 13:17
-moneyline_flag_band,2026-11-07 18:00,,Nexus vs FORZE Reload,moneyline,Nexus,3,Sharp,2.01,1,won,1.01,-99.796,-0.76,Sharp,close,eligible,2026-11-07 17:17
-moneyline_flag_band,2026-11-07 18:00,,Ryvex vs LPH,moneyline,Ryvex,3,Sharp,3.81,1,won,2.81,-96.986,0.43,Sharp,close,eligible,2026-11-07 17:17
-moneyline_flag_band,2026-11-07 19:00,,QUINTESSÊNCIA vs your end,moneyline,your end,3,Sharp,2.68,1,lost,-1.0,-97.986,-0.17,Sharp,close,eligible,2026-11-07 17:17
+moneyline_flag_band,2026-11-07 14:10,,PRIVATE vs Optibet,moneyline,Optibet,3,SoftBook A,11.0,1,lost,-1.0,-100.936,0.0,SoftBook A,close,no_bet,2026-11-07 13:17
+moneyline_flag_band,2026-11-07 14:20,,Alliance vs MAYBE,moneyline,MAYBE,3,SoftBook A,6.5,1,lost,-1.0,-101.936,0.0,SoftBook A,hourly,no_bet,2026-11-07 13:17
+moneyline_flag_band,2026-11-07 15:00,,ex-Zero Tenacity vs Leo,moneyline,ex-Zero Tenacity,3,SoftBook A,1.4,1,won,0.4,-101.536,0.0,SoftBook A,hourly,eligible,2026-11-07 13:17
+moneyline_flag_band,2026-11-07 18:00,,Nexus vs FORZE Reload,moneyline,Nexus,3,Sharp,2.01,1,won,1.01,-100.526,-0.76,Sharp,close,eligible,2026-11-07 17:17
+moneyline_flag_band,2026-11-07 18:00,,Ryvex vs LPH,moneyline,Ryvex,3,Sharp,3.81,1,won,2.81,-97.716,0.43,Sharp,close,eligible,2026-11-07 17:17
+moneyline_flag_band,2026-11-07 19:00,,QUINTESSÊNCIA vs your end,moneyline,your end,3,Sharp,2.68,1,lost,-1.0,-98.716,-0.17,Sharp,close,eligible,2026-11-07 17:17
+moneyline_flag_band,2026-11-08 04:00,,Natus Vincere vs BetBoom,moneyline,BetBoom,3,Sharp,2.28,1,lost,-1.0,-99.716,,,hourly,eligible,2026-11-08 03:57
+moneyline_flag_band,2026-11-08 07:30,,The MongolZ vs MOUZ,moneyline,MOUZ,5,Sharp,1.221,1,won,0.221,-99.495,0.84,Sharp,hourly,eligible,2026-11-08 03:57
+moneyline_flag_band,2026-11-08 14:00,,Balkan Outlaws vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,2.62,1,lost,-1.0,-100.495,0.0,SoftBook A,close,eligible,2026-11-08 12:17
+moneyline_flag_band,2026-11-08 16:00,,RED Canids Academy vs BESTIA Academy,moneyline,RED Canids Academy,3,Sharp,1.478,1,won,0.478,-100.017,-0.39,Sharp,close,eligible,2026-11-08 15:16
+moneyline_flag_band,2026-11-08 18:00,,GenOne vs PsychoFace,moneyline,PsychoFace,3,SoftBook A,2.25,1,lost,-1.0,-101.017,0.0,SoftBook A,close,eligible,2026-11-08 17:16
+moneyline_flag_band,2026-11-08 18:10,,aimclub vs Balkan Outlaws,moneyline,Balkan Outlaws,3,SoftBook A,2.2,1,lost,-1.0,-102.017,,,hourly,eligible,2026-11-08 17:16
