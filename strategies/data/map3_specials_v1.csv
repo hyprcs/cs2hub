@@ -558,3 +558,39 @@ map3_specials_v1,2026-10-27 18:00,,Inner Circle Academy vs Lavked,map3_moneyline
 map3_specials_v1,2026-10-27 20:00,,Envy vs GamerLegion,map3_moneyline,GamerLegion,3,Sharp,2.13,1,won,1.13,-41.705,-3.69,specials_hourly,specials_hourly,selected,2026-10-27 01:10
 map3_specials_v1,2026-10-28 14:00,,HOTU vs GamerLegion,map3_moneyline,GamerLegion,3,Sharp,2.03,1,void,0.0,,6.51,specials_hourly,specials_hourly,selected,2026-10-28 00:14
 map3_specials_v1,2026-10-28 17:00,,Luminosity vs Envy,map3_moneyline,Envy,3,Sharp,2.03,1,won,1.03,-40.675,1.68,specials_hourly,specials_hourly,selected,2026-10-28 01:11
+map3_specials_v1,2026-10-29 09:00,,B8 vs HOTU,map3_moneyline,HOTU,3,Sharp,2.2,1,void,0.0,,-0.19,specials_hourly,specials_hourly,selected,2026-10-29 05:08
+map3_specials_v1,2026-10-29 13:00,,BARCA vs Bounty Hunters,map3_moneyline,Bounty Hunters,3,Sharp,2.26,1,won,1.26,-39.415,3.47,specials_hourly,specials_hourly,selected,2026-10-29 04:09
+map3_specials_v1,2026-10-29 19:30,,Galorys vs Procyon,map3_moneyline,Procyon,3,Sharp,2.92,1,won,1.92,,0.0,specials_hourly,specials_hourly,quarantined,2026-10-29 04:09
+map3_specials_v1,2026-10-30 13:00,,ShindeN vs Isurus,map3_moneyline,Isurus,3,Sharp,3.61,1,void,0.0,,0.57,specials_hourly,specials_hourly,selected,2026-10-30 01:10
+map3_specials_v1,2026-10-30 13:00,,PCIFIC vs Omega,map3_moneyline,PCIFIC,3,Sharp,2.22,1,lost,-1.0,-40.415,,,,selected,2026-10-30 12:08
+map3_specials_v1,2026-10-30 18:00,,Spirit Academy vs Falcons Force,map3_moneyline,Spirit Academy,3,Sharp,1.61,1,void,0.0,,1.36,specials_hourly,specials_hourly,selected,2026-10-30 08:10
+map3_specials_v1,2026-10-30 20:00,,Imperial vs paiN,map3_moneyline,paiN,3,Sharp,2.61,1,void,0.0,,2.62,specials_hourly,specials_hourly,selected,2026-10-30 09:07
+map3_specials_v1,2026-10-30 23:30,,DENDELE vs Turma do Pagode,map3_moneyline,Turma do Pagode,3,Sharp,3.08,1,void,0.0,,-2.75,specials_hourly,specials_hourly,selected,2026-10-30 12:08
+map3_specials_v1,2026-10-31 13:00,,Galorys vs Procyon,map3_moneyline,Procyon,3,Sharp,2.77,1,won,1.77,-38.645,0.12,specials_hourly,specials_hourly,selected,2026-10-31 04:08
+map3_specials_v1,2026-10-31 13:00,,Bounty Hunters vs BARCA,map3_moneyline,Bounty Hunters,3,Sharp,2.14,1,lost,-1.0,-39.645,-0.3,specials_hourly,specials_hourly,selected,2026-10-31 08:11
+map3_specials_v1,2026-10-31 13:00,,Nuclear TigeRES vs PCIFIC,map3_moneyline,PCIFIC,3,Sharp,2.97,1,void,0.0,,0.61,specials_hourly,specials_hourly,selected,2026-10-31 10:08
+map3_specials_v1,2026-10-31 16:15,,ShindeN vs Isurus,map3_moneyline,Isurus,3,Sharp,3.48,1,won,2.48,-37.165,2.21,specials_hourly,specials_hourly,selected,2026-10-31 04:08
+map3_specials_v1,2026-10-31 17:30,,OG vs Iberian Soul,map3_moneyline,Iberian Soul,3,Sharp,1.704,1,won,0.704,-36.461,-0.78,specials_hourly,specials_hourly,selected,2026-10-31 11:10
+map3_specials_v1,2026-10-31 19:30,,BESTIA vs Procyon,map3_moneyline,Procyon,3,Sharp,2.94,1,void,0.0,,-2.87,specials_hourly,specials_hourly,selected,2026-10-31 18:08
+map3_specials_v1,2026-10-31 20:00,,DENDELE vs NAOCOPULAS,map3_moneyline,NAOCOPULAS,3,Sharp,5.07,1,void,0.0,,0.45,specials_hourly,specials_hourly,quarantined,2026-10-31 18:08
+map3_specials_v1,2026-10-31 22:15,,100 Thieves vs Isurus,map3_moneyline,Isurus,3,Sharp,6.11,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-10-31 20:07
+map3_specials_v1,2026-10-31 22:15,,NRG vs Wildcard,map3_moneyline,Wildcard,3,Sharp,2.14,1,won,1.14,-35.321,-3.16,specials_hourly,specials_hourly,selected,2026-10-31 20:07
+map3_specials_v1,2026-11-01 14:00,,BESTIA vs 100 Thieves,map3_moneyline,BESTIA,3,Sharp,2.95,1,void,0.0,,-1.44,specials_hourly,specials_hourly,selected,2026-11-01 02:08
+map3_specials_v1,2026-11-01 20:00,,DENDELE vs Imperial,map3_moneyline,Imperial,5,Sharp,2.08,1,lost,-1.0,-36.321,0.72,specials_hourly,specials_hourly,selected,2026-11-01 07:11
+map3_specials_v1,2026-11-01 20:00,,BESTIA vs BARCA,map3_moneyline,BARCA,3,Sharp,2.4,1,lost,-1.0,-37.321,,,,selected,2026-11-01 19:09
+map3_specials_v1,2026-11-01 20:30,,100 Thieves vs Wildcard,map3_moneyline,Wildcard,3,Sharp,2.95,1,void,0.0,,0.43,specials_hourly,specials_hourly,selected,2026-11-01 19:09
+map3_specials_v1,2026-11-03 14:00,,BAKS vs KUUSAMO,map3_moneyline,KUUSAMO,3,Sharp,3.84,1,void,0.0,,-2.27,specials_hourly,specials_hourly,selected,2026-11-03 07:09
+map3_specials_v1,2026-11-04 13:00,,MEIA NOITE vs DAMAJUANA,map3_moneyline,DAMAJUANA,3,Sharp,2.83,1,void,0.0,,-4.47,specials_hourly,specials_hourly,selected,2026-11-04 07:09
+map3_specials_v1,2026-11-04 14:00,,PCIFIC vs MAYBE,map3_moneyline,MAYBE,3,Sharp,2.52,1,lost,-1.0,-38.321,0.68,specials_hourly,specials_hourly,selected,2026-11-04 07:09
+map3_specials_v1,2026-11-04 16:00,,Grêmio vs your end,map3_moneyline,your end,3,Sharp,2.3,1,won,1.3,-37.021,-1.95,specials_hourly,specials_hourly,selected,2026-11-04 00:08
+map3_specials_v1,2026-11-04 18:00,,Prestige vs MAYBE,map3_moneyline,MAYBE,3,Sharp,2.19,1,won,1.19,-35.831,0.0,specials_hourly,specials_hourly,selected,2026-11-04 00:08
+map3_specials_v1,2026-11-04 22:00,,Isurus vs Underworld,map3_moneyline,Underworld,3,Sharp,2.99,1,lost,-1.0,,-4.7,specials_hourly,specials_hourly,quarantined,2026-11-04 00:08
+map3_specials_v1,2026-11-05 09:00,,GenOne vs MAYBE,map3_moneyline,MAYBE,3,Sharp,2.87,1,won,1.87,,0.85,specials_hourly,specials_hourly,quarantined,2026-11-05 05:07
+map3_specials_v1,2026-11-05 22:00,,Grêmio vs Underworld,map3_moneyline,Underworld,3,Sharp,2.44,1,void,0.0,,0.0,specials_hourly,specials_hourly,quarantined,2026-11-05 13:08
+map3_specials_v1,2026-11-06 09:00,,FORZE Reload vs NAVI Junior,map3_moneyline,NAVI Junior,3,Sharp,2.66,1,lost,-1.0,-36.831,-0.35,specials_hourly,specials_hourly,selected,2026-11-05 22:06
+map3_specials_v1,2026-11-06 09:00,,SAW Youngsters vs Four Magic,map3_moneyline,Four Magic,3,Sharp,2.41,1,lost,-1.0,-37.831,0.0,specials_hourly,specials_hourly,selected,2026-11-06 05:07
+map3_specials_v1,2026-11-06 13:00,,Isurus vs Zetta,map3_moneyline,Zetta,3,Sharp,4.69,1,void,0.0,,0.32,specials_hourly,specials_hourly,quarantined,2026-11-06 05:07
+map3_specials_v1,2026-11-07 09:00,,Four Magic vs MASONIC,map3_moneyline,Four Magic,3,Sharp,2.32,1,void,0.0,,0.0,specials_hourly,specials_hourly,selected,2026-11-07 05:07
+map3_specials_v1,2026-11-07 14:00,,FOKUS vs DNK,map3_moneyline,DNK,3,Sharp,5.88,1,lost,-1.0,-38.831,-0.1,specials_hourly,specials_hourly,selected,2026-11-07 05:07
+map3_specials_v1,2026-11-07 22:00,,Grêmio vs BORRACHEIROS,map3_moneyline,BORRACHEIROS,3,Sharp,1.901,1,void,0.0,,5.49,specials_hourly,specials_hourly,selected,2026-11-07 14:06
+map3_specials_v1,2026-11-08 12:00,,Prestige vs KUUSAMO,map3_moneyline,KUUSAMO,3,Sharp,2.5,1,void,0.0,,5.0,specials_hourly,specials_hourly,selected,2026-11-08 07:08
