@@ -1060,3 +1060,12 @@ moneyline_flag_band,2026-11-16 14:00,,PRIVATE vs Omega,moneyline,Omega,3,SoftBoo
 moneyline_flag_band,2026-11-16 15:00,,BAKS vs MASONIC,moneyline,BAKS,3,Sharp,1.194,1,won,0.194,-93.964,-0.06,Sharp,close,eligible,2026-11-16 13:16
 moneyline_flag_band,2026-11-16 18:00,,KUUSAMO vs Nordic Valor,moneyline,KUUSAMO,3,Sharp,1.327,1,won,0.327,-93.637,1.62,Sharp,close,eligible,2026-11-16 16:18
 moneyline_flag_band,2026-11-16 18:00,,PARIVISION vs HEROIC,moneyline,PARIVISION,3,Sharp,1.909,1,lost,-1.0,-94.637,1.27,Sharp,close,eligible,2026-11-16 16:18
+moneyline_flag_band,2026-11-17 09:00,,WBT vs ex-ENCE,moneyline,WBT,3,Sharp,1.649,1,won,0.649,-93.988,2.28,Sharp,close,eligible,2026-11-16 22:18
+moneyline_flag_band,2026-11-17 09:00,,Toobisie vs NAVI Junior,moneyline,Toobisie,3,Sharp,1.735,1,won,0.735,-93.253,-1.47,Sharp,close,no_bet,2026-11-16 22:18
+moneyline_flag_band,2026-11-17 10:15,,SINNERS vs Nexus,moneyline,Nexus,3,Sharp,3.03,1,lost,-1.0,-94.253,0.36,Sharp,close,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 12:00,,100 Thieves vs fnatic,moneyline,fnatic,3,Sharp,2.08,1,lost,-1.0,-95.253,-1.44,Sharp,close,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 13:00,,BIG vs Sangal,moneyline,Sangal,3,Sharp,2.85,1,won,1.85,-93.403,-0.11,Sharp,close,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:20,,Ninjas in Pyjamas vs UNiTY,moneyline,UNiTY,3,SoftBook A,4.5,1,lost,-1.0,-94.403,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:20,,Hype Tech vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,5.0,1,lost,-1.0,-95.403,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 17:30,,GamerLegion vs Luminosity,moneyline,GamerLegion,3,Sharp,1.813,1,lost,-1.0,-96.403,1.49,Sharp,close,eligible,2026-11-17 16:16
+moneyline_flag_band,2026-11-17 18:00,,Nexus vs Walczaki,moneyline,Nexus,3,SoftBook A,1.28,1,won,0.28,-96.123,0.0,SoftBook A,hourly,eligible,2026-11-17 16:16

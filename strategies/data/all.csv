@@ -1060,6 +1060,15 @@ moneyline_flag_band,2026-11-16 14:00,,PRIVATE vs Omega,moneyline,Omega,3,SoftBoo
 moneyline_flag_band,2026-11-16 15:00,,BAKS vs MASONIC,moneyline,BAKS,3,Sharp,1.194,1,won,0.194,-93.964,-0.06,Sharp,close,eligible,2026-11-16 13:16
 moneyline_flag_band,2026-11-16 18:00,,KUUSAMO vs Nordic Valor,moneyline,KUUSAMO,3,Sharp,1.327,1,won,0.327,-93.637,1.62,Sharp,close,eligible,2026-11-16 16:18
 moneyline_flag_band,2026-11-16 18:00,,PARIVISION vs HEROIC,moneyline,PARIVISION,3,Sharp,1.909,1,lost,-1.0,-94.637,1.27,Sharp,close,eligible,2026-11-16 16:18
+moneyline_flag_band,2026-11-17 09:00,,WBT vs ex-ENCE,moneyline,WBT,3,Sharp,1.649,1,won,0.649,-93.988,2.28,Sharp,close,eligible,2026-11-16 22:18
+moneyline_flag_band,2026-11-17 09:00,,Toobisie vs NAVI Junior,moneyline,Toobisie,3,Sharp,1.735,1,won,0.735,-93.253,-1.47,Sharp,close,no_bet,2026-11-16 22:18
+moneyline_flag_band,2026-11-17 10:15,,SINNERS vs Nexus,moneyline,Nexus,3,Sharp,3.03,1,lost,-1.0,-94.253,0.36,Sharp,close,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 12:00,,100 Thieves vs fnatic,moneyline,fnatic,3,Sharp,2.08,1,lost,-1.0,-95.253,-1.44,Sharp,close,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 13:00,,BIG vs Sangal,moneyline,Sangal,3,Sharp,2.85,1,won,1.85,-93.403,-0.11,Sharp,close,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:20,,Ninjas in Pyjamas vs UNiTY,moneyline,UNiTY,3,SoftBook A,4.5,1,lost,-1.0,-94.403,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:20,,Hype Tech vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,5.0,1,lost,-1.0,-95.403,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 17:30,,GamerLegion vs Luminosity,moneyline,GamerLegion,3,Sharp,1.813,1,lost,-1.0,-96.403,1.49,Sharp,close,eligible,2026-11-17 16:16
+moneyline_flag_band,2026-11-17 18:00,,Nexus vs Walczaki,moneyline,Nexus,3,SoftBook A,1.28,1,won,0.28,-96.123,0.0,SoftBook A,hourly,eligible,2026-11-17 16:16
 bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,Sharp,1.364,1,won,0.364,,2.48,Sharp,,ineligible,2026-07-22 06:05
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,Sharp,1.769,1,won,0.769,0.769,1.36,Sharp,,selected,2026-07-22 03:09
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,Sharp,2.84,1,won,1.84,,-1.39,Sharp,,ineligible,2026-07-22 03:09
@@ -1444,6 +1453,12 @@ bo3_dog_plus_1_5_v0,2026-11-13 18:00,,Omega vs Inner Circle Academy,+1.5 maps,Om
 bo3_dog_plus_1_5_v0,2026-11-14 09:00,,GenOne vs Balkan Outlaws,+1.5 maps,Balkan Outlaws,3,Sharp,1.476,1,won,0.476,-12.648,1.68,Sharp,,selected,2026-11-14 02:11
 bo3_dog_plus_1_5_v0,2026-11-14 15:00,,LUNTIKI vs Spirit Academy,+1.5 maps,LUNTIKI,3,Sharp,1.332,1,won,0.332,-12.316,,,,selected,2026-11-14 06:13
 bo3_dog_plus_1_5_v0,2026-11-15 12:00,,Eternal Fire vs 100 Thieves,+1.5 maps,Eternal Fire,3,Sharp,1.424,1,won,0.424,-11.892,-0.76,Sharp,,selected,2026-11-15 10:11
+bo3_dog_plus_1_5_v0,2026-11-17 10:00,,SINNERS vs Nexus,+1.5 maps,Nexus,3,Sharp,1.813,1,lost,-1.0,-12.892,3.64,Sharp,,selected,2026-11-16 11:09
+bo3_dog_plus_1_5_v0,2026-11-17 12:00,,Hype Tech vs ex-INOX,+1.5 maps,ex-INOX,3,Sharp,1.518,1,won,0.518,-12.374,8.33,Sharp,,selected,2026-11-17 01:10
+bo3_dog_plus_1_5_v0,2026-11-17 12:00,,100 Thieves vs fnatic,+1.5 maps,fnatic,3,Sharp,1.37,1,won,0.37,-12.004,,,,selected,2026-11-17 11:12
+bo3_dog_plus_1_5_v0,2026-11-17 13:30,,BIG vs Sangal,+1.5 maps,Sangal,3,Sharp,1.606,1,won,0.606,-11.398,0.16,Sharp,,selected,2026-11-17 10:12
+bo3_dog_plus_1_5_v0,2026-11-17 15:30,,HAVU vs Prestige,+1.5 maps,HAVU,3,Sharp,1.352,1,lost,-1.0,,0.25,Sharp,,ineligible,2026-11-17 03:10
+bo3_dog_plus_1_5_v0,2026-11-17 18:00,,SINQU vs boyband,+1.5 maps,SINQU,3,Sharp,1.633,1,won,0.633,,-2.65,Sharp,,ineligible,2026-11-17 03:10
 bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,Sharp,2.11,1,won,1.11,1.11,4.25,Sharp,,selected,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,Sharp,2.86,1,lost,-1.0,,-3.76,Sharp,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,Sharp,1.794,1,lost,-1.0,,1.87,Sharp,,ineligible,2026-07-23 06:07
@@ -1909,6 +1924,10 @@ bo3_fav_minus_1_5_v0,2026-11-15 12:00,,Omega vs Iberian Soul,-1.5 maps,Iberian S
 bo3_fav_minus_1_5_v0,2026-11-15 15:00,,FORZE Reload vs Nexus,-1.5 maps,Nexus,3,Sharp,3.15,1,lost,-1.0,-17.726,-0.45,Sharp,,selected,2026-11-15 04:10
 bo3_fav_minus_1_5_v0,2026-11-16 11:30,,EYEBALLERS vs Toobisie,-1.5 maps,EYEBALLERS,3,Sharp,2.22,1,won,1.22,-16.506,0.0,Sharp,,selected,2026-11-16 06:08
 bo3_fav_minus_1_5_v0,2026-11-16 15:00,,BAKS vs MASONIC,-1.5 maps,BAKS,3,Sharp,1.781,1,won,0.781,-15.725,1.02,Sharp,,selected,2026-11-16 06:08
+bo3_fav_minus_1_5_v0,2026-11-16 18:00,,KUUSAMO vs Nordic Valor,-1.5 maps,KUUSAMO,3,Sharp,1.926,1,lost,-1.0,-16.725,-3.02,Sharp,,selected,2026-11-16 06:08
+bo3_fav_minus_1_5_v0,2026-11-16 18:00,,PARIVISION vs HEROIC,-1.5 maps,PARIVISION,3,Sharp,3.44,1,lost,-1.0,-17.725,0.24,Sharp,,selected,2026-11-16 11:09
+bo3_fav_minus_1_5_v0,2026-11-17 09:00,,WBT vs ex-ENCE,-1.5 maps,WBT,3,Sharp,2.68,1,won,1.68,-16.045,1.04,Sharp,,selected,2026-11-17 00:11
+bo3_fav_minus_1_5_v0,2026-11-17 09:00,,Toobisie vs NAVI Junior,-1.5 maps,Toobisie,3,Sharp,2.94,1,lost,-1.0,,0.5,Sharp,,ineligible,2026-11-17 03:10
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 14:00,,ex-RUSTEC vs UNiTY,+1.5 maps,UNiTY,3,SoftBook C,1.35,1,won,0.35,,,,,ineligible,2026-07-28 13:07
 bo3_dog_plus_1_5_bookC_v0,2026-07-28 17:00,,SPARTA vs G2 Ares,+1.5 maps,G2 Ares,3,SoftBook C,1.4,1,lost,-1.0,-1.0,0.0,bookC_self,,selected,2026-07-28 14:05
 bo3_dog_plus_1_5_bookC_v0,2026-07-30 11:00,,GenOne vs ex-RUSTEC,+1.5 maps,ex-RUSTEC,3,SoftBook C,1.65,1,lost,-1.0,,0.0,bookC_self,,ineligible,2026-07-29 22:05
@@ -2136,6 +2155,8 @@ bo3_dog_plus_1_5_bookC_v0,2026-11-15 09:00,,Walczaki vs MOUZ NXT,+1.5 maps,MOUZ 
 bo3_dog_plus_1_5_bookC_v0,2026-11-15 12:00,,Eternal Fire vs 100 Thieves,+1.5 maps,Eternal Fire,3,SoftBook C,1.38,1,won,0.38,,0.0,bookC_self,,ineligible,2026-11-14 15:12
 bo3_dog_plus_1_5_bookC_v0,2026-11-15 12:00,,Leo vs The Last Resort,+1.5 maps,The Last Resort,3,SoftBook C,1.78,1,won,0.78,-21.31,-6.12,bookC_self,,selected,2026-11-15 07:15
 bo3_dog_plus_1_5_bookC_v0,2026-11-16 09:00,,ex-RUSTEC vs Butterfly,+1.5 maps,ex-RUSTEC,3,SoftBook C,1.5,1,won,0.5,-20.81,1.28,bookC_self,,selected,2026-11-16 01:09
+bo3_dog_plus_1_5_bookC_v0,2026-11-17 15:00,,Hype Tech vs The Last Resort,+1.5 maps,The Last Resort,3,SoftBook C,2.4,1,lost,-1.0,-21.81,0.0,bookC_self,,selected,2026-11-16 17:10
+bo3_dog_plus_1_5_bookC_v0,2026-11-17 16:00,,Ninjas in Pyjamas vs UNiTY,+1.5 maps,UNiTY,3,SoftBook C,2.1,1,lost,-1.0,-22.81,0.0,bookC_self,,selected,2026-11-17 14:10
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,SoftBook C,2.39,1,won,1.39,1.39,1.01,bookC_self,,selected,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,SoftBook C,2.95,1,won,1.95,,-0.45,bookC_self,,ineligible,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,2.8,1,won,1.8,,6.76,bookC_self,,quarantined,2026-07-28 01:06
@@ -2442,8 +2463,13 @@ bo3_fav_minus_1_5_bookC_v0,2026-11-15 12:00,,Leo vs The Last Resort,-1.5 maps,Le
 bo3_fav_minus_1_5_bookC_v0,2026-11-15 18:00,,ex-Yawara vs BARCA,-1.5 maps,BARCA,3,SoftBook C,1.72,1,lost,-1.0,-11.24,0.0,bookC_self,,selected,2026-11-15 02:09
 bo3_fav_minus_1_5_bookC_v0,2026-11-16 12:00,,BRUTE vs NT,-1.5 maps,BRUTE,3,SoftBook C,2.8,1,lost,-1.0,,1.18,bookC_self,,quarantined,2026-11-16 01:09
 bo3_fav_minus_1_5_bookC_v0,2026-11-16 14:00,,PRIVATE vs Omega,-1.5 maps,PRIVATE,3,SoftBook C,2.2,1,lost,-1.0,-12.24,0.0,bookC_self,,selected,2026-11-16 06:08
+bo3_fav_minus_1_5_bookC_v0,2026-11-16 15:00,,PARIVISION vs HEROIC,-1.5 maps,PARIVISION,3,SoftBook C,3.2,1,lost,-1.0,-13.24,0.0,bookC_self,,selected,2026-11-15 23:09
 bo3_fav_minus_1_5_bookC_v0,2026-11-16 15:00,,BAKS vs MASONIC,-1.5 maps,BAKS,3,SoftBook C,1.82,1,won,0.82,,0.0,bookC_self,,quarantined,2026-11-16 00:09
-bo3_fav_minus_1_5_bookC_v0,2026-11-16 15:00,,Magic vs Eternal Fire,-1.5 maps,Eternal Fire,3,SoftBook C,3.2,1,lost,-1.0,-13.24,0.0,bookC_self,,selected,2026-11-16 07:11
+bo3_fav_minus_1_5_bookC_v0,2026-11-16 15:00,,Magic vs Eternal Fire,-1.5 maps,Eternal Fire,3,SoftBook C,3.2,1,lost,-1.0,-14.24,0.0,bookC_self,,selected,2026-11-16 07:11
+bo3_fav_minus_1_5_bookC_v0,2026-11-17 09:00,,WBT vs ex-ENCE,-1.5 maps,WBT,3,SoftBook C,2.7,1,won,1.7,-12.54,0.0,bookC_self,,selected,2026-11-16 10:14
+bo3_fav_minus_1_5_bookC_v0,2026-11-17 11:30,,INFINITE vs MOUZ NXT,-1.5 maps,INFINITE,3,SoftBook C,2.35,1,lost,-1.0,-13.54,-3.63,bookC_self,,selected,2026-11-16 13:10
+bo3_fav_minus_1_5_bookC_v0,2026-11-17 12:00,,HEROIC vs Magic,-1.5 maps,HEROIC,3,SoftBook C,3.1,1,lost,-1.0,-14.54,3.38,bookC_self,,selected,2026-11-16 23:10
+bo3_fav_minus_1_5_bookC_v0,2026-11-17 18:00,,Nexus vs Walczaki,-1.5 maps,Nexus,3,SoftBook C,2.05,1,won,1.05,,3.32,bookC_self,,quarantined,2026-11-16 23:10
 map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,Sharp,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
 map1_specials_v1,2026-07-19 22:00,CCT South America,Patins da Ferrari vs ODDIK,map1_moneyline,ODDIK,3,Sharp,1.833,1,lost,-1.0,-2.0,,,,selected,2026-07-19 06:04
 map1_specials_v1,2026-07-20 14:00,CCT Europe Series Closed Qualifier,SAW Youngsters vs Misa,map1_moneyline,SAW Youngsters,3,Sharp,2.05,1,won,1.05,-0.95,,,,selected,2026-07-20 04:04
