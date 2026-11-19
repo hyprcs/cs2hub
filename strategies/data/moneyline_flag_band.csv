@@ -1071,4 +1071,11 @@ moneyline_flag_band,2026-11-17 18:00,,Nexus vs Walczaki,moneyline,Nexus,3,SoftBo
 moneyline_flag_band,2026-11-18 09:20,,gothboiclique vs EYEBALLERS,moneyline,EYEBALLERS,3,Sharp,1.166,1,won,0.166,-96.409,-0.42,Sharp,hourly,no_bet,2026-11-18 00:44
 moneyline_flag_band,2026-11-18 12:00,,ex-RUSTEC vs MOUZ NXT,moneyline,ex-RUSTEC,3,Sharp,1.524,1,won,0.524,-95.885,-0.68,Sharp,close,eligible,2026-11-18 09:20
 moneyline_flag_band,2026-11-18 13:55,,GamerLegion vs UNiTY,moneyline,UNiTY,3,SoftBook A,3.75,1,lost,-1.0,-96.885,0.0,SoftBook A,hourly,eligible,2026-11-18 12:17
-moneyline_flag_band,2026-11-18 19:00,,Luminosity vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,1.546,1,lost,-1.0,-97.885,0.0,Sharp,hourly,eligible,2026-11-18 18:15
+moneyline_flag_band,2026-11-18 18:50,,Luminosity vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,1.546,1,lost,-1.0,-97.885,0.0,Sharp,hourly,eligible,2026-11-18 18:15
+moneyline_flag_band,2026-11-19 09:00,,33 vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,2.75,1,won,1.75,-96.135,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
+moneyline_flag_band,2026-11-19 09:00,,MAYBE vs ex-INOX,moneyline,ex-INOX,3,SoftBook A,1.25,1,won,0.25,-95.885,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
+moneyline_flag_band,2026-11-19 11:00,,Inner Circle vs GamerLegion,moneyline,Inner Circle,3,Sharp,2.23,1,lost,-1.0,-96.885,-1.75,Sharp,close,eligible,2026-11-19 09:17
+moneyline_flag_band,2026-11-19 11:30,,WBT vs MOUZ NXT,moneyline,WBT,3,Sharp,1.521,1,won,0.521,-96.364,-1.46,Sharp,close,eligible,2026-11-19 09:17
+moneyline_flag_band,2026-11-19 14:25,,Ninjas in Pyjamas vs BIG,moneyline,Ninjas in Pyjamas,3,Sharp,1.69,1,lost,-1.0,-97.364,-1.3,Sharp,close,eligible,2026-11-19 12:16
+moneyline_flag_band,2026-11-19 17:45,,Luminosity vs Sangal,moneyline,Sangal,3,Sharp,2.31,1,won,1.31,-96.054,-1.49,Sharp,close,eligible,2026-11-19 15:15
+moneyline_flag_band,2026-11-19 18:00,,Prestige vs boyband,moneyline,boyband,3,Sharp,3.14,1,lost,-1.0,-97.054,-12.46,Sharp,close,eligible,2026-11-19 15:15
