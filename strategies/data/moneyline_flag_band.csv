@@ -1092,3 +1092,7 @@ moneyline_flag_band,2026-11-21 12:00,,MOUZ NXT vs INFURITY,moneyline,INFURITY,3,
 moneyline_flag_band,2026-11-21 15:00,,ex-RUSTEC vs Hype Tech,moneyline,Hype Tech,3,SoftBook A,1.66,1,lost,-1.0,-97.865,0.0,SoftBook A,hourly,eligible,2026-11-21 09:15
 moneyline_flag_band,2026-11-21 16:00,,SAW vs Famalicão,moneyline,SAW,3,Sharp,1.164,1,lost,-1.0,-98.865,-0.69,Sharp,close,eligible,2026-11-21 15:15
 moneyline_flag_band,2026-11-21 20:30,,MEIA NOITE vs ALKA,moneyline,MEIA NOITE,3,Sharp,1.699,1,lost,-1.0,-99.865,0.0,Sharp,close,eligible,2026-11-21 20:15
+moneyline_flag_band,2026-11-22 09:00,,FORZE Reload vs WBT,moneyline,WBT,5,Sharp,2.63,1,lost,-1.0,-100.865,0.44,Sharp,close,eligible,2026-11-22 06:16
+moneyline_flag_band,2026-11-22 15:15,,Phantom Academy vs Lilmix,moneyline,Lilmix,3,SoftBook A,2.62,1,void,0.0,,0.0,SoftBook A,hourly,eligible,2026-11-22 06:16
+moneyline_flag_band,2026-11-22 16:30,,Envy vs SINNERS,moneyline,SINNERS,3,Sharp,1.709,1,won,0.709,-100.156,0.02,Sharp,hourly,eligible,2026-11-22 06:16
+moneyline_flag_band,2026-11-22 18:00,,Lunacy vs MOUZ NXT,moneyline,Lunacy,3,SoftBook A,2.62,1,lost,-1.0,-101.156,2.31,SoftBook A,hourly,eligible,2026-11-22 16:16
