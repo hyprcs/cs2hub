@@ -1058,43 +1058,47 @@ moneyline_flag_band,2026-11-16 14:00,,PRIVATE vs Omega,moneyline,Omega,3,SoftBoo
 moneyline_flag_band,2026-11-16 15:00,,BAKS vs MASONIC,moneyline,BAKS,3,Sharp,1.194,1,won,0.194,-94.814,-0.06,Sharp,close,eligible,2026-11-16 13:16
 moneyline_flag_band,2026-11-16 18:00,,PARIVISION vs HEROIC,moneyline,PARIVISION,3,Sharp,1.909,1,lost,-1.0,-95.814,1.27,Sharp,close,eligible,2026-11-16 16:18
 moneyline_flag_band,2026-11-17 09:00,,WBT vs ex-ENCE,moneyline,WBT,3,Sharp,1.649,1,won,0.649,-95.165,2.28,Sharp,close,eligible,2026-11-16 22:18
-moneyline_flag_band,2026-11-17 09:00,,Toobisie vs NAVI Junior,moneyline,Toobisie,3,Sharp,1.735,1,won,0.735,-94.43,-1.47,Sharp,close,no_bet,2026-11-16 22:18
-moneyline_flag_band,2026-11-17 10:15,,SINNERS vs Nexus,moneyline,Nexus,3,Sharp,3.03,1,lost,-1.0,-95.43,0.36,Sharp,close,eligible,2026-11-17 09:19
-moneyline_flag_band,2026-11-17 12:00,,100 Thieves vs fnatic,moneyline,fnatic,3,Sharp,2.08,1,lost,-1.0,-96.43,-1.44,Sharp,close,eligible,2026-11-17 09:19
-moneyline_flag_band,2026-11-17 13:00,,BIG vs Sangal,moneyline,Sangal,3,Sharp,2.85,1,won,1.85,-94.58,-0.11,Sharp,close,eligible,2026-11-17 12:17
-moneyline_flag_band,2026-11-17 15:20,,Ninjas in Pyjamas vs UNiTY,moneyline,UNiTY,3,SoftBook A,4.5,1,lost,-1.0,-95.58,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
-moneyline_flag_band,2026-11-17 15:20,,Hype Tech vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,5.0,1,lost,-1.0,-96.58,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
-moneyline_flag_band,2026-11-17 17:30,,GamerLegion vs Luminosity,moneyline,GamerLegion,3,Sharp,1.813,1,lost,-1.0,-97.58,1.49,Sharp,close,eligible,2026-11-17 16:16
-moneyline_flag_band,2026-11-17 18:00,,Nexus vs Walczaki,moneyline,Nexus,3,SoftBook A,1.28,1,won,0.28,-97.3,0.0,SoftBook A,hourly,eligible,2026-11-17 16:16
-moneyline_flag_band,2026-11-18 09:20,,gothboiclique vs EYEBALLERS,moneyline,EYEBALLERS,3,Sharp,1.166,1,won,0.166,-97.134,-0.42,Sharp,hourly,no_bet,2026-11-18 00:44
-moneyline_flag_band,2026-11-18 12:00,,ex-RUSTEC vs MOUZ NXT,moneyline,ex-RUSTEC,3,Sharp,1.524,1,won,0.524,-96.61,-0.68,Sharp,close,eligible,2026-11-18 09:20
-moneyline_flag_band,2026-11-18 13:55,,GamerLegion vs UNiTY,moneyline,UNiTY,3,SoftBook A,3.75,1,lost,-1.0,-97.61,0.0,SoftBook A,hourly,eligible,2026-11-18 12:17
-moneyline_flag_band,2026-11-18 18:50,,Luminosity vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,1.546,1,lost,-1.0,-98.61,0.0,Sharp,hourly,eligible,2026-11-18 18:15
-moneyline_flag_band,2026-11-19 09:00,,33 vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,2.75,1,won,1.75,-96.86,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
-moneyline_flag_band,2026-11-19 09:00,,MAYBE vs ex-INOX,moneyline,ex-INOX,3,SoftBook A,1.25,1,won,0.25,-96.61,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
-moneyline_flag_band,2026-11-19 11:00,,Inner Circle vs GamerLegion,moneyline,Inner Circle,3,Sharp,2.23,1,lost,-1.0,-97.61,-1.75,Sharp,close,eligible,2026-11-19 09:17
-moneyline_flag_band,2026-11-19 11:30,,WBT vs MOUZ NXT,moneyline,WBT,3,Sharp,1.521,1,won,0.521,-97.089,-1.46,Sharp,close,eligible,2026-11-19 09:17
-moneyline_flag_band,2026-11-19 14:25,,Ninjas in Pyjamas vs BIG,moneyline,Ninjas in Pyjamas,3,Sharp,1.69,1,lost,-1.0,-98.089,-1.3,Sharp,close,eligible,2026-11-19 12:16
-moneyline_flag_band,2026-11-19 17:45,,Luminosity vs Sangal,moneyline,Sangal,3,Sharp,2.31,1,won,1.31,-96.779,-1.49,Sharp,close,eligible,2026-11-19 15:15
-moneyline_flag_band,2026-11-19 18:00,,Prestige vs boyband,moneyline,boyband,3,Sharp,3.14,1,lost,-1.0,-97.779,-12.46,Sharp,close,eligible,2026-11-19 15:15
-moneyline_flag_band,2026-11-20 09:00,,Balkan Outlaws vs FORZE Reload,moneyline,FORZE Reload,3,SoftBook A,1.33,1,won,0.33,-97.449,1.55,SoftBook A,hourly,eligible,2026-11-19 23:51
-moneyline_flag_band,2026-11-20 09:15,,STATE vs EYEBALLERS,moneyline,STATE,3,SoftBook A,3.4,1,lost,-1.0,-98.449,3.66,SoftBook A,hourly,eligible,2026-11-19 23:51
-moneyline_flag_band,2026-11-20 11:30,,ex-INOX vs WBT,moneyline,WBT,3,Sharp,2.0,1,won,1.0,-97.449,2.6,Sharp,close,eligible,2026-11-20 09:16
-moneyline_flag_band,2026-11-20 15:00,,Envy vs Nexus,moneyline,Nexus,3,Sharp,2.59,1,lost,-1.0,-98.449,0.0,Sharp,close,eligible,2026-11-20 14:16
-moneyline_flag_band,2026-11-20 18:30,,GenOne vs Leo,moneyline,GenOne,3,SoftBook A,2.37,1,lost,-1.0,-99.449,,,hourly,eligible,2026-11-20 18:18
-moneyline_flag_band,2026-11-20 19:45,,SINNERS vs Metizport,moneyline,SINNERS,3,Sharp,1.476,1,won,0.476,-98.973,0.17,Sharp,close,eligible,2026-11-20 18:18
-moneyline_flag_band,2026-11-21 09:00,,Nuclear TigeRES vs Hype Tech,moneyline,Nuclear TigeRES,3,Sharp,1.952,1,won,0.952,-98.021,,,hourly,eligible,2026-11-21 03:16
-moneyline_flag_band,2026-11-21 09:00,,Balkan Outlaws vs ex-INOX,moneyline,ex-INOX,3,SoftBook A,1.53,1,won,0.53,-97.491,4.06,SoftBook A,hourly,eligible,2026-11-21 03:16
-moneyline_flag_band,2026-11-21 09:00,,MASONIC vs EAC,moneyline,EAC,3,Sharp,1.901,1,won,0.901,-96.59,-5.81,Sharp,close,eligible,2026-11-21 03:16
-moneyline_flag_band,2026-11-21 12:00,,MOUZ NXT vs INFURITY,moneyline,INFURITY,3,SoftBook A,2.0,1,lost,-1.0,-97.59,0.0,SoftBook A,hourly,eligible,2026-11-21 09:15
-moneyline_flag_band,2026-11-21 15:00,,ex-RUSTEC vs Hype Tech,moneyline,Hype Tech,3,SoftBook A,1.66,1,lost,-1.0,-98.59,0.0,SoftBook A,hourly,eligible,2026-11-21 09:15
-moneyline_flag_band,2026-11-21 16:00,,SAW vs Famalicão,moneyline,SAW,3,Sharp,1.164,1,lost,-1.0,-99.59,-0.69,Sharp,close,eligible,2026-11-21 15:15
-moneyline_flag_band,2026-11-21 20:30,,MEIA NOITE vs ALKA,moneyline,MEIA NOITE,3,Sharp,1.699,1,lost,-1.0,-100.59,0.0,Sharp,close,eligible,2026-11-21 20:15
-moneyline_flag_band,2026-11-22 09:00,,FORZE Reload vs WBT,moneyline,WBT,5,Sharp,2.63,1,lost,-1.0,-101.59,0.44,Sharp,close,eligible,2026-11-22 06:16
+moneyline_flag_band,2026-11-17 10:20,,SINNERS vs Nexus,moneyline,Nexus,3,Sharp,3.03,1,lost,-1.0,-96.165,0.36,Sharp,hourly,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 12:00,,100 Thieves vs fnatic,moneyline,fnatic,3,Sharp,2.08,1,lost,-1.0,-97.165,-1.44,Sharp,close,eligible,2026-11-17 09:19
+moneyline_flag_band,2026-11-17 13:00,,BIG vs Sangal,moneyline,Sangal,3,Sharp,2.85,1,won,1.85,-95.315,-0.11,Sharp,close,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:20,,Ninjas in Pyjamas vs UNiTY,moneyline,UNiTY,3,SoftBook A,4.5,1,lost,-1.0,-96.315,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 15:25,,Hype Tech vs The Last Resort,moneyline,The Last Resort,3,SoftBook A,5.0,1,lost,-1.0,-97.315,0.0,SoftBook A,hourly,eligible,2026-11-17 12:17
+moneyline_flag_band,2026-11-17 17:30,,GamerLegion vs Luminosity,moneyline,GamerLegion,3,Sharp,1.813,1,lost,-1.0,-98.315,1.49,Sharp,close,eligible,2026-11-17 16:16
+moneyline_flag_band,2026-11-17 18:00,,Nexus vs Walczaki,moneyline,Nexus,3,SoftBook A,1.28,1,won,0.28,-98.035,0.0,SoftBook A,hourly,eligible,2026-11-17 16:16
+moneyline_flag_band,2026-11-18 09:20,,gothboiclique vs EYEBALLERS,moneyline,EYEBALLERS,3,Sharp,1.166,1,won,0.166,-97.869,-0.42,Sharp,hourly,no_bet,2026-11-18 00:44
+moneyline_flag_band,2026-11-18 12:00,,ex-RUSTEC vs MOUZ NXT,moneyline,ex-RUSTEC,3,Sharp,1.524,1,won,0.524,-97.345,-0.68,Sharp,close,eligible,2026-11-18 09:20
+moneyline_flag_band,2026-11-18 13:55,,GamerLegion vs UNiTY,moneyline,UNiTY,3,SoftBook A,3.75,1,lost,-1.0,-98.345,0.0,SoftBook A,hourly,eligible,2026-11-18 12:17
+moneyline_flag_band,2026-11-18 18:50,,Luminosity vs Ninjas in Pyjamas,moneyline,Ninjas in Pyjamas,3,Sharp,1.546,1,lost,-1.0,-99.345,0.0,Sharp,hourly,eligible,2026-11-18 18:15
+moneyline_flag_band,2026-11-19 09:00,,33 vs ex-RUSTEC,moneyline,ex-RUSTEC,3,SoftBook A,2.75,1,won,1.75,-97.595,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
+moneyline_flag_band,2026-11-19 09:00,,MAYBE vs ex-INOX,moneyline,ex-INOX,3,SoftBook A,1.25,1,won,0.25,-97.345,0.0,SoftBook A,hourly,eligible,2026-11-19 05:16
+moneyline_flag_band,2026-11-19 11:00,,Inner Circle vs GamerLegion,moneyline,Inner Circle,3,Sharp,2.23,1,lost,-1.0,-98.345,-1.75,Sharp,close,eligible,2026-11-19 09:17
+moneyline_flag_band,2026-11-19 11:30,,WBT vs MOUZ NXT,moneyline,WBT,3,Sharp,1.521,1,won,0.521,-97.824,-1.46,Sharp,close,eligible,2026-11-19 09:17
+moneyline_flag_band,2026-11-19 14:25,,Ninjas in Pyjamas vs BIG,moneyline,Ninjas in Pyjamas,3,Sharp,1.69,1,lost,-1.0,-98.824,-1.3,Sharp,close,eligible,2026-11-19 12:16
+moneyline_flag_band,2026-11-19 17:45,,Luminosity vs Sangal,moneyline,Sangal,3,Sharp,2.31,1,won,1.31,-97.514,-1.49,Sharp,close,eligible,2026-11-19 15:15
+moneyline_flag_band,2026-11-19 18:00,,Prestige vs boyband,moneyline,boyband,3,Sharp,3.14,1,lost,-1.0,-98.514,-12.46,Sharp,close,eligible,2026-11-19 15:15
+moneyline_flag_band,2026-11-20 09:00,,Balkan Outlaws vs FORZE Reload,moneyline,FORZE Reload,3,SoftBook A,1.33,1,won,0.33,-98.184,1.55,SoftBook A,hourly,eligible,2026-11-19 23:51
+moneyline_flag_band,2026-11-20 09:15,,STATE vs EYEBALLERS,moneyline,STATE,3,SoftBook A,3.4,1,lost,-1.0,-99.184,3.66,SoftBook A,hourly,eligible,2026-11-19 23:51
+moneyline_flag_band,2026-11-20 11:30,,ex-INOX vs WBT,moneyline,WBT,3,Sharp,2.0,1,won,1.0,-98.184,2.6,Sharp,close,eligible,2026-11-20 09:16
+moneyline_flag_band,2026-11-20 15:00,,Envy vs Nexus,moneyline,Nexus,3,Sharp,2.59,1,lost,-1.0,-99.184,0.0,Sharp,close,eligible,2026-11-20 14:16
+moneyline_flag_band,2026-11-20 18:30,,GenOne vs Leo,moneyline,GenOne,3,SoftBook A,2.37,1,lost,-1.0,-100.184,,,hourly,eligible,2026-11-20 18:18
+moneyline_flag_band,2026-11-20 19:45,,SINNERS vs Metizport,moneyline,SINNERS,3,Sharp,1.476,1,won,0.476,-99.708,0.17,Sharp,close,eligible,2026-11-20 18:18
+moneyline_flag_band,2026-11-21 09:00,,Nuclear TigeRES vs Hype Tech,moneyline,Nuclear TigeRES,3,Sharp,1.952,1,won,0.952,-98.756,,,hourly,eligible,2026-11-21 03:16
+moneyline_flag_band,2026-11-21 09:00,,Balkan Outlaws vs ex-INOX,moneyline,ex-INOX,3,SoftBook A,1.53,1,won,0.53,-98.226,4.06,SoftBook A,hourly,eligible,2026-11-21 03:16
+moneyline_flag_band,2026-11-21 09:00,,MASONIC vs EAC,moneyline,EAC,3,Sharp,1.901,1,won,0.901,-97.325,-5.81,Sharp,close,eligible,2026-11-21 03:16
+moneyline_flag_band,2026-11-21 12:00,,MOUZ NXT vs INFURITY,moneyline,INFURITY,3,SoftBook A,2.0,1,lost,-1.0,-98.325,0.0,SoftBook A,hourly,eligible,2026-11-21 09:15
+moneyline_flag_band,2026-11-21 15:00,,ex-RUSTEC vs Hype Tech,moneyline,Hype Tech,3,SoftBook A,1.66,1,lost,-1.0,-99.325,0.0,SoftBook A,hourly,eligible,2026-11-21 09:15
+moneyline_flag_band,2026-11-21 16:00,,SAW vs Famalicão,moneyline,SAW,3,Sharp,1.164,1,lost,-1.0,-100.325,-0.69,Sharp,close,eligible,2026-11-21 15:15
+moneyline_flag_band,2026-11-21 20:30,,MEIA NOITE vs ALKA,moneyline,MEIA NOITE,3,Sharp,1.699,1,lost,-1.0,-101.325,0.0,Sharp,close,eligible,2026-11-21 20:15
+moneyline_flag_band,2026-11-22 09:00,,FORZE Reload vs WBT,moneyline,WBT,5,Sharp,2.63,1,lost,-1.0,-102.325,0.44,Sharp,close,eligible,2026-11-22 06:16
 moneyline_flag_band,2026-11-22 15:15,,Phantom Academy vs Lilmix,moneyline,Lilmix,3,SoftBook A,2.62,1,void,0.0,,0.0,SoftBook A,hourly,eligible,2026-11-22 06:16
-moneyline_flag_band,2026-11-22 16:30,,Envy vs SINNERS,moneyline,SINNERS,3,Sharp,1.709,1,won,0.709,-100.881,0.02,Sharp,hourly,eligible,2026-11-22 06:16
-moneyline_flag_band,2026-11-22 18:00,,Lunacy vs MOUZ NXT,moneyline,Lunacy,3,SoftBook A,2.62,1,lost,-1.0,-101.881,2.31,SoftBook A,hourly,eligible,2026-11-22 16:16
-moneyline_flag_band,2026-11-23 18:45,,Prestige vs Nordic Valor,moneyline,Nordic Valor,3,Sharp,7.64,1,lost,-1.0,-102.881,0.2,Sharp,hourly,no_bet,2026-11-23 06:16
+moneyline_flag_band,2026-11-22 16:30,,Envy vs SINNERS,moneyline,SINNERS,3,Sharp,1.709,1,won,0.709,-101.616,0.02,Sharp,hourly,eligible,2026-11-22 06:16
+moneyline_flag_band,2026-11-22 18:00,,Lunacy vs MOUZ NXT,moneyline,Lunacy,3,SoftBook A,2.62,1,lost,-1.0,-102.616,2.31,SoftBook A,hourly,eligible,2026-11-22 16:16
+moneyline_flag_band,2026-11-23 18:45,,Prestige vs Nordic Valor,moneyline,Nordic Valor,3,Sharp,7.64,1,lost,-1.0,-103.616,0.2,Sharp,hourly,no_bet,2026-11-23 06:16
+moneyline_flag_band,2026-11-24 04:00,,HEROIC vs Imperial,moneyline,HEROIC,1,Sharp,1.503,1,lost,-1.0,-104.616,3.11,Sharp,close,eligible,2026-11-23 22:32
+moneyline_flag_band,2026-11-24 07:15,,Eternal Fire vs FlyQuest,moneyline,Eternal Fire,1,Sharp,1.73,1,lost,-1.0,-105.616,2.2,Sharp,hourly,eligible,2026-11-23 22:32
+moneyline_flag_band,2026-11-24 09:00,,MASONIC vs ex-Sashi Academy,moneyline,ex-Sashi Academy,3,SoftBook A,2.75,1,lost,-1.0,-106.616,0.0,SoftBook A,hourly,no_bet,2026-11-23 22:32
+moneyline_flag_band,2026-11-24 11:40,,DONSTU vs Fortress,moneyline,DONSTU,3,SoftBook A,1.14,1,won,0.14,-106.476,-7.19,SoftBook A,hourly,eligible,2026-11-23 22:32
+moneyline_flag_band,2026-11-24 18:30,,HAVU vs KUUSAMO,moneyline,KUUSAMO,3,Sharp,3.53,1,won,2.53,-103.946,-2.41,Sharp,hourly,no_bet,2026-11-24 15:16
 bo3_dog_plus_1_5_v0,2026-07-22 10:30,,Eternal Fire vs CYBERSHOKE,+1.5 maps,CYBERSHOKE,3,Sharp,1.364,1,won,0.364,,2.48,Sharp,,ineligible,2026-07-22 06:05
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,SPARTA vs SAW Youngsters,+1.5 maps,SAW Youngsters,3,Sharp,1.769,1,won,0.769,0.769,1.36,Sharp,,selected,2026-07-22 03:09
 bo3_dog_plus_1_5_v0,2026-07-22 11:00,,Enjoy vs Fortress,+1.5 maps,Fortress,3,Sharp,2.84,1,won,1.84,,-1.39,Sharp,,ineligible,2026-07-22 03:09
@@ -1492,6 +1496,7 @@ bo3_dog_plus_1_5_v0,2026-11-20 15:00,,Envy vs Nexus,+1.5 maps,Nexus,3,Sharp,1.59
 bo3_dog_plus_1_5_v0,2026-11-21 16:30,,BBL vs SINNERS,+1.5 maps,BBL,3,Sharp,1.45,1,won,0.45,-10.58,,,,selected,2026-11-21 16:11
 bo3_dog_plus_1_5_v0,2026-11-23 15:30,,SINQU vs Rounds,+1.5 maps,SINQU,3,Sharp,1.35,1,won,0.35,,-0.58,Sharp,,ineligible,2026-11-23 03:09
 bo3_dog_plus_1_5_v0,2026-11-23 18:00,,Prestige vs Nordic Valor,+1.5 maps,Nordic Valor,3,Sharp,3.25,1,lost,-1.0,,0.55,Sharp,,ineligible,2026-11-23 03:09
+bo3_dog_plus_1_5_v0,2026-11-24 18:00,,HAVU vs KUUSAMO,+1.5 maps,KUUSAMO,3,Sharp,1.99,1,won,0.99,,2.97,Sharp,,ineligible,2026-11-24 06:10
 bo3_fav_minus_1_5_v0,2026-07-22 10:00,,EYEBALLERS vs FaZe,-1.5 maps,FaZe,3,Sharp,2.11,1,won,1.11,1.11,4.25,Sharp,,selected,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-22 13:00,,Ninjas in Pyjamas vs 100 Thieves,-1.5 maps,Ninjas in Pyjamas,3,Sharp,2.86,1,lost,-1.0,,-3.76,Sharp,,ineligible,2026-07-22 03:09
 bo3_fav_minus_1_5_v0,2026-07-23 10:00,,Aurora vs FOKUS,-1.5 maps,Aurora,3,Sharp,1.794,1,lost,-1.0,,1.87,Sharp,,ineligible,2026-07-23 06:07
@@ -2207,6 +2212,8 @@ bo3_dog_plus_1_5_bookC_v0,2026-11-20 18:00,,GenOne vs Leo,+1.5 maps,GenOne,3,Sof
 bo3_dog_plus_1_5_bookC_v0,2026-11-21 18:30,,BAKS vs Butterfly,+1.5 maps,BAKS,3,SoftBook C,1.32,1,lost,-1.0,-25.81,,,,selected,2026-11-21 18:10
 bo3_dog_plus_1_5_bookC_v0,2026-11-22 18:00,,Lunacy vs MOUZ NXT,+1.5 maps,Lunacy,3,SoftBook C,1.62,1,lost,-1.0,-26.81,10.77,bookC_self,,selected,2026-11-21 22:10
 bo3_dog_plus_1_5_bookC_v0,2026-11-23 12:00,,G2 Ares vs MAYBE,+1.5 maps,G2 Ares,3,SoftBook C,1.28,1,won,0.28,,0.0,bookC_self,,ineligible,2026-11-22 17:09
+bo3_dog_plus_1_5_bookC_v0,2026-11-24 09:00,,Lilmix vs MAYBE,+1.5 maps,Lilmix,3,SoftBook C,1.55,1,won,0.55,,0.0,bookC_self,,ineligible,2026-11-24 04:10
+bo3_dog_plus_1_5_bookC_v0,2026-11-24 18:00,,ZOTIX vs Fraternity,+1.5 maps,Fraternity,3,SoftBook C,2.0,1,lost,-1.0,,7.77,bookC_self,,quarantined,2026-11-24 07:10
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 10:00,,ASTRAL vs NAVI Junior,-1.5 maps,ASTRAL,3,SoftBook C,2.39,1,won,1.39,1.39,1.01,bookC_self,,selected,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 17:00,,CYBERSHOKE Prospects vs Lavked,-1.5 maps,CYBERSHOKE Prospects,3,SoftBook C,2.95,1,won,1.95,,-0.45,bookC_self,,ineligible,2026-07-28 01:06
 bo3_fav_minus_1_5_bookC_v0,2026-07-28 22:00,,LAG vs Marsborne,-1.5 maps,Marsborne,3,SoftBook C,2.8,1,won,1.8,,6.76,bookC_self,,quarantined,2026-07-28 01:06
@@ -2532,6 +2539,8 @@ bo3_fav_minus_1_5_bookC_v0,2026-11-21 18:00,,ex-RUSTEC vs Hype Tech,-1.5 maps,Hy
 bo3_fav_minus_1_5_bookC_v0,2026-11-22 09:00,,Virtus.pro vs INFINITE,-1.5 maps,Virtus.pro,3,SoftBook C,2.2,1,won,1.2,,6.87,bookC_self,,quarantined,2026-11-21 21:09
 bo3_fav_minus_1_5_bookC_v0,2026-11-23 09:00,,Iberian Soul vs Virtus.pro,-1.5 maps,Virtus.pro,3,SoftBook C,2.7,1,won,1.7,-15.66,4.7,bookC_self,,selected,2026-11-22 20:08
 bo3_fav_minus_1_5_bookC_v0,2026-11-23 12:00,,G2 Ares vs MAYBE,-1.5 maps,G2 Ares,3,SoftBook C,3.3,1,lost,-1.0,,,,,ineligible,2026-11-23 11:09
+bo3_fav_minus_1_5_bookC_v0,2026-11-24 11:30,,DONSTU vs Fortress,-1.5 maps,DONSTU,3,SoftBook C,1.65,1,won,0.65,,-4.45,bookC_self,,quarantined,2026-11-23 21:23
+bo3_fav_minus_1_5_bookC_v0,2026-11-24 17:30,,Fire Flux vs Fortress,-1.5 maps,Fire Flux,3,SoftBook C,1.36,1,won,0.36,,0.81,bookC_self,,ineligible,2026-11-24 07:10
 map1_specials_v1,2026-07-18 08:00,European Pro League,Eternal Fire vs BRUTE,map1_moneyline,BRUTE,3,Sharp,2.57,1,lost,-1.0,-1.0,,,,selected,2026-07-18 03:54
 map1_specials_v1,2026-07-19 22:00,CCT South America,Patins da Ferrari vs ODDIK,map1_moneyline,ODDIK,3,Sharp,1.833,1,lost,-1.0,-2.0,,,,selected,2026-07-19 06:04
 map1_specials_v1,2026-07-20 14:00,CCT Europe Series Closed Qualifier,SAW Youngsters vs Misa,map1_moneyline,SAW Youngsters,3,Sharp,2.05,1,won,1.05,-0.95,,,,selected,2026-07-20 04:04
